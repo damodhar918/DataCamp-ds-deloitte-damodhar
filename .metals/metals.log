@@ -30,3 +30,7 @@ INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (e
 2023.08.19 12:30:38 WARN  no build tool detected in workspace 'C:\Users\jdamodhar\Desktop\python_essential-\DataCamp-ds-deloitte-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Aug 19, 2023 1:27:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Aug 19, 2023 2:02:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 19, 2023 2:14:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
