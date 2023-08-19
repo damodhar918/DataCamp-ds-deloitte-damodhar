@@ -1,41 +1,79 @@
+# DataCamp Courses and Projects :bar_chart: :computer:
 
-## Table of Contents
-- 📜 [Table of Contents](#table-of-contents)
-- 📝 [Introduction](#introduction)
-- 🎓 [Courses Completed](#courses-completed)
-- 🔗 [Links to Repositories and Resources](#links-to-repositories-and-resources)
+Hello, fellow data enthusiasts! This repository showcases the exciting data science courses and projects I have completed on DataCamp to sharpen my analytical skills. 
 
-## Introduction
-👋 Hi there! This repository is all about showcasing the data science courses I have completed on DataCamp. Please note that some of the exercises will not run locally as I haven't included the necessary additional code that DataCamp provides. 
+## Index :bookmark_tabs:
 
-## Courses Completed
-Here's a list of the courses I've completed on DataCamp (🔥 indicates my personal favorites):
-- Intermediate Importing Data in Python
-- Writing Efficient Python Code
-- Pandas AI: Mastering DataFrames 🔥
-- Python Data Science Toolbox (Part 1 and Part 2)
-- Merging DataFrames with pandas
+- [Completed Courses :mortar_board:](#completed-courses)
+- [Completed Tracks :running:](#completed-tracks)
+- [Completed Projects :chart_with_upwards_trend:](#completed-projects)
+- [DataCamp Portfolio :briefcase:](#datacamp-portfolio)
+- [Additional Resources :books:](#additional-resources)
+
+## Completed Courses :mortar_board:
+
+Here's a list of the data science courses I have completed:
 - Introduction to Python
-- Cleaning Data in Python 
+- Introduction to SQL
+- Intermediate Python
+- Intermediate SQL
+- Data Manipulation with pandas
+- Understanding Data Engineering
+- Python Data Science Toolbox (Part 1)
+- Supervised Learning with scikit-learn
+- Joining Data with pandas
+- Python Data Science Toolbox (Part 2)
+- Introduction to Importing Data in Python
+- Introduction to Data Visualization with Matplotlib
+- Cleaning Data in Python
+- Understanding Cloud Computing
+- Writing Efficient Python Code
+- Writing Functions in Python
+- Intermediate Importing Data in Python
+- Machine Learning with Tree-Based Models in Python
+- Statistical Thinking in Python (Part 1)
+- Extreme Gradient Boosting with XGBoost
+- Linear Classifiers in Python
+- AWS Cloud Concepts
+- Statistical Thinking in Python (Part 2)
+- Exploring and Analyzing Data in Python
 
-## Links to Repositories and Resources
-Here are the links to my repositories and other resources that helped me along the way (💡 indicates especially helpful resources):
+## Completed Tracks :running:
 
-- https://github.com/Akash-Ansari?page=2&tab=repositories
-    - This repository contains the source code for some of my completed exercises and projects.
-- https://github.com/gventuri/pandas-ai 🔥
-    - Check out Pandas for AI, Gianluca Venturi's comprehensive guide on using Pandas for machine learning. :robot:
-- https://archive.ics.uci.edu/
-    - This website is a great source for discovering datasets. 
-- https://www.hylkerozema.nl/2021/10/01/intermediate-importing-data-in-python/ 💡
-    - This is a guide I found helpful for the Intermediate Importing Data in Python course.
-- https://vishalmnemonic.github.io/DC6/ 💡
-    - This is a mentor's blog that I found really useful to guide me through my courses.
-- https://github.com/MMBazel/Springboard-DataScienceTrack-Student/blob/master/DataCamp_Notes/Writing%20Efficient%20Python%20Code.txt
-    - This is a notes repository that I used to supplement my Writing Efficient Python Code course.
-- https://nanologisk.github.io/2021/04/05/datacleaning-commonprob.html 💡
-    - This is a wonderful guide for common data cleaning problems and how to solve them.
-- https://github.com/jakevdp/WhirlwindTourOfPython 💡
-    - This repository contains the source code for the book Whirlwind Tour of Python, which has been incredibly helpful for me in my journey to learn Python.
-- https://github.com/jakevdp
-    - This is Jake VanderPlas' personal Github account. He is the author of the Whirlwind Tour of Python, and his Github contains many helpful resources on pandas and Python.
+Here's a list of the data science tracks I have completed:
+- Python Fundamentals 
+- Experienced Professional Program - AI Month 1
+- Experienced Professional Program - CDF - Month 1
+- Experienced Professional Program - CDF - Month 2
+- Experienced Professional Program - CDF - Month 3
+- Experienced Professional Program - CDF - Month 4
+- Experienced Professional Program - CDF - Month 5
+- AI Academy Scholars Program - Week 2
+
+## Completed Projects :chart_with_upwards_trend:
+
+Here are some data-driven projects I have completed:
+- Dr. Semmelweis and the Discovery of Handwashing
+- Introduction to DataCamp Projects
+- Analyzing TV Data
+- Investigating Netflix Movies and Guest Stars in The Office
+- Risk and Returns: The Sharpe Ratio
+- A Network Analysis of Game of Thrones
+- Exploring the History of Lego
+- Exploring London's Travel Network
+
+## DataCamp Portfolio :briefcase:
+
+Here's a link to my DataCamp portfolio section: [Damodhar's DataCamp Portfolio](https://www.datacamp.com/portfolio/jdamodhar)
+
+## Additional Resources :books:
+
+Here are some helpful resources I utilized throughout my learning journey:
+- [GitHub Repository](https://github.com/Akash-Ansari?page=2&tab=repositories) contains the source code for some of my completed exercises and projects.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) is a comprehensive resource for discovering datasets.
+- I found the [DataCamp Mentor Blog](https://vishalmnemonic.github.io/DC6/) extremely helpful for guidance and inspiration.
+- The [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) is a fantastic book on Python and data science written by Jake VanderPlas. 
+- [Pandas for AI](https://github.com/gventuri/pandas-ai) is a comprehensive guide on using Pandas for machine learning by Gianluca Venturi.
+- This [Data Cleaning Guide](https://nanologisk.github.io/2021/04/05/datacleaning-commonprob.html) covers common data cleaning problems and how to overcome them.
+
+Thank you for exploring my DataCamp learning journey! :smiley:
