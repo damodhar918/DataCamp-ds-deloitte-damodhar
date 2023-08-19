@@ -1,4 +1,3 @@
-Sure, here's an updated version with some emojis. Enjoy! 
 
 ## Table of Contents
 - 📜 [Table of Contents](#table-of-contents)
