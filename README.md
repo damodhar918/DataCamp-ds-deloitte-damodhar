@@ -4,11 +4,13 @@ Hello, fellow data enthusiasts! This repository showcases the exciting data scie
 
 ## Index :bookmark_tabs:
 
-- [Completed Courses :mortar_board:](#completed-courses)
-- [Completed Tracks :running:](#completed-tracks)
-- [Completed Projects :chart_with_upwards_trend:](#completed-projects)
-- [DataCamp Portfolio :briefcase:](#datacamp-portfolio)
-- [Additional Resources :books:](#additional-resources)
+- [DataCamp Courses and Projects :bar\_chart: :computer:](#datacamp-courses-and-projects-bar_chart-computer)
+  - [Index :bookmark\_tabs:](#index-bookmark_tabs)
+  - [Completed Courses :mortar\_board:](#completed-courses-mortar_board)
+  - [Completed Tracks :running:](#completed-tracks-running)
+  - [Completed Projects :chart\_with\_upwards\_trend:](#completed-projects-chart_with_upwards_trend)
+  - [DataCamp Portfolio :briefcase:](#datacamp-portfolio-briefcase)
+  - [Additional Resources :books:](#additional-resources-books)
 
 ## Completed Courses :mortar_board:
 
@@ -77,3 +79,7 @@ Here are some helpful resources I utilized throughout my learning journey:
 - This [Data Cleaning Guide](https://nanologisk.github.io/2021/04/05/datacleaning-commonprob.html) covers common data cleaning problems and how to overcome them.
 
 Thank you for exploring my DataCamp learning journey! :smiley:
+
+
+some links
+https://pbpython.com/
