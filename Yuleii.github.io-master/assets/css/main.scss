@@ -1,0 +1,102 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+
+    "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
+    // "skins/chocolate",
+    // "skins/dark",
+    // "skins/default",
+    // "skins/forest",
+    // "skins/ocean",
+    // "skins/orange",
+
+    "skins/highlight/{{ site.highlight_theme | default: site.data.variables.default.highlight_theme }}",
+    // "skins/highlight/tomorrow",
+    // "skins/highlight/tomorrow-night",
+    // "skins/highlight/tomorrow-night-eighties",
+    // "skins/highlight/tomorrow-night-blue",
+    // "skins/highlight/tomorrow-night-bright",
+
+
+    "common/variables",
+    "common/function",
+    "common/classes",
+    "common/reset",
+    "common/print",
+    "common/components/button",
+    "common/components/image",
+    "common/components/card",
+    "common/components/gallery",
+    "common/components/hero",
+    "common/components/menu",
+    "common/components/modal",
+    "common/components/toc",
+    "common/components/item",
+    "common/components/swiper",
+
+    "animate/fade-in",
+    "animate/fade-in-down",
+    "animate/fade-in-up",
+
+    "components/main",
+    "components/header",
+    "components/footer",
+    "components/article-list",
+    "components/article-info",
+    "components/article-header",
+    "components/article-content",
+    "components/article-footer",
+    "components/author-links",
+    "components/author-profile",
+    "components/tags",
+    "components/search",
+    "components/lightbox",
+    "components/extensions",
+
+
+    "additional/alert",
+    "additional/tag",
+    "additional/photo-frame",
+
+    "layout/base",
+    "layout/page",
+
+    "layout/article",
+    "layout/articles",
+    "layout/archive",
+    "layout/home",
+    "layout/landing",
+    "layout/404",
+
+    "custom"
+;
+
+p, blockquote, ul, ol, dl, li, table, pre {
+    margin: 15px 0; }
+    
+    table {
+      padding: 0; }
+      table tr {
+        border-top: 1px solid #cccccc;
+        background-color: white;
+        margin: 0;
+        padding: 0; }
+        table tr:nth-child(2n) {
+          background-color: #f8f8f8; }
+          table tr th {
+          font-weight: bold;
+          border: 1px solid #cccccc;
+          text-align: left;
+          margin: 0;
+          padding: 6px 13px; }
+        table tr td {
+          border: 1px solid #cccccc;
+          text-align: left;
+          margin: 0;
+          padding: 6px 13px; }
+        table tr th :first-child, table tr td :first-child {
+          margin-top: 0; }
+        table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0; }
