@@ -83,3 +83,5 @@ Thank you for exploring my DataCamp learning journey! :smiley:
 
 some links
 https://pbpython.com/
+https://rpubs.com/datttrian/reshaping-data-with-pandas
+https://github.com/datttrian
