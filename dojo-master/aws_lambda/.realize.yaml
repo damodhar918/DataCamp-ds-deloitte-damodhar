@@ -1,0 +1,62 @@
+settings:
+  files:
+    outputs:
+      status: false
+      path: ""
+      name: .r.outputs.log
+    logs:
+      status: false
+      path: ""
+      name: .r.logs.log
+    errors:
+      status: false
+      path: ""
+      name: .r.errors.log
+  legacy:
+    force: false
+    interval: 0s
+schema:
+- name: lambda/pets
+  path: ./lambda/pets
+  commands:
+    install:
+      method: go build -o _build/pets
+      status: true
+  watcher:
+    extensions:
+    - go
+    paths:
+    - /
+    ignored_paths:
+    - .git
+    - .realize
+    - vendor
+    scripts:
+      - type: before
+        command: mkdir -p _build
+      - type: before
+        command: GOOS=linux GOARCH=amd64
+      - type: after
+        command: zip _build/pets.zip _build/pets
+- name: lambda/authorizer
+  path: ./lambda/authorizer
+  commands:
+    install:
+      method: go build -o _build/authorizer
+      status: true
+  watcher:
+    extensions:
+    - go
+    paths:
+    - /
+    ignored_paths:
+    - .git
+    - .realize
+    - vendor
+    scripts:
+      - type: before
+        command: mkdir -p _build
+      - type: before
+        command: GOOS=linux GOARCH=amd64
+      - type: after
+        command: zip _build/authorizer.zip _build/authorizer
