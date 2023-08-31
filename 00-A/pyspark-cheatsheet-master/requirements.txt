@@ -1,0 +1,14 @@
+black
+dateparser
+delta-spark
+matplotlib
+money_parser
+nbformat
+oci
+pandas
+pillow
+pyarrow
+pyspark==3.2.2
+python-slugify
+pyunicode
+pyyaml
