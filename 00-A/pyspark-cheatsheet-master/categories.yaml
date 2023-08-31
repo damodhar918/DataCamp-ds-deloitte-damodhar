@@ -1,0 +1,163 @@
+Accessing Data Sources:
+    priority: 0
+    description: Loading data stored in filesystems or databases, and saving it.
+
+Data Handling Options:
+    priority: 2
+    description: Special data handling scenarios.
+
+DataFrame Operations:
+    priority: 4
+    description: Adding, removing and modifying DataFrame columns.
+
+Transforming Data:
+    priority: 6
+    description: Data conversions and other modifications.
+
+Sorting and Searching:
+    priority: 8
+    description: Filtering, sorting, removing duplicates and more.
+
+Grouping:
+    priority: 10
+    description: Group DataFrame data by key to perform aggregates like counting, sums, averages, etc.
+
+Joining DataFrames:
+    priority: 12
+    description: Spark allows DataFrames to be joined similarly to how tables are joined in an RDBMS. The diagram below shows join types available in Spark.
+
+
+                 ![Spark Join Types](images/jointypes.webp)
+
+File Processing:
+    priority: 14
+    description: Loading File Metadata and Processing Files.
+
+Handling Missing Data:
+    priority: 16
+    description: Dealing with NULLs and NaNs in DataFrames.
+
+Dealing with Dates:
+    priority: 18
+    description: Parsing and processing dates and times.
+
+Unstructured Analytics:
+    priority: 20
+    description: Analyzing unstructured data like [JSON](https://spark.apache.org/docs/latest/sql-data-sources-json.html), XML, etc.
+
+Pandas:
+    priority: 22
+    description: Using Python's Pandas library to augment Spark. Some operations require the pyarrow library.
+
+Data Profiling:
+    priority: 24
+    description: Extracting key statistics out of a body of data.
+
+Data Management:
+    priority: 26
+    description: Upserts, updates and deletes on data.
+
+Spark Streaming:
+    priority: 28
+    description: Spark Streaming (Focuses on Structured Streaming).
+
+Time Series:
+    priority: 30
+    description: Techniques for dealing with time series data.
+
+Machine Learning:
+    priority: 32
+    description: >
+        Machine Learning is a deep subject, too much to cover in this cheatsheet which is intended for code you can easily paste into your apps. The examples below will show basics of ML in Spark. It is helpful to understand the terminology of ML like Features, Estimators and Models. If you want some background on these things consider courses like "Google crash course in ML" or Udemy's "Machine Learning Course with Python".
+
+
+        A brief introduction to Spark ML terms:
+
+        * Feature: A Feature is an individual measurement. For example if you want to predict height based on age and sex, a combination of age and sex is a Feature.
+
+        * Vector: A Vector is a special Spark data type similar to an array of numbers. Spark ML algorithms require Features to be loaded into Vectors for training and predictions.
+
+        * Vector Column: Model training requires considering many Features at the same time. Spark ML operates on `DataFrame`s. Before training can happen you need to construct a `DataFrame` column of type Vector. See examples below.
+
+        * Label: Supervised ML algorithms like regression and classification require a label when training. In Spark you will put labels in a column in a `DataFrame` such that each row has both a Feature and its associated Label.
+
+        * Model: A Model is an algorithm capable of turning Feature vectors into values, usually thought of as predictions.
+
+        * Estimator: An Estimator builds a mathematical model that transforms input values into outputs. Estimators do double duty in Spark, some Estimators like regression and classification build statistical models. Some Estimators are purely for data preparation like the StringIndexer which builds a Model containing a dictionary that maps strings to numbers in a deterministic way.
+
+        * Fitting: Fitting is the process of building a Model using an Estimator and an input DataFrame you provide.
+
+        * Transformer: Transformers create new DataFrames using the `transform` API, which applies algorithms to the input DataFrame and outputs a DataFrame with additional columns. The nature of the `transform` could be statistical or it could be a simple algorithm, depending on the type of Estimator that created the Model.
+
+        * Pipelines: Pipelines are a series of Estimators that apply a series of `transform`s to a `DataFrame` before calling `fit` on the final Estimator in the Pipeline. The Pipeline is itself an Estimator. When you `fit` a Pipeline, Spark `fit`s the first Estimator in the Pipeline using an input `DataFrame` you provide. This produces a Model. If there are additional Estimators in the Pipeline, the newly created Model's `transform` method is called against the input `DataFrame` to create a new `DataFrame`. The process then begins again with the newly created `DataFrame` being passed to the next Estimator's `fit` method. Fitting a Pipeline produces a `PipelineModel`.
+
+
+        This image helps visualize the relationship between Spark ML classes.
+
+        ![Hierarchy of Spark ML Classes](images/mlhierarchy.webp)
+
+Performance:
+    priority: 34
+    description: A few performance tips and tricks.
+
+Preamble:
+    description: >
+        PySpark Cheat Sheet
+
+        ===================
+
+        This cheat sheet will help you learn PySpark and write PySpark apps faster. Everything in here is fully functional PySpark code you can run or adapt to your programs.
+
+        
+        These snippets are licensed under the CC0 1.0 Universal License. That means you can freely copy and adapt these code snippets and you don't need to give attribution or include any notices.
+
+
+        These snippets use DataFrames loaded from various data sources:
+
+        - "Auto MPG Data Set" available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/auto+mpg).
+
+        - customer_spend.csv, a generated time series dataset.
+
+        - date_examples.csv, a generated dataset with various date and time formats.
+
+        - weblog.csv, a cleaned version of this [web log dataset](https://www.kaggle.com/datasets/shawon10/web-log-dataset).
+
+
+        These snippets were tested against the Spark {version} API. This page was last updated {last_updated}.
+
+
+        Make note of these helpful links:
+
+        - [PySpark DataFrame Operations](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html)
+
+        - [Built-in Spark SQL Functions](https://spark.apache.org/docs/latest/api/sql/index.html)
+
+        - [MLlib Main Guide](http://spark.apache.org/docs/latest/ml-guide.html)
+
+        - [Structured Streaming Guide](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ss/index.html)
+
+        - [PySpark SQL Functions Source](https://spark.apache.org/docs/latest/api/python/_modules/pyspark/sql/functions.html)
+
+
+        Try in a Notebook
+
+        -----------------
+
+        See the [Notebook How-To](notebook.md) for instructions on running in a Jupyter notebook.
+
+
+        Generate the Cheatsheet
+
+        -----------------------
+
+        You can generate the cheatsheet by running `cheatsheet.py` in your PySpark environment as follows:
+
+        - Install dependencies: `pip3 install -r requirements.txt`
+
+        - Generate README.md: `python3 cheatsheet.py`
+
+        - Generate cheatsheet.ipynb: `python3 cheatsheet.py --notebook`
+
+
+Postscript:
+    description:
