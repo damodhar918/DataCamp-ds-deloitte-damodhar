@@ -1,0 +1,132 @@
+site_name: 'ugo_py_doc'
+#site_url:
+repo_name: 'ugo_py_doc' # see doc, for bitbucket, gitlab
+repo_url: 'https://github.com/ugoproto/ugo_py_doc.git'
+# extra.repo_icon to github, gitlab or bitbucket
+site_description: 'A Python documentation website.'
+#site_author:
+#copyright:
+
+theme: 
+  name: 'material' # 'readthedocs'
+  locale: 'en'
+  analytics: 
+    gtag: 'UA-93008985-2'
+## 'Volkorn' 'Libre Baskerville' 'Merriweather'
+## https://fonts.google.com
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  palette:
+    primary: 'amber'
+    accent: 'indigo'
+## red, pink, purple, deep purple, indigo, blue, light-blue, cyan, teal, green, light-green, lime, yellow, amber, orange, deep-orange, brown, grey and blue-grey
+  icon:
+    logo: 'material/layers'
+  favicon: 'img/favicon.ico' 
+  feature:
+    tabs: false
+
+plugins:
+    - search:
+        lang:
+          - en
+          - fr
+    
+## Les icônes gitlab, twitter, linkedin dans le bandeau du bas.
+#extra:
+#  social:
+#    - type: 'gitlab'
+#      link: ''
+#    - type: 'twitter'
+#      link: ''
+#    - type: 'linkedin'
+#      link: ''
+#  disqus: 'your-shortname'
+## https://disqus.com/
+## repo_icon: 'github' # gitlab, bitbucket
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+extra_css:
+  - extra.css
+
+nav:
+  - Home: 'index.md'
+  - Basics:
+    - Python Cheat Sheets: 'py_cs.md'
+    - Databases: 'databases.md'
+    - Datetime: 'datetime.md'
+    - Decorators: 'decorators.md'
+    - Exceptions: 'exceptions.md'
+    - Freeze the Code: 'freeze_the_code.md'
+    - Gedit, Execute Highlighted Code: 'gedit_execute_highlighted_python_code.md'
+    - Python Nice to Have: 'python_nice_to_have.md'
+  - Scipy Stack: 
+    - Jupyter Notebook Cheat Sheets: 'jn_cs.md'
+    - Scipy Stack Cheat Sheets: 'scipy_cs.md'
+    - EDA, Machine Learning, Feature Engineering, and Kaggle: 'eda_machine_learning_feature_engineering_and_kaggle.md'
+    - Exploratory Data Analysis (EDA): 'exploratory_data_analysis.md'
+    - Feature Selection: 'feature_selection_in_python.md'
+    - Geospatial Data : 'geospatial_data_in_python.md'
+    - Importing Data: 'importing_data_into_python.md'
+    - Introduction to Customer Segmentation: 'introduction_to_customer_segmentation_in_python.md'
+    - Introduction to data.world: 'intro_to_data_world_in_python.md'
+    - Overview of scikit-learn: 'overview_of_scikit_learn.md'
+    - Python and Excel: 'python_and_excel.md'
+    - Scaling, Centering, Noise with kNN, Linear Regression, Logit: 'scaling_centering_noise_with_knn_linear_regression_logit.md'
+    - Sentiment Analysis with Twitter: 'sentiment_analysis_with_twitter.md'
+    - Time Series Analysis: 'time_series_analysis.md'
+    - Vectors and Arrays (Linear Algebra): 'vectors_and_arrays_linear_algebra.md'
+    - Viewing 3D Volumetric Data with Matplotlib: 'viewing_3d_volumetric_data_with_matplotlib.md'
+    - Write Idiomatic Pandas Code: 'write_idiomatic_pandas_code.md'
+  - Courses:
+    - Apprenez à programmer en Python: 'apprenez_a_programmer_en_python.md'
+    - Automate the Boring Stuff with Python: 'automate_the_boring_stuff_with_python.md'
+    - Codecademy Python: 'codecademy_python.md'
+    - Learn Python the Hard Way: 'learn_python_the_hard_way.md'
+    - LPTHW, Python Code Snippets: 'lpthw_python_code_snippets.md'
+  - Manuals:
+    - Managing Your Biological Data with Python: 'managing_your_biological_data_with_python.md'
+    - Python for Education: 'python_for_education.md'
+
+markdown_extensions:
+# python-markdown
+  - def_list
+  - fenced_code
+  - footnotes
+  - tables
+  - admonition 
+  - codehilite:
+      linenums: true
+  - meta
+  - nl2br
+  - sane_lists
+  - smarty
+  - toc:
+      permalink: true
+#      toc_depth: 2
+#      title: CONTENU
+      baselevel: 2
+
+# pymdown-extensions
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.progressbar
+  - pymdownx.snippets
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+  - pymdownx.tilde
+
+# pyembed-markdown
+  - pyembed.markdown
