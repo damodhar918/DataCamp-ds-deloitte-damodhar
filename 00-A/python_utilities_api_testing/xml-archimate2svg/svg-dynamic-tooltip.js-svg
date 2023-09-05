@@ -1,0 +1,95 @@
+            function getOrCreateElementById(elementId){
+                var returnValue = document.getElementById(elementId);
+                if(returnValue){
+                    return returnValue
+                }else{
+                    var parentElement = document.createElementNS('http://www.w3.org/2000/svg', "a");
+                    var returnValue = document.createElementNS('http://www.w3.org/2000/svg', "text");
+                    returnValue.setAttribute('id',elementId);
+                    parentElement.appendChild(returnValue);
+                    document.getElementById("tooltip").parentNode.appendChild(parentElement);
+                    return returnValue;
+                }
+            }            
+            function parseTextGetLink(textLine){
+                let lineElements = textLine.split(":");
+                if(lineElements.length<2){
+                    return null
+                }
+                if(lineElements[1].trim().toLowerCase().startsWith("http")){
+                    return Array.of(lineElements[0], lineElements.slice(1,lineElements.length).join(":"))
+                }
+                return null
+            }
+
+            function parseText(fullText){
+                lines = fullText.split("|")
+                lines = lines.map(each_line=>each_line.trim()).filter(each_line=>each_line.length>0)
+                var returnValue = {}
+                for(let eachIndex in lines){
+                    let links = parseTextGetLink(lines[eachIndex])
+                    if(links){
+                        returnValue[links[0]]=links[1]
+                    }else{
+                        // console.log(lines[eachIndex])
+                    }
+                }
+                return returnValue;
+            }
+
+            function createOneLink(index, title, link, x, y){
+                var doc = getOrCreateElementById("tooltip_"+parseInt(index));
+                doc.setAttribute('x', x);
+                doc.setAttribute('y', y);
+                doc.setAttribute('style', "fill:rgb(0,0,0);stroke-dasharray='0';font-family='Arial'");
+                doc.parentElement.setAttribute('href', link); 
+                doc.parentElement.setAttribute('title', title);
+                doc.textContent = title;                
+                doc.style["display"]="";
+                doc.style["stroke-width"]=0;
+                doc.parentElement.style["display"]="";
+            }
+
+            function showLinks(objectWithLinks, positionX, positionY){
+                let amount_of_elements = 0;
+                let max_word_length = 0
+                for(let key in objectWithLinks){
+                    if(key.length>max_word_length){
+                        max_word_length = key.length
+                    }
+                    amount_of_elements = amount_of_elements + 1;
+                }
+                let width = max_word_length*8;
+
+                let margin = 20;
+                let stepY = 25;
+                let index = 0;
+                for(let key in objectWithLinks){
+                    createOneLink(index, key, objectWithLinks[key], positionX - width/2 + margin, positionY - margin*2 - index * stepY)
+                    index = index+1;
+                }
+                tooltip=document.getElementById("tooltip");
+                let height = margin+amount_of_elements*stepY;
+                tooltip.setAttribute('x', positionX - width/2);
+                tooltip.setAttribute('y', positionY-height-margin);
+                tooltip.setAttribute('width', margin+width+margin);
+                tooltip.setAttribute('height', height);
+            }
+
+            function showTooltip(event) {
+                links = parseText(event.target.parentElement.getAttribute("data-doc"));
+                showLinks(links, parseInt(event.target.getAttribute("x")), parseInt(event.target.getAttribute("y")))
+                let tooltip = document.getElementById("tooltip");
+                tooltip.style["display"]="";
+                tooltip.getElementsByTagName("title")[0].innerHTML = event.target.parentElement.getAttribute("data-doc");
+            }
+            
+            function hideTooltip(){
+                document.getElementById("tooltip").style["display"]="none";
+                for(let index=0;index<20;index++){
+                    try{
+                        document.getElementById("tooltip_"+parseInt(index)).style["display"]="none";
+                    }catch(err){
+                    }
+                }
+            }

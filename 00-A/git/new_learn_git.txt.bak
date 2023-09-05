@@ -1,0 +1,22 @@
+  170  ls -ltr
+  171  mkdir git_trail
+  172  git version
+  173  git config --global user.name "DJ"
+  174  git config --global user.email "RedWine
+  175  git config --global user.email "RedWine@gmail.com"
+  176  git config --global --list
+  177  history
+  183  cd git_trail/
+  179  git clone https://github.com/RedWine/validate.git
+  184  ls -ltr
+  185  cd validate/
+  186  git status
+  189  echo "test git quick status demo" >> start.txt
+  191  cat start.txt
+  192  git status
+  193  git add start.txt
+  194  git status
+  195  git commit -m "Added this start file"
+  196  git status
+  197  git push origin master #----------> will reflect in remote git repo#
+

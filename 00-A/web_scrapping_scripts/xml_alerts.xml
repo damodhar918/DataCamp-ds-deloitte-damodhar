@@ -1,0 +1,4954 @@
+<gpResults>
+    <iqSessionId>{441ec040-db2d-11ec-e464-000000000000}</iqSessionId>
+    <gpResult>
+        <resultIndex>1</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{0dabf190-c7f5-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 15 Yard Open Top Out of Stock: WM of Kennewick (300, 310, 340, 390) ]]>
+        </resultTitle>
+        <resultCreated>04/29/2022 02:46:25 PM</resultCreated>
+        <resultModified>04/29/2022 02:46:25 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-29</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <tagfield-1265-inputEl />
+        <container>15O - 15 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>We are completely out of stock for all RO Bin sizes - Deliveries will only be completed as we
+            complete removals from other customers. Please send an email request for new DEL set ups.
+        </agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>18</index>
+            <allowDrop>true</allowDrop>
+            <id>S04085</id>
+            <hrefTarget />
+            <nodeid>S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S04085 - WM of Kennewick</text>
+            <value>S04085 - WM of Kennewick</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>300</id>
+                <hrefTarget />
+                <nodeid>300S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>300 - KENNEWICK</text>
+                <value>300 - KENNEWICK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>310</id>
+                <hrefTarget />
+                <nodeid>310S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>310 - KENNEWICK WUTC</text>
+                <value>310 - KENNEWICK WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>340</id>
+                <hrefTarget />
+                <nodeid>340S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>340 - KENNEWICK PORT O LET</text>
+                <value>340 - KENNEWICK PORT O LET</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>390</id>
+                <hrefTarget />
+                <nodeid>390S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>390 - KENNEWICK COMM RECYCLING</text>
+                <value>390 - KENNEWICK COMM RECYCLING</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>300</id>
+            <hrefTarget />
+            <nodeid>300S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>300 - KENNEWICK</text>
+            <value>300 - KENNEWICK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>310</id>
+            <hrefTarget />
+            <nodeid>310S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>310 - KENNEWICK WUTC</text>
+            <value>310 - KENNEWICK WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>340</id>
+            <hrefTarget />
+            <nodeid>340S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>340 - KENNEWICK PORT O LET</text>
+            <value>340 - KENNEWICK PORT O LET</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>390</id>
+            <hrefTarget />
+            <nodeid>390S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>390 - KENNEWICK COMM RECYCLING</text>
+            <value>390 - KENNEWICK COMM RECYCLING</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>2</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{5f43e430-bc16-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 40 Yard Open Top Out of Stock: WM of Spokane (455, 457, 460, 462, 465) ]]>
+        </resultTitle>
+        <resultCreated>04/14/2022 12:14:41 PM</resultCreated>
+        <resultModified>04/14/2022 12:14:41 PM</resultModified>
+        <resultStarts />
+        <resultExpires>06/13/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-14</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>40O - 40 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <endDate>2022-06-13</endDate>
+        <tagfield-1516-inputEl />
+        <agentInstructions>Site is out of 40yd OT and Lidded boxes</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>25</index>
+            <allowDrop>true</allowDrop>
+            <id>S05282</id>
+            <hrefTarget />
+            <nodeid>S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S05282 - WM of Spokane</text>
+            <value>S05282 - WM of Spokane</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>455</id>
+                <hrefTarget />
+                <nodeid>455S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>455 - SPOKANE WUTC</text>
+                <value>455 - SPOKANE WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>457</id>
+                <hrefTarget />
+                <nodeid>457S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>457 - SPOKANE VALLEY</text>
+                <value>457 - SPOKANE VALLEY</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>460</id>
+                <hrefTarget />
+                <nodeid>460S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>460 - DEER PARK</text>
+                <value>460 - DEER PARK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>462</id>
+                <hrefTarget />
+                <nodeid>462S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>462 - LIBERTY LAKE</text>
+                <value>462 - LIBERTY LAKE</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>4</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>465</id>
+                <hrefTarget />
+                <nodeid>465S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>465 - AIRWAY HEIGHTS</text>
+                <value>465 - AIRWAY HEIGHTS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>455</id>
+            <hrefTarget />
+            <nodeid>455S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>455 - SPOKANE WUTC</text>
+            <value>455 - SPOKANE WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>457</id>
+            <hrefTarget />
+            <nodeid>457S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>457 - SPOKANE VALLEY</text>
+            <value>457 - SPOKANE VALLEY</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>460</id>
+            <hrefTarget />
+            <nodeid>460S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>460 - DEER PARK</text>
+            <value>460 - DEER PARK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>462</id>
+            <hrefTarget />
+            <nodeid>462S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>462 - LIBERTY LAKE</text>
+            <value>462 - LIBERTY LAKE</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>4</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>465</id>
+            <hrefTarget />
+            <nodeid>465S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>465 - AIRWAY HEIGHTS</text>
+            <value>465 - AIRWAY HEIGHTS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>3</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{ddc373f0-c58c-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 30 Yard Open Top Low Stock: WM of Marysville (201, 215, 225, 240, 290) ]]>
+        </resultTitle>
+        <resultCreated>04/26/2022 01:15:34 PM</resultCreated>
+        <resultModified>04/26/2022 01:15:34 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-27</startDate>
+        <delaySeverity>Low Stock</delaySeverity>
+        <container>30O - 30 Yard Open Top</container>
+        <tagfield-1343-inputEl />
+        <contentType>containershortage</contentType>
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>CURRENTLY OUT OR LOW ON ALL 20'S, 30'S AND 40 YARD CONTAINERS. PLEASE ADVISE CUSTOMER WE WILL
+            PROVIDE CONTAINERS AS SOON AS AVAILABLE. PLEASE SET UP FOR THE SIZE CUSTOMER PREFERS AND LIST THE SECOND
+            SIZE OPTION THEY ARE WILLING TO RECEIVE.</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>19</index>
+            <allowDrop>true</allowDrop>
+            <id>S08881</id>
+            <hrefTarget />
+            <nodeid>S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S08881 - WM of Marysville</text>
+            <value>S08881 - WM of Marysville</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>201</id>
+                <hrefTarget />
+                <nodeid>201S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>201 - UTC SNOHOMISH COUNTY</text>
+                <value>201 - UTC SNOHOMISH COUNTY</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>215</id>
+                <hrefTarget />
+                <nodeid>215S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>215 - ARLINGTON</text>
+                <value>215 - ARLINGTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>225</id>
+                <hrefTarget />
+                <nodeid>225S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>225 - GRANITE FALLS</text>
+                <value>225 - GRANITE FALLS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>240</id>
+                <hrefTarget />
+                <nodeid>240S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>240 - MARYSVILLE</text>
+                <value>240 - MARYSVILLE</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>4</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>290</id>
+                <hrefTarget />
+                <nodeid>290S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>290 - LAKE STEVENS</text>
+                <value>290 - LAKE STEVENS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>201</id>
+            <hrefTarget />
+            <nodeid>201S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>201 - UTC SNOHOMISH COUNTY</text>
+            <value>201 - UTC SNOHOMISH COUNTY</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>215</id>
+            <hrefTarget />
+            <nodeid>215S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>215 - ARLINGTON</text>
+            <value>215 - ARLINGTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>225</id>
+            <hrefTarget />
+            <nodeid>225S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>225 - GRANITE FALLS</text>
+            <value>225 - GRANITE FALLS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>240</id>
+            <hrefTarget />
+            <nodeid>240S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>240 - MARYSVILLE</text>
+            <value>240 - MARYSVILLE</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>4</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>290</id>
+            <hrefTarget />
+            <nodeid>290S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>290 - LAKE STEVENS</text>
+            <value>290 - LAKE STEVENS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>4</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{123d9190-bc16-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 20 Yard Open Top Out of Stock: WM of Spokane (455, 457, 460, 462, 465) ]]>
+        </resultTitle>
+        <resultCreated>04/14/2022 12:12:32 PM</resultCreated>
+        <resultModified>04/14/2022 12:12:32 PM</resultModified>
+        <resultStarts />
+        <resultExpires>06/13/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-14</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>20O - 20 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <endDate>2022-06-13</endDate>
+        <agentInstructions>Site is out of 20 yd OT and lidded boxes</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>25</index>
+            <allowDrop>true</allowDrop>
+            <id>S05282</id>
+            <hrefTarget />
+            <nodeid>S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S05282 - WM of Spokane</text>
+            <value>S05282 - WM of Spokane</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>455</id>
+                <hrefTarget />
+                <nodeid>455S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>455 - SPOKANE WUTC</text>
+                <value>455 - SPOKANE WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>457</id>
+                <hrefTarget />
+                <nodeid>457S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>457 - SPOKANE VALLEY</text>
+                <value>457 - SPOKANE VALLEY</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>460</id>
+                <hrefTarget />
+                <nodeid>460S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>460 - DEER PARK</text>
+                <value>460 - DEER PARK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>462</id>
+                <hrefTarget />
+                <nodeid>462S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>462 - LIBERTY LAKE</text>
+                <value>462 - LIBERTY LAKE</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>4</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>465</id>
+                <hrefTarget />
+                <nodeid>465S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>465 - AIRWAY HEIGHTS</text>
+                <value>465 - AIRWAY HEIGHTS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>455</id>
+            <hrefTarget />
+            <nodeid>455S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>455 - SPOKANE WUTC</text>
+            <value>455 - SPOKANE WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>457</id>
+            <hrefTarget />
+            <nodeid>457S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>457 - SPOKANE VALLEY</text>
+            <value>457 - SPOKANE VALLEY</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>460</id>
+            <hrefTarget />
+            <nodeid>460S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>460 - DEER PARK</text>
+            <value>460 - DEER PARK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>462</id>
+            <hrefTarget />
+            <nodeid>462S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>462 - LIBERTY LAKE</text>
+            <value>462 - LIBERTY LAKE</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>4</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>465</id>
+            <hrefTarget />
+            <nodeid>465S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>465 - AIRWAY HEIGHTS</text>
+            <value>465 - AIRWAY HEIGHTS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <tagfield-1153-inputEl />
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>5</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{e73d3aa0-c7f4-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 10 Yard Open Top Out of Stock: WM of Kennewick (300, 310, 340, 390) ]]>
+        </resultTitle>
+        <resultCreated>04/29/2022 02:45:20 PM</resultCreated>
+        <resultModified>04/29/2022 02:45:20 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-29</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>10O - 10 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>We are completely out of stock for all RO Bin sizes - Deliveries will only be completed as we
+            completed removals from other customers. Please send an email request for new DEL set ups.
+        </agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>18</index>
+            <allowDrop>true</allowDrop>
+            <id>S04085</id>
+            <hrefTarget />
+            <nodeid>S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S04085 - WM of Kennewick</text>
+            <value>S04085 - WM of Kennewick</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>300</id>
+                <hrefTarget />
+                <nodeid>300S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>300 - KENNEWICK</text>
+                <value>300 - KENNEWICK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>310</id>
+                <hrefTarget />
+                <nodeid>310S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>310 - KENNEWICK WUTC</text>
+                <value>310 - KENNEWICK WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>340</id>
+                <hrefTarget />
+                <nodeid>340S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>340 - KENNEWICK PORT O LET</text>
+                <value>340 - KENNEWICK PORT O LET</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>390</id>
+                <hrefTarget />
+                <nodeid>390S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>390 - KENNEWICK COMM RECYCLING</text>
+                <value>390 - KENNEWICK COMM RECYCLING</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>300</id>
+            <hrefTarget />
+            <nodeid>300S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>300 - KENNEWICK</text>
+            <value>300 - KENNEWICK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>310</id>
+            <hrefTarget />
+            <nodeid>310S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>310 - KENNEWICK WUTC</text>
+            <value>310 - KENNEWICK WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>340</id>
+            <hrefTarget />
+            <nodeid>340S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>340 - KENNEWICK PORT O LET</text>
+            <value>340 - KENNEWICK PORT O LET</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>390</id>
+            <hrefTarget />
+            <nodeid>390S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>390 - KENNEWICK COMM RECYCLING</text>
+            <value>390 - KENNEWICK COMM RECYCLING</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <tagfield-1083-inputEl />
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>6</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{28a08670-ab8d-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 30 Yard Open Top Out of Stock: WM of Spokane (455, 457, 460, 462, 465) ]]>
+        </resultTitle>
+        <resultCreated>03/24/2022 11:12:10 AM</resultCreated>
+        <resultModified>04/14/2022 12:15:40 PM</resultModified>
+        <resultStarts />
+        <resultExpires>06/13/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-03-24</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>30O - 30 Yard Open Top</container>
+        <tagfield-1794-inputEl />
+        <contentType>containershortage</contentType>
+        <endDate>2022-06-13</endDate>
+        <agentInstructions>Site is out of 30yd Open and Lidded boxes. Will update as new inventory information is
+            provided</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>25</index>
+            <allowDrop>true</allowDrop>
+            <id>S05282</id>
+            <hrefTarget />
+            <nodeid>S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S05282 - WM of Spokane</text>
+            <value>S05282 - WM of Spokane</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>455</id>
+                <hrefTarget />
+                <nodeid>455S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>455 - SPOKANE WUTC</text>
+                <value>455 - SPOKANE WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>457</id>
+                <hrefTarget />
+                <nodeid>457S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>457 - SPOKANE VALLEY</text>
+                <value>457 - SPOKANE VALLEY</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>460</id>
+                <hrefTarget />
+                <nodeid>460S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>460 - DEER PARK</text>
+                <value>460 - DEER PARK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>462</id>
+                <hrefTarget />
+                <nodeid>462S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>462 - LIBERTY LAKE</text>
+                <value>462 - LIBERTY LAKE</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>4</index>
+                <bu>B02681</bu>
+                <allowDrop>true</allowDrop>
+                <id>465</id>
+                <hrefTarget />
+                <nodeid>465S05282</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S05282</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>465 - AIRWAY HEIGHTS</text>
+                <value>465 - AIRWAY HEIGHTS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>455</id>
+            <hrefTarget />
+            <nodeid>455S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>455 - SPOKANE WUTC</text>
+            <value>455 - SPOKANE WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>457</id>
+            <hrefTarget />
+            <nodeid>457S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>457 - SPOKANE VALLEY</text>
+            <value>457 - SPOKANE VALLEY</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>460</id>
+            <hrefTarget />
+            <nodeid>460S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>460 - DEER PARK</text>
+            <value>460 - DEER PARK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>462</id>
+            <hrefTarget />
+            <nodeid>462S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>462 - LIBERTY LAKE</text>
+            <value>462 - LIBERTY LAKE</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>4</index>
+            <bu>B02681</bu>
+            <allowDrop>true</allowDrop>
+            <id>465</id>
+            <hrefTarget />
+            <nodeid>465S05282</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S05282</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>465 - AIRWAY HEIGHTS</text>
+            <value>465 - AIRWAY HEIGHTS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>7</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{7590edb0-c7f5-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 40 Yard Open Top Out of Stock: WM of Kennewick (300, 310, 340, 390) ]]>
+        </resultTitle>
+        <resultCreated>04/29/2022 02:49:19 PM</resultCreated>
+        <resultModified>04/29/2022 02:49:19 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-29</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>40O - 40 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>We are completely out of stock for all RO Bin sizes - Deliveries will only be completed as we
+            completed removals from other customers. Please send an email request for new DEL set ups.
+        </agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>18</index>
+            <allowDrop>true</allowDrop>
+            <id>S04085</id>
+            <hrefTarget />
+            <nodeid>S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S04085 - WM of Kennewick</text>
+            <value>S04085 - WM of Kennewick</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>300</id>
+                <hrefTarget />
+                <nodeid>300S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>300 - KENNEWICK</text>
+                <value>300 - KENNEWICK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>310</id>
+                <hrefTarget />
+                <nodeid>310S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>310 - KENNEWICK WUTC</text>
+                <value>310 - KENNEWICK WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>340</id>
+                <hrefTarget />
+                <nodeid>340S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>340 - KENNEWICK PORT O LET</text>
+                <value>340 - KENNEWICK PORT O LET</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>390</id>
+                <hrefTarget />
+                <nodeid>390S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>390 - KENNEWICK COMM RECYCLING</text>
+                <value>390 - KENNEWICK COMM RECYCLING</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>300</id>
+            <hrefTarget />
+            <nodeid>300S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>300 - KENNEWICK</text>
+            <value>300 - KENNEWICK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>310</id>
+            <hrefTarget />
+            <nodeid>310S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>310 - KENNEWICK WUTC</text>
+            <value>310 - KENNEWICK WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>340</id>
+            <hrefTarget />
+            <nodeid>340S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>340 - KENNEWICK PORT O LET</text>
+            <value>340 - KENNEWICK PORT O LET</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>390</id>
+            <hrefTarget />
+            <nodeid>390S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>390 - KENNEWICK COMM RECYCLING</text>
+            <value>390 - KENNEWICK COMM RECYCLING</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <tagfield-1805-inputEl />
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>8</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{4be6a4b0-c58d-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 20 Yard Open Top Low Stock: WM of Marysville (201, 215, 225, 240, 290) ]]>
+        </resultTitle>
+        <resultCreated>04/26/2022 01:18:39 PM</resultCreated>
+        <resultModified>04/26/2022 01:18:39 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-27</startDate>
+        <delaySeverity>Low Stock</delaySeverity>
+        <container>20O - 20 Yard Open Top</container>
+        <tagfield-1773-inputEl />
+        <contentType>containershortage</contentType>
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>CURRENTLY OUT OR LOW ON ALL 20'S, 30'S AND 40 YARD CONTAINERS. PLEASE ADVISE CUSTOMER WE WILL
+            PROVIDE CONTAINERS AS SOON AS AVAILABLE. PLEASE SET UP FOR THE SIZE CUSTOMER PREFERS AND LIST THE SECOND
+            SIZE OPTION THEY ARE WILLING TO RECEIVE.</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>19</index>
+            <allowDrop>true</allowDrop>
+            <id>S08881</id>
+            <hrefTarget />
+            <nodeid>S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S08881 - WM of Marysville</text>
+            <value>S08881 - WM of Marysville</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>201</id>
+                <hrefTarget />
+                <nodeid>201S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>201 - UTC SNOHOMISH COUNTY</text>
+                <value>201 - UTC SNOHOMISH COUNTY</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>215</id>
+                <hrefTarget />
+                <nodeid>215S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>215 - ARLINGTON</text>
+                <value>215 - ARLINGTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>225</id>
+                <hrefTarget />
+                <nodeid>225S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>225 - GRANITE FALLS</text>
+                <value>225 - GRANITE FALLS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>240</id>
+                <hrefTarget />
+                <nodeid>240S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>240 - MARYSVILLE</text>
+                <value>240 - MARYSVILLE</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>4</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>290</id>
+                <hrefTarget />
+                <nodeid>290S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>290 - LAKE STEVENS</text>
+                <value>290 - LAKE STEVENS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>201</id>
+            <hrefTarget />
+            <nodeid>201S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>201 - UTC SNOHOMISH COUNTY</text>
+            <value>201 - UTC SNOHOMISH COUNTY</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>215</id>
+            <hrefTarget />
+            <nodeid>215S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>215 - ARLINGTON</text>
+            <value>215 - ARLINGTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>225</id>
+            <hrefTarget />
+            <nodeid>225S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>225 - GRANITE FALLS</text>
+            <value>225 - GRANITE FALLS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>240</id>
+            <hrefTarget />
+            <nodeid>240S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>240 - MARYSVILLE</text>
+            <value>240 - MARYSVILLE</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>4</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>290</id>
+            <hrefTarget />
+            <nodeid>290S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>290 - LAKE STEVENS</text>
+            <value>290 - LAKE STEVENS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>9</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{2db70cb0-da2c-11ec-6292-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ Low Capacity: S04136 WM OF SEATTLE ]]>
+        </resultTitle>
+        <resultCreated>05/22/2022 07:06:22 PM</resultCreated>
+        <resultModified>05/22/2022 07:06:22 PM</resultModified>
+        <resultStarts />
+        <resultExpires>06/05/2022 12:00:00 AM</resultExpires>
+        <delaySeverity>Low Capacity</delaySeverity>
+        <startDate>2022-06-05</startDate>
+        <reasonCode>Personnel</reasonCode>
+        <contentType>capacityoutage</contentType>
+        <title>S04136 WM OF SEATTLE</title>
+        <endDate>2022-06-05</endDate>
+        <agentInstructions />
+        <id>S04136-06052022</id>
+        <siteandcompanies>
+            <id>S04136</id>
+            <name>haulingsite</name>
+            <text>S04136-WM OF SEATTLE</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>440</id>
+            <name>company</name>
+            <text>440 SEATTLE</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>450</id>
+            <name>company</name>
+            <text>450 RENTON</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>400</id>
+            <name>company</name>
+            <text>400 BURIEN</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>410</id>
+            <name>company</name>
+            <text>410 UTC - KING COUNTY</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>430</id>
+            <name>company</name>
+            <text>430 NORMANDY PARK</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>498</id>
+            <name>company</name>
+            <text>498 SEATTLE CAP - CITY</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>493</id>
+            <name>company</name>
+            <text>493 SEATTLE CAP - NON CITY</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>490</id>
+            <name>company</name>
+            <text>490 SEATTLE MSW</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>445</id>
+            <name>company</name>
+            <text>445 SEA MISC CONTRACTS</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>420</id>
+            <name>company</name>
+            <text>420 NEWCASTLE</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>886</id>
+            <name>company</name>
+            <text>886 HEALTH CARE PROCESSING</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>495</id>
+            <name>company</name>
+            <text>495 SEATTLE CDL</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>470</id>
+            <name>company</name>
+            <text>470 TUKWILA</text>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:06 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>10</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{2d240a40-c58d-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 40 Yard Open Top Low Stock: WM of Marysville (201, 215, 225, 240, 290) ]]>
+        </resultTitle>
+        <resultCreated>04/26/2022 01:17:48 PM</resultCreated>
+        <resultModified>04/26/2022 01:17:48 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-27</startDate>
+        <delaySeverity>Low Stock</delaySeverity>
+        <container>40O - 40 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <tagfield-1523-inputEl />
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>CURRENTLY OUT OR LOW ON ALL 20'S, 30'S AND 40 YARD CONTAINERS. PLEASE ADVISE CUSTOMER WE WILL
+            PROVIDE CONTAINERS AS SOON AS AVAILABLE. PLEASE SET UP FOR THE SIZE CUSTOMER PREFERS AND LIST THE SECOND
+            SIZE OPTION THEY ARE WILLING TO RECEIVE.</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>19</index>
+            <allowDrop>true</allowDrop>
+            <id>S08881</id>
+            <hrefTarget />
+            <nodeid>S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S08881 - WM of Marysville</text>
+            <value>S08881 - WM of Marysville</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>201</id>
+                <hrefTarget />
+                <nodeid>201S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>201 - UTC SNOHOMISH COUNTY</text>
+                <value>201 - UTC SNOHOMISH COUNTY</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>215</id>
+                <hrefTarget />
+                <nodeid>215S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>215 - ARLINGTON</text>
+                <value>215 - ARLINGTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>225</id>
+                <hrefTarget />
+                <nodeid>225S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>225 - GRANITE FALLS</text>
+                <value>225 - GRANITE FALLS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>240</id>
+                <hrefTarget />
+                <nodeid>240S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>240 - MARYSVILLE</text>
+                <value>240 - MARYSVILLE</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>4</index>
+                <bu>B04968</bu>
+                <allowDrop>true</allowDrop>
+                <id>290</id>
+                <hrefTarget />
+                <nodeid>290S08881</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S08881</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>290 - LAKE STEVENS</text>
+                <value>290 - LAKE STEVENS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>201</id>
+            <hrefTarget />
+            <nodeid>201S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>201 - UTC SNOHOMISH COUNTY</text>
+            <value>201 - UTC SNOHOMISH COUNTY</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>215</id>
+            <hrefTarget />
+            <nodeid>215S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>215 - ARLINGTON</text>
+            <value>215 - ARLINGTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>225</id>
+            <hrefTarget />
+            <nodeid>225S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>225 - GRANITE FALLS</text>
+            <value>225 - GRANITE FALLS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>240</id>
+            <hrefTarget />
+            <nodeid>240S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>240 - MARYSVILLE</text>
+            <value>240 - MARYSVILLE</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>4</index>
+            <bu>B04968</bu>
+            <allowDrop>true</allowDrop>
+            <id>290</id>
+            <hrefTarget />
+            <nodeid>290S08881</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S08881</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>290 - LAKE STEVENS</text>
+            <value>290 - LAKE STEVENS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>11</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{b58afbc0-b14f-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 40 Yard Open Top Low Stock: Brem-Air Disposal (011, 021, 031, 051) ]]>
+        </resultTitle>
+        <resultCreated>03/31/2022 07:07:24 PM</resultCreated>
+        <resultModified>04/25/2022 11:26:58 AM</resultModified>
+        <resultStarts />
+        <resultExpires>05/31/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-01</startDate>
+        <delaySeverity>Low Stock</delaySeverity>
+        <container>40O - 40 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <tagfield-1489-inputEl />
+        <endDate>2022-05-31</endDate>
+        <agentInstructions>CURRENTLY OUT OR LOW ON ALL 20'S, 30'S AND 40 YARD CONTAINER INVENTORY. PLEASE ADVISE
+            CUSTOMERS WE WILL PROVIDE CONTAINERS AS SOON AS AVAILABLE. PLEASE SET UP FOR THE SIZE THE CUSTOMER PREFERS
+            AND LIST ON THE DELIVERY TICKET THE SECOND SIZE OPTION THEY ARE WILLING TO RECEIVE.</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>1</index>
+            <allowDrop>true</allowDrop>
+            <id>S02888</id>
+            <hrefTarget />
+            <nodeid>S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S02888 - Brem-Air Disposal</text>
+            <value>S02888 - Brem-Air Disposal</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>011</id>
+                <hrefTarget />
+                <nodeid>011S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>011 - UTC-KITSAP CTY-BREMERTON</text>
+                <value>011 - UTC-KITSAP CTY-BREMERTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>021</id>
+                <hrefTarget />
+                <nodeid>021S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>021 - BREMERTON</text>
+                <value>021 - BREMERTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>031</id>
+                <hrefTarget />
+                <nodeid>031S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>031 - PORT ORCHARD</text>
+                <value>031 - PORT ORCHARD</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>051</id>
+                <hrefTarget />
+                <nodeid>051S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>051 - GOVT CONTRACTS</text>
+                <value>051 - GOVT CONTRACTS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>011</id>
+            <hrefTarget />
+            <nodeid>011S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>011 - UTC-KITSAP CTY-BREMERTON</text>
+            <value>011 - UTC-KITSAP CTY-BREMERTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>021</id>
+            <hrefTarget />
+            <nodeid>021S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>021 - BREMERTON</text>
+            <value>021 - BREMERTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>031</id>
+            <hrefTarget />
+            <nodeid>031S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>031 - PORT ORCHARD</text>
+            <value>031 - PORT ORCHARD</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>051</id>
+            <hrefTarget />
+            <nodeid>051S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>051 - GOVT CONTRACTS</text>
+            <value>051 - GOVT CONTRACTS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>12</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{963c4df0-b14f-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 30 Yard Open Top Low Stock: Brem-Air Disposal (011, 021, 031, 051) ]]>
+        </resultTitle>
+        <resultCreated>03/31/2022 07:06:32 PM</resultCreated>
+        <resultModified>04/25/2022 11:26:39 AM</resultModified>
+        <resultStarts />
+        <resultExpires>05/31/2022 12:00:00 AM</resultExpires>
+        <tagfield-1286-inputEl />
+        <startDate>2022-04-01</startDate>
+        <delaySeverity>Low Stock</delaySeverity>
+        <container>30O - 30 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <endDate>2022-05-31</endDate>
+        <agentInstructions>CURRENTLY OUT OR LOW ON ALL 20'S, 30'S AND 40 YARD CONTAINER INVENTORY. PLEASE ADVISE
+            CUSTOMERS WE WILL PROVIDE CONTAINERS AS SOON AS AVAILABLE. PLEASE SET UP FOR THE SIZE THE CUSTOMER PREFERS
+            AND LIST ON THE DELIVERY TICKET THE SECOND SIZE OPTION THEY ARE WILLING TO RECEIVE.</agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>1</index>
+            <allowDrop>true</allowDrop>
+            <id>S02888</id>
+            <hrefTarget />
+            <nodeid>S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S02888 - Brem-Air Disposal</text>
+            <value>S02888 - Brem-Air Disposal</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>011</id>
+                <hrefTarget />
+                <nodeid>011S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>011 - UTC-KITSAP CTY-BREMERTON</text>
+                <value>011 - UTC-KITSAP CTY-BREMERTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>021</id>
+                <hrefTarget />
+                <nodeid>021S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>021 - BREMERTON</text>
+                <value>021 - BREMERTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>031</id>
+                <hrefTarget />
+                <nodeid>031S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>031 - PORT ORCHARD</text>
+                <value>031 - PORT ORCHARD</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>051</id>
+                <hrefTarget />
+                <nodeid>051S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>051 - GOVT CONTRACTS</text>
+                <value>051 - GOVT CONTRACTS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>011</id>
+            <hrefTarget />
+            <nodeid>011S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>011 - UTC-KITSAP CTY-BREMERTON</text>
+            <value>011 - UTC-KITSAP CTY-BREMERTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>021</id>
+            <hrefTarget />
+            <nodeid>021S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>021 - BREMERTON</text>
+            <value>021 - BREMERTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>031</id>
+            <hrefTarget />
+            <nodeid>031S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>031 - PORT ORCHARD</text>
+            <value>031 - PORT ORCHARD</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>051</id>
+            <hrefTarget />
+            <nodeid>051S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>051 - GOVT CONTRACTS</text>
+            <value>051 - GOVT CONTRACTS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>13</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{56822f10-c7f5-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 30 Yard Open Top Out of Stock: WM of Kennewick (300, 310, 340, 390) ]]>
+        </resultTitle>
+        <resultCreated>04/29/2022 02:48:27 PM</resultCreated>
+        <resultModified>04/29/2022 02:48:27 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-29</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>30O - 30 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <tagfield-1625-inputEl />
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>We are completely out of stock for all RO Bin sizes - Deliveries will only be completed as we
+            complete removals from other customers. Please send an email request for new DEL set ups.
+        </agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>18</index>
+            <allowDrop>true</allowDrop>
+            <id>S04085</id>
+            <hrefTarget />
+            <nodeid>S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S04085 - WM of Kennewick</text>
+            <value>S04085 - WM of Kennewick</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>300</id>
+                <hrefTarget />
+                <nodeid>300S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>300 - KENNEWICK</text>
+                <value>300 - KENNEWICK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>310</id>
+                <hrefTarget />
+                <nodeid>310S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>310 - KENNEWICK WUTC</text>
+                <value>310 - KENNEWICK WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>340</id>
+                <hrefTarget />
+                <nodeid>340S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>340 - KENNEWICK PORT O LET</text>
+                <value>340 - KENNEWICK PORT O LET</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>390</id>
+                <hrefTarget />
+                <nodeid>390S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>390 - KENNEWICK COMM RECYCLING</text>
+                <value>390 - KENNEWICK COMM RECYCLING</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>300</id>
+            <hrefTarget />
+            <nodeid>300S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>300 - KENNEWICK</text>
+            <value>300 - KENNEWICK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>310</id>
+            <hrefTarget />
+            <nodeid>310S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>310 - KENNEWICK WUTC</text>
+            <value>310 - KENNEWICK WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>340</id>
+            <hrefTarget />
+            <nodeid>340S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>340 - KENNEWICK PORT O LET</text>
+            <value>340 - KENNEWICK PORT O LET</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>390</id>
+            <hrefTarget />
+            <nodeid>390S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>390 - KENNEWICK COMM RECYCLING</text>
+            <value>390 - KENNEWICK COMM RECYCLING</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>14</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{172baa10-d963-11ec-6292-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ Low Capacity: S04136 WM OF SEATTLE ]]>
+        </resultTitle>
+        <resultCreated>05/21/2022 07:06:55 PM</resultCreated>
+        <resultModified>05/21/2022 07:06:55 PM</resultModified>
+        <resultStarts />
+        <resultExpires>06/04/2022 12:00:00 AM</resultExpires>
+        <delaySeverity>Low Capacity</delaySeverity>
+        <startDate>2022-06-04</startDate>
+        <reasonCode>Personnel</reasonCode>
+        <contentType>capacityoutage</contentType>
+        <title>S04136 WM OF SEATTLE</title>
+        <endDate>2022-06-04</endDate>
+        <agentInstructions />
+        <id>S04136-06042022</id>
+        <siteandcompanies>
+            <id>S04136</id>
+            <name>haulingsite</name>
+            <text>S04136-WM OF SEATTLE</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>440</id>
+            <name>company</name>
+            <text>440 SEATTLE</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>450</id>
+            <name>company</name>
+            <text>450 RENTON</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>400</id>
+            <name>company</name>
+            <text>400 BURIEN</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>410</id>
+            <name>company</name>
+            <text>410 UTC - KING COUNTY</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>430</id>
+            <name>company</name>
+            <text>430 NORMANDY PARK</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>498</id>
+            <name>company</name>
+            <text>498 SEATTLE CAP - CITY</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>493</id>
+            <name>company</name>
+            <text>493 SEATTLE CAP - NON CITY</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>490</id>
+            <name>company</name>
+            <text>490 SEATTLE MSW</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>445</id>
+            <name>company</name>
+            <text>445 SEA MISC CONTRACTS</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>420</id>
+            <name>company</name>
+            <text>420 NEWCASTLE</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>886</id>
+            <name>company</name>
+            <text>886 HEALTH CARE PROCESSING</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>495</id>
+            <name>company</name>
+            <text>495 SEATTLE CDL</text>
+        </siteandcompanies>
+        <siteandcompanies>
+            <id>470</id>
+            <name>company</name>
+            <text>470 TUKWILA</text>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:06 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>15</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{1e71a5e0-b14f-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 20 Yard Open Top Low Stock: Brem-Air Disposal (011, 021, 031, 051) ]]>
+        </resultTitle>
+        <resultCreated>03/31/2022 07:03:11 PM</resultCreated>
+        <resultModified>04/25/2022 11:26:15 AM</resultModified>
+        <resultStarts />
+        <resultExpires>05/31/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-01</startDate>
+        <delaySeverity>Low Stock</delaySeverity>
+        <container>20O - 20 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <tagfield-1081-inputEl />
+        <endDate>2022-05-31</endDate>
+        <agentInstructions>CURRENTLY OUT OR LOW ON ALL 20'S, 30'S AND 40 YARD CONTAINER INVENTORY. PLEASE ADVISE
+            CUSTOMERS WE WILL PROVIDE CONTAINERS AS SOON AS AVAILABLE. PLEASE SET UP FOR THE SIZE THE CUSTOMER PREFERS
+            AND LIST ON THE DELIVERY TICKET THE SECOND SIZE OPTION THEY ARE WILLING TO RECEIVE. </agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>1</index>
+            <allowDrop>true</allowDrop>
+            <id>S02888</id>
+            <hrefTarget />
+            <nodeid>S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S02888 - Brem-Air Disposal</text>
+            <value>S02888 - Brem-Air Disposal</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>011</id>
+                <hrefTarget />
+                <nodeid>011S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>011 - UTC-KITSAP CTY-BREMERTON</text>
+                <value>011 - UTC-KITSAP CTY-BREMERTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>021</id>
+                <hrefTarget />
+                <nodeid>021S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>021 - BREMERTON</text>
+                <value>021 - BREMERTON</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>031</id>
+                <hrefTarget />
+                <nodeid>031S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>031 - PORT ORCHARD</text>
+                <value>031 - PORT ORCHARD</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B00029</bu>
+                <allowDrop>true</allowDrop>
+                <id>051</id>
+                <hrefTarget />
+                <nodeid>051S02888</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S02888</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>051 - GOVT CONTRACTS</text>
+                <value>051 - GOVT CONTRACTS</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>011</id>
+            <hrefTarget />
+            <nodeid>011S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>011 - UTC-KITSAP CTY-BREMERTON</text>
+            <value>011 - UTC-KITSAP CTY-BREMERTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>021</id>
+            <hrefTarget />
+            <nodeid>021S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>021 - BREMERTON</text>
+            <value>021 - BREMERTON</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>031</id>
+            <hrefTarget />
+            <nodeid>031S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>031 - PORT ORCHARD</text>
+            <value>031 - PORT ORCHARD</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B00029</bu>
+            <allowDrop>true</allowDrop>
+            <id>051</id>
+            <hrefTarget />
+            <nodeid>051S02888</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S02888</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>051 - GOVT CONTRACTS</text>
+            <value>051 - GOVT CONTRACTS</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+    <gpResult>
+        <resultIndex>16</resultIndex>
+        <resultScore>96</resultScore>
+        <resultObjId>{39a0b0b0-c7f5-11ec-da55-000000000000}</resultObjId>
+        <resultEksId />
+        <resultVersionId>11905</resultVersionId>
+        <resultObjType>Case</resultObjType>
+        <resultTitle>
+            <![CDATA[ 20 Yard Open Top Out of Stock: WM of Kennewick (300, 310, 340, 390) ]]>
+        </resultTitle>
+        <resultCreated>04/29/2022 02:47:38 PM</resultCreated>
+        <resultModified>04/29/2022 02:47:39 PM</resultModified>
+        <resultStarts />
+        <resultExpires>05/27/2022 12:00:00 AM</resultExpires>
+        <startDate>2022-04-29</startDate>
+        <delaySeverity>Out of Stock</delaySeverity>
+        <container>20O - 20 Yard Open Top</container>
+        <contentType>containershortage</contentType>
+        <tagfield-1445-inputEl />
+        <endDate>2022-05-27</endDate>
+        <agentInstructions>We are completely out of stock for all RO Bin sizes - Deliveries will only be completed as we
+            complete removals from other customers. Please send an email request for new DEL set ups.
+        </agentInstructions>
+        <siteandcompanies>
+            <depth>1</depth>
+            <loaded>true</loaded>
+            <qtitle />
+            <qtip />
+            <isTop>true</isTop>
+            <name>haulingsite</name>
+            <index>18</index>
+            <allowDrop>true</allowDrop>
+            <id>S04085</id>
+            <hrefTarget />
+            <nodeid>S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>false</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>root</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>S04085 - WM of Kennewick</text>
+            <value>S04085 - WM of Kennewick</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/map-pin.png</icon>
+            <expanded>true</expanded>
+            <loading>false</loading>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>0</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>300</id>
+                <hrefTarget />
+                <nodeid>300S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>true</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>300 - KENNEWICK</text>
+                <value>300 - KENNEWICK</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>1</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>310</id>
+                <hrefTarget />
+                <nodeid>310S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>310 - KENNEWICK WUTC</text>
+                <value>310 - KENNEWICK WUTC</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>2</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>340</id>
+                <hrefTarget />
+                <nodeid>340S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>false</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>340 - KENNEWICK PORT O LET</text>
+                <value>340 - KENNEWICK PORT O LET</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+            <children>
+                <depth>2</depth>
+                <loaded>false</loaded>
+                <qtitle />
+                <qtip />
+                <name>company</name>
+                <index>3</index>
+                <bu>B01819</bu>
+                <allowDrop>true</allowDrop>
+                <id>390</id>
+                <hrefTarget />
+                <nodeid>390S04085</nodeid>
+                <allowDrag>true</allowDrag>
+                <leaf>true</leaf>
+                <isLast>true</isLast>
+                <root>false</root>
+                <parentId>S04085</parentId>
+                <isFirst>false</isFirst>
+                <checked>true</checked>
+                <cls />
+                <href />
+                <text>390 - KENNEWICK COMM RECYCLING</text>
+                <value>390 - KENNEWICK COMM RECYCLING</value>
+                <iconCls />
+                <visible>true</visible>
+                <expandable>true</expandable>
+                <qshowDelay>0</qshowDelay>
+                <expanded>false</expanded>
+                <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+                <loading>false</loading>
+                <children>null</children>
+            </children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>0</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>300</id>
+            <hrefTarget />
+            <nodeid>300S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>true</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>300 - KENNEWICK</text>
+            <value>300 - KENNEWICK</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>1</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>310</id>
+            <hrefTarget />
+            <nodeid>310S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>310 - KENNEWICK WUTC</text>
+            <value>310 - KENNEWICK WUTC</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>2</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>340</id>
+            <hrefTarget />
+            <nodeid>340S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>false</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>340 - KENNEWICK PORT O LET</text>
+            <value>340 - KENNEWICK PORT O LET</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <siteandcompanies>
+            <depth>2</depth>
+            <loaded>false</loaded>
+            <qtitle />
+            <qtip />
+            <name>company</name>
+            <index>3</index>
+            <bu>B01819</bu>
+            <allowDrop>true</allowDrop>
+            <id>390</id>
+            <hrefTarget />
+            <nodeid>390S04085</nodeid>
+            <allowDrag>true</allowDrag>
+            <leaf>true</leaf>
+            <isLast>true</isLast>
+            <root>false</root>
+            <parentId>S04085</parentId>
+            <isFirst>false</isFirst>
+            <checked>true</checked>
+            <cls />
+            <href />
+            <text>390 - KENNEWICK COMM RECYCLING</text>
+            <value>390 - KENNEWICK COMM RECYCLING</value>
+            <iconCls />
+            <visible>true</visible>
+            <expandable>true</expandable>
+            <qshowDelay>0</qshowDelay>
+            <expanded>false</expanded>
+            <icon>/eAgent/iq/Ellington/wm/_img/_icons/library/building%20%282%29.png</icon>
+            <loading>false</loading>
+            <children>null</children>
+        </siteandcompanies>
+        <line_of_business>Roll Off</line_of_business>
+        <startTime>12:00 AM</startTime>
+    </gpResult>
+</gpResults>
