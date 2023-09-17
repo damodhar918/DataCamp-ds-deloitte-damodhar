@@ -1,0 +1,66 @@
+{
+  "name": "aws_lambda",
+  "version": "0.1.0",
+  "bin": {
+    "aws_lambda": "bin/aws_lambda.js"
+  },
+  "scripts": {
+    "build:go": "bin/build-go.sh",
+    "build:ts": "tsc",
+    "build": "npm run build:go && npm run build:ts",
+    "watch:ts": "tsc -w",
+    "watch:go": "realize start",
+    "test": "jest",
+    "// CDK scripts": [],
+    "cdk": "cdk",
+    "list": "npm run build && cdk list",
+    "diff": "npm run build && cdk diff",
+    "deploy:s3": "cdk deploy AwsLambdaS3deployStack --require-approval=never",
+    "deploy:apigateway": "cdk deploy AwsLambdaApigatewayStack --require-approval=never",
+    "deploy:all": "npm run deploy:s3 && npm run deploy:apigateway",
+    "deploy": "npm run build && npm run deploy:all",
+    "destroy:s3": "cdk destroy AwsLambdaS3deployStack",
+    "destroy:apigateway": "cdk destroy AwsLambdaApigatewayStack",
+    "// AWS SAM local invocations": [
+      "@example",
+      "  npm run invoke -- authorizer 0",
+      "  npm run invoke -- pets list",
+      "  npm run invoke -- pets read",
+      "  npm run invoke -- pets create"
+    ],
+    "invoke:before-apigateway": "cdk synth AwsLambdaApigatewayStack --no-staging >template.yaml",
+    "invoke:before": "npm run build && npm run invoke:before-apigateway",
+    "invoke:lambda": "bin/invoke-lambda.sh",
+    "invoke": "npm run invoke:before && bin/invoke-lambda.sh",
+    "// Cognito scripts": [
+      "@example",
+      "  npm run cognito:curl -- -v -X GET https://foo.execute-api.ap-northeast-1.amazonaws.com/prod/pets"
+    ],
+    "cognito:curl": "bin/cognito-curl.sh",
+    "// Tools Installation": [],
+    "install:sam": "bin/install-sam.sh"
+  },
+  "devDependencies": {
+    "@aws-cdk/assert": "^1.95.2",
+    "@types/jest": "^24.0.21",
+    "aws-cdk": "^1.95.2",
+    "jest": "^24.9.0",
+    "nanoid-cli": "^1.1.0",
+    "netmask": ">=2.0.1",
+    "prettier": "1.18.2",
+    "ts-jest": "^24.0.2",
+    "ts-node": "^8.1.0",
+    "typescript": "~3.6.2"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.15.0",
+    "@aws-cdk/aws-cognito": "^1.15.0",
+    "@aws-cdk/aws-dynamodb": "^1.15.0",
+    "@aws-cdk/aws-iam": "^1.15.0",
+    "@aws-cdk/aws-lambda": "^1.15.0",
+    "@aws-cdk/aws-s3-deployment": "^1.15.0",
+    "@aws-cdk/aws-secretsmanager": "^1.15.0",
+    "@types/node": "^12.12.0",
+    "source-map-support": "^0.5.16"
+  }
+}
