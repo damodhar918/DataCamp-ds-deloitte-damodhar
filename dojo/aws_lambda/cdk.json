@@ -1,8 +1,0 @@
-{
-  "context": {
-    "owner": "nabinno",
-    "repository": "dojo",
-    "project": "aws_lambda"
-  },
-  "app": "npx ts-node bin/aws_lambda.ts"
-}
