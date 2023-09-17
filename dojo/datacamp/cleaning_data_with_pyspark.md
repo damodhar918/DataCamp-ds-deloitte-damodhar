@@ -450,12 +450,11 @@ print("%d distinct invalid folders found" % invalid_folder_count)
 ## Dog parsing
 ```python
 # Select the dog details and show 10 untruncated rows
-# Select the dog details and show 10 untruncated rows
-print(joined_df.select('dog_list').show(10, truncate=False))
+print(joined_df.select('dog_list').show(truncate=-10))
 
 # Define a schema type for the details in the dog list
 DogType = StructType([
-	StructField("breed", StringType(), False),
+	StructField("breed", IntegerType(), False),
     StructField("start_x", IntegerType(), False),
     StructField("start_y", IntegerType(), False),
     StructField("end_x", IntegerType(), False),
