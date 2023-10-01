@@ -37,3 +37,21 @@ INFO: Unsupported notification method: $/setTrace
 2023.08.19 18:13:37 INFO  Shutting down server
 2023.08.19 18:13:37 INFO  shutting down Metals
 2023.08.19 18:13:37 INFO  Exiting server
+2023.09.26 23:12:31 INFO  Started: Metals version 1.0.1 in folders 'C:\Users\jdamodhar\Desktop\python_essential-\DataCamp-ds-deloitte-master' for client Visual Studio Code 1.82.2.
+Sep 26, 2023 11:12:31 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.21.2 by Redgate
+Sep 26, 2023 11:12:31 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Sep 26, 2023 11:12:31 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Sep 26, 2023 11:12:32 PM org.flywaydb.core.FlywayExecutor execute
+INFO: Database: jdbc:h2:file:C:\Users\jdamodhar\Desktop\python_essential-\DataCamp-ds-deloitte-master\.metals\metals (H2 2.1)
+Sep 26, 2023 11:12:32 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.032s)
+Sep 26, 2023 11:12:32 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Sep 26, 2023 11:12:32 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.09.26 23:12:33 INFO  time: initialize in 1.28s
+2023.09.26 23:12:57 WARN  Build server is not auto-connectable.
+2023.09.26 23:12:57 WARN  no build tool detected in workspace 'C:\Users\jdamodhar\Desktop\python_essential-\DataCamp-ds-deloitte-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
