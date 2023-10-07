@@ -1,0 +1,1000 @@
+SurveyDate,FormalEducation,ConvertedSalary,Hobby,Country,StackOverflowJobsRecommend,VersionControl,Age,Years Experience,Gender,RawSalary,Paid_Job,equal_binned,boundary_binned
+2/28/18 20:20,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,21,13,Male,,0,"(-2000.0, 400000.0]",Very low
+6/28/18 13:26,Bachelor's degree (BA. BS. B.Eng.. etc.),70841.0,Yes,Sweeden,7.0,Git;Subversion,38,9,Male,70841.0,1,"(-2000.0, 400000.0]",Medium
+6/6/18 3:37,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Sweeden,8.0,Git,45,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/9/18 1:06,Some college/university study without earning a degree,21426.0,Yes,Sweeden,7.0,Zip file back-ups,46,12,Male,21426.0,1,"(-2000.0, 400000.0]",Low
+4/12/18 22:41,Bachelor's degree (BA. BS. B.Eng.. etc.),41671.0,Yes,UK,8.0,Git,39,7,Male,41671.0,1,"(-2000.0, 400000.0]",Low
+2/9/18 19:09,Some college/university study without earning a degree,120000.0,Yes,Russia,7.0,Git,39,2,Male,120000.0,1,"(-2000.0, 400000.0]",High
+5/25/18 6:11,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git,34,11,Male,,0,"(-2000.0, 400000.0]",Very low
+10/16/18 23:36,Some college/university study without earning a degree,250000.0,Yes,France,7.0,Git,24,2,Female,250000.0,1,"(-2000.0, 400000.0]",Very high
+10/7/18 22:14,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,10.0,Git,23,17,Male,,0,"(-2000.0, 400000.0]",Very low
+2/24/18 21:36,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,No,France,7.0,Copying and pasting files to network shares,36,2,Not Given,0.0,0,"(-2000.0, 400000.0]",Very low
+5/25/18 22:10,Master's degree (MA. MS. M.Eng.. MBA. etc.),47904.0,Yes,Spain,6.0,Git,26,0,Not Given,47904.0,1,"(-2000.0, 400000.0]",Low
+8/3/18 18:31,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,10.0,Git,42,0,Not Given,,0,"(-2000.0, 400000.0]",Very low
+10/20/18 17:35,Bachelor's degree (BA. BS. B.Eng.. etc.),95968.0,Yes,India,6.0,Git,18,16,Not Given,95968.0,1,"(-2000.0, 400000.0]",Medium
+7/23/18 10:20,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git;Subversion,31,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/2/18 18:25,Bachelor's degree (BA. BS. B.Eng.. etc.),420.0,No,Other,7.0,Copying and pasting files to network shares,21,8,Male,420.0,1,"(-2000.0, 400000.0]",Very low
+10/9/18 23:49,Some college/university study without earning a degree,75000.0,Yes,UK,5.0,Git,22,8,Not Given,75000.0,1,"(-2000.0, 400000.0]",Medium
+8/29/18 1:49,Master's degree (MA. MS. M.Eng.. MBA. etc.),10958.0,Yes,UK,10.0,Git,41,10,Not Given,10958.0,1,"(-2000.0, 400000.0]",Low
+8/21/18 10:48,Master's degree (MA. MS. M.Eng.. MBA. etc.),51408.0,Yes,USA,9.0,Git;Subversion,55,1,Male,51408.0,1,"(-2000.0, 400000.0]",Medium
+4/17/18 21:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),72611.0,Yes,USA,5.0,Git,31,10,Female,72611.0,1,"(-2000.0, 400000.0]",Medium
+9/3/18 19:11,Bachelor's degree (BA. BS. B.Eng.. etc.),900000.0,No,Spain,1.0,Team Foundation Version Control,39,10,Not Given,900000.0,1,"(800000.0, 1200000.0]",Very high
+5/13/18 15:33,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,19,4,Male,,0,"(-2000.0, 400000.0]",Very low
+7/5/18 11:39,Some college/university study without earning a degree,30000.0,No,USA,5.0,Git,28,7,Male,30000.0,1,"(-2000.0, 400000.0]",Low
+8/30/18 10:01,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,7.0,Git,50,14,Male,,0,"(-2000.0, 400000.0]",Very low
+7/22/18 23:09,Bachelor's degree (BA. BS. B.Eng.. etc.),44000.0,Yes,Russia,10.0,Git;Zip file back-ups,18,8,Female;Male;Transgender;Non-binary. genderqueer. or gender non-conforming,44000.0,1,"(-2000.0, 400000.0]",Low
+4/17/18 10:30,Bachelor's degree (BA. BS. B.Eng.. etc.),60000.0,No,USA,7.0,Git,18,12,Female;Male,60000.0,1,"(-2000.0, 400000.0]",Medium
+6/26/18 9:09,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,7.0,Git,30,14,Male,,0,"(-2000.0, 400000.0]",Very low
+4/21/18 4:38,Bachelor's degree (BA. BS. B.Eng.. etc.),80000.0,Yes,Russia,7.0,Git;Mercurial;Subversion,67,12,Male,80000.0,1,"(-2000.0, 400000.0]",Medium
+2/13/18 9:04,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git,39,15,Male,,0,"(-2000.0, 400000.0]",Very low
+2/15/18 13:24,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git,35,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/29/18 13:46,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Russia,10.0,Git;Team Foundation Version Control,41,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/10/18 14:43,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,USA,7.0,Git,30,8,Male,,0,"(-2000.0, 400000.0]",Very low
+1/25/18 22:31,Some college/university study without earning a degree,123984.0,Yes,Spain,7.0,Git,43,7,Male,123984.0,1,"(-2000.0, 400000.0]",High
+10/15/18 14:09,Some college/university study without earning a degree,21228.0,No,Russia,7.0,I don't use version control,38,16,Female,21228.0,1,"(-2000.0, 400000.0]",Low
+5/25/18 12:56,Bachelor's degree (BA. BS. B.Eng.. etc.),74000.0,Yes,Sweeden,6.0,Git;Copying and pasting files to network shares,35,11,Female,74000.0,1,"(-2000.0, 400000.0]",Medium
+3/20/18 5:04,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,42,13,Male,,0,"(-2000.0, 400000.0]",Very low
+6/10/18 21:11,Master's degree (MA. MS. M.Eng.. MBA. etc.),6576.0,Yes,France,7.0,Git,52,4,Male,6576.0,1,"(-2000.0, 400000.0]",Very low
+3/3/18 4:50,Master's degree (MA. MS. M.Eng.. MBA. etc.),115000.0,Yes,USA,9.0,Git,60,12,Male,115000.0,1,"(-2000.0, 400000.0]",High
+5/18/18 21:19,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,10.0,Git,71,6,Male,,0,"(-2000.0, 400000.0]",Very low
+3/30/18 0:36,Associate degree,90000.0,Yes,UK,7.0,Git,34,7,Not Given,90000.0,1,"(-2000.0, 400000.0]",Medium
+9/15/18 18:34,Bachelor's degree (BA. BS. B.Eng.. etc.),115000.0,Yes,France,6.0,Git,22,7,Male,115000.0,1,"(-2000.0, 400000.0]",High
+3/1/18 0:29,Some college/university study without earning a degree,73428.0,No,USA,7.0,Git,43,0,Not Given,73428.0,1,"(-2000.0, 400000.0]",Medium
+10/3/18 10:25,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,India,7.0,Git;Subversion,18,4,Male,,0,"(-2000.0, 400000.0]",Very low
+4/9/18 13:54,Bachelor's degree (BA. BS. B.Eng.. etc.),13212.0,Yes,Other,5.0,Git,35,6,Female,13212.0,1,"(-2000.0, 400000.0]",Low
+6/1/18 19:47,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,7.0,Git,30,15,Male,,0,"(-2000.0, 400000.0]",Very low
+1/14/18 8:48,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Russia,7.0,Git;Copying and pasting files to network shares,21,12,Male,,0,"(-2000.0, 400000.0]",Very low
+5/13/18 13:35,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,UK,7.0,Copying and pasting files to network shares,46,5,Male,,0,"(-2000.0, 400000.0]",Very low
+2/8/18 7:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),120000.0,Yes,South Africa,5.0,Git;Subversion;Zip file back-ups,21,4,Male,120000.0,1,"(-2000.0, 400000.0]",High
+9/27/18 13:41,Bachelor's degree (BA. BS. B.Eng.. etc.),48955.0,Yes,UK,8.0,Git;Subversion,31,8,Male,48955.0,1,"(-2000.0, 400000.0]",Low
+2/18/18 19:03,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git;Copying and pasting files to network shares,52,1,Male,,0,"(-2000.0, 400000.0]",Very low
+2/24/18 12:51,Bachelor's degree (BA. BS. B.Eng.. etc.),19500.0,Yes,UK,7.0,Git;Team Foundation Version Control,29,17,Male;Non-binary. genderqueer. or gender non-conforming,19500.0,1,"(-2000.0, 400000.0]",Low
+8/26/18 4:07,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,USA,10.0,Git,22,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/15/18 0:52,Master's degree (MA. MS. M.Eng.. MBA. etc.),85708.0,Yes,Spain,7.0,Git,60,4,Male,85708.0,1,"(-2000.0, 400000.0]",Medium
+7/6/18 15:17,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,France,7.0,Copying and pasting files to network shares;Zip file back-ups,28,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/3/18 15:37,Bachelor's degree (BA. BS. B.Eng.. etc.),36000.0,Yes,UK,7.0,Git;Subversion,47,7,Male,36000.0,1,"(-2000.0, 400000.0]",Low
+9/14/18 18:33,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git;Subversion;Zip file back-ups,28,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/24/18 8:20,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,62,16,Male,,0,"(-2000.0, 400000.0]",Very low
+4/9/18 17:04,Master's degree (MA. MS. M.Eng.. MBA. etc.),64116.0,No,Spain,10.0,Git;Subversion,18,7,Not Given,64116.0,1,"(-2000.0, 400000.0]",Medium
+4/18/18 10:01,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Russia,7.0,Git,48,3,Male,,0,"(-2000.0, 400000.0]",Very low
+10/24/18 1:55,Bachelor's degree (BA. BS. B.Eng.. etc.),45144.0,Yes,Other,5.0,Git;Subversion;Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,19,6,Male,45144.0,1,"(-2000.0, 400000.0]",Low
+2/19/18 0:12,Bachelor's degree (BA. BS. B.Eng.. etc.),32412.0,Yes,France,7.0,Git,18,14,Not Given,32412.0,1,"(-2000.0, 400000.0]",Low
+1/23/18 6:05,Master's degree (MA. MS. M.Eng.. MBA. etc.),52627.0,Yes,UK,1.0,Git,18,6,Male,52627.0,1,"(-2000.0, 400000.0]",Medium
+6/21/18 16:18,Master's degree (MA. MS. M.Eng.. MBA. etc.),82648.0,Yes,Spain,10.0,Git;Team Foundation Version Control,18,22,Male,82648.0,1,"(-2000.0, 400000.0]",Medium
+7/9/18 17:43,Some college/university study without earning a degree,0.0,Yes,USA,7.0,Git;Team Foundation Version Control,18,11,Male,,0,"(-2000.0, 400000.0]",Very low
+2/24/18 16:20,Bachelor's degree (BA. BS. B.Eng.. etc.),78000.0,Yes,India,7.0,Git,44,9,Male,78000.0,1,"(-2000.0, 400000.0]",Medium
+7/11/18 16:18,Some college/university study without earning a degree,120000.0,Yes,India,7.0,Git,19,13,Male,120000.0,1,"(-2000.0, 400000.0]",High
+6/27/18 19:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),30000.0,No,USA,2.0,Git,32,5,Male,30000.0,1,"(-2000.0, 400000.0]",Low
+6/12/18 23:47,Master's degree (MA. MS. M.Eng.. MBA. etc.),26436.0,Yes,USA,7.0,Git,53,11,Not Given,26436.0,1,"(-2000.0, 400000.0]",Low
+2/22/18 6:03,Master's degree (MA. MS. M.Eng.. MBA. etc.),34440.0,Yes,France,10.0,Git,36,2,Not Given,34440.0,1,"(-2000.0, 400000.0]",Low
+4/7/18 13:38,Bachelor's degree (BA. BS. B.Eng.. etc.),4128.0,Yes,South Africa,7.0,Git,27,10,Not Given,4128.0,1,"(-2000.0, 400000.0]",Very low
+1/16/18 13:45,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Russia,7.0,Subversion,46,18,Male,,0,"(-2000.0, 400000.0]",Very low
+1/30/18 11:37,Primary/elementary school,0.0,Yes,Russia,7.0,Zip file back-ups,49,10,Male,,0,"(-2000.0, 400000.0]",Very low
+3/17/18 17:02,Bachelor's degree (BA. BS. B.Eng.. etc.),141625.0,Yes,South Africa,7.0,Git,25,12,Not Given,141625.0,1,"(-2000.0, 400000.0]",High
+5/23/18 9:18,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,7.0,Copying and pasting files to network shares,44,4,Male,,0,"(-2000.0, 400000.0]",Very low
+8/11/18 13:43,Master's degree (MA. MS. M.Eng.. MBA. etc.),71095.0,Yes,Other,7.0,Git,30,0,Male,71095.0,1,"(-2000.0, 400000.0]",Medium
+3/27/18 7:41,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git,45,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/7/18 3:23,Some college/university study without earning a degree,35244.0,No,Spain,7.0,Git,44,5,Not Given,35244.0,1,"(-2000.0, 400000.0]",Low
+4/20/18 16:09,Master's degree (MA. MS. M.Eng.. MBA. etc.),4696.0,No,South Africa,7.0,Zip file back-ups,34,7,Male,4696.0,1,"(-2000.0, 400000.0]",Very low
+9/29/18 3:34,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git;Team Foundation Version Control,25,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/10/18 18:58,Bachelor's degree (BA. BS. B.Eng.. etc.),120000.0,Yes,Russia,10.0,Git,52,3,Male,120000.0,1,"(-2000.0, 400000.0]",High
+7/26/18 14:02,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Russia,7.0,Copying and pasting files to network shares;Zip file back-ups,22,2,Male,,0,"(-2000.0, 400000.0]",Very low
+9/24/18 14:14,Some college/university study without earning a degree,69452.0,Yes,UK,8.0,Git,46,11,Male,69452.0,1,"(-2000.0, 400000.0]",Medium
+3/12/18 10:45,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),63896.0,Yes,Other,7.0,Git,24,11,Male,63896.0,1,"(-2000.0, 400000.0]",Medium
+8/3/18 16:04,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,France,0.0,Git;Mercurial,25,14,Male,,0,"(-2000.0, 400000.0]",Very low
+3/15/18 20:00,Bachelor's degree (BA. BS. B.Eng.. etc.),63628.0,Yes,Other,8.0,Git,38,5,Male,63628.0,1,"(-2000.0, 400000.0]",Medium
+9/27/18 5:22,Bachelor's degree (BA. BS. B.Eng.. etc.),110000.0,Yes,France,10.0,Git,50,1,Male,110000.0,1,"(-2000.0, 400000.0]",High
+7/6/18 23:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,South Africa,7.0,Team Foundation Version Control;Copying and pasting files to network shares,46,3,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/19/18 2:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Russia,7.0,Git,51,18,Male,,0,"(-2000.0, 400000.0]",Very low
+6/23/18 16:59,Bachelor's degree (BA. BS. B.Eng.. etc.),28680.0,Yes,Spain,7.0,Git,46,7,Not Given,28680.0,1,"(-2000.0, 400000.0]",Low
+6/6/18 0:59,Master's degree (MA. MS. M.Eng.. MBA. etc.),9768.0,Yes,Sweeden,7.0,Git;Subversion,30,15,Not Given,9768.0,1,"(-2000.0, 400000.0]",Very low
+1/15/18 3:37,Master's degree (MA. MS. M.Eng.. MBA. etc.),21418.0,Yes,Sweeden,7.0,Git,40,8,Not Given,21418.0,1,"(-2000.0, 400000.0]",Low
+7/12/18 8:01,Some college/university study without earning a degree,916764.0,Yes,France,2.0,Git,51,8,Male,916764.0,1,"(800000.0, 1200000.0]",Very high
+5/5/18 20:24,Bachelor's degree (BA. BS. B.Eng.. etc.),30597.0,Yes,South Africa,0.0,Git,19,3,Male,30597.0,1,"(-2000.0, 400000.0]",Low
+2/14/18 15:10,Bachelor's degree (BA. BS. B.Eng.. etc.),59980.0,No,India,7.0,Git,29,13,Not Given,59980.0,1,"(-2000.0, 400000.0]",Medium
+10/11/18 17:09,Bachelor's degree (BA. BS. B.Eng.. etc.),228888.0,No,Russia,10.0,Git,33,6,Male,228888.0,1,"(-2000.0, 400000.0]",Very high
+2/23/18 0:33,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,France,7.0,Git,21,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/29/18 12:10,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git,44,10,Male,,0,"(-2000.0, 400000.0]",Very low
+2/12/18 23:20,Master's degree (MA. MS. M.Eng.. MBA. etc.),42348.0,Yes,USA,7.0,Git,41,8,Male,42348.0,1,"(-2000.0, 400000.0]",Low
+9/22/18 15:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),48955.0,Yes,India,7.0,Git;Subversion,20,11,Male,48955.0,1,"(-2000.0, 400000.0]",Low
+6/20/18 23:19,Bachelor's degree (BA. BS. B.Eng.. etc.),37572.0,Yes,UK,7.0,Git,43,9,Not Given,37572.0,1,"(-2000.0, 400000.0]",Low
+9/15/18 0:46,Some college/university study without earning a degree,34726.0,Yes,France,7.0,Git,35,1,Male,34726.0,1,"(-2000.0, 400000.0]",Low
+9/24/18 19:09,Master's degree (MA. MS. M.Eng.. MBA. etc.),55392.0,Yes,USA,10.0,Git,25,18,Male,55392.0,1,"(-2000.0, 400000.0]",Medium
+7/29/18 18:35,Bachelor's degree (BA. BS. B.Eng.. etc.),27708.0,Yes,Sweeden,9.0,Git;Subversion,44,10,Male,27708.0,1,"(-2000.0, 400000.0]",Low
+7/12/18 11:55,Bachelor's degree (BA. BS. B.Eng.. etc.),70000.0,Yes,France,7.0,I don't use version control,36,12,Not Given,70000.0,1,"(-2000.0, 400000.0]",Medium
+6/3/18 14:53,Master's degree (MA. MS. M.Eng.. MBA. etc.),59172.0,Yes,Spain,7.0,Git;Subversion,38,12,Male,59172.0,1,"(-2000.0, 400000.0]",Medium
+9/29/18 13:45,Master's degree (MA. MS. M.Eng.. MBA. etc.),59980.0,Yes,South Africa,5.0,Git,36,9,Not Given,59980.0,1,"(-2000.0, 400000.0]",Medium
+5/31/18 13:02,Bachelor's degree (BA. BS. B.Eng.. etc.),91969.0,Yes,Spain,7.0,Git;Mercurial,25,14,Male,91969.0,1,"(-2000.0, 400000.0]",Medium
+3/6/18 1:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),9984.0,Yes,USA,10.0,Git;Team Foundation Version Control,24,6,Male,9984.0,1,"(-2000.0, 400000.0]",Very low
+1/10/18 0:46,Bachelor's degree (BA. BS. B.Eng.. etc.),55075.0,Yes,South Africa,7.0,Git,60,12,Not Given,55075.0,1,"(-2000.0, 400000.0]",Medium
+8/14/18 11:59,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,3.0,Git,41,8,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/13/18 13:14,Some college/university study without earning a degree,87971.0,Yes,Spain,7.0,Copying and pasting files to network shares,51,12,Not Given,87971.0,1,"(-2000.0, 400000.0]",Medium
+2/1/18 0:50,Master's degree (MA. MS. M.Eng.. MBA. etc.),7512.0,Yes,UK,10.0,Git,48,14,Male,7512.0,1,"(-2000.0, 400000.0]",Very low
+8/15/18 9:44,Bachelor's degree (BA. BS. B.Eng.. etc.),105000.0,No,Spain,8.0,Git,18,10,Male,105000.0,1,"(-2000.0, 400000.0]",High
+6/17/18 10:34,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,Team Foundation Version Control,41,13,Male,,0,"(-2000.0, 400000.0]",Very low
+8/16/18 16:26,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,UK,7.0,Git,24,9,Male,,0,"(-2000.0, 400000.0]",Very low
+8/10/18 17:53,Associate degree,105000.0,Yes,USA,7.0,Git,33,6,Male,105000.0,1,"(-2000.0, 400000.0]",High
+9/11/18 15:40,Some college/university study without earning a degree,0.0,Yes,USA,7.0,Git,26,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/16/18 3:24,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Other,7.0,Subversion,32,7,Male,,0,"(-2000.0, 400000.0]",Very low
+8/9/18 5:06,Bachelor's degree (BA. BS. B.Eng.. etc.),36000.0,Yes,Russia,8.0,Git;Team Foundation Version Control,21,12,Male,36000.0,1,"(-2000.0, 400000.0]",Low
+2/15/18 4:19,Bachelor's degree (BA. BS. B.Eng.. etc.),120000.0,Yes,Spain,7.0,Git;Subversion,24,9,Male,120000.0,1,"(-2000.0, 400000.0]",High
+4/19/18 1:36,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),61680.0,Yes,South Africa,8.0,Git,36,7,Not Given,61680.0,1,"(-2000.0, 400000.0]",Medium
+7/26/18 20:14,Professional degree (JD. MD. etc.),42836.0,Yes,Other,5.0,Git,43,10,Male,42836.0,1,"(-2000.0, 400000.0]",Low
+7/26/18 11:08,Some college/university study without earning a degree,29532.0,Yes,South Africa,5.0,Git,46,0,Not Given,29532.0,1,"(-2000.0, 400000.0]",Low
+8/29/18 15:58,Master's degree (MA. MS. M.Eng.. MBA. etc.),64866.0,No,Sweeden,7.0,Team Foundation Version Control,60,9,Not Given,64866.0,1,"(-2000.0, 400000.0]",Medium
+8/6/18 12:09,Associate degree,77000.0,Yes,South Africa,8.0,Git,58,6,Male,77000.0,1,"(-2000.0, 400000.0]",Medium
+5/19/18 0:12,Master's degree (MA. MS. M.Eng.. MBA. etc.),36000.0,Yes,UK,7.0,Git;Subversion;Team Foundation Version Control,39,12,Male,36000.0,1,"(-2000.0, 400000.0]",Low
+6/9/18 20:20,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Russia,7.0,Git,24,0,Male,,0,"(-2000.0, 400000.0]",Very low
+9/14/18 5:46,Some college/university study without earning a degree,97000.0,Yes,France,4.0,Git;Team Foundation Version Control,39,13,Male,97000.0,1,"(-2000.0, 400000.0]",Medium
+10/16/18 15:07,Some college/university study without earning a degree,0.0,No,India,7.0,Git;Subversion,32,7,Male,,0,"(-2000.0, 400000.0]",Very low
+9/23/18 19:08,Bachelor's degree (BA. BS. B.Eng.. etc.),45838.0,Yes,USA,7.0,Git;Subversion;Team Foundation Version Control,31,10,Male,45838.0,1,"(-2000.0, 400000.0]",Low
+3/18/18 4:28,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),59880.0,Yes,Spain,9.0,Git;Subversion,43,5,Male,59880.0,1,"(-2000.0, 400000.0]",Medium
+10/12/18 0:50,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),48955.0,No,UK,7.0,Git,26,4,Not Given,48955.0,1,"(-2000.0, 400000.0]",Low
+8/2/18 19:55,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),6732.0,Yes,India,7.0,Git,54,16,Male,6732.0,1,"(-2000.0, 400000.0]",Very low
+5/31/18 4:41,Master's degree (MA. MS. M.Eng.. MBA. etc.),125000.0,Yes,UK,7.0,Git,32,13,Male,125000.0,1,"(-2000.0, 400000.0]",High
+7/30/18 2:56,Bachelor's degree (BA. BS. B.Eng.. etc.),72469.0,Yes,Spain,10.0,Git;Mercurial;Subversion,40,10,Male,72469.0,1,"(-2000.0, 400000.0]",Medium
+1/4/18 14:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,India,7.0,Git;Subversion,29,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/3/18 18:07,Bachelor's degree (BA. BS. B.Eng.. etc.),11808.0,Yes,Sweeden,7.0,Git,38,4,Not Given,11808.0,1,"(-2000.0, 400000.0]",Low
+1/4/18 8:26,Some college/university study without earning a degree,0.0,Yes,UK,7.0,Git;Team Foundation Version Control,39,11,Male,,0,"(-2000.0, 400000.0]",Very low
+3/21/18 20:41,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),39648.0,No,Sweeden,5.0,Git,34,11,Not Given,39648.0,1,"(-2000.0, 400000.0]",Low
+3/28/18 7:29,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git,20,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/25/18 14:20,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,8.0,Subversion,18,5,Male,,0,"(-2000.0, 400000.0]",Very low
+10/22/18 19:56,Bachelor's degree (BA. BS. B.Eng.. etc.),62507.0,Yes,Sweeden,5.0,Git,63,7,Male,62507.0,1,"(-2000.0, 400000.0]",Medium
+1/3/18 23:54,Some college/university study without earning a degree,29373.0,Yes,Spain,7.0,Git,51,4,Male,29373.0,1,"(-2000.0, 400000.0]",Low
+8/26/18 5:48,Bachelor's degree (BA. BS. B.Eng.. etc.),74482.0,No,South Africa,7.0,Subversion,45,9,Male,74482.0,1,"(-2000.0, 400000.0]",Medium
+7/31/18 12:42,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,USA,7.0,Git,27,8,Male,,0,"(-2000.0, 400000.0]",Very low
+4/10/18 17:11,Some college/university study without earning a degree,12960.0,Yes,UK,10.0,Git,34,14,Male,12960.0,1,"(-2000.0, 400000.0]",Low
+7/24/18 23:12,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,10.0,Git;Mercurial;Subversion,29,9,Male,,0,"(-2000.0, 400000.0]",Very low
+8/6/18 20:05,Bachelor's degree (BA. BS. B.Eng.. etc.),73433.0,Yes,South Africa,10.0,Git,32,12,Male,73433.0,1,"(-2000.0, 400000.0]",Medium
+7/7/18 15:17,Bachelor's degree (BA. BS. B.Eng.. etc.),1080000.0,Yes,India,8.0,Git,24,12,Male,1080000.0,1,"(800000.0, 1200000.0]",Very high
+7/17/18 9:42,Bachelor's degree (BA. BS. B.Eng.. etc.),90288.0,Yes,India,1.0,Git,18,2,Not Given,90288.0,1,"(-2000.0, 400000.0]",Medium
+3/16/18 20:51,Bachelor's degree (BA. BS. B.Eng.. etc.),122388.0,Yes,Russia,8.0,Git,34,15,Male,122388.0,1,"(-2000.0, 400000.0]",High
+8/23/18 13:55,Some college/university study without earning a degree,37084.0,Yes,Sweeden,10.0,Subversion,44,10,Male,37084.0,1,"(-2000.0, 400000.0]",Low
+2/14/18 13:19,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),11748.0,Yes,USA,7.0,Git;Subversion,40,8,Not Given,11748.0,1,"(-2000.0, 400000.0]",Low
+2/10/18 3:20,Associate degree,100000.0,No,India,7.0,I don't use version control,28,8,Not Given,100000.0,1,"(-2000.0, 400000.0]",Medium
+6/18/18 13:34,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,Spain,7.0,Git;Subversion,35,16,Male,,0,"(-2000.0, 400000.0]",Very low
+1/17/18 4:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),60000.0,Yes,Sweeden,10.0,Git,25,5,Male,60000.0,1,"(-2000.0, 400000.0]",Medium
+9/22/18 12:42,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git;Team Foundation Version Control,33,8,Male,,0,"(-2000.0, 400000.0]",Very low
+6/8/18 22:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),10440.0,Yes,USA,7.0,Git;Team Foundation Version Control,19,6,Not Given,10440.0,1,"(-2000.0, 400000.0]",Low
+8/13/18 23:02,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,7.0,Git,34,0,Male,,0,"(-2000.0, 400000.0]",Very low
+6/19/18 18:26,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git;Zip file back-ups,44,17,Male,,0,"(-2000.0, 400000.0]",Very low
+5/17/18 12:46,Master's degree (MA. MS. M.Eng.. MBA. etc.),46992.0,No,India,7.0,Git,44,19,Male,46992.0,1,"(-2000.0, 400000.0]",Low
+2/26/18 4:05,Bachelor's degree (BA. BS. B.Eng.. etc.),61580.0,No,Sweeden,5.0,Git;Subversion;Team Foundation Version Control,23,1,Male,61580.0,1,"(-2000.0, 400000.0]",Medium
+6/7/18 18:33,Bachelor's degree (BA. BS. B.Eng.. etc.),26612.0,Yes,UK,7.0,Git,39,10,Male,26612.0,1,"(-2000.0, 400000.0]",Low
+2/5/18 4:26,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,10.0,Git;Subversion,21,17,Male,,0,"(-2000.0, 400000.0]",Very low
+5/22/18 13:48,Bachelor's degree (BA. BS. B.Eng.. etc.),18780.0,Yes,Spain,7.0,Git,20,11,Not Given,18780.0,1,"(-2000.0, 400000.0]",Low
+9/26/18 11:15,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Team Foundation Version Control,21,13,Male,,0,"(-2000.0, 400000.0]",Very low
+1/20/18 17:57,Some college/university study without earning a degree,23440.0,Yes,USA,7.0,Git;Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,63,9,Not Given,23440.0,1,"(-2000.0, 400000.0]",Low
+1/4/18 2:56,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),42836.0,Yes,UK,7.0,Git,48,11,Male,42836.0,1,"(-2000.0, 400000.0]",Low
+4/30/18 17:30,Master's degree (MA. MS. M.Eng.. MBA. etc.),3569.0,Yes,India,10.0,Git;Copying and pasting files to network shares,38,1,Not Given,3569.0,1,"(-2000.0, 400000.0]",Very low
+4/21/18 6:43,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git;Mercurial;Copying and pasting files to network shares;Zip file back-ups,29,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/9/18 1:40,Bachelor's degree (BA. BS. B.Eng.. etc.),1140000.0,Yes,Sweeden,7.0,Subversion,38,13,Male,1140000.0,1,"(800000.0, 1200000.0]",Very high
+3/6/18 18:22,Bachelor's degree (BA. BS. B.Eng.. etc.),1879.0,Yes,Spain,5.0,Git;Mercurial,60,14,Male,1879.0,1,"(-2000.0, 400000.0]",Very low
+8/9/18 8:21,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,37,15,Male,,0,"(-2000.0, 400000.0]",Very low
+5/8/18 13:59,Some college/university study without earning a degree,79552.0,Yes,USA,7.0,Git,23,11,Not Given,79552.0,1,"(-2000.0, 400000.0]",Medium
+5/22/18 8:44,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,6.0,Git,55,13,Male,,0,"(-2000.0, 400000.0]",Very low
+9/15/18 7:24,Bachelor's degree (BA. BS. B.Eng.. etc.),46963.0,No,Russia,7.0,Git,44,18,Not Given,46963.0,1,"(-2000.0, 400000.0]",Low
+5/7/18 4:25,Master's degree (MA. MS. M.Eng.. MBA. etc.),8140.0,Yes,USA,10.0,Team Foundation Version Control,18,7,Male,8140.0,1,"(-2000.0, 400000.0]",Very low
+8/13/18 9:00,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,7.0,Git;Subversion,21,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/5/18 19:11,Bachelor's degree (BA. BS. B.Eng.. etc.),81000.0,Yes,USA,8.0,Git,35,15,Male,81000.0,1,"(-2000.0, 400000.0]",Medium
+10/14/18 22:41,Other doctoral degree (Ph.D. Ed.D.. etc.),440592.0,Yes,USA,7.0,Git;Team Foundation Version Control,26,15,Male,440592.0,1,"(400000.0, 800000.0]",Very high
+6/6/18 13:00,Associate degree,20244.0,Yes,France,7.0,Git,30,11,Male,20244.0,1,"(-2000.0, 400000.0]",Low
+9/21/18 4:14,Some college/university study without earning a degree,0.0,Yes,France,10.0,Git;Copying and pasting files to network shares;Zip file back-ups,35,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/24/18 10:00,Master's degree (MA. MS. M.Eng.. MBA. etc.),33528.0,Yes,South Africa,2.0,Git;Subversion,36,15,Male,33528.0,1,"(-2000.0, 400000.0]",Low
+2/13/18 23:20,Bachelor's degree (BA. BS. B.Eng.. etc.),65000.0,Yes,USA,7.0,Git;Copying and pasting files to network shares,32,14,Male,65000.0,1,"(-2000.0, 400000.0]",Medium
+4/14/18 14:04,Bachelor's degree (BA. BS. B.Eng.. etc.),21708.0,Yes,USA,8.0,Git,63,7,Not Given,21708.0,1,"(-2000.0, 400000.0]",Low
+9/8/18 17:23,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),58746.0,Yes,Spain,8.0,Git,35,18,Male,58746.0,1,"(-2000.0, 400000.0]",Medium
+4/30/18 3:12,Bachelor's degree (BA. BS. B.Eng.. etc.),52783.0,No,India,7.0,Git,18,11,Not Given,52783.0,1,"(-2000.0, 400000.0]",Medium
+6/4/18 1:14,Master's degree (MA. MS. M.Eng.. MBA. etc.),32316.0,No,USA,0.0,Git,39,13,Male,32316.0,1,"(-2000.0, 400000.0]",Low
+8/8/18 22:33,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,Spain,7.0,Git,33,5,Male,,0,"(-2000.0, 400000.0]",Very low
+10/23/18 19:01,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git,34,5,Male,,0,"(-2000.0, 400000.0]",Very low
+4/26/18 0:21,Some college/university study without earning a degree,8496.0,No,UK,7.0,Git,29,5,Not Given,8496.0,1,"(-2000.0, 400000.0]",Very low
+9/14/18 11:12,Master's degree (MA. MS. M.Eng.. MBA. etc.),45895.0,Yes,USA,10.0,Git;Subversion,18,11,Male,45895.0,1,"(-2000.0, 400000.0]",Low
+4/2/18 3:49,Some college/university study without earning a degree,9552.0,Yes,India,7.0,Subversion,18,17,Female,9552.0,1,"(-2000.0, 400000.0]",Very low
+9/13/18 20:48,Bachelor's degree (BA. BS. B.Eng.. etc.),4512.0,Yes,France,7.0,Git,31,6,Not Given,4512.0,1,"(-2000.0, 400000.0]",Very low
+2/8/18 10:18,Bachelor's degree (BA. BS. B.Eng.. etc.),38510.0,Yes,UK,6.0,Git,34,10,Male,38510.0,1,"(-2000.0, 400000.0]",Low
+6/5/18 12:15,Bachelor's degree (BA. BS. B.Eng.. etc.),105000.0,Yes,France,5.0,Git,42,23,Male,105000.0,1,"(-2000.0, 400000.0]",High
+5/22/18 19:31,Bachelor's degree (BA. BS. B.Eng.. etc.),47227.0,Yes,USA,5.0,Git;Mercurial,59,3,Male,47227.0,1,"(-2000.0, 400000.0]",Low
+1/5/18 19:09,Associate degree,20808.0,Yes,UK,6.0,Git,45,0,Not Given,20808.0,1,"(-2000.0, 400000.0]",Low
+1/9/18 7:01,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,I don't use version control,83,14,Male,,0,"(-2000.0, 400000.0]",Very low
+4/6/18 23:31,Master's degree (MA. MS. M.Eng.. MBA. etc.),100000.0,No,Sweeden,7.0,Team Foundation Version Control,26,11,Male,100000.0,1,"(-2000.0, 400000.0]",Medium
+2/22/18 9:18,Some college/university study without earning a degree,0.0,Yes,Russia,4.0,Git,45,3,Male,,0,"(-2000.0, 400000.0]",Very low
+8/26/18 19:43,Master's degree (MA. MS. M.Eng.. MBA. etc.),33972.0,No,USA,8.0,Git,36,8,Male,33972.0,1,"(-2000.0, 400000.0]",Low
+2/23/18 5:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Russia,10.0,Git;Subversion,24,7,Male,,0,"(-2000.0, 400000.0]",Very low
+3/24/18 0:36,Some college/university study without earning a degree,2000000.0,Yes,Russia,10.0,Git,31,15,Male,2000000.0,1,"(1600000.0, 2000000.0]",Very high
+7/17/18 9:04,Bachelor's degree (BA. BS. B.Eng.. etc.),74856.0,Yes,France,10.0,Git,73,13,Male,74856.0,1,"(-2000.0, 400000.0]",Medium
+1/14/18 19:13,Master's degree (MA. MS. M.Eng.. MBA. etc.),44060.0,Yes,France,6.0,Git,21,9,Male,44060.0,1,"(-2000.0, 400000.0]",Low
+7/24/18 11:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),140000.0,Yes,USA,7.0,Git,48,13,Not Given,140000.0,1,"(-2000.0, 400000.0]",High
+10/10/18 4:37,Bachelor's degree (BA. BS. B.Eng.. etc.),7140.0,Yes,Spain,7.0,Git,40,12,Not Given,7140.0,1,"(-2000.0, 400000.0]",Very low
+9/28/18 19:41,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,36,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+10/23/18 5:58,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Git,19,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/22/18 1:37,Bachelor's degree (BA. BS. B.Eng.. etc.),59500.0,Yes,France,10.0,Mercurial,46,7,Not Given,59500.0,1,"(-2000.0, 400000.0]",Medium
+6/8/18 4:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,4.0,Git;Team Foundation Version Control,20,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/1/18 18:38,Some college/university study without earning a degree,0.0,No,USA,5.0,Subversion;Team Foundation Version Control,22,12,Male,,0,"(-2000.0, 400000.0]",Very low
+5/2/18 17:26,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,Git,52,2,Male,,0,"(-2000.0, 400000.0]",Very low
+4/27/18 6:07,Associate degree,56172.0,Yes,Sweeden,7.0,Team Foundation Version Control,22,9,Male,56172.0,1,"(-2000.0, 400000.0]",Medium
+10/12/18 8:26,Bachelor's degree (BA. BS. B.Eng.. etc.),2820.0,Yes,Spain,7.0,Git,36,9,Not Given,2820.0,1,"(-2000.0, 400000.0]",Very low
+3/31/18 4:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),51394.0,Yes,France,5.0,Git,39,6,Male,51394.0,1,"(-2000.0, 400000.0]",Medium
+7/12/18 23:11,Master's degree (MA. MS. M.Eng.. MBA. etc.),83342.0,Yes,Russia,10.0,Team Foundation Version Control,23,8,Male,83342.0,1,"(-2000.0, 400000.0]",Medium
+3/24/18 14:06,Some college/university study without earning a degree,0.0,Yes,Other,5.0,Git;Subversion;Team Foundation Version Control,19,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+10/4/18 21:06,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Sweeden,7.0,Git,22,18,Male,,0,"(-2000.0, 400000.0]",Very low
+7/4/18 2:37,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,7.0,Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,18,2,Male,,0,"(-2000.0, 400000.0]",Very low
+4/29/18 14:53,Bachelor's degree (BA. BS. B.Eng.. etc.),62507.0,Yes,Spain,7.0,Git,29,17,Not Given,62507.0,1,"(-2000.0, 400000.0]",Medium
+9/6/18 7:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),55075.0,Yes,USA,6.0,Git,25,8,Female,55075.0,1,"(-2000.0, 400000.0]",Medium
+8/18/18 6:41,Bachelor's degree (BA. BS. B.Eng.. etc.),40392.0,Yes,Sweeden,7.0,Git;Zip file back-ups,29,15,Not Given,40392.0,1,"(-2000.0, 400000.0]",Low
+7/28/18 11:46,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Spain,7.0,Git;Mercurial;Team Foundation Version Control,18,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/7/18 12:30,Master's degree (MA. MS. M.Eng.. MBA. etc.),42456.0,Yes,South Africa,7.0,Git;Mercurial;Team Foundation Version Control,46,5,Male,42456.0,1,"(-2000.0, 400000.0]",Low
+4/18/18 14:46,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,France,7.0,Team Foundation Version Control,45,9,Male,,0,"(-2000.0, 400000.0]",Very low
+5/14/18 15:35,Bachelor's degree (BA. BS. B.Eng.. etc.),72500.0,No,India,7.0,Git,46,5,Male,72500.0,1,"(-2000.0, 400000.0]",Medium
+7/17/18 0:56,Some college/university study without earning a degree,0.0,Yes,Sweeden,7.0,I don't use version control,37,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/17/18 11:40,Bachelor's degree (BA. BS. B.Eng.. etc.),65285.0,Yes,South Africa,5.0,Git;Subversion,33,9,Not Given,65285.0,1,"(-2000.0, 400000.0]",Medium
+5/13/18 20:47,Professional degree (JD. MD. etc.),0.0,Yes,Russia,7.0,Git,37,10,Male,,0,"(-2000.0, 400000.0]",Very low
+7/8/18 3:37,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Git,23,4,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/6/18 18:11,Bachelor's degree (BA. BS. B.Eng.. etc.),75000.0,Yes,USA,7.0,Git,40,8,Female,75000.0,1,"(-2000.0, 400000.0]",Medium
+5/8/18 23:39,Some college/university study without earning a degree,58752.0,No,South Africa,7.0,Git,29,8,Not Given,58752.0,1,"(-2000.0, 400000.0]",Medium
+7/11/18 9:38,Master's degree (MA. MS. M.Eng.. MBA. etc.),70000.0,Yes,India,7.0,Subversion;Copying and pasting files to network shares;Zip file back-ups,25,4,Male,70000.0,1,"(-2000.0, 400000.0]",Medium
+3/28/18 14:20,Bachelor's degree (BA. BS. B.Eng.. etc.),185000.0,Yes,Sweeden,8.0,Git,32,11,Male,185000.0,1,"(-2000.0, 400000.0]",Very high
+6/17/18 1:32,Professional degree (JD. MD. etc.),37940.0,No,India,5.0,Git,35,12,Male,37940.0,1,"(-2000.0, 400000.0]",Low
+4/26/18 1:05,Some college/university study without earning a degree,0.0,Yes,Russia,10.0,Git;Subversion;Team Foundation Version Control,47,2,Male,,0,"(-2000.0, 400000.0]",Very low
+10/23/18 14:31,Master's degree (MA. MS. M.Eng.. MBA. etc.),21916.0,Yes,Spain,9.0,Git;Subversion,45,17,Not Given,21916.0,1,"(-2000.0, 400000.0]",Low
+5/31/18 11:25,Master's degree (MA. MS. M.Eng.. MBA. etc.),125000.0,Yes,South Africa,7.0,Git,48,7,Male,125000.0,1,"(-2000.0, 400000.0]",High
+9/18/18 14:28,Bachelor's degree (BA. BS. B.Eng.. etc.),25000.0,Yes,UK,1.0,Git,43,7,Not Given,25000.0,1,"(-2000.0, 400000.0]",Low
+2/6/18 7:17,Bachelor's degree (BA. BS. B.Eng.. etc.),32000.0,No,India,7.0,I don't use version control,51,6,Male,32000.0,1,"(-2000.0, 400000.0]",Low
+2/18/18 16:00,Bachelor's degree (BA. BS. B.Eng.. etc.),3757.0,Yes,Sweeden,7.0,Team Foundation Version Control;Copying and pasting files to network shares,51,0,Male,3757.0,1,"(-2000.0, 400000.0]",Very low
+10/15/18 2:13,Professional degree (JD. MD. etc.),22884.0,No,Sweeden,7.0,Git,36,15,Female,22884.0,1,"(-2000.0, 400000.0]",Low
+8/15/18 5:07,Master's degree (MA. MS. M.Eng.. MBA. etc.),75504.0,Yes,India,5.0,Git;Mercurial,32,5,Male,75504.0,1,"(-2000.0, 400000.0]",Medium
+3/5/18 13:24,Bachelor's degree (BA. BS. B.Eng.. etc.),52404.0,Yes,Russia,2.0,Git,43,11,Male,52404.0,1,"(-2000.0, 400000.0]",Medium
+6/14/18 5:49,Bachelor's degree (BA. BS. B.Eng.. etc.),187152.0,Yes,France,10.0,Git,19,13,Not Given,187152.0,1,"(-2000.0, 400000.0]",Very high
+3/16/18 14:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),52872.0,Yes,Spain,8.0,Git;Copying and pasting files to network shares,34,12,Male,52872.0,1,"(-2000.0, 400000.0]",Medium
+3/26/18 8:24,Bachelor's degree (BA. BS. B.Eng.. etc.),126403.0,No,Sweeden,10.0,Git;Mercurial,23,10,Male,126403.0,1,"(-2000.0, 400000.0]",High
+1/18/18 0:55,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git;Subversion,39,8,Not Given,,0,"(-2000.0, 400000.0]",Very low
+10/16/18 11:16,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git;Copying and pasting files to network shares,23,15,Male,,0,"(-2000.0, 400000.0]",Very low
+3/10/18 4:03,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,France,9.0,Git;Mercurial,38,10,Male,,0,"(-2000.0, 400000.0]",Very low
+3/3/18 23:36,Master's degree (MA. MS. M.Eng.. MBA. etc.),235000.0,Yes,France,10.0,Git,39,6,Male,235000.0,1,"(-2000.0, 400000.0]",Very high
+4/21/18 20:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,India,7.0,Git,30,16,Male,,0,"(-2000.0, 400000.0]",Very low
+8/12/18 13:28,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git;Team Foundation Version Control,38,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/29/18 11:24,Some college/university study without earning a degree,0.0,Yes,Russia,7.0,Git;Zip file back-ups,43,5,Male,,0,"(-2000.0, 400000.0]",Very low
+8/30/18 20:58,Bachelor's degree (BA. BS. B.Eng.. etc.),55562.0,No,USA,5.0,Git,46,8,Male,55562.0,1,"(-2000.0, 400000.0]",Medium
+6/30/18 1:34,Bachelor's degree (BA. BS. B.Eng.. etc.),125000.0,Yes,Sweeden,7.0,Git,34,12,Female,125000.0,1,"(-2000.0, 400000.0]",High
+7/21/18 18:43,Bachelor's degree (BA. BS. B.Eng.. etc.),13284.0,No,UK,8.0,Git,67,6,Male,13284.0,1,"(-2000.0, 400000.0]",Low
+10/7/18 19:19,Bachelor's degree (BA. BS. B.Eng.. etc.),87971.0,Yes,Sweeden,5.0,Git;Team Foundation Version Control,31,6,Not Given,87971.0,1,"(-2000.0, 400000.0]",Medium
+1/4/18 18:36,Master's degree (MA. MS. M.Eng.. MBA. etc.),10572.0,No,Spain,6.0,Git,43,16,Male,10572.0,1,"(-2000.0, 400000.0]",Low
+7/23/18 13:19,Some college/university study without earning a degree,48955.0,Yes,Spain,7.0,Git,42,4,Male,48955.0,1,"(-2000.0, 400000.0]",Low
+5/7/18 0:16,Some college/university study without earning a degree,155000.0,Yes,France,0.0,Git,65,1,Male,155000.0,1,"(-2000.0, 400000.0]",Very high
+6/21/18 12:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,10.0,Git;Subversion;Team Foundation Version Control,52,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/25/18 5:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,India,7.0,I don't use version control,58,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/31/18 0:36,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git;Subversion,20,6,Male,,0,"(-2000.0, 400000.0]",Very low
+7/3/18 12:08,Some college/university study without earning a degree,52339.0,Yes,France,7.0,Git,59,9,Not Given,52339.0,1,"(-2000.0, 400000.0]",Medium
+4/13/18 21:14,Other doctoral degree (Ph.D. Ed.D.. etc.),113000.0,No,Russia,7.0,Git,18,4,Male,113000.0,1,"(-2000.0, 400000.0]",High
+6/14/18 0:53,Bachelor's degree (BA. BS. B.Eng.. etc.),127000.0,No,Spain,7.0,Git,18,2,Male,127000.0,1,"(-2000.0, 400000.0]",High
+4/17/18 12:17,Some college/university study without earning a degree,56544.0,Yes,Russia,7.0,Git,21,19,Male,56544.0,1,"(-2000.0, 400000.0]",Medium
+4/1/18 3:26,Bachelor's degree (BA. BS. B.Eng.. etc.),47000.0,Yes,USA,7.0,Git;Team Foundation Version Control,29,17,Female,47000.0,1,"(-2000.0, 400000.0]",Low
+4/17/18 0:44,Some college/university study without earning a degree,110000.0,Yes,USA,7.0,Git,48,9,Male,110000.0,1,"(-2000.0, 400000.0]",High
+4/30/18 0:36,Bachelor's degree (BA. BS. B.Eng.. etc.),11741.0,Yes,France,4.0,Git,54,8,Male,11741.0,1,"(-2000.0, 400000.0]",Low
+7/1/18 17:21,Associate degree,10000.0,Yes,Russia,7.0,Git;Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,18,7,Male,10000.0,1,"(-2000.0, 400000.0]",Very low
+10/4/18 13:24,Bachelor's degree (BA. BS. B.Eng.. etc.),64000.0,No,USA,7.0,Git;Subversion,53,11,Not Given,64000.0,1,"(-2000.0, 400000.0]",Medium
+1/30/18 16:43,Primary/elementary school,9840.0,Yes,Sweeden,7.0,Team Foundation Version Control,48,4,Male,9840.0,1,"(-2000.0, 400000.0]",Very low
+8/13/18 19:46,Professional degree (JD. MD. etc.),0.0,Yes,Sweeden,7.0,Git,20,16,Male,,0,"(-2000.0, 400000.0]",Very low
+1/14/18 2:02,Bachelor's degree (BA. BS. B.Eng.. etc.),90000.0,No,Russia,7.0,Git,55,8,Male,90000.0,1,"(-2000.0, 400000.0]",Medium
+3/17/18 10:53,Associate degree,43482.0,No,France,7.0,Git;Subversion,70,14,Male,43482.0,1,"(-2000.0, 400000.0]",Low
+3/13/18 6:42,Bachelor's degree (BA. BS. B.Eng.. etc.),63529.0,Yes,South Africa,8.0,Git,18,6,Male,63529.0,1,"(-2000.0, 400000.0]",Medium
+2/6/18 13:50,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,18,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/18/18 20:38,Bachelor's degree (BA. BS. B.Eng.. etc.),140000.0,Yes,Sweeden,10.0,Git,26,14,Male,140000.0,1,"(-2000.0, 400000.0]",High
+3/13/18 14:13,Master's degree (MA. MS. M.Eng.. MBA. etc.),96000.0,Yes,Spain,8.0,Git,41,9,Not Given,96000.0,1,"(-2000.0, 400000.0]",Medium
+6/21/18 19:30,Bachelor's degree (BA. BS. B.Eng.. etc.),14340.0,Yes,India,8.0,Git,34,8,Male,14340.0,1,"(-2000.0, 400000.0]",Low
+1/12/18 13:26,Bachelor's degree (BA. BS. B.Eng.. etc.),48313.0,No,India,8.0,Git;Team Foundation Version Control,31,15,Male,48313.0,1,"(-2000.0, 400000.0]",Low
+8/19/18 20:56,Bachelor's degree (BA. BS. B.Eng.. etc.),42456.0,No,South Africa,7.0,Git,46,17,Male,42456.0,1,"(-2000.0, 400000.0]",Low
+9/25/18 0:25,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,USA,7.0,Team Foundation Version Control,24,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/4/18 14:00,Master's degree (MA. MS. M.Eng.. MBA. etc.),39776.0,Yes,Sweeden,6.0,Git,53,1,Male,39776.0,1,"(-2000.0, 400000.0]",Low
+1/31/18 22:53,Bachelor's degree (BA. BS. B.Eng.. etc.),94600.0,Yes,India,3.0,Git;Subversion,35,13,Not Given,94600.0,1,"(-2000.0, 400000.0]",Medium
+3/21/18 5:39,Master's degree (MA. MS. M.Eng.. MBA. etc.),12480.0,Yes,Spain,10.0,Git,62,12,Not Given,12480.0,1,"(-2000.0, 400000.0]",Low
+6/8/18 14:34,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,8.0,Git,38,23,Male,,0,"(-2000.0, 400000.0]",Very low
+2/6/18 10:43,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Copying and pasting files to network shares,18,11,Female,,0,"(-2000.0, 400000.0]",Very low
+8/8/18 4:30,Bachelor's degree (BA. BS. B.Eng.. etc.),87768.0,Yes,India,7.0,Git;Team Foundation Version Control,34,20,Not Given,87768.0,1,"(-2000.0, 400000.0]",Medium
+5/24/18 19:09,Master's degree (MA. MS. M.Eng.. MBA. etc.),62507.0,Yes,India,7.0,Git,28,8,Male,62507.0,1,"(-2000.0, 400000.0]",Medium
+1/20/18 7:39,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),22032.0,Yes,USA,7.0,Git;Subversion,53,9,Male,22032.0,1,"(-2000.0, 400000.0]",Low
+3/17/18 11:48,Bachelor's degree (BA. BS. B.Eng.. etc.),30597.0,Yes,South Africa,7.0,Git,40,15,Male,30597.0,1,"(-2000.0, 400000.0]",Low
+7/26/18 15:04,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git;Subversion,51,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/15/18 5:47,Other doctoral degree (Ph.D. Ed.D.. etc.),59729.0,Yes,Russia,7.0,Git,18,14,Not Given,59729.0,1,"(-2000.0, 400000.0]",Medium
+1/14/18 11:12,Professional degree (JD. MD. etc.),0.0,Yes,South Africa,9.0,Git;Subversion,23,3,Male,,0,"(-2000.0, 400000.0]",Very low
+6/9/18 16:20,Bachelor's degree (BA. BS. B.Eng.. etc.),22560.0,Yes,India,7.0,Git;Team Foundation Version Control,55,12,Not Given,22560.0,1,"(-2000.0, 400000.0]",Low
+3/11/18 10:28,Bachelor's degree (BA. BS. B.Eng.. etc.),105000.0,Yes,Spain,7.0,Git,49,9,Female,105000.0,1,"(-2000.0, 400000.0]",High
+9/7/18 13:51,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,34,13,Male,,0,"(-2000.0, 400000.0]",Very low
+1/11/18 7:56,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,28,10,Male,,0,"(-2000.0, 400000.0]",Very low
+10/7/18 16:01,Other doctoral degree (Ph.D. Ed.D.. etc.),80000.0,Yes,USA,7.0,Git,50,13,Male,80000.0,1,"(-2000.0, 400000.0]",Medium
+9/23/18 2:09,Other doctoral degree (Ph.D. Ed.D.. etc.),36720.0,No,Russia,7.0,Git,55,11,Not Given,36720.0,1,"(-2000.0, 400000.0]",Low
+3/20/18 17:57,Some college/university study without earning a degree,31664.0,Yes,India,0.0,Git,48,3,Male,31664.0,1,"(-2000.0, 400000.0]",Low
+8/1/18 5:03,Bachelor's degree (BA. BS. B.Eng.. etc.),1000000.0,Yes,USA,5.0,Git,71,18,Not Given,1000000.0,1,"(800000.0, 1200000.0]",Very high
+7/31/18 16:19,Other doctoral degree (Ph.D. Ed.D.. etc.),54507.0,Yes,South Africa,7.0,Git,18,10,Male,54507.0,1,"(-2000.0, 400000.0]",Medium
+7/7/18 13:54,Bachelor's degree (BA. BS. B.Eng.. etc.),34726.0,No,France,7.0,Subversion,28,7,Not Given,34726.0,1,"(-2000.0, 400000.0]",Low
+6/28/18 20:37,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,I don't use version control,47,4,Male,,0,"(-2000.0, 400000.0]",Very low
+4/9/18 1:05,Bachelor's degree (BA. BS. B.Eng.. etc.),106000.0,Yes,Spain,5.0,Git,18,15,Male,106000.0,1,"(-2000.0, 400000.0]",High
+7/25/18 13:18,Bachelor's degree (BA. BS. B.Eng.. etc.),63642.0,Yes,UK,4.0,Git;Team Foundation Version Control,46,6,Male,63642.0,1,"(-2000.0, 400000.0]",Medium
+3/7/18 4:09,Bachelor's degree (BA. BS. B.Eng.. etc.),86120.0,Yes,France,10.0,Git,35,6,Male,86120.0,1,"(-2000.0, 400000.0]",Medium
+6/11/18 5:47,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,France,7.0,Git,36,6,Male,,0,"(-2000.0, 400000.0]",Very low
+9/25/18 18:04,Bachelor's degree (BA. BS. B.Eng.. etc.),2000000.0,Yes,Russia,7.0,Git,30,11,Male,2000000.0,1,"(1600000.0, 2000000.0]",Very high
+6/26/18 2:13,Bachelor's degree (BA. BS. B.Eng.. etc.),17676.0,Yes,USA,9.0,Subversion,41,3,Not Given,17676.0,1,"(-2000.0, 400000.0]",Low
+3/28/18 23:53,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,France,7.0,Git,41,23,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/5/18 3:53,Bachelor's degree (BA. BS. B.Eng.. etc.),52404.0,Yes,France,7.0,Git;Subversion,24,9,Male,52404.0,1,"(-2000.0, 400000.0]",Medium
+6/24/18 16:13,Some college/university study without earning a degree,0.0,Yes,USA,5.0,Git;Subversion,59,0,Male,,0,"(-2000.0, 400000.0]",Very low
+1/17/18 13:19,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,46,3,Male,,0,"(-2000.0, 400000.0]",Very low
+10/7/18 8:20,Bachelor's degree (BA. BS. B.Eng.. etc.),1884.0,Yes,South Africa,7.0,Git,60,10,Male,1884.0,1,"(-2000.0, 400000.0]",Very low
+7/7/18 5:19,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,10.0,Copying and pasting files to network shares;I don't use version control,18,13,Male,,0,"(-2000.0, 400000.0]",Very low
+7/14/18 10:19,Bachelor's degree (BA. BS. B.Eng.. etc.),587460.0,Yes,USA,3.0,Git;Team Foundation Version Control,32,10,Not Given,587460.0,1,"(400000.0, 800000.0]",Very high
+6/18/18 3:13,Some college/university study without earning a degree,93840.0,Yes,UK,8.0,Git;Copying and pasting files to network shares;Zip file back-ups,40,15,Male,93840.0,1,"(-2000.0, 400000.0]",Medium
+5/26/18 12:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),47304.0,No,UK,5.0,Git,39,12,Male,47304.0,1,"(-2000.0, 400000.0]",Low
+5/20/18 18:33,Master's degree (MA. MS. M.Eng.. MBA. etc.),85671.0,Yes,Russia,7.0,Git;Zip file back-ups;I don't use version control,41,4,Male,85671.0,1,"(-2000.0, 400000.0]",Medium
+9/29/18 16:07,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,No,France,7.0,Git,32,5,Male,,0,"(-2000.0, 400000.0]",Very low
+1/29/18 23:32,Bachelor's degree (BA. BS. B.Eng.. etc.),90000.0,No,UK,5.0,Git;Subversion,23,8,Male,90000.0,1,"(-2000.0, 400000.0]",Medium
+7/8/18 0:44,Master's degree (MA. MS. M.Eng.. MBA. etc.),91000.0,Yes,Spain,7.0,Git;Subversion,24,12,Male,91000.0,1,"(-2000.0, 400000.0]",Medium
+2/6/18 4:24,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,18,16,Male,,0,"(-2000.0, 400000.0]",Very low
+3/29/18 5:22,Some college/university study without earning a degree,112000.0,Yes,Spain,8.0,Git;Subversion,34,14,Not Given,112000.0,1,"(-2000.0, 400000.0]",High
+2/10/18 18:54,Bachelor's degree (BA. BS. B.Eng.. etc.),57170.0,Yes,Sweeden,7.0,Git,32,15,Male,57170.0,1,"(-2000.0, 400000.0]",Medium
+9/22/18 10:37,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git;Team Foundation Version Control,35,7,Male,,0,"(-2000.0, 400000.0]",Very low
+3/21/18 18:50,Master's degree (MA. MS. M.Eng.. MBA. etc.),120000.0,Yes,France,5.0,Team Foundation Version Control,34,18,Male,120000.0,1,"(-2000.0, 400000.0]",High
+3/4/18 6:22,Bachelor's degree (BA. BS. B.Eng.. etc.),130000.0,Yes,South Africa,10.0,Git,41,11,Not Given,130000.0,1,"(-2000.0, 400000.0]",High
+3/25/18 13:25,Bachelor's degree (BA. BS. B.Eng.. etc.),58340.0,Yes,France,7.0,Git;Subversion,50,15,Male,58340.0,1,"(-2000.0, 400000.0]",Medium
+4/12/18 14:56,Some college/university study without earning a degree,78000.0,Yes,USA,7.0,Git,38,11,Male,78000.0,1,"(-2000.0, 400000.0]",Medium
+6/9/18 0:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,South Africa,7.0,Mercurial;Subversion,40,15,Male,,0,"(-2000.0, 400000.0]",Very low
+10/22/18 8:42,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,10.0,Subversion,20,1,Male,,0,"(-2000.0, 400000.0]",Very low
+7/21/18 18:29,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git;Subversion,61,9,Male,,0,"(-2000.0, 400000.0]",Very low
+10/25/18 15:27,Bachelor's degree (BA. BS. B.Eng.. etc.),51408.0,Yes,India,10.0,Git,62,6,Male,51408.0,1,"(-2000.0, 400000.0]",Medium
+7/21/18 10:23,Some college/university study without earning a degree,0.0,Yes,UK,7.0,Git;Team Foundation Version Control,48,15,Male,,0,"(-2000.0, 400000.0]",Very low
+5/28/18 0:26,Some college/university study without earning a degree,30840.0,Yes,USA,10.0,Git;Subversion,36,19,Male,30840.0,1,"(-2000.0, 400000.0]",Low
+9/5/18 23:49,Master's degree (MA. MS. M.Eng.. MBA. etc.),41612.0,Yes,USA,5.0,Git,42,7,Male,41612.0,1,"(-2000.0, 400000.0]",Low
+6/14/18 9:16,Associate degree,0.0,Yes,Russia,6.0,Git,41,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/7/18 16:06,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,2.0,Git,25,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/31/18 17:29,Bachelor's degree (BA. BS. B.Eng.. etc.),75000.0,Yes,Russia,10.0,Git;Subversion,18,17,Not Given,75000.0,1,"(-2000.0, 400000.0]",Medium
+1/28/18 20:56,Associate degree,60391.0,Yes,India,7.0,Subversion;Team Foundation Version Control;Copying and pasting files to network shares,61,1,Male,60391.0,1,"(-2000.0, 400000.0]",Medium
+10/13/18 18:00,Some college/university study without earning a degree,41124.0,Yes,Russia,6.0,Git,60,11,Female,41124.0,1,"(-2000.0, 400000.0]",Low
+4/27/18 17:27,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git;Subversion;Zip file back-ups,44,17,Female,,0,"(-2000.0, 400000.0]",Very low
+7/10/18 12:07,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,Spain,7.0,Git;Subversion,23,10,Male,,0,"(-2000.0, 400000.0]",Very low
+3/1/18 13:42,Bachelor's degree (BA. BS. B.Eng.. etc.),70000.0,No,Russia,7.0,Git;Subversion,18,5,Male,70000.0,1,"(-2000.0, 400000.0]",Medium
+8/1/18 21:38,Bachelor's degree (BA. BS. B.Eng.. etc.),3900.0,Yes,Spain,10.0,Git,28,11,Male,3900.0,1,"(-2000.0, 400000.0]",Very low
+9/9/18 21:15,Bachelor's degree (BA. BS. B.Eng.. etc.),5479.0,No,France,7.0,Git,65,5,Not Given,5479.0,1,"(-2000.0, 400000.0]",Very low
+1/13/18 0:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git;Mercurial;Subversion;Copying and pasting files to network shares;Zip file back-ups,56,11,Male,,0,"(-2000.0, 400000.0]",Very low
+9/6/18 2:46,Bachelor's degree (BA. BS. B.Eng.. etc.),96626.0,Yes,France,8.0,Git;Subversion,19,12,Male,96626.0,1,"(-2000.0, 400000.0]",Medium
+7/13/18 22:40,Some college/university study without earning a degree,0.0,Yes,Sweeden,7.0,Git,18,5,Female,,0,"(-2000.0, 400000.0]",Very low
+3/14/18 18:31,Some college/university study without earning a degree,12000.0,Yes,USA,5.0,Git,43,10,Male,12000.0,1,"(-2000.0, 400000.0]",Low
+7/28/18 22:18,Bachelor's degree (BA. BS. B.Eng.. etc.),58000.0,Yes,Russia,8.0,Git,57,3,Male,58000.0,1,"(-2000.0, 400000.0]",Medium
+5/14/18 11:02,Other doctoral degree (Ph.D. Ed.D.. etc.),280000.0,Yes,South Africa,5.0,Git,27,0,Male,280000.0,1,"(-2000.0, 400000.0]",Very high
+2/25/18 11:24,Bachelor's degree (BA. BS. B.Eng.. etc.),106956.0,Yes,France,7.0,Git;Copying and pasting files to network shares,43,12,Male,106956.0,1,"(-2000.0, 400000.0]",High
+2/4/18 19:32,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,8.0,Git;Team Foundation Version Control,34,1,Male,,0,"(-2000.0, 400000.0]",Very low
+4/16/18 6:34,Master's degree (MA. MS. M.Eng.. MBA. etc.),53000.0,Yes,USA,5.0,Git,37,9,Not Given,53000.0,1,"(-2000.0, 400000.0]",Medium
+6/10/18 19:09,Bachelor's degree (BA. BS. B.Eng.. etc.),90039.0,Yes,UK,7.0,Git,26,13,Male,90039.0,1,"(-2000.0, 400000.0]",Medium
+5/17/18 9:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),162100.0,Yes,Russia,7.0,Git,42,11,Male,162100.0,1,"(-2000.0, 400000.0]",Very high
+5/20/18 7:21,Bachelor's degree (BA. BS. B.Eng.. etc.),68000.0,Yes,France,10.0,Git,18,9,Male,68000.0,1,"(-2000.0, 400000.0]",Medium
+10/20/18 0:22,Bachelor's degree (BA. BS. B.Eng.. etc.),75000.0,Yes,Sweeden,7.0,Git,31,2,Male,75000.0,1,"(-2000.0, 400000.0]",Medium
+1/25/18 0:25,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,25,9,Male,,0,"(-2000.0, 400000.0]",Very low
+4/7/18 18:26,Bachelor's degree (BA. BS. B.Eng.. etc.),53144.0,Yes,Sweeden,7.0,Git,52,6,Not Given,53144.0,1,"(-2000.0, 400000.0]",Medium
+10/12/18 4:39,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,8.0,Git,36,3,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/21/18 10:00,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,UK,7.0,Git,34,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/31/18 12:38,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,I don't use version control,46,5,Female,,0,"(-2000.0, 400000.0]",Very low
+3/25/18 1:46,Professional degree (JD. MD. etc.),22560.0,Yes,UK,7.0,Git,33,7,Male,22560.0,1,"(-2000.0, 400000.0]",Low
+9/18/18 19:50,Bachelor's degree (BA. BS. B.Eng.. etc.),36720.0,Yes,Sweeden,7.0,Git,19,13,Male,36720.0,1,"(-2000.0, 400000.0]",Low
+1/3/18 21:31,Bachelor's degree (BA. BS. B.Eng.. etc.),80000.0,Yes,South Africa,10.0,Git,18,9,Male,80000.0,1,"(-2000.0, 400000.0]",Medium
+7/5/18 2:13,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,I don't use version control,18,7,Male,0.0,0,"(-2000.0, 400000.0]",Very low
+10/9/18 21:22,Some college/university study without earning a degree,51408.0,Yes,USA,7.0,Git,24,14,Not Given,51408.0,1,"(-2000.0, 400000.0]",Medium
+10/2/18 16:25,Bachelor's degree (BA. BS. B.Eng.. etc.),45897.0,No,South Africa,3.0,Git,45,23,Not Given,45897.0,1,"(-2000.0, 400000.0]",Low
+4/29/18 13:27,Bachelor's degree (BA. BS. B.Eng.. etc.),14089.0,Yes,USA,10.0,Git;Subversion;Zip file back-ups,40,16,Male,14089.0,1,"(-2000.0, 400000.0]",Low
+7/6/18 18:17,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),9000.0,Yes,France,7.0,Git;Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,40,0,Not Given,9000.0,1,"(-2000.0, 400000.0]",Very low
+4/13/18 8:04,Master's degree (MA. MS. M.Eng.. MBA. etc.),12524.0,Yes,Sweeden,8.0,Subversion,18,11,Male,12524.0,1,"(-2000.0, 400000.0]",Low
+8/17/18 17:38,Bachelor's degree (BA. BS. B.Eng.. etc.),3914.0,Yes,Sweeden,7.0,Git;Subversion,42,7,Not Given,3914.0,1,"(-2000.0, 400000.0]",Very low
+4/15/18 5:31,Some college/university study without earning a degree,13212.0,Yes,USA,7.0,Git,47,0,Male,13212.0,1,"(-2000.0, 400000.0]",Low
+2/3/18 16:39,Bachelor's degree (BA. BS. B.Eng.. etc.),69452.0,Yes,USA,6.0,Subversion,57,12,Male,69452.0,1,"(-2000.0, 400000.0]",Medium
+5/27/18 16:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),25008.0,Yes,South Africa,10.0,I don't use version control,27,10,Not Given,25008.0,1,"(-2000.0, 400000.0]",Low
+10/21/18 1:50,Bachelor's degree (BA. BS. B.Eng.. etc.),96626.0,Yes,Spain,8.0,Git,49,13,Female,96626.0,1,"(-2000.0, 400000.0]",Medium
+7/12/18 16:24,Master's degree (MA. MS. M.Eng.. MBA. etc.),199950.0,No,India,8.0,Git,35,10,Male,199950.0,1,"(-2000.0, 400000.0]",Very high
+3/8/18 5:10,Some college/university study without earning a degree,34269.0,Yes,India,7.0,Git,49,21,Male,34269.0,1,"(-2000.0, 400000.0]",Low
+5/10/18 8:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),60216.0,No,Spain,10.0,Git;Team Foundation Version Control,30,6,Male,60216.0,1,"(-2000.0, 400000.0]",Medium
+1/8/18 2:07,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,30,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/29/18 5:44,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,4.0,Git;Subversion;Zip file back-ups,23,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/7/18 12:46,Some college/university study without earning a degree,73433.0,Yes,USA,10.0,Git,26,8,Male,73433.0,1,"(-2000.0, 400000.0]",Medium
+1/13/18 20:45,Bachelor's degree (BA. BS. B.Eng.. etc.),40282.0,Yes,South Africa,7.0,Git,39,8,Not Given,40282.0,1,"(-2000.0, 400000.0]",Low
+3/5/18 14:21,Bachelor's degree (BA. BS. B.Eng.. etc.),71976.0,No,South Africa,9.0,Git;Subversion;Team Foundation Version Control,47,5,Not Given,71976.0,1,"(-2000.0, 400000.0]",Medium
+8/4/18 20:23,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git,37,14,Male,,0,"(-2000.0, 400000.0]",Very low
+9/18/18 9:29,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Spain,7.0,Subversion,25,0,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/1/18 16:05,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,6.0,Git,27,6,Male,,0,"(-2000.0, 400000.0]",Very low
+3/12/18 4:42,Bachelor's degree (BA. BS. B.Eng.. etc.),63979.0,Yes,UK,7.0,Git;Copying and pasting files to network shares,30,2,Male,63979.0,1,"(-2000.0, 400000.0]",Medium
+6/9/18 14:45,Bachelor's degree (BA. BS. B.Eng.. etc.),12524.0,Yes,South Africa,3.0,Git,52,7,Not Given,12524.0,1,"(-2000.0, 400000.0]",Low
+1/8/18 21:41,Master's degree (MA. MS. M.Eng.. MBA. etc.),14688.0,No,Russia,5.0,Git,21,12,Male,14688.0,1,"(-2000.0, 400000.0]",Low
+1/25/18 10:36,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),1872.0,Yes,Sweeden,7.0,Git,19,15,Male,1872.0,1,"(-2000.0, 400000.0]",Very low
+2/14/18 8:02,Professional degree (JD. MD. etc.),66084.0,Yes,France,7.0,Git;Zip file back-ups,53,8,Not Given,66084.0,1,"(-2000.0, 400000.0]",Medium
+9/19/18 13:24,Bachelor's degree (BA. BS. B.Eng.. etc.),2000000.0,No,USA,10.0,Git,60,19,Male,2000000.0,1,"(1600000.0, 2000000.0]",Very high
+6/30/18 16:43,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Git,69,14,Male,,0,"(-2000.0, 400000.0]",Very low
+7/4/18 19:33,Bachelor's degree (BA. BS. B.Eng.. etc.),20000.0,Yes,USA,9.0,Git;Team Foundation Version Control,44,6,Male,20000.0,1,"(-2000.0, 400000.0]",Low
+9/24/18 17:41,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,No,South Africa,7.0,Git,45,3,Female,,0,"(-2000.0, 400000.0]",Very low
+9/2/18 20:23,Some college/university study without earning a degree,40392.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,18,6,Not Given,40392.0,1,"(-2000.0, 400000.0]",Low
+3/29/18 3:35,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git,52,22,Female,,0,"(-2000.0, 400000.0]",Very low
+3/20/18 23:59,Bachelor's degree (BA. BS. B.Eng.. etc.),2000000.0,Yes,USA,7.0,Git;Subversion;Team Foundation Version Control,44,4,Male,2000000.0,1,"(1600000.0, 2000000.0]",Very high
+4/20/18 8:55,Master's degree (MA. MS. M.Eng.. MBA. etc.),1500.0,Yes,South Africa,7.0,Zip file back-ups,35,13,Male,1500.0,1,"(-2000.0, 400000.0]",Very low
+8/29/18 18:09,Bachelor's degree (BA. BS. B.Eng.. etc.),104030.0,No,USA,7.0,Git;Subversion;Zip file back-ups,22,12,Male,104030.0,1,"(-2000.0, 400000.0]",High
+1/29/18 12:39,Associate degree,80521.0,No,Spain,7.0,Team Foundation Version Control,18,16,Male,80521.0,1,"(-2000.0, 400000.0]",Medium
+9/19/18 11:07,Bachelor's degree (BA. BS. B.Eng.. etc.),80000.0,Yes,Sweeden,8.0,Subversion;Copying and pasting files to network shares,46,8,Not Given,80000.0,1,"(-2000.0, 400000.0]",Medium
+6/4/18 18:19,Master's degree (MA. MS. M.Eng.. MBA. etc.),136500.0,Yes,USA,4.0,Git,33,6,Not Given,136500.0,1,"(-2000.0, 400000.0]",High
+2/19/18 3:44,Master's degree (MA. MS. M.Eng.. MBA. etc.),171343.0,Yes,South Africa,7.0,Git,47,15,Not Given,171343.0,1,"(-2000.0, 400000.0]",Very high
+4/10/18 23:44,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Russia,7.0,Copying and pasting files to network shares,18,11,Male,,0,"(-2000.0, 400000.0]",Very low
+6/30/18 22:20,Bachelor's degree (BA. BS. B.Eng.. etc.),44064.0,Yes,Sweeden,10.0,Git,27,15,Male,44064.0,1,"(-2000.0, 400000.0]",Low
+10/22/18 23:33,Bachelor's degree (BA. BS. B.Eng.. etc.),99468.0,Yes,Spain,10.0,Git,40,8,Male,99468.0,1,"(-2000.0, 400000.0]",Medium
+8/15/18 6:24,Bachelor's degree (BA. BS. B.Eng.. etc.),23496.0,No,South Africa,7.0,Git,36,8,Male,23496.0,1,"(-2000.0, 400000.0]",Low
+3/21/18 0:18,Master's degree (MA. MS. M.Eng.. MBA. etc.),27696.0,Yes,India,7.0,Git,47,5,Male,27696.0,1,"(-2000.0, 400000.0]",Low
+1/11/18 6:11,Bachelor's degree (BA. BS. B.Eng.. etc.),48955.0,Yes,Spain,7.0,Git;Subversion;Team Foundation Version Control,19,8,Male,48955.0,1,"(-2000.0, 400000.0]",Low
+1/30/18 22:32,Some college/university study without earning a degree,140000.0,Yes,Spain,3.0,Git,70,8,Not Given,140000.0,1,"(-2000.0, 400000.0]",High
+9/4/18 19:48,Bachelor's degree (BA. BS. B.Eng.. etc.),9396.0,Yes,South Africa,8.0,Git;Subversion;Copying and pasting files to network shares;Zip file back-ups,18,14,Male,9396.0,1,"(-2000.0, 400000.0]",Very low
+2/12/18 17:06,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Git,53,11,Male,,0,"(-2000.0, 400000.0]",Very low
+8/3/18 5:31,Some college/university study without earning a degree,0.0,Yes,USA,7.0,Git,62,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/14/18 0:36,Bachelor's degree (BA. BS. B.Eng.. etc.),140000.0,Yes,South Africa,7.0,Git,31,14,Male,140000.0,1,"(-2000.0, 400000.0]",High
+4/5/18 1:19,Master's degree (MA. MS. M.Eng.. MBA. etc.),936.0,Yes,France,7.0,I don't use version control,36,11,Not Given,936.0,1,"(-2000.0, 400000.0]",Very low
+2/5/18 3:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),110000.0,Yes,Spain,7.0,Git;Subversion,38,10,Not Given,110000.0,1,"(-2000.0, 400000.0]",High
+9/8/18 16:49,Bachelor's degree (BA. BS. B.Eng.. etc.),7608.0,Yes,South Africa,9.0,Git;Subversion,20,14,Male,7608.0,1,"(-2000.0, 400000.0]",Very low
+1/15/18 19:52,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,Git,44,8,Male,,0,"(-2000.0, 400000.0]",Very low
+1/11/18 18:08,Bachelor's degree (BA. BS. B.Eng.. etc.),105000.0,No,UK,7.0,Git,35,13,Male,105000.0,1,"(-2000.0, 400000.0]",High
+7/12/18 23:07,Other doctoral degree (Ph.D. Ed.D.. etc.),104269.0,Yes,France,8.0,Git,47,15,Male,104269.0,1,"(-2000.0, 400000.0]",High
+8/27/18 4:41,Primary/elementary school,0.0,Yes,France,7.0,Git,71,20,Male,,0,"(-2000.0, 400000.0]",Very low
+2/6/18 0:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Russia,4.0,Subversion,20,14,Male,,0,"(-2000.0, 400000.0]",Very low
+2/23/18 0:06,Bachelor's degree (BA. BS. B.Eng.. etc.),46992.0,Yes,Spain,5.0,Git,30,9,Not Given,46992.0,1,"(-2000.0, 400000.0]",Low
+7/11/18 20:38,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,10.0,Git,28,6,Male,,0,"(-2000.0, 400000.0]",Very low
+7/18/18 12:19,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),19092.0,Yes,Sweeden,7.0,Git;Mercurial,44,19,Male,19092.0,1,"(-2000.0, 400000.0]",Low
+1/17/18 6:31,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git;Team Foundation Version Control;Copying and pasting files to network shares,43,7,Male,,0,"(-2000.0, 400000.0]",Very low
+4/4/18 17:52,Bachelor's degree (BA. BS. B.Eng.. etc.),55000.0,No,Spain,10.0,Git;Subversion,56,11,Male,55000.0,1,"(-2000.0, 400000.0]",Medium
+5/31/18 4:02,Bachelor's degree (BA. BS. B.Eng.. etc.),6384.0,Yes,USA,7.0,Subversion;Copying and pasting files to network shares;Zip file back-ups,30,12,Male,6384.0,1,"(-2000.0, 400000.0]",Very low
+5/31/18 20:36,Bachelor's degree (BA. BS. B.Eng.. etc.),150150.0,Yes,Sweeden,2.0,Git;Mercurial,36,5,Male,150150.0,1,"(-2000.0, 400000.0]",Very high
+2/4/18 12:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),9396.0,Yes,USA,7.0,Git,27,1,Not Given,9396.0,1,"(-2000.0, 400000.0]",Very low
+1/28/18 1:25,Bachelor's degree (BA. BS. B.Eng.. etc.),63000.0,Yes,France,10.0,Git;Team Foundation Version Control,22,8,Male,63000.0,1,"(-2000.0, 400000.0]",Medium
+2/8/18 11:40,Some college/university study without earning a degree,0.0,Yes,Russia,9.0,Git,26,7,Male,,0,"(-2000.0, 400000.0]",Very low
+8/15/18 19:17,Bachelor's degree (BA. BS. B.Eng.. etc.),127000.0,Yes,UK,10.0,Git,18,18,Not Given,127000.0,1,"(-2000.0, 400000.0]",High
+2/5/18 3:33,Associate degree,32400.0,Yes,UK,10.0,Git,47,4,Male,32400.0,1,"(-2000.0, 400000.0]",Low
+7/10/18 23:52,Master's degree (MA. MS. M.Eng.. MBA. etc.),41612.0,Yes,USA,7.0,Git,37,8,Male,41612.0,1,"(-2000.0, 400000.0]",Low
+5/29/18 17:20,Bachelor's degree (BA. BS. B.Eng.. etc.),84731.0,Yes,UK,5.0,Git,58,4,Male,84731.0,1,"(-2000.0, 400000.0]",Medium
+1/5/18 11:09,Bachelor's degree (BA. BS. B.Eng.. etc.),79973.0,Yes,Sweeden,0.0,Git,48,14,Male,79973.0,1,"(-2000.0, 400000.0]",Medium
+5/25/18 9:41,Professional degree (JD. MD. etc.),0.0,Yes,UK,7.0,Git;Mercurial,18,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/24/18 17:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,10.0,I don't use version control,27,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/24/18 11:38,Bachelor's degree (BA. BS. B.Eng.. etc.),130000.0,Yes,USA,0.0,Git,64,16,Not Given,130000.0,1,"(-2000.0, 400000.0]",High
+4/18/18 0:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),49932.0,Yes,Sweeden,7.0,Git;Team Foundation Version Control,54,14,Male,49932.0,1,"(-2000.0, 400000.0]",Low
+5/3/18 9:02,Some college/university study without earning a degree,21000.0,No,USA,7.0,Git;Subversion,44,14,Male,21000.0,1,"(-2000.0, 400000.0]",Low
+1/9/18 19:41,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,USA,7.0,Git,29,8,Male,,0,"(-2000.0, 400000.0]",Very low
+4/27/18 23:09,Bachelor's degree (BA. BS. B.Eng.. etc.),26436.0,No,Russia,7.0,Git,20,6,Male,26436.0,1,"(-2000.0, 400000.0]",Low
+4/28/18 3:36,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Spain,9.0,Git,34,15,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/11/18 8:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,India,7.0,Git;Mercurial,48,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/9/18 10:50,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,1.0,Git;Team Foundation Version Control,18,0,Male,,0,"(-2000.0, 400000.0]",Very low
+3/4/18 0:09,Bachelor's degree (BA. BS. B.Eng.. etc.),1884.0,Yes,France,7.0,Git,31,3,Male,1884.0,1,"(-2000.0, 400000.0]",Very low
+5/12/18 14:10,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,18,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/8/18 16:00,Master's degree (MA. MS. M.Eng.. MBA. etc.),61194.0,Yes,USA,10.0,Git;Subversion,39,12,Male,61194.0,1,"(-2000.0, 400000.0]",Medium
+6/6/18 4:56,Bachelor's degree (BA. BS. B.Eng.. etc.),104178.0,No,USA,7.0,Git,18,5,Not Given,104178.0,1,"(-2000.0, 400000.0]",High
+8/1/18 8:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),10584.0,Yes,Sweeden,7.0,Git;Subversion,69,8,Not Given,10584.0,1,"(-2000.0, 400000.0]",Low
+3/4/18 1:27,Some college/university study without earning a degree,68537.0,Yes,France,10.0,Git,30,8,Not Given,68537.0,1,"(-2000.0, 400000.0]",Medium
+6/3/18 16:20,Master's degree (MA. MS. M.Eng.. MBA. etc.),85000.0,Yes,USA,7.0,Git,28,11,Male,85000.0,1,"(-2000.0, 400000.0]",Medium
+5/26/18 17:01,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,No,USA,7.0,Git,22,17,Male,,0,"(-2000.0, 400000.0]",Very low
+8/27/18 23:19,Bachelor's degree (BA. BS. B.Eng.. etc.),49932.0,Yes,France,7.0,Git,63,7,Male,49932.0,1,"(-2000.0, 400000.0]",Low
+1/24/18 6:00,Master's degree (MA. MS. M.Eng.. MBA. etc.),61118.0,Yes,USA,7.0,Git;Subversion,18,15,Not Given,61118.0,1,"(-2000.0, 400000.0]",Medium
+9/20/18 7:51,Bachelor's degree (BA. BS. B.Eng.. etc.),175000.0,Yes,Russia,7.0,Git,34,10,Male,175000.0,1,"(-2000.0, 400000.0]",Very high
+4/7/18 23:33,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,18,15,Male,,0,"(-2000.0, 400000.0]",Very low
+9/11/18 12:22,Bachelor's degree (BA. BS. B.Eng.. etc.),58000.0,Yes,Russia,6.0,Team Foundation Version Control,21,20,Male,58000.0,1,"(-2000.0, 400000.0]",Medium
+10/15/18 11:24,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Git,46,8,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/21/18 14:25,Some college/university study without earning a degree,30000.0,Yes,South Africa,7.0,Git,56,15,Male,30000.0,1,"(-2000.0, 400000.0]",Low
+7/23/18 3:37,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,USA,7.0,Git,32,2,Male,,0,"(-2000.0, 400000.0]",Very low
+8/19/18 8:04,Bachelor's degree (BA. BS. B.Eng.. etc.),30840.0,Yes,South Africa,7.0,Git;Subversion;Zip file back-ups,18,17,Female,30840.0,1,"(-2000.0, 400000.0]",Low
+10/17/18 20:41,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,44,19,Non-binary. genderqueer. or gender non-conforming,,0,"(-2000.0, 400000.0]",Very low
+6/14/18 17:58,Bachelor's degree (BA. BS. B.Eng.. etc.),125000.0,Yes,Russia,7.0,Git,50,13,Male,125000.0,1,"(-2000.0, 400000.0]",High
+9/21/18 20:00,Associate degree,0.0,No,India,7.0,Zip file back-ups,50,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/29/18 5:59,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,10.0,Git,25,8,Male,,0,"(-2000.0, 400000.0]",Very low
+6/4/18 3:21,Other doctoral degree (Ph.D. Ed.D.. etc.),110149.0,Yes,South Africa,7.0,Git,40,13,Male,110149.0,1,"(-2000.0, 400000.0]",High
+7/31/18 9:11,Associate degree,108704.0,Yes,South Africa,10.0,Git;Mercurial;Copying and pasting files to network shares,28,10,Male,108704.0,1,"(-2000.0, 400000.0]",High
+6/2/18 20:41,Bachelor's degree (BA. BS. B.Eng.. etc.),44880.0,Yes,USA,5.0,Git,71,18,Not Given,44880.0,1,"(-2000.0, 400000.0]",Low
+3/28/18 17:33,Bachelor's degree (BA. BS. B.Eng.. etc.),4476.0,Yes,France,7.0,Git,29,10,Male,4476.0,1,"(-2000.0, 400000.0]",Very low
+5/11/18 2:02,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,10.0,Git,44,11,Male,,0,"(-2000.0, 400000.0]",Very low
+8/24/18 22:55,Bachelor's degree (BA. BS. B.Eng.. etc.),200000.0,Yes,Spain,7.0,Subversion,20,7,Not Given,200000.0,1,"(-2000.0, 400000.0]",Very high
+2/23/18 3:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,7.0,Git,44,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/3/18 6:35,Bachelor's degree (BA. BS. B.Eng.. etc.),140000.0,No,France,6.0,Git,36,21,Not Given,140000.0,1,"(-2000.0, 400000.0]",High
+1/27/18 14:52,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),25400.0,Yes,UK,7.0,Git,46,10,Male,25400.0,1,"(-2000.0, 400000.0]",Low
+3/16/18 5:44,Bachelor's degree (BA. BS. B.Eng.. etc.),142000.0,Yes,Spain,0.0,Git,19,11,Male,142000.0,1,"(-2000.0, 400000.0]",High
+3/23/18 2:37,Bachelor's degree (BA. BS. B.Eng.. etc.),88000.0,No,India,7.0,Git;Team Foundation Version Control,34,8,Not Given,88000.0,1,"(-2000.0, 400000.0]",Medium
+10/21/18 23:09,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,23,5,Male,,0,"(-2000.0, 400000.0]",Very low
+3/29/18 0:03,Bachelor's degree (BA. BS. B.Eng.. etc.),29940.0,Yes,Russia,7.0,Git,18,11,Not Given,29940.0,1,"(-2000.0, 400000.0]",Low
+3/13/18 7:37,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,USA,5.0,Git;Subversion,18,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/15/18 1:04,Primary/elementary school,17628.0,Yes,Spain,7.0,Git;Zip file back-ups,40,18,Male,17628.0,1,"(-2000.0, 400000.0]",Low
+6/13/18 10:36,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,7.0,Subversion,35,4,Male,,0,"(-2000.0, 400000.0]",Very low
+7/13/18 20:15,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,Spain,7.0,Git,32,9,Male,,0,"(-2000.0, 400000.0]",Very low
+2/11/18 16:44,Bachelor's degree (BA. BS. B.Eng.. etc.),107964.0,Yes,Other,10.0,Git,44,11,Male,107964.0,1,"(-2000.0, 400000.0]",High
+2/26/18 3:03,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,France,7.0,Git,51,0,Male,,0,"(-2000.0, 400000.0]",Very low
+6/12/18 7:13,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git,25,6,Male,,0,"(-2000.0, 400000.0]",Very low
+10/23/18 7:36,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,10.0,Git,25,10,Male,,0,"(-2000.0, 400000.0]",Very low
+4/16/18 10:19,Some college/university study without earning a degree,2000000.0,Yes,Sweeden,7.0,Git;Subversion,37,5,Male,2000000.0,1,"(1600000.0, 2000000.0]",Very high
+4/26/18 10:30,Bachelor's degree (BA. BS. B.Eng.. etc.),110000.0,No,Russia,2.0,Git,35,14,Not Given,110000.0,1,"(-2000.0, 400000.0]",High
+10/23/18 4:05,Associate degree,84816.0,Yes,UK,7.0,Git,18,7,Female,84816.0,1,"(-2000.0, 400000.0]",Medium
+6/10/18 20:35,Some college/university study without earning a degree,0.0,Yes,Sweeden,7.0,Git,18,16,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/18/18 2:39,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,UK,5.0,Git,33,13,Male,,0,"(-2000.0, 400000.0]",Very low
+8/2/18 20:28,Bachelor's degree (BA. BS. B.Eng.. etc.),616836.0,Yes,South Africa,6.0,Git,20,4,Male,616836.0,1,"(400000.0, 800000.0]",Very high
+7/16/18 14:15,Bachelor's degree (BA. BS. B.Eng.. etc.),6312.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,29,11,Not Given,6312.0,1,"(-2000.0, 400000.0]",Very low
+8/25/18 18:37,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,4.0,Git,35,7,Male,,0,"(-2000.0, 400000.0]",Very low
+4/23/18 18:06,Bachelor's degree (BA. BS. B.Eng.. etc.),48828.0,Yes,Sweeden,10.0,Git,22,3,Male,48828.0,1,"(-2000.0, 400000.0]",Low
+9/24/18 3:42,Bachelor's degree (BA. BS. B.Eng.. etc.),9012.0,No,Sweeden,5.0,Git,29,9,Male,9012.0,1,"(-2000.0, 400000.0]",Very low
+1/5/18 11:10,Master's degree (MA. MS. M.Eng.. MBA. etc.),79552.0,Yes,South Africa,8.0,Git,25,10,Not Given,79552.0,1,"(-2000.0, 400000.0]",Medium
+1/2/18 3:48,Other doctoral degree (Ph.D. Ed.D.. etc.),104269.0,Yes,South Africa,7.0,Git,19,13,Male,104269.0,1,"(-2000.0, 400000.0]",High
+8/29/18 1:07,Bachelor's degree (BA. BS. B.Eng.. etc.),6360.0,Yes,France,7.0,Git,31,19,Male,6360.0,1,"(-2000.0, 400000.0]",Very low
+6/28/18 10:42,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Team Foundation Version Control,36,10,Male,,0,"(-2000.0, 400000.0]",Very low
+8/2/18 4:38,Bachelor's degree (BA. BS. B.Eng.. etc.),83000.0,Yes,South Africa,7.0,Git,34,7,Male,83000.0,1,"(-2000.0, 400000.0]",Medium
+5/29/18 6:35,Some college/university study without earning a degree,72000.0,Yes,USA,6.0,Git,19,9,Not Given,72000.0,1,"(-2000.0, 400000.0]",Medium
+7/4/18 4:14,Some college/university study without earning a degree,12312.0,Yes,UK,7.0,Git,48,12,Male,12312.0,1,"(-2000.0, 400000.0]",Low
+8/22/18 18:30,Bachelor's degree (BA. BS. B.Eng.. etc.),53000.0,Yes,Spain,7.0,Git;Subversion,18,8,Male,53000.0,1,"(-2000.0, 400000.0]",Medium
+4/29/18 10:27,Bachelor's degree (BA. BS. B.Eng.. etc.),85000.0,Yes,Sweeden,5.0,Git,18,11,Female,85000.0,1,"(-2000.0, 400000.0]",Medium
+2/8/18 0:33,Master's degree (MA. MS. M.Eng.. MBA. etc.),30000.0,No,India,7.0,Git,40,14,Male,30000.0,1,"(-2000.0, 400000.0]",Low
+3/2/18 6:19,Bachelor's degree (BA. BS. B.Eng.. etc.),18780.0,Yes,UK,10.0,Git,37,6,Male,18780.0,1,"(-2000.0, 400000.0]",Low
+1/15/18 11:30,Master's degree (MA. MS. M.Eng.. MBA. etc.),75000.0,Yes,USA,7.0,Git,61,14,Male,75000.0,1,"(-2000.0, 400000.0]",Medium
+4/4/18 20:00,Master's degree (MA. MS. M.Eng.. MBA. etc.),30732.0,No,South Africa,7.0,Subversion,45,3,Not Given,30732.0,1,"(-2000.0, 400000.0]",Low
+10/4/18 6:29,Master's degree (MA. MS. M.Eng.. MBA. etc.),70000.0,Yes,Russia,7.0,Git,52,11,Male,70000.0,1,"(-2000.0, 400000.0]",Medium
+5/10/18 9:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),514032.0,Yes,South Africa,10.0,Subversion;Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,32,7,Female,514032.0,1,"(400000.0, 800000.0]",Very high
+7/16/18 5:28,Some college/university study without earning a degree,93853.0,Yes,France,10.0,Git,27,19,Male,93853.0,1,"(-2000.0, 400000.0]",Medium
+10/20/18 0:27,Bachelor's degree (BA. BS. B.Eng.. etc.),79175.0,Yes,Sweeden,9.0,Git;Subversion,20,13,Female,79175.0,1,"(-2000.0, 400000.0]",Medium
+2/2/18 4:03,Bachelor's degree (BA. BS. B.Eng.. etc.),72000.0,Yes,UK,7.0,Git;Subversion,64,8,Male,72000.0,1,"(-2000.0, 400000.0]",Medium
+2/26/18 2:43,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Copying and pasting files to network shares;I don't use version control,27,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/1/18 9:02,Bachelor's degree (BA. BS. B.Eng.. etc.),47922.0,No,Spain,7.0,Git,45,16,Male,47922.0,1,"(-2000.0, 400000.0]",Low
+1/12/18 1:34,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,7.0,Git;Subversion,18,5,Male,,0,"(-2000.0, 400000.0]",Very low
+6/30/18 14:24,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Team Foundation Version Control;Copying and pasting files to network shares,36,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/8/18 0:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),120000.0,Yes,Spain,7.0,Git,56,15,Female,120000.0,1,"(-2000.0, 400000.0]",High
+9/2/18 16:12,Master's degree (MA. MS. M.Eng.. MBA. etc.),6516.0,No,USA,8.0,Git;Zip file back-ups,62,17,Not Given,6516.0,1,"(-2000.0, 400000.0]",Very low
+10/3/18 10:36,Bachelor's degree (BA. BS. B.Eng.. etc.),107000.0,No,Spain,7.0,Git,43,0,Male,107000.0,1,"(-2000.0, 400000.0]",High
+7/13/18 1:59,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,Russia,7.0,Git;Subversion;Copying and pasting files to network shares;Zip file back-ups,55,9,Male,,0,"(-2000.0, 400000.0]",Very low
+2/7/18 12:19,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,7.0,Subversion,19,17,Male,,0,"(-2000.0, 400000.0]",Very low
+3/1/18 0:46,Some college/university study without earning a degree,110000.0,Yes,Russia,7.0,Git,29,18,Male,110000.0,1,"(-2000.0, 400000.0]",High
+3/25/18 15:51,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,10.0,Git,18,15,Male,,0,"(-2000.0, 400000.0]",Very low
+1/18/18 1:48,Associate degree,35988.0,Yes,South Africa,7.0,Copying and pasting files to network shares,34,4,Not Given,35988.0,1,"(-2000.0, 400000.0]",Low
+10/16/18 5:59,Bachelor's degree (BA. BS. B.Eng.. etc.),85000.0,Yes,Sweeden,2.0,Git,34,7,Female,85000.0,1,"(-2000.0, 400000.0]",Medium
+5/19/18 5:44,Bachelor's degree (BA. BS. B.Eng.. etc.),5640.0,Yes,Spain,7.0,Git,37,17,Male,5640.0,1,"(-2000.0, 400000.0]",Very low
+9/19/18 22:04,Other doctoral degree (Ph.D. Ed.D.. etc.),97233.0,Yes,Sweeden,8.0,Git,25,14,Male,97233.0,1,"(-2000.0, 400000.0]",Medium
+4/15/18 17:12,Associate degree,96000.0,Yes,France,4.0,Git,18,19,Male,96000.0,1,"(-2000.0, 400000.0]",Medium
+4/2/18 23:46,Some college/university study without earning a degree,10932.0,Yes,USA,7.0,Git,48,15,Male,10932.0,1,"(-2000.0, 400000.0]",Low
+5/13/18 3:12,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,10.0,Git,25,18,Male,,0,"(-2000.0, 400000.0]",Very low
+5/30/18 7:41,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,7.0,Git,20,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/23/18 14:25,Some college/university study without earning a degree,60000.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,18,21,Not Given,60000.0,1,"(-2000.0, 400000.0]",Medium
+6/6/18 11:07,Some college/university study without earning a degree,94000.0,Yes,France,9.0,Git,23,3,Not Given,94000.0,1,"(-2000.0, 400000.0]",Medium
+2/1/18 4:03,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,40,12,Male,,0,"(-2000.0, 400000.0]",Very low
+9/12/18 22:03,Master's degree (MA. MS. M.Eng.. MBA. etc.),27120.0,Yes,USA,7.0,Git,18,14,Male,27120.0,1,"(-2000.0, 400000.0]",Low
+8/13/18 16:56,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),6500.0,Yes,Russia,10.0,Git,64,6,Female,6500.0,1,"(-2000.0, 400000.0]",Very low
+5/22/18 12:59,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,6.0,Git,18,2,Male,,0,"(-2000.0, 400000.0]",Very low
+2/18/18 22:47,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,6.0,Git;Subversion;Copying and pasting files to network shares;Zip file back-ups,23,12,Male,,0,"(-2000.0, 400000.0]",Very low
+6/19/18 6:23,Bachelor's degree (BA. BS. B.Eng.. etc.),125014.0,Yes,South Africa,0.0,Git,37,4,Not Given,125014.0,1,"(-2000.0, 400000.0]",High
+7/4/18 17:21,Bachelor's degree (BA. BS. B.Eng.. etc.),33399.0,No,India,7.0,Git,40,14,Male,33399.0,1,"(-2000.0, 400000.0]",Low
+2/22/18 1:07,Bachelor's degree (BA. BS. B.Eng.. etc.),76000.0,Yes,USA,7.0,Git;Mercurial,40,11,Male,76000.0,1,"(-2000.0, 400000.0]",Medium
+1/22/18 11:47,Bachelor's degree (BA. BS. B.Eng.. etc.),49404.0,No,Other,7.0,Subversion;Team Foundation Version Control;Zip file back-ups,68,17,Male,49404.0,1,"(-2000.0, 400000.0]",Low
+5/7/18 0:19,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Git,32,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/5/18 18:28,Bachelor's degree (BA. BS. B.Eng.. etc.),2172.0,Yes,South Africa,3.0,I don't use version control,35,3,Not Given,2172.0,1,"(-2000.0, 400000.0]",Very low
+7/15/18 23:57,Bachelor's degree (BA. BS. B.Eng.. etc.),83342.0,Yes,Russia,6.0,Git,26,10,Male,83342.0,1,"(-2000.0, 400000.0]",Medium
+2/28/18 12:50,Bachelor's degree (BA. BS. B.Eng.. etc.),36716.0,Yes,Spain,8.0,Git;Zip file back-ups,44,8,Male,36716.0,1,"(-2000.0, 400000.0]",Low
+9/17/18 5:14,Bachelor's degree (BA. BS. B.Eng.. etc.),44064.0,Yes,South Africa,7.0,Git,40,10,Female,44064.0,1,"(-2000.0, 400000.0]",Low
+8/11/18 17:06,Some college/university study without earning a degree,130000.0,Yes,Spain,7.0,Git,62,11,Male,130000.0,1,"(-2000.0, 400000.0]",High
+9/17/18 0:52,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Sweeden,8.0,Team Foundation Version Control,21,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/14/18 5:03,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Team Foundation Version Control,51,6,Male,,0,"(-2000.0, 400000.0]",Very low
+10/20/18 5:32,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git,19,1,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/22/18 9:28,Associate degree,0.0,No,Sweeden,7.0,Git,43,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/25/18 11:43,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),47984.0,Yes,South Africa,7.0,Git,35,11,Not Given,47984.0,1,"(-2000.0, 400000.0]",Low
+2/19/18 3:55,Bachelor's degree (BA. BS. B.Eng.. etc.),22032.0,Yes,USA,6.0,Git,27,7,Male,22032.0,1,"(-2000.0, 400000.0]",Low
+6/29/18 15:17,Other doctoral degree (Ph.D. Ed.D.. etc.),48955.0,Yes,UK,7.0,I don't use version control,49,8,Male,48955.0,1,"(-2000.0, 400000.0]",Low
+1/7/18 20:06,Bachelor's degree (BA. BS. B.Eng.. etc.),93036.0,Yes,Russia,6.0,Subversion,27,19,Not Given,93036.0,1,"(-2000.0, 400000.0]",Medium
+4/9/18 2:54,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,India,7.0,Subversion;Copying and pasting files to network shares;Zip file back-ups,18,4,Male,,0,"(-2000.0, 400000.0]",Very low
+8/17/18 5:01,Bachelor's degree (BA. BS. B.Eng.. etc.),95000.0,No,South Africa,7.0,Git,18,4,Male,95000.0,1,"(-2000.0, 400000.0]",Medium
+4/30/18 11:08,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),41124.0,No,India,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,23,16,Male,41124.0,1,"(-2000.0, 400000.0]",Low
+7/16/18 18:17,Bachelor's degree (BA. BS. B.Eng.. etc.),80000.0,Yes,Russia,8.0,Git;Subversion;Copying and pasting files to network shares,50,17,Male,80000.0,1,"(-2000.0, 400000.0]",Medium
+4/10/18 10:16,Some college/university study without earning a degree,0.0,Yes,UK,7.0,Git;Subversion,18,0,Male,,0,"(-2000.0, 400000.0]",Very low
+5/25/18 15:03,Some college/university study without earning a degree,0.0,Yes,India,10.0,Git,49,11,Male,,0,"(-2000.0, 400000.0]",Very low
+1/23/18 3:55,Bachelor's degree (BA. BS. B.Eng.. etc.),5448.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,43,11,Not Given,5448.0,1,"(-2000.0, 400000.0]",Very low
+8/27/18 3:01,Some college/university study without earning a degree,50400.0,Yes,USA,7.0,Git;Team Foundation Version Control,56,20,Female,50400.0,1,"(-2000.0, 400000.0]",Medium
+3/20/18 9:03,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Spain,7.0,Git;Subversion,18,3,Male,,0,"(-2000.0, 400000.0]",Very low
+6/18/18 9:23,Bachelor's degree (BA. BS. B.Eng.. etc.),1512.0,No,Russia,7.0,Team Foundation Version Control,19,8,Male,1512.0,1,"(-2000.0, 400000.0]",Very low
+2/15/18 11:18,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,5.0,Git,18,18,Female,,0,"(-2000.0, 400000.0]",Very low
+1/19/18 0:49,Some college/university study without earning a degree,130000.0,Yes,UK,3.0,Git,31,8,Not Given,130000.0,1,"(-2000.0, 400000.0]",High
+9/28/18 21:28,Bachelor's degree (BA. BS. B.Eng.. etc.),141000.0,Yes,Spain,7.0,Git,49,7,Male,141000.0,1,"(-2000.0, 400000.0]",High
+8/27/18 13:20,Some college/university study without earning a degree,24478.0,Yes,South Africa,7.0,I don't use version control,45,8,Male,24478.0,1,"(-2000.0, 400000.0]",Low
+4/5/18 7:04,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,8.0,Git;Zip file back-ups,26,11,Male,,0,"(-2000.0, 400000.0]",Very low
+7/23/18 16:17,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Russia,6.0,Git,25,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/21/18 17:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),22030.0,Yes,UK,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,72,14,Male,22030.0,1,"(-2000.0, 400000.0]",Low
+7/12/18 9:25,Bachelor's degree (BA. BS. B.Eng.. etc.),35244.0,Yes,Spain,7.0,Git,60,11,Male,35244.0,1,"(-2000.0, 400000.0]",Low
+8/30/18 22:01,Bachelor's degree (BA. BS. B.Eng.. etc.),55075.0,Yes,UK,8.0,Git,20,11,Not Given,55075.0,1,"(-2000.0, 400000.0]",Medium
+9/11/18 12:43,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),101539.0,Yes,South Africa,8.0,Git,34,17,Not Given,101539.0,1,"(-2000.0, 400000.0]",High
+2/17/18 13:28,Bachelor's degree (BA. BS. B.Eng.. etc.),40000.0,Yes,France,9.0,Git;Subversion,55,13,Not Given,40000.0,1,"(-2000.0, 400000.0]",Low
+3/16/18 10:13,Bachelor's degree (BA. BS. B.Eng.. etc.),102000.0,No,Sweeden,7.0,Git,46,10,Male,102000.0,1,"(-2000.0, 400000.0]",High
+1/29/18 13:00,Some college/university study without earning a degree,34726.0,Yes,UK,9.0,Git,18,12,Female,34726.0,1,"(-2000.0, 400000.0]",Low
+7/8/18 9:20,Bachelor's degree (BA. BS. B.Eng.. etc.),99056.0,Yes,India,5.0,Git,31,14,Not Given,99056.0,1,"(-2000.0, 400000.0]",Medium
+3/18/18 15:29,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,UK,7.0,Git,52,16,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/27/18 5:22,Associate degree,0.0,Yes,USA,7.0,Copying and pasting files to network shares,46,12,Male,,0,"(-2000.0, 400000.0]",Very low
+2/4/18 6:08,Bachelor's degree (BA. BS. B.Eng.. etc.),75000.0,Yes,USA,7.0,Git,23,7,Not Given,75000.0,1,"(-2000.0, 400000.0]",Medium
+5/14/18 11:49,Bachelor's degree (BA. BS. B.Eng.. etc.),42836.0,No,USA,6.0,Git;Subversion,18,8,Not Given,42836.0,1,"(-2000.0, 400000.0]",Low
+9/29/18 4:44,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,5.0,Git,23,8,Male,,0,"(-2000.0, 400000.0]",Very low
+4/23/18 6:22,Bachelor's degree (BA. BS. B.Eng.. etc.),70841.0,No,Russia,8.0,Git,24,10,Not Given,70841.0,1,"(-2000.0, 400000.0]",Medium
+10/7/18 0:56,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,34,13,Male,,0,"(-2000.0, 400000.0]",Very low
+4/13/18 6:37,Master's degree (MA. MS. M.Eng.. MBA. etc.),9396.0,Yes,Russia,9.0,Git,51,13,Male,9396.0,1,"(-2000.0, 400000.0]",Very low
+6/22/18 3:58,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,5.0,Subversion,57,7,Male,,0,"(-2000.0, 400000.0]",Very low
+2/26/18 22:18,Bachelor's degree (BA. BS. B.Eng.. etc.),39164.0,Yes,Russia,3.0,Git,51,7,Male,39164.0,1,"(-2000.0, 400000.0]",Low
+1/25/18 3:40,Some college/university study without earning a degree,31212.0,Yes,USA,7.0,Git,53,2,Male,31212.0,1,"(-2000.0, 400000.0]",Low
+4/8/18 15:32,Bachelor's degree (BA. BS. B.Eng.. etc.),130000.0,Yes,France,10.0,Git,51,11,Male,130000.0,1,"(-2000.0, 400000.0]",High
+2/5/18 22:47,Bachelor's degree (BA. BS. B.Eng.. etc.),41916.0,Yes,France,5.0,Git,25,11,Male,41916.0,1,"(-2000.0, 400000.0]",Low
+9/24/18 23:27,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,7.0,Git,18,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/8/18 11:18,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,19,5,Male,,0,"(-2000.0, 400000.0]",Very low
+3/3/18 3:09,Bachelor's degree (BA. BS. B.Eng.. etc.),87000.0,Yes,Sweeden,7.0,Git;Subversion,62,18,Male,87000.0,1,"(-2000.0, 400000.0]",Medium
+7/1/18 10:57,Other doctoral degree (Ph.D. Ed.D.. etc.),300000.0,Yes,Sweeden,7.0,Git,53,8,Not Given,300000.0,1,"(-2000.0, 400000.0]",Very high
+4/7/18 11:28,Bachelor's degree (BA. BS. B.Eng.. etc.),2820.0,Yes,USA,10.0,Git,57,13,Male,2820.0,1,"(-2000.0, 400000.0]",Very low
+8/22/18 13:45,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,10.0,Git,48,22,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/24/18 13:02,Other doctoral degree (Ph.D. Ed.D.. etc.),1000000.0,Yes,France,7.0,Git,39,1,Not Given,1000000.0,1,"(800000.0, 1200000.0]",Very high
+7/3/18 21:06,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,10.0,Git,42,10,Male,,0,"(-2000.0, 400000.0]",Very low
+1/19/18 21:08,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,10.0,Git;Subversion;Team Foundation Version Control,61,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/19/18 6:36,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Other,7.0,Git,36,6,Male,,0,"(-2000.0, 400000.0]",Very low
+9/15/18 10:35,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,10.0,Git,19,11,Male,,0,"(-2000.0, 400000.0]",Very low
+8/3/18 5:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),14652.0,Yes,Spain,10.0,Git;Subversion,18,1,Male,14652.0,1,"(-2000.0, 400000.0]",Low
+9/15/18 23:40,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,10.0,Subversion,34,7,Male,,0,"(-2000.0, 400000.0]",Very low
+3/13/18 17:24,Bachelor's degree (BA. BS. B.Eng.. etc.),56352.0,Yes,India,7.0,Git,48,17,Male,56352.0,1,"(-2000.0, 400000.0]",Medium
+4/8/18 0:58,Bachelor's degree (BA. BS. B.Eng.. etc.),7860.0,Yes,India,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,20,5,Not Given,7860.0,1,"(-2000.0, 400000.0]",Very low
+9/21/18 6:03,Bachelor's degree (BA. BS. B.Eng.. etc.),150000.0,Yes,USA,7.0,Git;Mercurial,45,8,Not Given,150000.0,1,"(-2000.0, 400000.0]",High
+10/14/18 19:29,Bachelor's degree (BA. BS. B.Eng.. etc.),132000.0,No,UK,10.0,Git;Team Foundation Version Control,36,18,Not Given,132000.0,1,"(-2000.0, 400000.0]",High
+9/21/18 23:08,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Subversion,18,17,Male,,0,"(-2000.0, 400000.0]",Very low
+3/30/18 21:05,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Sweeden,8.0,Git,21,9,Male,,0,"(-2000.0, 400000.0]",Very low
+2/2/18 9:30,Bachelor's degree (BA. BS. B.Eng.. etc.),107000.0,Yes,USA,7.0,Git,39,13,Male,107000.0,1,"(-2000.0, 400000.0]",High
+7/17/18 5:37,Master's degree (MA. MS. M.Eng.. MBA. etc.),40388.0,No,South Africa,7.0,I don't use version control,29,10,Male,40388.0,1,"(-2000.0, 400000.0]",Low
+2/11/18 18:25,Bachelor's degree (BA. BS. B.Eng.. etc.),115000.0,Yes,South Africa,4.0,Git,42,10,Male,115000.0,1,"(-2000.0, 400000.0]",High
+1/10/18 9:02,Bachelor's degree (BA. BS. B.Eng.. etc.),9540.0,Yes,France,10.0,Git,26,11,Male,9540.0,1,"(-2000.0, 400000.0]",Very low
+4/20/18 20:17,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),1000000.0,Yes,Spain,7.0,Git;Copying and pasting files to network shares,44,13,Male,1000000.0,1,"(800000.0, 1200000.0]",Very high
+9/21/18 6:16,Some college/university study without earning a degree,8640.0,Yes,Russia,7.0,Git,54,12,Not Given,8640.0,1,"(-2000.0, 400000.0]",Very low
+7/6/18 5:49,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,7.0,Git;Team Foundation Version Control,48,10,Male,,0,"(-2000.0, 400000.0]",Very low
+2/21/18 10:11,Bachelor's degree (BA. BS. B.Eng.. etc.),83342.0,Yes,Sweeden,8.0,Git,43,12,Male,83342.0,1,"(-2000.0, 400000.0]",Medium
+1/5/18 17:02,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),6612.0,Yes,USA,7.0,I don't use version control,18,5,Not Given,6612.0,1,"(-2000.0, 400000.0]",Very low
+8/19/18 13:45,Master's degree (MA. MS. M.Eng.. MBA. etc.),12000.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,58,14,Male,12000.0,1,"(-2000.0, 400000.0]",Low
+6/17/18 7:19,Some college/university study without earning a degree,102000.0,Yes,USA,5.0,Team Foundation Version Control,37,1,Male,102000.0,1,"(-2000.0, 400000.0]",High
+2/19/18 21:02,Bachelor's degree (BA. BS. B.Eng.. etc.),122300.0,Yes,Sweeden,10.0,Git,35,7,Male,122300.0,1,"(-2000.0, 400000.0]",High
+9/7/18 0:47,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,7.0,Subversion,18,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/11/18 19:39,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git;Subversion;Zip file back-ups,23,13,Male,,0,"(-2000.0, 400000.0]",Very low
+3/21/18 3:32,Bachelor's degree (BA. BS. B.Eng.. etc.),68500.0,Yes,France,2.0,Git,28,19,Male,68500.0,1,"(-2000.0, 400000.0]",Medium
+6/15/18 0:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),36720.0,Yes,India,7.0,Git,48,6,Not Given,36720.0,1,"(-2000.0, 400000.0]",Low
+7/12/18 16:22,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),75000.0,Yes,Sweeden,7.0,Git,50,5,Male,75000.0,1,"(-2000.0, 400000.0]",Medium
+2/14/18 18:33,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,10.0,Team Foundation Version Control,30,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/16/18 11:51,Some college/university study without earning a degree,75008.0,Yes,USA,7.0,Git;Subversion,23,11,Not Given,75008.0,1,"(-2000.0, 400000.0]",Medium
+5/30/18 19:38,Bachelor's degree (BA. BS. B.Eng.. etc.),42348.0,Yes,India,1.0,Git,44,10,Female,42348.0,1,"(-2000.0, 400000.0]",Low
+5/24/18 4:46,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),58134.0,Yes,South Africa,5.0,Git;Subversion,24,1,Male,58134.0,1,"(-2000.0, 400000.0]",Medium
+1/22/18 1:34,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,43,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/10/18 20:14,Bachelor's degree (BA. BS. B.Eng.. etc.),34440.0,No,USA,10.0,Git,40,7,Not Given,34440.0,1,"(-2000.0, 400000.0]",Low
+7/4/18 12:55,Master's degree (MA. MS. M.Eng.. MBA. etc.),14436.0,Yes,India,6.0,Git;Mercurial,40,12,Male,14436.0,1,"(-2000.0, 400000.0]",Low
+9/6/18 8:15,Professional degree (JD. MD. etc.),21228.0,Yes,USA,7.0,Git;Subversion,34,14,Not Given,21228.0,1,"(-2000.0, 400000.0]",Low
+6/12/18 5:47,Master's degree (MA. MS. M.Eng.. MBA. etc.),15984.0,No,South Africa,8.0,Git,51,14,Male,15984.0,1,"(-2000.0, 400000.0]",Low
+7/2/18 3:45,Bachelor's degree (BA. BS. B.Eng.. etc.),94000.0,Yes,Spain,6.0,Git,35,19,Male,94000.0,1,"(-2000.0, 400000.0]",Medium
+8/24/18 14:46,Bachelor's degree (BA. BS. B.Eng.. etc.),120000.0,Yes,France,7.0,Git,36,1,Male,120000.0,1,"(-2000.0, 400000.0]",High
+7/2/18 9:44,Bachelor's degree (BA. BS. B.Eng.. etc.),31760.0,Yes,Russia,3.0,Git,51,0,Male,31760.0,1,"(-2000.0, 400000.0]",Low
+2/4/18 20:52,Bachelor's degree (BA. BS. B.Eng.. etc.),5424.0,No,South Africa,7.0,Git,38,13,Male,5424.0,1,"(-2000.0, 400000.0]",Very low
+1/22/18 15:10,Some college/university study without earning a degree,170000.0,Yes,Russia,10.0,Git,20,19,Male,170000.0,1,"(-2000.0, 400000.0]",Very high
+3/15/18 4:06,Bachelor's degree (BA. BS. B.Eng.. etc.),63979.0,Yes,USA,6.0,Git;Subversion,30,9,Male,63979.0,1,"(-2000.0, 400000.0]",Medium
+3/28/18 7:34,Some college/university study without earning a degree,7500.0,Yes,India,7.0,Git;Copying and pasting files to network shares,40,18,Male,7500.0,1,"(-2000.0, 400000.0]",Very low
+4/6/18 1:07,Master's degree (MA. MS. M.Eng.. MBA. etc.),12000.0,Yes,Sweeden,7.0,Git;Copying and pasting files to network shares,32,12,Male,12000.0,1,"(-2000.0, 400000.0]",Low
+8/16/18 22:04,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,36,0,Male,,0,"(-2000.0, 400000.0]",Very low
+8/29/18 21:38,Professional degree (JD. MD. etc.),0.0,Yes,South Africa,3.0,Git,40,7,Female,,0,"(-2000.0, 400000.0]",Very low
+10/12/18 7:35,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,10.0,Git,37,13,Male,,0,"(-2000.0, 400000.0]",Very low
+10/20/18 6:41,Bachelor's degree (BA. BS. B.Eng.. etc.),46200.0,Yes,USA,8.0,Git;Subversion;Team Foundation Version Control,30,17,Not Given,46200.0,1,"(-2000.0, 400000.0]",Low
+3/1/18 10:33,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git,18,15,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/11/18 10:08,Master's degree (MA. MS. M.Eng.. MBA. etc.),3756.0,Yes,USA,10.0,Git;Copying and pasting files to network shares;Zip file back-ups,36,7,Male,3756.0,1,"(-2000.0, 400000.0]",Very low
+1/15/18 5:52,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,30,14,Male,,0,"(-2000.0, 400000.0]",Very low
+2/28/18 8:07,Bachelor's degree (BA. BS. B.Eng.. etc.),76397.0,Yes,UK,8.0,Git;Team Foundation Version Control,36,15,Not Given,76397.0,1,"(-2000.0, 400000.0]",Medium
+2/23/18 14:47,Bachelor's degree (BA. BS. B.Eng.. etc.),139154.0,Yes,India,5.0,Git,47,13,Male,139154.0,1,"(-2000.0, 400000.0]",High
+7/12/18 21:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),101663.0,Yes,South Africa,5.0,Git;Subversion,19,12,Male,101663.0,1,"(-2000.0, 400000.0]",High
+1/29/18 0:52,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),11412.0,Yes,Spain,7.0,Git;Copying and pasting files to network shares,18,10,Male,11412.0,1,"(-2000.0, 400000.0]",Low
+7/7/18 7:57,Bachelor's degree (BA. BS. B.Eng.. etc.),60000.0,Yes,France,7.0,Git;Subversion;Copying and pasting files to network shares;Zip file back-ups,34,8,Not Given,60000.0,1,"(-2000.0, 400000.0]",Medium
+5/9/18 17:12,Master's degree (MA. MS. M.Eng.. MBA. etc.),52015.0,No,USA,7.0,Git,31,14,Male,52015.0,1,"(-2000.0, 400000.0]",Medium
+5/10/18 4:28,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,Git,33,16,Female,,0,"(-2000.0, 400000.0]",Very low
+7/12/18 17:42,Bachelor's degree (BA. BS. B.Eng.. etc.),52872.0,Yes,USA,0.0,Git,35,14,Male,52872.0,1,"(-2000.0, 400000.0]",Medium
+6/29/18 21:10,Some college/university study without earning a degree,0.0,Yes,UK,6.0,Git,48,13,Female,,0,"(-2000.0, 400000.0]",Very low
+7/24/18 10:07,Master's degree (MA. MS. M.Eng.. MBA. etc.),125123.0,Yes,Spain,7.0,Git;Mercurial,34,15,Male,125123.0,1,"(-2000.0, 400000.0]",High
+2/16/18 21:37,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,26,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/20/18 16:26,Master's degree (MA. MS. M.Eng.. MBA. etc.),4416.0,Yes,Spain,7.0,Git;Subversion;Copying and pasting files to network shares,43,2,Male,4416.0,1,"(-2000.0, 400000.0]",Very low
+1/7/18 20:10,Bachelor's degree (BA. BS. B.Eng.. etc.),38893.0,Yes,Sweeden,5.0,Git;Subversion,43,8,Male,38893.0,1,"(-2000.0, 400000.0]",Low
+8/14/18 5:33,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git,64,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/19/18 5:47,Bachelor's degree (BA. BS. B.Eng.. etc.),4692.0,Yes,South Africa,2.0,Git,27,10,Male,4692.0,1,"(-2000.0, 400000.0]",Very low
+5/16/18 11:14,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,India,7.0,Git,18,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/17/18 7:12,Bachelor's degree (BA. BS. B.Eng.. etc.),1884.0,Yes,USA,10.0,Git;Subversion,33,14,Not Given,1884.0,1,"(-2000.0, 400000.0]",Very low
+9/7/18 6:47,Some college/university study without earning a degree,4128.0,Yes,India,7.0,Copying and pasting files to network shares;Zip file back-ups,52,15,Male,4128.0,1,"(-2000.0, 400000.0]",Very low
+10/2/18 16:53,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),23208.0,No,South Africa,3.0,Git,48,13,Male,23208.0,1,"(-2000.0, 400000.0]",Low
+5/16/18 0:35,Bachelor's degree (BA. BS. B.Eng.. etc.),100000.0,Yes,Russia,7.0,Git;Team Foundation Version Control,31,12,Male,100000.0,1,"(-2000.0, 400000.0]",Medium
+5/16/18 17:04,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),33045.0,Yes,UK,7.0,Subversion,18,18,Not Given,33045.0,1,"(-2000.0, 400000.0]",Low
+6/25/18 2:07,Bachelor's degree (BA. BS. B.Eng.. etc.),12132.0,No,UK,7.0,Git;Subversion,48,11,Male,12132.0,1,"(-2000.0, 400000.0]",Low
+4/26/18 21:29,Some college/university study without earning a degree,0.0,Yes,Spain,7.0,Subversion,39,13,Male,,0,"(-2000.0, 400000.0]",Very low
+1/15/18 8:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),115000.0,Yes,South Africa,8.0,Git,44,4,Not Given,115000.0,1,"(-2000.0, 400000.0]",High
+2/9/18 12:34,Professional degree (JD. MD. etc.),45876.0,Yes,Spain,10.0,Git,21,19,Not Given,45876.0,1,"(-2000.0, 400000.0]",Low
+8/12/18 7:00,Professional degree (JD. MD. etc.),0.0,Yes,Spain,7.0,Git,44,0,Male,,0,"(-2000.0, 400000.0]",Very low
+7/25/18 16:44,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,5.0,Git,31,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/24/18 4:30,Professional degree (JD. MD. etc.),15600.0,Yes,Spain,2.0,Git;Subversion,18,18,Not Given,15600.0,1,"(-2000.0, 400000.0]",Low
+7/10/18 23:28,Professional degree (JD. MD. etc.),29724.0,Yes,South Africa,8.0,Git,44,27,Not Given,29724.0,1,"(-2000.0, 400000.0]",Low
+3/7/18 8:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),41276.0,Yes,South Africa,7.0,Mercurial,25,8,Not Given,41276.0,1,"(-2000.0, 400000.0]",Low
+3/19/18 16:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),17628.0,Yes,UK,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,28,8,Not Given,17628.0,1,"(-2000.0, 400000.0]",Low
+6/22/18 22:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),36716.0,Yes,France,7.0,Git,35,13,Female,36716.0,1,"(-2000.0, 400000.0]",Low
+8/3/18 7:06,Some college/university study without earning a degree,200000.0,Yes,South Africa,10.0,Git,18,20,Male,200000.0,1,"(-2000.0, 400000.0]",Very high
+8/12/18 16:09,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,USA,7.0,Copying and pasting files to network shares;Zip file back-ups,47,21,Male,,0,"(-2000.0, 400000.0]",Very low
+7/22/18 3:10,Bachelor's degree (BA. BS. B.Eng.. etc.),10476.0,Yes,UK,5.0,Git;Subversion,57,19,Male,10476.0,1,"(-2000.0, 400000.0]",Low
+3/5/18 12:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,India,7.0,Git,41,6,Male,,0,"(-2000.0, 400000.0]",Very low
+6/3/18 19:17,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,37,7,Male,,0,"(-2000.0, 400000.0]",Very low
+4/26/18 12:03,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,43,15,Male,,0,"(-2000.0, 400000.0]",Very low
+2/25/18 8:56,Bachelor's degree (BA. BS. B.Eng.. etc.),42672.0,No,USA,5.0,Team Foundation Version Control,29,9,Male,42672.0,1,"(-2000.0, 400000.0]",Low
+7/31/18 9:56,Some college/university study without earning a degree,23614.0,Yes,India,7.0,Git;Team Foundation Version Control,46,15,Male,23614.0,1,"(-2000.0, 400000.0]",Low
+2/1/18 11:46,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,8.0,Git,18,14,Male,,0,"(-2000.0, 400000.0]",Very low
+1/16/18 19:10,Master's degree (MA. MS. M.Eng.. MBA. etc.),58752.0,Yes,Russia,7.0,Git,18,11,Male,58752.0,1,"(-2000.0, 400000.0]",Medium
+2/17/18 3:11,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),38184.0,Yes,India,7.0,Git;Copying and pasting files to network shares,32,10,Male,38184.0,1,"(-2000.0, 400000.0]",Low
+10/2/18 4:29,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,7.0,Git,18,8,Male,,0,"(-2000.0, 400000.0]",Very low
+2/10/18 19:49,Master's degree (MA. MS. M.Eng.. MBA. etc.),64620.0,Yes,India,7.0,Team Foundation Version Control,21,15,Male,64620.0,1,"(-2000.0, 400000.0]",Medium
+10/19/18 2:56,Master's degree (MA. MS. M.Eng.. MBA. etc.),960000.0,Yes,USA,10.0,Git;Subversion;Team Foundation Version Control,34,9,Not Given,960000.0,1,"(800000.0, 1200000.0]",Very high
+6/7/18 22:02,Bachelor's degree (BA. BS. B.Eng.. etc.),3000.0,Yes,Spain,7.0,Git,30,5,Not Given,3000.0,1,"(-2000.0, 400000.0]",Very low
+3/13/18 11:40,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,6.0,Git,18,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/17/18 17:13,Bachelor's degree (BA. BS. B.Eng.. etc.),39768.0,No,Spain,7.0,Git,43,15,Male,39768.0,1,"(-2000.0, 400000.0]",Low
+7/30/18 21:12,Professional degree (JD. MD. etc.),22030.0,Yes,Russia,9.0,Git,39,8,Male,22030.0,1,"(-2000.0, 400000.0]",Low
+2/18/18 20:52,Bachelor's degree (BA. BS. B.Eng.. etc.),120000.0,Yes,Russia,5.0,Git,55,15,Not Given,120000.0,1,"(-2000.0, 400000.0]",High
+4/27/18 22:38,Some college/university study without earning a degree,0.0,Yes,Sweeden,7.0,Git,18,0,Male,,0,"(-2000.0, 400000.0]",Very low
+1/4/18 22:07,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,Spain,6.0,Git;Subversion;Copying and pasting files to network shares;Zip file back-ups,36,12,Male,,0,"(-2000.0, 400000.0]",Very low
+8/2/18 9:32,Bachelor's degree (BA. BS. B.Eng.. etc.),57000.0,Yes,USA,5.0,Git,25,9,Male,57000.0,1,"(-2000.0, 400000.0]",Medium
+7/2/18 1:01,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,10.0,Git,55,8,Male,,0,"(-2000.0, 400000.0]",Very low
+4/11/18 8:40,Some college/university study without earning a degree,0.0,Yes,Sweeden,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,35,15,Male,,0,"(-2000.0, 400000.0]",Very low
+4/4/18 23:49,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Russia,8.0,Git;Subversion,30,4,Male,,0,"(-2000.0, 400000.0]",Very low
+10/16/18 1:48,Bachelor's degree (BA. BS. B.Eng.. etc.),14089.0,No,Sweeden,4.0,Subversion,46,9,Not Given,14089.0,1,"(-2000.0, 400000.0]",Low
+8/1/18 7:30,Bachelor's degree (BA. BS. B.Eng.. etc.),4332.0,No,France,10.0,Git;Team Foundation Version Control,73,7,Male,4332.0,1,"(-2000.0, 400000.0]",Very low
+3/5/18 11:35,Bachelor's degree (BA. BS. B.Eng.. etc.),85000.0,Yes,India,7.0,Git;Team Foundation Version Control,62,10,Not Given,85000.0,1,"(-2000.0, 400000.0]",Medium
+5/24/18 11:00,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,5.0,Subversion,42,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/21/18 2:39,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,USA,7.0,Git,48,14,Male,,0,"(-2000.0, 400000.0]",Very low
+6/11/18 13:25,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),92000.0,Yes,South Africa,7.0,Git;Subversion;Team Foundation Version Control,28,19,Not Given,92000.0,1,"(-2000.0, 400000.0]",Medium
+5/11/18 11:46,Bachelor's degree (BA. BS. B.Eng.. etc.),140000.0,Yes,Spain,7.0,Git;Subversion;Zip file back-ups,48,5,Male,140000.0,1,"(-2000.0, 400000.0]",High
+2/1/18 19:13,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,7.0,Git,18,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+10/1/18 5:54,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,7.0,Git,42,13,Male,,0,"(-2000.0, 400000.0]",Very low
+3/17/18 10:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,52,11,Male,,0,"(-2000.0, 400000.0]",Very low
+5/14/18 7:19,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,9.0,Subversion,56,3,Male,,0,"(-2000.0, 400000.0]",Very low
+1/15/18 19:55,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Git,44,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/30/18 19:32,Professional degree (JD. MD. etc.),0.0,Yes,France,7.0,Git,54,4,Male,,0,"(-2000.0, 400000.0]",Very low
+6/7/18 11:50,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,France,7.0,Git;Subversion,45,8,Male,,0,"(-2000.0, 400000.0]",Very low
+6/6/18 11:09,Master's degree (MA. MS. M.Eng.. MBA. etc.),61194.0,Yes,Sweeden,7.0,Subversion,26,23,Not Given,61194.0,1,"(-2000.0, 400000.0]",Medium
+10/10/18 13:57,Bachelor's degree (BA. BS. B.Eng.. etc.),105000.0,Yes,India,7.0,Git,35,8,Not Given,105000.0,1,"(-2000.0, 400000.0]",High
+2/14/18 8:50,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,France,7.0,Git;Zip file back-ups,52,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+1/9/18 1:24,Bachelor's degree (BA. BS. B.Eng.. etc.),75880.0,Yes,Sweeden,7.0,Git,33,15,Male,75880.0,1,"(-2000.0, 400000.0]",Medium
+9/14/18 12:19,Master's degree (MA. MS. M.Eng.. MBA. etc.),95462.0,Yes,South Africa,5.0,Git,43,13,Male,95462.0,1,"(-2000.0, 400000.0]",Medium
+1/6/18 6:56,Some college/university study without earning a degree,42156.0,No,Russia,8.0,Git,20,8,Female,42156.0,1,"(-2000.0, 400000.0]",Low
+8/25/18 7:27,Associate degree,0.0,Yes,South Africa,7.0,Git,25,13,Male,,0,"(-2000.0, 400000.0]",Very low
+4/30/18 16:32,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,Git;Subversion,21,12,Male,,0,"(-2000.0, 400000.0]",Very low
+4/9/18 21:40,Bachelor's degree (BA. BS. B.Eng.. etc.),4680.0,Yes,Spain,7.0,Git,38,13,Male,4680.0,1,"(-2000.0, 400000.0]",Very low
+7/12/18 13:14,Some college/university study without earning a degree,28988.0,Yes,Sweeden,10.0,Git,31,5,Not Given,28988.0,1,"(-2000.0, 400000.0]",Low
+9/17/18 18:53,Some college/university study without earning a degree,84448.0,Yes,France,7.0,Git,37,12,Male,84448.0,1,"(-2000.0, 400000.0]",Medium
+9/1/18 11:41,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),6612.0,Yes,USA,7.0,Git,41,12,Male,6612.0,1,"(-2000.0, 400000.0]",Very low
+9/30/18 19:53,Bachelor's degree (BA. BS. B.Eng.. etc.),2400.0,Yes,France,5.0,Git,71,8,Not Given,2400.0,1,"(-2000.0, 400000.0]",Very low
+9/19/18 5:37,Some college/university study without earning a degree,38893.0,No,India,2.0,Git;Subversion;Copying and pasting files to network shares,54,7,Male,38893.0,1,"(-2000.0, 400000.0]",Low
+10/8/18 21:25,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,7.0,Git,44,8,Female,,0,"(-2000.0, 400000.0]",Very low
+7/2/18 9:32,Some college/university study without earning a degree,37428.0,Yes,France,7.0,Git,55,11,Not Given,37428.0,1,"(-2000.0, 400000.0]",Low
+2/10/18 4:55,Master's degree (MA. MS. M.Eng.. MBA. etc.),20172.0,Yes,Russia,7.0,Git;Subversion,30,6,Male,20172.0,1,"(-2000.0, 400000.0]",Low
+5/7/18 19:10,Associate degree,0.0,Yes,France,7.0,Git,31,7,Male,,0,"(-2000.0, 400000.0]",Very low
+2/2/18 10:57,Master's degree (MA. MS. M.Eng.. MBA. etc.),85671.0,No,France,5.0,Git,48,13,Not Given,85671.0,1,"(-2000.0, 400000.0]",Medium
+1/24/18 22:59,Some college/university study without earning a degree,37000.0,Yes,Sweeden,7.0,Git;Mercurial,20,12,Transgender,37000.0,1,"(-2000.0, 400000.0]",Low
+9/18/18 8:51,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,Spain,7.0,Git;Zip file back-ups,34,2,Male,,0,"(-2000.0, 400000.0]",Very low
+1/31/18 12:15,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,10.0,Team Foundation Version Control,44,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/18/18 11:33,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),12708.0,Yes,South Africa,8.0,Git,44,7,Male,12708.0,1,"(-2000.0, 400000.0]",Low
+1/30/18 22:47,Some college/university study without earning a degree,9360.0,No,India,10.0,Git,48,1,Not Given,9360.0,1,"(-2000.0, 400000.0]",Very low
+1/30/18 13:37,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),7200.0,Yes,South Africa,7.0,Git;Zip file back-ups,21,7,Male,7200.0,1,"(-2000.0, 400000.0]",Very low
+2/28/18 3:42,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,7.0,Git,62,9,Male,,0,"(-2000.0, 400000.0]",Very low
+9/26/18 22:42,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,USA,7.0,Git,43,0,Male,,0,"(-2000.0, 400000.0]",Very low
+1/2/18 12:53,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git,18,4,Male,,0,"(-2000.0, 400000.0]",Very low
+10/4/18 12:20,Bachelor's degree (BA. BS. B.Eng.. etc.),13848.0,No,UK,8.0,Git;Team Foundation Version Control,18,10,Male,13848.0,1,"(-2000.0, 400000.0]",Low
+4/26/18 23:56,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git;Zip file back-ups,26,15,Male,,0,"(-2000.0, 400000.0]",Very low
+3/29/18 3:53,Bachelor's degree (BA. BS. B.Eng.. etc.),48616.0,Yes,France,7.0,Git,35,10,Male,48616.0,1,"(-2000.0, 400000.0]",Low
+1/18/18 16:12,Master's degree (MA. MS. M.Eng.. MBA. etc.),55075.0,Yes,UK,6.0,Git,39,12,Male,55075.0,1,"(-2000.0, 400000.0]",Medium
+10/10/18 12:47,Some college/university study without earning a degree,0.0,Yes,Spain,6.0,Git,56,15,Male,,0,"(-2000.0, 400000.0]",Very low
+7/14/18 15:58,Master's degree (MA. MS. M.Eng.. MBA. etc.),140800.0,Yes,Sweeden,8.0,Git,18,17,Male,140800.0,1,"(-2000.0, 400000.0]",High
+4/9/18 17:55,Bachelor's degree (BA. BS. B.Eng.. etc.),41157.0,Yes,India,3.0,Git,35,13,Male,41157.0,1,"(-2000.0, 400000.0]",Low
+10/5/18 15:31,Bachelor's degree (BA. BS. B.Eng.. etc.),69000.0,Yes,Russia,7.0,Git,24,15,Male,69000.0,1,"(-2000.0, 400000.0]",Medium
+5/22/18 0:43,Master's degree (MA. MS. M.Eng.. MBA. etc.),95000.0,Yes,Sweeden,10.0,Git,29,20,Male,95000.0,1,"(-2000.0, 400000.0]",Medium
+1/3/18 7:51,Some college/university study without earning a degree,78000.0,Yes,India,10.0,Git,55,6,Male,78000.0,1,"(-2000.0, 400000.0]",Medium
+1/5/18 15:26,Bachelor's degree (BA. BS. B.Eng.. etc.),69452.0,No,India,10.0,Git,43,10,Not Given,69452.0,1,"(-2000.0, 400000.0]",Medium
+6/7/18 4:02,Bachelor's degree (BA. BS. B.Eng.. etc.),45838.0,Yes,India,5.0,Git;Copying and pasting files to network shares,28,11,Male,45838.0,1,"(-2000.0, 400000.0]",Low
+6/2/18 2:21,Bachelor's degree (BA. BS. B.Eng.. etc.),4884.0,Yes,Sweeden,7.0,Zip file back-ups,36,16,Not Given,4884.0,1,"(-2000.0, 400000.0]",Very low
+1/27/18 7:42,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Russia,7.0,Git,18,19,Male,,0,"(-2000.0, 400000.0]",Very low
+3/15/18 5:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,7.0,Git,37,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/27/18 11:21,Bachelor's degree (BA. BS. B.Eng.. etc.),130000.0,Yes,Spain,10.0,Git,58,15,Male,130000.0,1,"(-2000.0, 400000.0]",High
+8/22/18 12:04,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,10.0,Git;Team Foundation Version Control,64,16,Female,,0,"(-2000.0, 400000.0]",Very low
+9/1/18 22:00,Bachelor's degree (BA. BS. B.Eng.. etc.),10920.0,Yes,UK,7.0,Git,18,17,Male,10920.0,1,"(-2000.0, 400000.0]",Low
+8/12/18 22:31,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git,34,18,Not Given,,0,"(-2000.0, 400000.0]",Very low
+10/25/18 1:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Russia,7.0,Git,39,18,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/29/18 4:10,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Sweeden,9.0,Mercurial,40,14,Male,,0,"(-2000.0, 400000.0]",Very low
+9/27/18 19:54,Professional degree (JD. MD. etc.),15922.0,Yes,USA,7.0,Git;Mercurial,35,18,Male,15922.0,1,"(-2000.0, 400000.0]",Low
+4/4/18 4:04,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git;Subversion,40,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/24/18 19:46,Master's degree (MA. MS. M.Eng.. MBA. etc.),85572.0,Yes,Sweeden,7.0,Git,39,8,Male,85572.0,1,"(-2000.0, 400000.0]",Medium
+5/30/18 5:46,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,France,7.0,Git;Subversion,23,18,Male,,0,"(-2000.0, 400000.0]",Very low
+4/5/18 23:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,France,7.0,Git,25,6,Male,,0,"(-2000.0, 400000.0]",Very low
+5/1/18 3:19,Bachelor's degree (BA. BS. B.Eng.. etc.),65000.0,Yes,South Africa,10.0,Git;Team Foundation Version Control,20,13,Male,65000.0,1,"(-2000.0, 400000.0]",Medium
+9/18/18 2:18,Associate degree,37152.0,Yes,India,7.0,Git;Copying and pasting files to network shares;Zip file back-ups,50,14,Female,37152.0,1,"(-2000.0, 400000.0]",Low
+3/27/18 11:27,Some college/university study without earning a degree,17628.0,Yes,Spain,10.0,Git,24,7,Male,17628.0,1,"(-2000.0, 400000.0]",Low
+9/4/18 10:14,Some college/university study without earning a degree,0.0,Yes,UK,7.0,Git,27,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/13/18 3:59,Bachelor's degree (BA. BS. B.Eng.. etc.),95000.0,Yes,France,8.0,Git,18,17,Male,95000.0,1,"(-2000.0, 400000.0]",Medium
+8/29/18 19:14,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),59172.0,Yes,Russia,7.0,Git,47,13,Male,59172.0,1,"(-2000.0, 400000.0]",Medium
+2/4/18 9:01,Master's degree (MA. MS. M.Eng.. MBA. etc.),112000.0,Yes,South Africa,7.0,Git;Subversion,18,4,Not Given,112000.0,1,"(-2000.0, 400000.0]",High
+3/24/18 1:55,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),29200.0,Yes,USA,7.0,Git,69,8,Not Given,29200.0,1,"(-2000.0, 400000.0]",Low
+1/25/18 15:25,Some college/university study without earning a degree,15000.0,Yes,France,7.0,Git,54,10,Female,15000.0,1,"(-2000.0, 400000.0]",Low
+2/28/18 17:20,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,21,17,Male,,0,"(-2000.0, 400000.0]",Very low
+9/3/18 11:12,Some college/university study without earning a degree,110000.0,Yes,India,10.0,Git;Team Foundation Version Control,50,7,Male,110000.0,1,"(-2000.0, 400000.0]",High
+8/1/18 14:00,Some college/university study without earning a degree,500052.0,No,UK,7.0,Git;Team Foundation Version Control,52,5,Male,500052.0,1,"(400000.0, 800000.0]",Very high
+8/18/18 19:55,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,10.0,Git,41,5,Male,,0,"(-2000.0, 400000.0]",Very low
+9/26/18 5:41,Associate degree,0.0,Yes,USA,9.0,Git,44,10,Male,,0,"(-2000.0, 400000.0]",Very low
+3/14/18 15:32,Master's degree (MA. MS. M.Eng.. MBA. etc.),28958.0,Yes,Russia,0.0,Git;Subversion;Team Foundation Version Control,29,9,Not Given,28958.0,1,"(-2000.0, 400000.0]",Low
+9/14/18 23:28,Master's degree (MA. MS. M.Eng.. MBA. etc.),23172.0,No,France,7.0,Git,38,11,Not Given,23172.0,1,"(-2000.0, 400000.0]",Low
+6/29/18 21:13,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,8.0,Git,18,15,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/24/18 14:25,Some college/university study without earning a degree,10000.0,Yes,Spain,7.0,Git,30,15,Male,10000.0,1,"(-2000.0, 400000.0]",Very low
+3/22/18 6:42,Some college/university study without earning a degree,43500.0,Yes,France,7.0,Git,35,10,Male,43500.0,1,"(-2000.0, 400000.0]",Low
+2/14/18 9:58,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),20857.0,Yes,Sweeden,7.0,I don't use version control,43,10,Not Given,20857.0,1,"(-2000.0, 400000.0]",Low
+2/22/18 18:53,Bachelor's degree (BA. BS. B.Eng.. etc.),36468.0,Yes,UK,7.0,Git,27,12,Not Given,36468.0,1,"(-2000.0, 400000.0]",Low
+2/8/18 23:50,Bachelor's degree (BA. BS. B.Eng.. etc.),65000.0,No,Russia,7.0,Team Foundation Version Control,47,8,Male,65000.0,1,"(-2000.0, 400000.0]",Medium
+1/28/18 6:22,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,Russia,7.0,Git,18,8,Male,,0,"(-2000.0, 400000.0]",Very low
+4/30/18 19:04,Bachelor's degree (BA. BS. B.Eng.. etc.),51403.0,Yes,France,7.0,Git;Subversion,30,9,Male,51403.0,1,"(-2000.0, 400000.0]",Medium
+7/29/18 7:35,Bachelor's degree (BA. BS. B.Eng.. etc.),67368.0,Yes,India,7.0,Git,44,16,Male,67368.0,1,"(-2000.0, 400000.0]",Medium
+4/4/18 13:58,Bachelor's degree (BA. BS. B.Eng.. etc.),97233.0,Yes,USA,7.0,Git;Team Foundation Version Control,18,10,Male,97233.0,1,"(-2000.0, 400000.0]",Medium
+6/5/18 12:01,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,7.0,Git;Subversion,35,2,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/3/18 14:13,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,31,9,Male,,0,"(-2000.0, 400000.0]",Very low
+9/21/18 20:06,Bachelor's degree (BA. BS. B.Eng.. etc.),1884.0,Yes,USA,7.0,Git,38,11,Transgender,1884.0,1,"(-2000.0, 400000.0]",Very low
+6/25/18 4:28,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,France,7.0,Git,54,9,Male,,0,"(-2000.0, 400000.0]",Very low
+5/2/18 17:49,Bachelor's degree (BA. BS. B.Eng.. etc.),76397.0,Yes,UK,7.0,Git;Mercurial,26,17,Not Given,76397.0,1,"(-2000.0, 400000.0]",Medium
+4/13/18 13:21,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,No,South Africa,7.0,Git;Zip file back-ups,75,8,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/6/18 15:56,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git;Subversion,19,12,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/2/18 23:45,Professional degree (JD. MD. etc.),73433.0,Yes,Spain,10.0,Git,44,0,Male,73433.0,1,"(-2000.0, 400000.0]",Medium
+3/17/18 0:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,South Africa,10.0,Git,43,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/27/18 7:11,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,India,7.0,Git,18,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/21/18 23:43,Bachelor's degree (BA. BS. B.Eng.. etc.),60000.0,Yes,UK,7.0,Git;Team Foundation Version Control,19,12,Not Given,60000.0,1,"(-2000.0, 400000.0]",Medium
+9/14/18 18:43,Master's degree (MA. MS. M.Eng.. MBA. etc.),88000.0,Yes,South Africa,10.0,Git,18,0,Male,88000.0,1,"(-2000.0, 400000.0]",Medium
+7/18/18 7:00,I never completed any formal education,0.0,Yes,Russia,7.0,Mercurial,34,12,Male,,0,"(-2000.0, 400000.0]",Very low
+7/8/18 9:26,Master's degree (MA. MS. M.Eng.. MBA. etc.),1056.0,No,France,7.0,Git,44,9,Male,1056.0,1,"(-2000.0, 400000.0]",Very low
+6/19/18 18:39,Some college/university study without earning a degree,240000.0,Yes,USA,6.0,Git;Mercurial,41,11,Male,240000.0,1,"(-2000.0, 400000.0]",Very high
+3/3/18 19:45,Master's degree (MA. MS. M.Eng.. MBA. etc.),160000.0,Yes,Sweeden,7.0,Git;Subversion,41,9,Not Given,160000.0,1,"(-2000.0, 400000.0]",Very high
+9/8/18 6:39,Associate degree,0.0,Yes,USA,7.0,Git,37,13,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/1/18 11:03,Bachelor's degree (BA. BS. B.Eng.. etc.),143000.0,Yes,USA,7.0,Git,26,3,Male,143000.0,1,"(-2000.0, 400000.0]",High
+7/15/18 21:13,Bachelor's degree (BA. BS. B.Eng.. etc.),69452.0,Yes,South Africa,7.0,Git,36,10,Male,69452.0,1,"(-2000.0, 400000.0]",Medium
+3/25/18 21:42,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),60000.0,Yes,South Africa,7.0,Git;Team Foundation Version Control,41,4,Male,60000.0,1,"(-2000.0, 400000.0]",Medium
+6/24/18 15:25,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,USA,7.0,Git,40,1,Male,,0,"(-2000.0, 400000.0]",Very low
+10/23/18 1:00,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git;Subversion,27,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/10/18 17:10,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,India,7.0,Team Foundation Version Control;Copying and pasting files to network shares,18,3,Not Given,,0,"(-2000.0, 400000.0]",Very low
+7/30/18 12:04,Some college/university study without earning a degree,130000.0,Yes,Russia,7.0,Git;Subversion,30,14,Male,130000.0,1,"(-2000.0, 400000.0]",High
+9/23/18 9:32,Bachelor's degree (BA. BS. B.Eng.. etc.),130000.0,Yes,Russia,7.0,Team Foundation Version Control,37,6,Male,130000.0,1,"(-2000.0, 400000.0]",High
+9/17/18 3:05,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,USA,7.0,Git,26,8,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/2/18 1:48,Associate degree,0.0,Yes,India,7.0,Git,37,17,Not Given,,0,"(-2000.0, 400000.0]",Very low
+4/26/18 3:46,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Spain,9.0,Git,46,5,Male,,0,"(-2000.0, 400000.0]",Very low
+3/5/18 7:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),68820.0,No,UK,7.0,Git;Subversion,18,10,Male,68820.0,1,"(-2000.0, 400000.0]",Medium
+6/10/18 13:58,Master's degree (MA. MS. M.Eng.. MBA. etc.),20000.0,Yes,South Africa,6.0,Git;Team Foundation Version Control;Copying and pasting files to network shares;Zip file back-ups,20,16,Male,20000.0,1,"(-2000.0, 400000.0]",Low
+6/24/18 3:20,Bachelor's degree (BA. BS. B.Eng.. etc.),26925.0,Yes,France,6.0,Git,32,15,Male,26925.0,1,"(-2000.0, 400000.0]",Low
+10/14/18 9:33,Bachelor's degree (BA. BS. B.Eng.. etc.),70000.0,Yes,Sweeden,5.0,Git,33,7,Male,70000.0,1,"(-2000.0, 400000.0]",Medium
+9/17/18 6:07,Some college/university study without earning a degree,0.0,Yes,Russia,10.0,Git,28,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/31/18 17:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),120000.0,Yes,Russia,7.0,Copying and pasting files to network shares,37,19,Male,120000.0,1,"(-2000.0, 400000.0]",High
+6/8/18 0:24,Bachelor's degree (BA. BS. B.Eng.. etc.),24000.0,Yes,UK,5.0,Git;Copying and pasting files to network shares,58,4,Male,24000.0,1,"(-2000.0, 400000.0]",Low
+5/28/18 10:58,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,8.0,Git;Subversion;Copying and pasting files to network shares,32,11,Male,,0,"(-2000.0, 400000.0]",Very low
+7/10/18 11:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),49200.0,Yes,France,4.0,Git;Mercurial;Team Foundation Version Control,40,6,Female,49200.0,1,"(-2000.0, 400000.0]",Low
+3/18/18 8:55,Master's degree (MA. MS. M.Eng.. MBA. etc.),3914.0,Yes,Spain,10.0,Git;Copying and pasting files to network shares,20,14,Male,3914.0,1,"(-2000.0, 400000.0]",Very low
+5/13/18 18:26,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git,30,8,Male,,0,"(-2000.0, 400000.0]",Very low
+8/18/18 20:40,Bachelor's degree (BA. BS. B.Eng.. etc.),54792.0,Yes,Spain,10.0,Git,30,15,Not Given,54792.0,1,"(-2000.0, 400000.0]",Medium
+6/28/18 4:02,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Zip file back-ups,50,13,Male,,0,"(-2000.0, 400000.0]",Very low
+7/9/18 16:09,Bachelor's degree (BA. BS. B.Eng.. etc.),41671.0,Yes,Sweeden,7.0,Git,52,14,Male,41671.0,1,"(-2000.0, 400000.0]",Low
+10/17/18 13:58,Bachelor's degree (BA. BS. B.Eng.. etc.),24540.0,Yes,Spain,5.0,Team Foundation Version Control,31,7,Male,24540.0,1,"(-2000.0, 400000.0]",Low
+2/7/18 4:54,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,No,USA,6.0,Git,30,13,Male,,0,"(-2000.0, 400000.0]",Very low
+3/17/18 7:30,Master's degree (MA. MS. M.Eng.. MBA. etc.),84816.0,Yes,USA,7.0,Git,52,8,Male,84816.0,1,"(-2000.0, 400000.0]",Medium
+7/18/18 1:38,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,UK,7.0,Git;Team Foundation Version Control,25,9,Male,,0,"(-2000.0, 400000.0]",Very low
+10/1/18 2:51,Bachelor's degree (BA. BS. B.Eng.. etc.),11040.0,Yes,France,7.0,Zip file back-ups,20,4,Male,11040.0,1,"(-2000.0, 400000.0]",Low
+1/9/18 17:53,Bachelor's degree (BA. BS. B.Eng.. etc.),45019.0,Yes,Sweeden,7.0,Git;Subversion;Copying and pasting files to network shares,31,5,Male,45019.0,1,"(-2000.0, 400000.0]",Low
+3/23/18 16:10,Master's degree (MA. MS. M.Eng.. MBA. etc.),81576.0,No,UK,7.0,Git;Mercurial;Subversion,33,11,Male,81576.0,1,"(-2000.0, 400000.0]",Medium
+2/28/18 11:50,Bachelor's degree (BA. BS. B.Eng.. etc.),60000.0,Yes,Sweeden,7.0,Git;Team Foundation Version Control,18,9,Male,60000.0,1,"(-2000.0, 400000.0]",Medium
+4/24/18 6:59,Bachelor's degree (BA. BS. B.Eng.. etc.),64000.0,Yes,South Africa,7.0,Subversion,35,9,Male,64000.0,1,"(-2000.0, 400000.0]",Medium
+3/7/18 10:02,Bachelor's degree (BA. BS. B.Eng.. etc.),47472.0,Yes,India,6.0,Git;Mercurial,40,19,Not Given,47472.0,1,"(-2000.0, 400000.0]",Low
+7/23/18 22:47,Associate degree,28182.0,No,India,7.0,Git,38,6,Not Given,28182.0,1,"(-2000.0, 400000.0]",Low
+1/20/18 6:48,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Subversion,39,10,Male,,0,"(-2000.0, 400000.0]",Very low
+5/7/18 5:13,Primary/elementary school,32676.0,Yes,South Africa,7.0,Git,33,10,Female,32676.0,1,"(-2000.0, 400000.0]",Low
+4/27/18 16:41,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,UK,7.0,Subversion,46,16,Female,,0,"(-2000.0, 400000.0]",Very low
+10/9/18 3:36,Bachelor's degree (BA. BS. B.Eng.. etc.),74000.0,Yes,UK,7.0,Git,43,6,Not Given,74000.0,1,"(-2000.0, 400000.0]",Medium
+10/25/18 21:23,Master's degree (MA. MS. M.Eng.. MBA. etc.),14688.0,Yes,Russia,10.0,Git,57,7,Male,14688.0,1,"(-2000.0, 400000.0]",Low
+2/11/18 2:29,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,I don't use version control,22,6,Male,,0,"(-2000.0, 400000.0]",Very low
+1/28/18 13:36,Some college/university study without earning a degree,46260.0,Yes,Spain,5.0,Git,44,4,Not Given,46260.0,1,"(-2000.0, 400000.0]",Low
+8/16/18 11:32,Master's degree (MA. MS. M.Eng.. MBA. etc.),76512.0,Yes,Spain,7.0,Git,22,8,Male,76512.0,1,"(-2000.0, 400000.0]",Medium
+6/16/18 19:28,Some college/university study without earning a degree,27612.0,Yes,South Africa,5.0,Git;Subversion,57,13,Not Given,27612.0,1,"(-2000.0, 400000.0]",Low
+5/7/18 8:02,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,Yes,UK,7.0,Git,18,11,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/15/18 1:08,Associate degree,27550.0,Yes,Spain,7.0,Git,33,14,Male,27550.0,1,"(-2000.0, 400000.0]",Low
+4/13/18 21:18,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git;Subversion,30,7,Male,,0,"(-2000.0, 400000.0]",Very low
+4/17/18 1:24,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,9.0,Git,31,5,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/27/18 10:55,Bachelor's degree (BA. BS. B.Eng.. etc.),72469.0,Yes,Russia,7.0,Git,42,13,Male,72469.0,1,"(-2000.0, 400000.0]",Medium
+10/8/18 22:18,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Other,7.0,Git;Subversion;Team Foundation Version Control,30,10,Not Given,,0,"(-2000.0, 400000.0]",Very low
+6/18/18 10:16,Bachelor's degree (BA. BS. B.Eng.. etc.),281784.0,Yes,India,7.0,Git,44,11,Not Given,281784.0,1,"(-2000.0, 400000.0]",Very high
+4/21/18 1:09,Bachelor's degree (BA. BS. B.Eng.. etc.),68000.0,Yes,South Africa,7.0,Subversion,18,12,Male,68000.0,1,"(-2000.0, 400000.0]",Medium
+6/6/18 23:27,Some college/university study without earning a degree,40000.0,Yes,Sweeden,7.0,Git,56,8,Female,40000.0,1,"(-2000.0, 400000.0]",Low
+3/28/18 12:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,7.0,Git,47,5,Male,,0,"(-2000.0, 400000.0]",Very low
+7/18/18 8:45,Master's degree (MA. MS. M.Eng.. MBA. etc.),59880.0,Yes,South Africa,2.0,Git,18,9,Not Given,59880.0,1,"(-2000.0, 400000.0]",Medium
+9/15/18 13:14,Bachelor's degree (BA. BS. B.Eng.. etc.),115961.0,Yes,South Africa,7.0,Git,54,8,Male,115961.0,1,"(-2000.0, 400000.0]",High
+9/15/18 2:35,Master's degree (MA. MS. M.Eng.. MBA. etc.),783.0,Yes,USA,10.0,Git,18,4,Male,783.0,1,"(-2000.0, 400000.0]",Very low
+1/21/18 23:24,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Russia,5.0,Git;Subversion,35,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/19/18 14:03,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,USA,7.0,Git,28,7,Not Given,,0,"(-2000.0, 400000.0]",Very low
+9/7/18 16:34,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Git,53,4,Male,,0,"(-2000.0, 400000.0]",Very low
+4/27/18 17:12,Bachelor's degree (BA. BS. B.Eng.. etc.),90000.0,Yes,India,10.0,Git,37,11,Male,90000.0,1,"(-2000.0, 400000.0]",Medium
+7/12/18 6:56,Some college/university study without earning a degree,0.0,Yes,South Africa,7.0,Git,18,7,Male,,0,"(-2000.0, 400000.0]",Very low
+5/19/18 7:39,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,7.0,Subversion,25,21,Male,,0,"(-2000.0, 400000.0]",Very low
+10/18/18 4:34,Bachelor's degree (BA. BS. B.Eng.. etc.),2916.0,Yes,Russia,10.0,Git,26,14,Not Given,2916.0,1,"(-2000.0, 400000.0]",Very low
+9/6/18 4:12,Bachelor's degree (BA. BS. B.Eng.. etc.),54000.0,Yes,France,3.0,Git,45,11,Not Given,54000.0,1,"(-2000.0, 400000.0]",Medium
+5/17/18 22:16,Master's degree (MA. MS. M.Eng.. MBA. etc.),51403.0,Yes,India,7.0,Git;Mercurial;Subversion,28,3,Male,51403.0,1,"(-2000.0, 400000.0]",Medium
+8/2/18 19:26,Master's degree (MA. MS. M.Eng.. MBA. etc.),71460.0,Yes,Sweeden,10.0,Git,48,4,Male,71460.0,1,"(-2000.0, 400000.0]",Medium
+3/4/18 3:40,Master's degree (MA. MS. M.Eng.. MBA. etc.),13152.0,Yes,South Africa,10.0,Git,45,14,Male,13152.0,1,"(-2000.0, 400000.0]",Low
+8/6/18 4:47,Some college/university study without earning a degree,3000.0,No,UK,7.0,I don't use version control,18,1,Male,3000.0,1,"(-2000.0, 400000.0]",Very low
+3/21/18 6:40,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,19,4,Male,,0,"(-2000.0, 400000.0]",Very low
+7/19/18 2:01,Bachelor's degree (BA. BS. B.Eng.. etc.),135000.0,Yes,South Africa,7.0,Git,39,8,Male,135000.0,1,"(-2000.0, 400000.0]",High
+7/16/18 12:14,Master's degree (MA. MS. M.Eng.. MBA. etc.),38184.0,Yes,Spain,7.0,Git;Zip file back-ups,52,8,Male,38184.0,1,"(-2000.0, 400000.0]",Low
+3/26/18 20:22,Master's degree (MA. MS. M.Eng.. MBA. etc.),122000.0,Yes,South Africa,7.0,Git,46,13,Not Given,122000.0,1,"(-2000.0, 400000.0]",High
+4/15/18 0:00,Bachelor's degree (BA. BS. B.Eng.. etc.),61194.0,Yes,South Africa,5.0,Git,18,5,Male,61194.0,1,"(-2000.0, 400000.0]",Medium
+8/23/18 10:16,Bachelor's degree (BA. BS. B.Eng.. etc.),15852.0,Yes,South Africa,7.0,Git,34,12,Not Given,15852.0,1,"(-2000.0, 400000.0]",Low
+6/12/18 19:18,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,France,2.0,Git,18,9,Male,,0,"(-2000.0, 400000.0]",Very low
+2/27/18 11:23,Bachelor's degree (BA. BS. B.Eng.. etc.),120782.0,Yes,USA,9.0,Git,18,7,Male,120782.0,1,"(-2000.0, 400000.0]",High
+7/23/18 8:18,Bachelor's degree (BA. BS. B.Eng.. etc.),3252.0,Yes,India,10.0,Git;Copying and pasting files to network shares;Zip file back-ups,40,7,Male,3252.0,1,"(-2000.0, 400000.0]",Very low
+5/29/18 3:15,Some college/university study without earning a degree,14436.0,No,Spain,10.0,I don't use version control,28,8,Male,14436.0,1,"(-2000.0, 400000.0]",Low
+9/22/18 11:09,Bachelor's degree (BA. BS. B.Eng.. etc.),51695.0,No,France,7.0,Git,24,11,Not Given,51695.0,1,"(-2000.0, 400000.0]",Medium
+2/16/18 3:55,Some college/university study without earning a degree,0.0,Yes,Russia,7.0,Git;Zip file back-ups,56,8,Female,,0,"(-2000.0, 400000.0]",Very low
+4/15/18 18:18,Bachelor's degree (BA. BS. B.Eng.. etc.),102000.0,Yes,UK,5.0,Git;Team Foundation Version Control,40,7,Not Given,102000.0,1,"(-2000.0, 400000.0]",High
+9/25/18 18:16,Bachelor's degree (BA. BS. B.Eng.. etc.),723876.0,Yes,Russia,7.0,Git,70,13,Male,723876.0,1,"(400000.0, 800000.0]",Very high
+6/20/18 20:29,Bachelor's degree (BA. BS. B.Eng.. etc.),7152.0,Yes,Spain,10.0,Git,18,17,Male,7152.0,1,"(-2000.0, 400000.0]",Very low
+7/17/18 8:25,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,India,10.0,Git,28,13,Male,,0,"(-2000.0, 400000.0]",Very low
+8/7/18 21:42,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),16200.0,No,India,7.0,Team Foundation Version Control,27,21,Male,16200.0,1,"(-2000.0, 400000.0]",Low
+3/5/18 2:48,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Git,29,0,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/25/18 11:18,Associate degree,0.0,Yes,South Africa,7.0,Git,38,9,Male,,0,"(-2000.0, 400000.0]",Very low
+7/16/18 22:48,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,France,6.0,Git,48,16,Male,,0,"(-2000.0, 400000.0]",Very low
+6/2/18 14:54,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git;Copying and pasting files to network shares,28,7,Male,,0,"(-2000.0, 400000.0]",Very low
+2/1/18 11:54,Bachelor's degree (BA. BS. B.Eng.. etc.),4692.0,Yes,South Africa,7.0,Git,64,16,Male,4692.0,1,"(-2000.0, 400000.0]",Very low
+5/8/18 20:34,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,France,7.0,Git,33,13,Male,,0,"(-2000.0, 400000.0]",Very low
+6/20/18 2:22,Bachelor's degree (BA. BS. B.Eng.. etc.),40000.0,Yes,South Africa,5.0,Git;Copying and pasting files to network shares;Zip file back-ups,50,10,Male,40000.0,1,"(-2000.0, 400000.0]",Low
+9/11/18 15:43,Master's degree (MA. MS. M.Eng.. MBA. etc.),139000.0,Yes,Spain,5.0,Git,29,13,Female,139000.0,1,"(-2000.0, 400000.0]",High
+6/30/18 13:21,Bachelor's degree (BA. BS. B.Eng.. etc.),88238.0,Yes,Russia,7.0,Git;Subversion,45,12,Male,88238.0,1,"(-2000.0, 400000.0]",Medium
+2/23/18 0:33,Master's degree (MA. MS. M.Eng.. MBA. etc.),130000.0,Yes,South Africa,2.0,Git;Team Foundation Version Control;Copying and pasting files to network shares,45,1,Male,130000.0,1,"(-2000.0, 400000.0]",High
+4/8/18 10:27,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,India,10.0,Git;Team Foundation Version Control,33,5,Male,,0,"(-2000.0, 400000.0]",Very low
+5/17/18 22:13,Some college/university study without earning a degree,95000.0,Yes,Sweeden,8.0,Git;Copying and pasting files to network shares,23,12,Male,95000.0,1,"(-2000.0, 400000.0]",Medium
+2/27/18 12:36,Other doctoral degree (Ph.D. Ed.D.. etc.),0.0,No,South Africa,7.0,Git,28,18,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/16/18 15:19,Bachelor's degree (BA. BS. B.Eng.. etc.),63156.0,No,UK,7.0,Git;Team Foundation Version Control,43,6,Male,63156.0,1,"(-2000.0, 400000.0]",Medium
+1/4/18 0:51,Bachelor's degree (BA. BS. B.Eng.. etc.),8496.0,Yes,UK,5.0,Git,39,9,Male,8496.0,1,"(-2000.0, 400000.0]",Very low
+8/21/18 14:23,Bachelor's degree (BA. BS. B.Eng.. etc.),140000.0,No,India,10.0,Git,40,12,Male,140000.0,1,"(-2000.0, 400000.0]",High
+7/25/18 1:20,Bachelor's degree (BA. BS. B.Eng.. etc.),49311.0,Yes,Sweeden,7.0,Git,26,16,Male,49311.0,1,"(-2000.0, 400000.0]",Low
+7/22/18 14:17,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,No,Spain,7.0,Git,43,3,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/23/18 8:36,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,8.0,Team Foundation Version Control,35,9,Male,,0,"(-2000.0, 400000.0]",Very low
+9/18/18 7:40,Bachelor's degree (BA. BS. B.Eng.. etc.),80000.0,Yes,France,7.0,Git;Subversion;Team Foundation Version Control,36,16,Male,80000.0,1,"(-2000.0, 400000.0]",Medium
+1/31/18 18:26,Bachelor's degree (BA. BS. B.Eng.. etc.),75000.0,Yes,UK,8.0,Git,18,1,Male,75000.0,1,"(-2000.0, 400000.0]",Medium
+6/17/18 18:48,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),16152.0,Yes,USA,7.0,Git,39,13,Not Given,16152.0,1,"(-2000.0, 400000.0]",Low
+2/16/18 0:20,Master's degree (MA. MS. M.Eng.. MBA. etc.),22032.0,Yes,Sweeden,7.0,Git;Team Foundation Version Control,68,6,Not Given,22032.0,1,"(-2000.0, 400000.0]",Low
+2/19/18 12:24,Bachelor's degree (BA. BS. B.Eng.. etc.),71000.0,Yes,South Africa,7.0,Git,30,14,Male,71000.0,1,"(-2000.0, 400000.0]",Medium
+10/4/18 21:57,Associate degree,0.0,Yes,South Africa,7.0,Git;Copying and pasting files to network shares,39,16,Male,,0,"(-2000.0, 400000.0]",Very low
+3/24/18 1:48,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,South Africa,7.0,Git,42,15,Female,,0,"(-2000.0, 400000.0]",Very low
+8/5/18 13:58,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),67238.0,Yes,France,5.0,Git;Mercurial,52,12,Not Given,67238.0,1,"(-2000.0, 400000.0]",Medium
+4/5/18 5:57,Bachelor's degree (BA. BS. B.Eng.. etc.),187848.0,No,Spain,8.0,Mercurial,50,14,Female;Transgender,187848.0,1,"(-2000.0, 400000.0]",Very high
+1/28/18 9:38,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,France,7.0,Git,32,7,Male,,0,"(-2000.0, 400000.0]",Very low
+6/24/18 22:05,Bachelor's degree (BA. BS. B.Eng.. etc.),160000.0,Yes,Spain,5.0,Git,18,10,Female;Male,160000.0,1,"(-2000.0, 400000.0]",Very high
+5/23/18 17:40,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Spain,7.0,Git,47,9,Male,,0,"(-2000.0, 400000.0]",Very low
+8/2/18 7:09,Some college/university study without earning a degree,0.0,No,Spain,7.0,Git;Mercurial;Zip file back-ups,18,18,Not Given,,0,"(-2000.0, 400000.0]",Very low
+5/20/18 22:54,Master's degree (MA. MS. M.Eng.. MBA. etc.),63192.0,Yes,Sweeden,7.0,Git;Team Foundation Version Control,59,8,Male,63192.0,1,"(-2000.0, 400000.0]",Medium
+2/9/18 17:21,Other doctoral degree (Ph.D. Ed.D.. etc.),61194.0,Yes,USA,7.0,Git,39,6,Male,61194.0,1,"(-2000.0, 400000.0]",Medium
+6/15/18 7:31,Some college/university study without earning a degree,110000.0,Yes,India,8.0,Git,52,6,Male,110000.0,1,"(-2000.0, 400000.0]",High
+9/6/18 23:23,Bachelor's degree (BA. BS. B.Eng.. etc.),28000.0,Yes,France,7.0,Git,34,11,Male,28000.0,1,"(-2000.0, 400000.0]",Low
+7/31/18 21:31,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,Spain,7.0,Git;Subversion,22,4,Not Given,,0,"(-2000.0, 400000.0]",Very low
+8/7/18 12:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,USA,10.0,Git,38,6,Female,,0,"(-2000.0, 400000.0]",Very low
+3/10/18 23:39,Master's degree (MA. MS. M.Eng.. MBA. etc.),80286.0,No,UK,7.0,Subversion,35,16,Not Given,80286.0,1,"(-2000.0, 400000.0]",Medium
+5/26/18 23:25,Associate degree,68000.0,Yes,South Africa,10.0,Git,36,12,Male,68000.0,1,"(-2000.0, 400000.0]",Medium
+9/21/18 1:02,Master's degree (MA. MS. M.Eng.. MBA. etc.),154000.0,Yes,UK,5.0,Git,18,5,Male,154000.0,1,"(-2000.0, 400000.0]",Very high
+4/4/18 17:53,Other doctoral degree (Ph.D. Ed.D.. etc.),62418.0,Yes,Russia,7.0,Git;Subversion;Copying and pasting files to network shares,47,9,Male,62418.0,1,"(-2000.0, 400000.0]",Medium
+8/20/18 1:23,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git,38,5,Female,,0,"(-2000.0, 400000.0]",Very low
+6/6/18 23:27,Bachelor's degree (BA. BS. B.Eng.. etc.),72000.0,Yes,India,5.0,Git;Team Foundation Version Control,38,6,Male,72000.0,1,"(-2000.0, 400000.0]",Medium
+1/5/18 7:04,Some college/university study without earning a degree,65000.0,Yes,USA,7.0,Git,45,7,Female,65000.0,1,"(-2000.0, 400000.0]",Medium
+8/13/18 12:02,Bachelor's degree (BA. BS. B.Eng.. etc.),37200.0,Yes,Sweeden,7.0,Git,19,11,Not Given,37200.0,1,"(-2000.0, 400000.0]",Low
+4/21/18 3:52,Bachelor's degree (BA. BS. B.Eng.. etc.),79973.0,Yes,Russia,7.0,Git;Mercurial,25,11,Female,79973.0,1,"(-2000.0, 400000.0]",Medium
+5/26/18 5:29,Master's degree (MA. MS. M.Eng.. MBA. etc.),73428.0,Yes,South Africa,7.0,Git,35,15,Male,73428.0,1,"(-2000.0, 400000.0]",Medium
+2/28/18 13:08,Master's degree (MA. MS. M.Eng.. MBA. etc.),56298.0,Yes,Sweeden,10.0,Git,56,10,Not Given,56298.0,1,"(-2000.0, 400000.0]",Medium
+10/17/18 21:35,Bachelor's degree (BA. BS. B.Eng.. etc.),17628.0,Yes,South Africa,7.0,Team Foundation Version Control;Copying and pasting files to network shares,39,4,Male,17628.0,1,"(-2000.0, 400000.0]",Low
+2/5/18 0:24,Bachelor's degree (BA. BS. B.Eng.. etc.),125000.0,No,France,10.0,Git,42,15,Male,125000.0,1,"(-2000.0, 400000.0]",High
+6/20/18 4:11,Secondary school (e.g. American high school. German Realschule or Gymnasium. etc.),0.0,Yes,India,7.0,Git;Copying and pasting files to network shares,33,14,Male,,0,"(-2000.0, 400000.0]",Very low
+1/11/18 23:55,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Sweeden,0.0,Git;Zip file back-ups,29,10,Male,,0,"(-2000.0, 400000.0]",Very low
+10/4/18 23:53,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,UK,5.0,Git,18,16,Male,,0,"(-2000.0, 400000.0]",Very low
+1/14/18 10:11,Associate degree,75000.0,No,Russia,7.0,Git;Copying and pasting files to network shares,38,17,Male,75000.0,1,"(-2000.0, 400000.0]",Medium
+4/27/18 7:06,Bachelor's degree (BA. BS. B.Eng.. etc.),6576.0,Yes,Sweeden,7.0,Git;Subversion,36,15,Male,6576.0,1,"(-2000.0, 400000.0]",Very low
+9/17/18 17:49,Master's degree (MA. MS. M.Eng.. MBA. etc.),0.0,Yes,Russia,10.0,Git,38,14,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/29/18 23:37,Bachelor's degree (BA. BS. B.Eng.. etc.),60000.0,Yes,Spain,7.0,Git;Subversion,25,10,Not Given,60000.0,1,"(-2000.0, 400000.0]",Medium
+8/16/18 11:31,Bachelor's degree (BA. BS. B.Eng.. etc.),80000.0,Yes,South Africa,7.0,Git,22,8,Male,80000.0,1,"(-2000.0, 400000.0]",Medium
+5/25/18 8:29,Bachelor's degree (BA. BS. B.Eng.. etc.),90000.0,Yes,Sweeden,5.0,Git,40,2,Male,90000.0,1,"(-2000.0, 400000.0]",Medium
+7/1/18 12:51,Bachelor's degree (BA. BS. B.Eng.. etc.),70000.0,Yes,India,10.0,Git,46,3,Male,70000.0,1,"(-2000.0, 400000.0]",Medium
+8/6/18 3:38,Some college/university study without earning a degree,39648.0,Yes,Other,7.0,Git,65,15,Male,39648.0,1,"(-2000.0, 400000.0]",Low
+5/28/18 13:04,Other doctoral degree (Ph.D. Ed.D.. etc.),99967.0,Yes,Russia,7.0,Git;Copying and pasting files to network shares,46,16,Not Given,99967.0,1,"(-2000.0, 400000.0]",Medium
+2/8/18 7:41,Master's degree (MA. MS. M.Eng.. MBA. etc.),2352.0,Yes,India,7.0,Zip file back-ups;I don't use version control,18,9,Not Given,2352.0,1,"(-2000.0, 400000.0]",Very low
+8/9/18 12:26,Master's degree (MA. MS. M.Eng.. MBA. etc.),50448.0,Yes,Russia,2.0,Git;Team Foundation Version Control,18,4,Not Given,50448.0,1,"(-2000.0, 400000.0]",Medium
+1/15/18 13:08,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,South Africa,7.0,Subversion,48,3,Male,,0,"(-2000.0, 400000.0]",Very low
+4/15/18 2:37,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,No,USA,7.0,Git,70,11,Male,,0,"(-2000.0, 400000.0]",Very low
+7/14/18 4:51,Master's degree (MA. MS. M.Eng.. MBA. etc.),55562.0,Yes,Sweeden,9.0,Git,34,1,Not Given,55562.0,1,"(-2000.0, 400000.0]",Medium
+9/3/18 20:35,Associate degree,0.0,Yes,Spain,10.0,Git,50,6,Not Given,,0,"(-2000.0, 400000.0]",Very low
+3/4/18 19:11,Some college/university study without earning a degree,30000.0,Yes,India,0.0,Git,28,5,Male,30000.0,1,"(-2000.0, 400000.0]",Low
+10/19/18 13:50,Some college/university study without earning a degree,0.0,Yes,France,7.0,Subversion,45,10,Male,,0,"(-2000.0, 400000.0]",Very low
+4/14/18 15:31,Bachelor's degree (BA. BS. B.Eng.. etc.),58746.0,No,Spain,8.0,Git,27,16,Male,58746.0,1,"(-2000.0, 400000.0]",Medium
+3/21/18 6:34,Bachelor's degree (BA. BS. B.Eng.. etc.),55000.0,Yes,USA,7.0,Git,54,16,Male,55000.0,1,"(-2000.0, 400000.0]",Medium
+2/5/18 20:01,Bachelor's degree (BA. BS. B.Eng.. etc.),0.0,Yes,Sweeden,7.0,Git;Subversion,23,9,Not Given,,0,"(-2000.0, 400000.0]",Very low
+2/11/18 21:23,Bachelor's degree (BA. BS. B.Eng.. etc.),1000000.0,No,Russia,7.0,Git,18,7,Not Given,1000000.0,1,"(800000.0, 1200000.0]",Very high
