@@ -341,3 +341,27 @@ if __name__ == '__main__':
     schema_transformer = SchemaTransformer(schema)
     schema_transformer_manager = SchemaTransformerManager(schema_transformer)
     schema_transformer_manager.transform_schema()
+    
+    
+    
+    
+class SchemaTransformer:
+    def __init__(self, schema: str, partition_column: str, partition_values: list):
+        self.schema = schema
+        self.partition_column = partition_column
+        self.partition_values = partition_values
+
+    def generate_temp_table_with_all_strings(self) -> str:
+        columns = self.schema.strip().replace('CREATE TABLE my_table (', '').replace(');', '').split(',')
+        string_columns = [f'{col_name} STRING' for col_name in columns]
+        new_schema = ', '.join(string_columns)
+        return f'CREATE TEMPORARY TABLE temp_table ({new_schema});'
+
+    def generate_cast_table_statements(self) -> str:
+        columns = self.schema.strip().replace('CREATE TABLE my_table (', '').replace(');', '').split(',')
+        cast_columns = [f"CAST({col_name} AS {col_type}) AS {col_name}" for col_name, col_type in [col.split() for col in columns]]
+        new_schema = ', '.join(cast_columns)
+        partition_str = f"PARTITIONED BY ({self.partition_column})"
+        partition_values_str = ', '.join(self.partition_values)
+        partition_clause = f"PARTITION ({self.partition_column} = '{partition_values_str}')"
+        return f"CREATE TABLE my_cast_table {partition_str} AS SELECT {new_schema} FROM temp_table {partition_clause};"
