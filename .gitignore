@@ -3,3 +3,4 @@ Icon?
 ./*/LICENSE
 ./*/.gitignore
 ./*/git
+*.pyc
