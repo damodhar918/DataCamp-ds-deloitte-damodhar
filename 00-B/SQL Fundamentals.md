@@ -1,5 +1,7 @@
 SKILL TRACK
 
+[Beginners Introduction Postgresql](https://www.datacamp.com/tutorial/beginners-introduction-postgresql)
+
 # SQL Fundamentals
 
 Gain the fundamental SQL skills you need to interact with and query your data.
