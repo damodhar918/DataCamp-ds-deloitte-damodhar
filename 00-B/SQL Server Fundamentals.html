@@ -1,0 +1,752 @@
+<html lang="en" class=""><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+<title>SQL Server Fundamentals Track | DataCamp</title>
+<meta name="description" content="Gain the starting SQL Server skills you need to summarize data, join tables, and analyze your data using SQL Server functions.">
+<link rel="canonical" href="https://www.datacamp.com/tracks/sql-server-fundamentals">
+<meta name="twitter:title" content="SQL Server Fundamentals Track">
+<meta name="twitter:description" content="Gain the starting SQL Server skills you need to summarize data, join tables, and analyze your data using SQL Server functions.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@DataCamp">
+<meta name="twitter:image" content="https://www.datacamp.com/datacamp-twitter-share.png">
+<meta name="twitter:image:width" content="300">
+<meta name="twitter:image:height" content="300">
+<meta name="twitter:creator" content="@DataCamp">
+<meta name="twitter:domain" content="www.datacamp.com">
+<meta property="og:image" content="https://www.datacamp.com/datacamp-socials-share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:title" content="SQL Server Fundamentals Track">
+<meta property="og:site_name" content="DataCamp">
+<meta property="og:type" content="Website">
+<meta name="author" content="https://plus.google.com/u/0/+Datacamp/">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://cdn.datacamp.com/main-app/assets/favicon-31ef59bd73c75c8ce2a75369aa41cb2435d48706d1385e5282e26947bf84af50.ico">
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="RMMfaV0qyXlitBGrsqkWuBJS0HslniBoX5clPuD018HM0WkKGoe1stT8UNbNkuvVGdgx8WUzkKrGlzqOq43rDg==">
+    <link rel="manifest" href="/manifest.json">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="fragment" content="!">
+    <meta name="google-site-verification" content="ao3s4PdjisD2QsfTbldo7YJx7VX2QLkPEtlDpyFTjo8">
+    <meta name="apple-itunes-app" content="app-id=1263413087">
+
+    
+<script type="text/javascript" data-cfasync="false" charset="UTF-8" async="" src="https://cdn.heapanalytics.com/js/replay/libs/latest/auryc.lib.js"></script><script async="" src="https://snap.licdn.com/li.lms-analytics/insight.old.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-0VFSSYW4KG&amp;l=dataLayer&amp;cx=c" nonce="null"></script><script type="text/javascript" async="" referrerpolicy="unsafe-url" src="https://ws.zoominfo.com/pixel/6165b83670af5f0013968c69"></script><script async="" src="https://d.impactradius-event.com/A2717580-78fa-4df3-ac44-faf7e7c3a6e91.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="null"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js" nonce="null"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-4292810930.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TGGWB2P"></script><script async="" src="https://dna8twue3dlxq.cloudfront.net/js/profitwell.js"></script><script type="text/javascript">
+  ;(function(){
+    let dataLayerContent = {
+      'user_id': '12498488',
+      'gtm_version': 2,
+    };
+
+    dataLayerContent.active_products = 'learn.enterprise';
+
+
+
+    dataLayerContent.user_email_hashed = '8d807cd94ff556f55e13aa80c67a984d5b9969c3d815653b1cd572e586bdbdf7';
+
+    dataLayerContent.user_language = 'en';
+
+    dataLayerContent.user_phone_number_hashed = 'c3cfc2d5ea06e2c07762455897038d84f7667b9465a0956ed0cdcdfdd4956454';
+
+
+    if (typeof window['dataLayer'] === 'undefined') {
+      window['dataLayer'] = [dataLayerContent];
+    } else {
+      window['dataLayer'].push(dataLayerContent);
+    }
+  })();
+</script>
+
+<script src="https://compliance.datacamp.com/base.js" type="text/javascript" charset="UTF-8" async=""></script>
+
+
+    <link rel="stylesheet" media="all" href="https://cdn.datacamp.com/main-app/assets/application_v2-a0a9ec14f5630ad840620a1fccb9bb642c2cadaa1577b7ebf48c2af905f0660b.css">
+
+
+
+      <base target="_parent">
+
+    
+  <script>
+
+    function inIframe() {
+      // we are in the iframe, also prevents other from putting our website in an iframe
+      try {
+        return window.self !== window.top;
+      } catch (e) {
+        // deem it as an iframe (origin policy indicates it's loaded from an iframe)
+        return true;
+      } 
+    }
+
+    function sendDataLayerPush() {
+      var dataLayerContent = [{"event":"view_track_page","content_id":1307}];
+      if (typeof window['dataLayer'] === 'undefined') {
+        window['dataLayer'] = [dataLayerContent];
+      } else {
+        for(var i=0; i < dataLayerContent.length; i++) {
+          window['dataLayer'].push(dataLayerContent[i]);
+        } 
+      } 
+    }
+
+    if(inIframe()) {
+      try {
+        window.parent.postMessage({ 
+          source: 'dc-main-app', 
+          sourceName: window.name, 
+          payload: {
+            type: 'DATA_LAYER_PUSH', 
+            body: [{"event":"view_track_page","content_id":1307}]
+          }
+        }, '*');
+      } catch (e) {
+        // if window still fails, send datalayer
+        sendDataLayerPush();
+      } 
+    } else {
+      sendDataLayerPush();
+    }
+</script>  <body class=" js-application-v2 is-embedded" data-env="production">
+      
+    
+
+    <div class="site-wrap ">
+      <div class="dc-flash-wrapper" id="flash_messages">
+</div>
+
+      <section class="dc-header dc-header--spaced-less dc-u-m-32 dc-u-brad-all">
+  <div class="container">
+    <div class="header-hero">
+  <div class="row header-hero__inner dc-u-fx dc-u-fx-fdcr dc-u-fx-fdr@md">
+    <div class="col-md-8 col-sm-12">
+        <span class="header-hero__uptitle">SKILL TRACK</span>
+
+<h1 class="h2 header-hero__title">
+  <span class="dc-u-mr-8">SQL Server Fundamentals</span>
+</h1>
+
+<div class="header-hero__description dc-u-mb-24 multiline__expandable">
+  <input type="checkbox" name="header-hero__description[1307]" id="header-hero__description_1307" value="1">
+  <p class="multiline__expandable__text">
+    <br>Gain the starting SQL Server skills you need to summarize data, join tables, and analyze data using built-in SQL Server functions. <br>
+
+<br>In this track, you’ll discover how SQL Server is like a supercharged Microsoft Excel. Through interactive exercises, you’ll learn how to access, query, and extract huge amounts of data from multiple databases. Using real-world data you’ll also learn how to perform powerful cross-database analyses that you can then apply in your own role. <br>
+  </p>
+  <label class="dc-link multiline__expandable__label expand" data-trackid="main-app-track-description-read-more-button" for="header-hero__description_1307">Read More</label>
+</div>
+
+  <div class="header-hero__actions">
+        <div class="dc-btn dc-btn--primary-light">
+      
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-navy
+      dc-icon--flex dc-u-mr-8
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+      Completed
+    </div>
+
+  </div>
+
+
+    </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="header-hero__image-wrapper">
+          <img class="dc-u-w-100pc dc-u-maxw-320" src="https://www.datacamp.com/statement-of-accomplishment/badge/track/bb88da3f65a957b6a42315024179aa1a0ee0e508.png">
+        </div>
+      </div>
+  </div>
+  <ul class="header-hero__stats">
+    <li class="header-hero__stat">
+      <img class="dc-u-w-24 dc-u-h-24 dc-u-mr-4" style="margin-top: -2px" src="https://cdn.datacamp.com/main-app/assets/icons/sql-icon-f75e1f7f113a61500f3b657846edd8893a23206c230af18adbbf99440d9116b6.svg">
+      SQL
+    </li>
+    <li class="header-hero__stat">
+      
+<span class="
+    dc-icon
+      dc-icon--size-12
+      dc-u-color-white
+      dc-u-mr-8
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#clock"></use>
+  </svg>
+</span>
+
+      21 hours
+    </li>
+    <li class="header-hero__stat">
+      
+<span class="
+    dc-icon
+      dc-icon--size-12
+      dc-u-color-white
+      dc-u-mr-8
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#learn"></use>
+  </svg>
+</span>
+
+      5 Courses
+    </li>
+</ul>
+
+</div>
+
+  </div>
+</section>
+
+<div class="container dc-u-mt-48">
+  <div class="row dc-u-mb-48">
+      <div class="col-md-12">
+        <div class="course-social-sharing">
+  <div>
+    <h3 class="course-social-sharing__title">Share your accomplishment</h3>
+    <a data-trackid="main-app-statement-of-accomplishment-track-view" href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bb88da3f65a957b6a42315024179aa1a0ee0e508">View Your Page</a>
+  </div>
+
+  <div class="course-social-sharing__links">
+    <a class="dc-btn course-social-sharing__link link-linkedin" target="_blank" data-trackid="main-app-statement-of-accomplishment-track-share-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+just+completed+SQL+Server+Fundamentals+by+DataCamp&amp;title=I+just+completed+SQL+Server+Fundamentals+by+DataCamp&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fcompleted%2Fstatement-of-accomplishment%2Ftrack%2Fbb88da3f65a957b6a42315024179aa1a0ee0e508">
+      <img width="14" height="14" src="https://cdn.datacamp.com/main-app/assets/social_icons/linkedin-white-c195d9d3f601b234b678facb7c2e41f5d5d4248a8c359e9e5aa1254a953dbdc3.svg">
+      <p>Share on Linkedin</p>
+</a>    <a class="dc-btn course-social-sharing__link link-facebook" target="_blank" data-trackid="main-app-statement-of-accomplishment-track-share-facebook" href="https://www.facebook.com/dialog/feed?app_id=408074879325153&amp;display=page&amp;link=https%3A%2F%2Fwww.datacamp.com%2Fcompleted%2Fstatement-of-accomplishment%2Ftrack%2Fbb88da3f65a957b6a42315024179aa1a0ee0e508&amp;redirect_uri=">
+      <img width="14" height="14" src="https://cdn.datacamp.com/main-app/assets/social_icons/facebook-white-2f616275486a6ab7000b62f869f7f5aa4e1906d33ee74a2742cc8227c3205793.svg">
+      <p>Share on Facebook</p>
+</a>    <a class="dc-btn course-social-sharing__link link-twitter" target="_blank" data-trackid="main-app-statement-of-accomplishment-track-share-twitter" href="https://twitter.com/intent/tweet?text=I+just+completed+SQL+Server+Fundamentals+by+DataCamp&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fcompleted%2Fstatement-of-accomplishment%2Ftrack%2Fbb88da3f65a957b6a42315024179aa1a0ee0e508&amp;via=DataCamp">
+      <img width="14" height="14" src="https://cdn.datacamp.com/main-app/assets/social_icons/twitter-white-5b7498a6829b1581c452025c6d5584111225228ea424332b61aecc9d0ea65e1b.svg">
+      <p>Share on Twitter</p>
+</a>  </div>
+</div>
+
+      </div>
+    <div class="col-md-8">
+      <div class="row">
+  <div class="col-md-12">
+    <ul class="list-unstyled">
+        <li class="track__course js-see-all-container js-track-block  ">
+    <div class="track__counter track__counter--completed">
+      <div class="track__icon--completed">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-green
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+      </div>
+    </div>
+    <div class="course-block-collapsed js-see-all">
+  <h4 class="course-block-collapsed__title">
+    Introduction to SQL Server
+  </h4>
+  <div class="course-block-collapsed__actions">
+          <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Introduction+to+SQL+Server%22&amp;title=I+completed+the+course+%22Introduction+to+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2F4fddd261e71e2b922e62db055f2761d827e97898">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/introduction-to-sql-server">Replay Course</a>
+
+  </div>
+</div>
+
+
+
+    
+<article class="js-async-bookmarking course-block-wrapper col-lg-4 col-sm-6 course-block--track hidden js-see-all-hidden " data-id="13698">
+<div class="js-course-bookmarking course-block ">
+  <div class="js-bookmark-icon-large-13698">
+      <a class="dc-bookmark-icon dc-bookmark-icon--large dc-bookmark-icon--bookmark dc-bookmark-icon--hidden js-bookmark-icon tooltip-trigger--primary-dark top ds-snowplow-bookmarking-dashboard-bookmark  js-bookmark-icon-click-create dc-bookmarking-tooltip" data-toggle="tooltip" title="Bookmark" data-remote="true" rel="nofollow" data-method="post" href="/courses/introduction-to-sql-server/user_bookmarks"></a>
+
+
+  </div>
+  <a class="course-block__link ds-snowplow-link-course-block" href="/courses/introduction-to-sql-server">
+      <div class="course-block__technology course-block__technology--sql"></div>
+      <div class="course-block__body">
+        <h4 class="course-block__title">Introduction to SQL Server</h4>
+        <p class="course-block__description">
+          Learn to use SQL Server to perform common data manipulation tasks and master common data manipulation tasks using thi...
+        </p>
+            <div class="course-block__chapters">
+              <ul class="dc-chapter-progress ">
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="SELECTion Box"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Groups, strings, and counting things"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Joining tables"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="You've  got the power"></li>
+</ul>
+
+            </div>
+      </div>
+</a>      <div class="course-block__footer">
+          <div class="dc-u-fx">
+                  <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Introduction+to+SQL+Server%22&amp;title=I+completed+the+course+%22Introduction+to+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2F4fddd261e71e2b922e62db055f2761d827e97898">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/introduction-to-sql-server">Replay Course</a>
+
+          </div>
+      </div>
+  </div>
+</article>
+
+</li>
+
+        <li class="track__course js-see-all-container js-track-block  ">
+    <div class="track__counter track__counter--completed">
+      <div class="track__icon--completed">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-green
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+      </div>
+    </div>
+    <div class="course-block-collapsed js-see-all">
+  <h4 class="course-block-collapsed__title">
+    Intermediate SQL Server
+  </h4>
+  <div class="course-block-collapsed__actions">
+          <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Intermediate+SQL+Server%22&amp;title=I+completed+the+course+%22Intermediate+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2F5efb1afcf5f7694193bd7a1d6ad2a3ebe613ae8a">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/intermediate-sql-server">Replay Course</a>
+
+  </div>
+</div>
+
+
+
+    
+<article class="js-async-bookmarking course-block-wrapper col-lg-4 col-sm-6 course-block--track hidden js-see-all-hidden " data-id="7319">
+<div class="js-course-bookmarking course-block ">
+  <div class="js-bookmark-icon-large-7319">
+      <a class="dc-bookmark-icon dc-bookmark-icon--large dc-bookmark-icon--bookmark dc-bookmark-icon--hidden js-bookmark-icon tooltip-trigger--primary-dark top ds-snowplow-bookmarking-dashboard-bookmark  js-bookmark-icon-click-create dc-bookmarking-tooltip" data-toggle="tooltip" title="Bookmark" data-remote="true" rel="nofollow" data-method="post" href="/courses/intermediate-sql-server/user_bookmarks"></a>
+
+
+  </div>
+  <a class="course-block__link ds-snowplow-link-course-block" href="/courses/intermediate-sql-server">
+      <div class="course-block__technology course-block__technology--sql"></div>
+      <div class="course-block__body">
+        <h4 class="course-block__title">Intermediate SQL Server</h4>
+        <p class="course-block__description">
+          In this course, you will use T-SQL, the flavor of SQL used in Microsoft's SQL Server for data analysis.
+        </p>
+            <div class="course-block__chapters">
+              <ul class="dc-chapter-progress ">
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Summarizing Data"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Math Functions"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Processing Data in SQL Server"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Window Functions"></li>
+</ul>
+
+            </div>
+      </div>
+</a>      <div class="course-block__footer">
+          <div class="dc-u-fx">
+                  <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Intermediate+SQL+Server%22&amp;title=I+completed+the+course+%22Intermediate+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2F5efb1afcf5f7694193bd7a1d6ad2a3ebe613ae8a">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/intermediate-sql-server">Replay Course</a>
+
+          </div>
+      </div>
+  </div>
+</article>
+
+</li>
+
+        <li class="track__course js-see-all-container js-track-block  ">
+    <div class="track__counter track__counter--completed">
+      <div class="track__icon--completed">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-green
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+      </div>
+    </div>
+    <div class="course-block-collapsed js-see-all">
+  <h4 class="course-block-collapsed__title">
+    Joining Data in SQL
+  </h4>
+  <div class="course-block-collapsed__actions">
+          <a class="dc-btn dc-btn--linkedin dc-btn--squared dc-u-ml-4 ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Joining+Data+in+SQL%22&amp;title=I+completed+the+course+%22Joining+Data+in+SQL%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fade9bfa0f005d89171edcab6c5fd54db3df6429b">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-brand"></use>
+  </svg>
+</span>
+
+</a>      <a class="dc-btn dc-btn--tertiary dc-btn--squared dc-u-ml-4" href="https://campus.datacamp.com/courses/joining-data-in-sql">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-navy
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#redo"></use>
+  </svg>
+</span>
+
+</a>    <a class="dc-btn dc-btn--tertiary course-block__footer-btn" href="https://practice.datacamp.com/p/587">Practice Now</a>
+
+  </div>
+</div>
+
+
+
+    
+<article class="js-async-bookmarking course-block-wrapper col-lg-4 col-sm-6 course-block--track hidden js-see-all-hidden " data-id="29304">
+<div class="js-course-bookmarking course-block ">
+  <div class="js-bookmark-icon-large-29304">
+      <a class="dc-bookmark-icon dc-bookmark-icon--large dc-bookmark-icon--bookmark dc-bookmark-icon--hidden js-bookmark-icon tooltip-trigger--primary-dark top ds-snowplow-bookmarking-dashboard-bookmark  js-bookmark-icon-click-create dc-bookmarking-tooltip" data-toggle="tooltip" title="Bookmark" data-remote="true" rel="nofollow" data-method="post" href="/courses/joining-data-in-sql/user_bookmarks"></a>
+
+
+  </div>
+  <a class="course-block__link ds-snowplow-link-course-block" href="/courses/joining-data-in-sql">
+      <div class="course-block__technology course-block__technology--sql"></div>
+      <div class="course-block__body">
+        <h4 class="course-block__title">Joining Data in SQL</h4>
+        <p class="course-block__description">
+          Level up your SQL knowledge and learn to join tables together, apply relational set theory, and work with subqueries. 
+        </p>
+            <div class="course-block__chapters">
+              <ul class="dc-chapter-progress ">
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Introducing Inner Joins"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Outer Joins, Cross Joins and Self Joins"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Set Theory for SQL Joins"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Subqueries"></li>
+</ul>
+
+            </div>
+      </div>
+</a>      <div class="course-block__footer">
+          <div class="dc-u-fx">
+                  <a class="dc-btn dc-btn--linkedin dc-btn--squared dc-u-ml-4 ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Joining+Data+in+SQL%22&amp;title=I+completed+the+course+%22Joining+Data+in+SQL%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fade9bfa0f005d89171edcab6c5fd54db3df6429b">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-brand"></use>
+  </svg>
+</span>
+
+</a>      <a class="dc-btn dc-btn--tertiary dc-btn--squared dc-u-ml-4" href="https://campus.datacamp.com/courses/joining-data-in-sql">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-navy
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#redo"></use>
+  </svg>
+</span>
+
+</a>    <a class="dc-btn dc-btn--tertiary course-block__footer-btn" href="https://practice.datacamp.com/p/587">Practice Now</a>
+
+          </div>
+      </div>
+  </div>
+</article>
+
+</li>
+
+        <li class="track__course js-see-all-container js-track-block  ">
+    <div class="track__counter track__counter--completed">
+      <div class="track__icon--completed">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-green
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+      </div>
+    </div>
+    <div class="course-block-collapsed js-see-all">
+  <h4 class="course-block-collapsed__title">
+    Time Series Analysis in SQL Server
+  </h4>
+  <div class="course-block-collapsed__actions">
+          <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Time+Series+Analysis+in+SQL+Server%22&amp;title=I+completed+the+course+%22Time+Series+Analysis+in+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fb7ebe776d29f35850300d0c05e80fa65226994b3">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/time-series-analysis-in-sql-server">Replay Course</a>
+
+  </div>
+</div>
+
+
+
+    
+<article class="js-async-bookmarking course-block-wrapper col-lg-4 col-sm-6 course-block--track hidden js-see-all-hidden " data-id="16943">
+<div class="js-course-bookmarking course-block ">
+  <div class="js-bookmark-icon-large-16943">
+      <a class="dc-bookmark-icon dc-bookmark-icon--large dc-bookmark-icon--bookmark dc-bookmark-icon--hidden js-bookmark-icon tooltip-trigger--primary-dark top ds-snowplow-bookmarking-dashboard-bookmark  js-bookmark-icon-click-create dc-bookmarking-tooltip" data-toggle="tooltip" title="Bookmark" data-remote="true" rel="nofollow" data-method="post" href="/courses/time-series-analysis-in-sql-server/user_bookmarks"></a>
+
+
+  </div>
+  <a class="course-block__link ds-snowplow-link-course-block" href="/courses/time-series-analysis-in-sql-server">
+      <div class="course-block__technology course-block__technology--sql"></div>
+      <div class="course-block__body">
+        <h4 class="course-block__title">Time Series Analysis in SQL Server</h4>
+        <p class="course-block__description">
+          Explore ways to work with date and time data in SQL Server for time series analysis
+        </p>
+            <div class="course-block__chapters">
+              <ul class="dc-chapter-progress ">
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Working with Dates and Times"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Converting to Dates and Times"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Aggregating Time Series Data"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Answering Time Series Questions with Window Functions"></li>
+</ul>
+
+            </div>
+      </div>
+</a>      <div class="course-block__footer">
+          <div class="dc-u-fx">
+                  <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Time+Series+Analysis+in+SQL+Server%22&amp;title=I+completed+the+course+%22Time+Series+Analysis+in+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fb7ebe776d29f35850300d0c05e80fa65226994b3">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/time-series-analysis-in-sql-server">Replay Course</a>
+
+          </div>
+      </div>
+  </div>
+</article>
+
+</li>
+
+        <li class="track__course js-see-all-container js-track-block  ">
+    <div class="track__counter track__counter--completed">
+      <div class="track__icon--completed">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-green
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+      </div>
+    </div>
+    <div class="course-block-collapsed js-see-all">
+  <h4 class="course-block-collapsed__title">
+    Functions for Manipulating Data in SQL Server
+  </h4>
+  <div class="course-block-collapsed__actions">
+          <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&amp;title=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fc3eae40ca74a9901cbeef40829ff985a3b233cab">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/functions-for-manipulating-data-in-sql-server">Replay Course</a>
+
+  </div>
+</div>
+
+
+
+    
+<article class="js-async-bookmarking course-block-wrapper col-lg-4 col-sm-6 course-block--track hidden js-see-all-hidden " data-id="15885">
+<div class="js-course-bookmarking course-block ">
+  <div class="js-bookmark-icon-large-15885">
+      <a class="dc-bookmark-icon dc-bookmark-icon--large dc-bookmark-icon--bookmark dc-bookmark-icon--hidden js-bookmark-icon tooltip-trigger--primary-dark top ds-snowplow-bookmarking-dashboard-bookmark  js-bookmark-icon-click-create dc-bookmarking-tooltip" data-toggle="tooltip" title="Bookmark" data-remote="true" rel="nofollow" data-method="post" href="/courses/functions-for-manipulating-data-in-sql-server/user_bookmarks"></a>
+
+
+  </div>
+  <a class="course-block__link ds-snowplow-link-course-block" href="/courses/functions-for-manipulating-data-in-sql-server">
+      <div class="course-block__technology course-block__technology--sql"></div>
+      <div class="course-block__body">
+        <h4 class="course-block__title">Functions for Manipulating Data in SQL Server</h4>
+        <p class="course-block__description">
+          Learn the most important functions for manipulating, processing, and transforming data in SQL Server.
+        </p>
+            <div class="course-block__chapters">
+              <ul class="dc-chapter-progress ">
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Choosing the appropriate data type"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Manipulating time"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Working With Strings"></li>
+      <li class="dc-chapter-progress__chapter dc-chapter-progress__chapter--completed" data-toggle="tooltip" data-placement="bottom" title="Recognizing Numeric Data Properties"></li>
+</ul>
+
+            </div>
+      </div>
+</a>      <div class="course-block__footer">
+          <div class="dc-u-fx">
+                  <a class="dc-btn dc-btn--linkedin course-block__footer-btn ds-snowplow-courseblock-share" rel="nofollow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&amp;title=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fc3eae40ca74a9901cbeef40829ff985a3b233cab">
+        
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-white
+      u-spacing-r1
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#linkedin-square-brand"></use>
+  </svg>
+</span>
+ Share
+</a>      <a class="dc-btn dc-btn--tertiary course-block__footer-btn ds-snowplow-courseblock-replay" href="https://campus.datacamp.com/courses/functions-for-manipulating-data-in-sql-server">Replay Course</a>
+
+          </div>
+      </div>
+  </div>
+</article>
+
+</li>
+
+      <li class="track__course track__course--last js-track-block ">
+          <div class="track__counter track__counter--completed">
+            <div class="track__icon--completed">
+              
+<span class="
+    dc-icon
+      dc-icon--size-18
+      dc-u-color-green
+">
+  <svg class="dc-icon__svg">
+    <use xlink:href="#checkmark"></use>
+  </svg>
+</span>
+
+            </div>
+          </div>
+          <div class="track__course--certificate-wrapper">
+            <section class="accomplishment dc-u-mb-16 u-text-center">
+  <img class="" width="113" height="93" src="https://cdn.datacamp.com/main-app/assets/courses/trophy-15bc814786c299d60f8f18bf1aa37806f0339ca346f309727946d50f3d66b2c0.svg">
+  <h2 class="accomplishment__title">
+    Statement of Accomplishment
+  </h2>
+
+    <a class="dc-btn dc-btn--tertiary ds-snowplow-link-view-certificate" target="_blank" href="https://www.datacamp.com/statement-of-accomplishment/track/bb88da3f65a957b6a42315024179aa1a0ee0e508">View</a>
+    <a class="dc-btn accomplishment__linkedin-btn ds-snowplow-link-share-certificate-linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=DataCamp&amp;summary=I+completed+the+track+%22SQL+Server+Fundamentals%22&amp;title=I+completed+the+track+%22SQL+Server+Fundamentals%22&amp;url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Ftrack%2Fbb88da3f65a957b6a42315024179aa1a0ee0e508">
+    &nbsp;
+</a></section>
+
+          </div>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12 dc-u-mt-24">
+  </div>
+</div>
+
+    </div>
+
+    <div class="col-md-4">
+        
+        
+
+
