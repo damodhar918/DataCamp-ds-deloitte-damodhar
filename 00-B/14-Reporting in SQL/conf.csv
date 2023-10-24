@@ -1,0 +1,4 @@
+name,type,values
+country_id,intRange,1|124
+date,dateRange,2021-01-10 | 2022-10-26|%Y-%m-%d
+views,intRange,1000|25000
