@@ -1,6 +1,6 @@
 # DataCamp Courses and Projects :bar_chart: :computer:
 
-Hello, fellow data enthusiasts! This repository showcases the exciting data science courses and projects I have completed on DataCamp to sharpen my analytical skills. 
+Hello, fellow data enthusiasts! This repository showcases the exciting data science courses and projects I have completed on DataCamp to sharpen my analytical skills.
 
 ## Index :bookmark_tabs:
 
@@ -15,6 +15,7 @@ Hello, fellow data enthusiasts! This repository showcases the exciting data scie
 ## Completed Courses :mortar_board:
 
 Here's a list of the data science courses I have completed:
+
 - Introduction to Python
 - Introduction to SQL
 - Intermediate Python
@@ -43,7 +44,8 @@ Here's a list of the data science courses I have completed:
 ## Completed Tracks :running:
 
 Here's a list of the data science tracks I have completed:
-- Python Fundamentals 
+
+- Python Fundamentals
 - Experienced Professional Program - AI Month 1
 - Experienced Professional Program - CDF - Month 1
 - Experienced Professional Program - CDF - Month 2
@@ -55,6 +57,7 @@ Here's a list of the data science tracks I have completed:
 ## Completed Projects :chart_with_upwards_trend:
 
 Here are some data-driven projects I have completed:
+
 - Dr. Semmelweis and the Discovery of Handwashing
 - Introduction to DataCamp Projects
 - Analyzing TV Data
@@ -71,18 +74,20 @@ Here's a link to my DataCamp portfolio section: [Damodhar's DataCamp Portfolio](
 ## Additional Resources :books:
 
 Here are some helpful resources I utilized throughout my learning journey:
+
 - [GitHub Repository](https://github.com/Akash-Ansari?page=2&tab=repositories) contains the source code for some of my completed exercises and projects.
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) is a comprehensive resource for discovering datasets.
 - I found the [DataCamp Mentor Blog](https://vishalmnemonic.github.io/DC6/) extremely helpful for guidance and inspiration.
-- The [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) is a fantastic book on Python and data science written by Jake VanderPlas. 
+- The [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) is a fantastic book on Python and data science written by Jake VanderPlas.
 - [Pandas for AI](https://github.com/gventuri/pandas-ai) is a comprehensive guide on using Pandas for machine learning by Gianluca Venturi.
 - This [Data Cleaning Guide](https://nanologisk.github.io/2021/04/05/datacleaning-commonprob.html) covers common data cleaning problems and how to overcome them.
+- Capstone projects from [CMU's Statistics Department](https://www.stat.cmu.edu/capstoneresearch/) are a great source of inspiration for data-driven projects.
 
 Thank you for exploring my DataCamp learning journey! :smiley:
-
 
 some links
 https://pbpython.com/
 https://rpubs.com/datttrian/reshaping-data-with-pandas
 https://github.com/datttrian
 https://github.com/nabinno/
+https://www.stat.cmu.edu/capstoneresearch/

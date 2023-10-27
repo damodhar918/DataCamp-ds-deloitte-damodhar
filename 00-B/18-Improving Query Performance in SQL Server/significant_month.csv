@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T16:29:14.990Z,38.127,-121.6428333,8.46,4.24,mw,157,20,0.04364,0.41,nc,nc73948665,2023-10-24T22:12:40.749Z,"5 km SW of Isleton, CA",earthquake,0.26,1.05,,4,reviewed,nc,nc
+2023-10-17T16:26:49.702Z,27.7307,56.1175,10,5.3,mww,147,45,2.775,0.69,us,us6000lg6k,2023-10-23T16:34:08.336Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.37,1.769,0.089,12,reviewed,us,us
+2023-10-17T05:10:03.319Z,27.7363,56.1369,10,5.5,mww,109,38,2.78,0.74,us,us6000lg2t,2023-10-18T05:18:15.138Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.64,1.83,0.073,18,reviewed,us,us
+2023-10-16T11:35:31.726Z,52.4445,-176.8502,187.371,6.4,mww,54,44,0.572,1.17,us,us6000lfvn,2023-10-26T11:45:46.256Z,"65 km NNW of Adak, Alaska",earthquake,7.87,7.08,0.039,62,reviewed,us,us
+2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-25T14:10:43.162Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
+2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-16T04:03:35.566Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
+2023-10-15T03:36:00.037Z,34.6094,62.1115,6.323,6.3,mww,126,21,5.719,1.2,us,us6000lfn5,2023-10-16T16:58:43.511Z,"30 km NNW of Herāt, Afghanistan",earthquake,7.19,3.138,0.063,24,reviewed,us,us
+2023-10-11T20:04:57.368Z,-52.0599,139.5902,4.79,6.3,mww,116,35,10.536,0.89,us,us6000lews,2023-10-12T20:09:27.766Z,"west of Macquarie Island",earthquake,10.09,2.89,0.052,35,reviewed,us,us
+2023-10-11T00:41:56.160Z,34.5565,62.0449,9,6.3,mww,412,21,5.775,0.72,us,us6000len8,2023-10-16T05:01:00.351Z,"western Afghanistan",earthquake,6.99,1.753,0.044,49,reviewed,us,us
+2023-10-09T18:23:09.360Z,49.0862,21.7825,8.273,5,mww,162,16,1.715,0.69,us,us6000lec2,2023-10-15T11:02:34.629Z,"16 km SE of Stropkov, Slovakia",earthquake,5.39,2.701,0.045,47,reviewed,us,us
+2023-10-09T02:21:08.810Z,48.032833333333336,-122.7065,56.95,4.34,ml,143,26,0.05452,0.25,uw,uw61965081,2023-10-24T04:26:46.896Z,"Port Townsend, WA",earthquake,0.28,0.44,0.16146187599145634,140,reviewed,uw,uw
+2023-10-07T08:40:11.603Z,-5.4773,146.1215,53.944,6.9,mww,267,18,6.155,0.58,us,us6000ldqf,2023-10-21T06:57:21.465Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.23,4.96,0.052,35,reviewed,us,us
+2023-10-07T08:34:26.903Z,-5.6034,146.1381,55,6.7,mww,248,19,6.165,0.77,us,us6000ldqd,2023-10-21T06:49:11.247Z,"57 km SE of Madang, Papua New Guinea",earthquake,7.78,1.928,0.054,33,reviewed,us,us
+2023-10-07T07:40:30.084Z,34.6262,62.0006,12.48,5.9,mww,227,43,5.81,0.59,us,us6000ldpv,2023-10-19T06:37:53.467Z,"35 km NNW of Herāt, Afghanistan",earthquake,6.08,3.399,0.054,33,reviewed,us,us
+2023-10-07T07:12:50.034Z,34.5718,61.8816,10,6.3,mww,244,43,5.91,0.53,us,us6000ldpm,2023-10-18T12:14:56.536Z,"western Afghanistan",earthquake,7.59,1.823,0.051,37,reviewed,us,us
+2023-10-07T06:49:41.156Z,34.5167,61.9462,10.257,5.4,mb,165,54,5.858,0.47,us,us6000ldph,2023-10-18T12:09:53.235Z,"western Afghanistan",earthquake,7.67,3.884,0.047,155,reviewed,us,us
+2023-10-07T06:41:03.335Z,34.5989,61.9313,14,6.3,mww,279,43,5.868,0.57,us,us6000ldpg,2023-10-18T06:59:26.849Z,"33 km NNE of Zindah Jān, Afghanistan",earthquake,8.36,1.828,0.048,41,reviewed,us,us
+2023-10-07T05:06:54.827Z,17.1201,-94.9398,99.366,5.9,mww,111,89,2.813,0.86,us,us6000ldny,2023-10-18T05:30:37.133Z,"6 km WNW of Cuauhtémoc, Mexico",earthquake,8.79,4.34,0.032,91,reviewed,us,us
+2023-10-06T14:01:18.927Z,61.2646,-149.934,39.9,4.2,mwr,,,,0.77,ak,ak023ctna5d5,2023-10-23T18:58:05.479Z,"5 km NNW of Anchorage, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-10-04T11:21:47.736Z,5.3176,126.049,113,6.4,mww,257,23,1.802,0.9,us,us6000lcri,2023-10-17T06:32:27.742Z,"Mindanao, Philippines",earthquake,7.31,1.927,0.037,71,reviewed,us,us
+2023-10-03T09:21:04.291Z,29.4987,81.253,20.134,5.7,mww,188,13,3.922,0.61,us,us6000lcgj,2023-10-22T02:25:23.011Z,"40 km NE of Dipayal, Nepal",earthquake,6.93,3.078,0.052,36,reviewed,us,us
+2023-10-02T12:45:15.979Z,25.9206,90.5798,10,5.4,mb,119,36,3.799,0.6,us,us6000lc8t,2023-10-21T07:00:41.210Z,"28 km S of Goālpāra, India",earthquake,7.23,1.83,0.034,300,reviewed,us,us
+2023-09-30T15:26:26.760Z,40.5588333,-124.2886667,17.88,4.65,mw,45,166,0.02573,0.2,nc,nc73943821,2023-10-22T19:57:42.345Z,"3 km SW of Ferndale, CA",earthquake,0.44,0.29,,5,reviewed,nc,nc

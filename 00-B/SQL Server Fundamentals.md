@@ -10,8 +10,7 @@ Completed
 
 ![](https://www.datacamp.com/statement-of-accomplishment/badge/track/bb88da3f65a957b6a42315024179aa1a0ee0e508.png)
 
-SQL
-
+- SQL
 - 21 hours
 - 5 Courses
 
@@ -23,6 +22,7 @@ SQL
 
   [#### Introduction to SQL Server<br>Learn to use SQL Server to perform common data manipulation tasks and master common data manipulation tasks using thi...](/courses/introduction-to-sql-server)
   [Share](https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+completed+the+course+%22Introduction+to+SQL+Server%22&title=I+completed+the+course+%22Introduction+to+SQL+Server%22&url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2F4fddd261e71e2b922e62db055f2761d827e97898) [Replay Course](https://campus.datacamp.com/courses/introduction-to-sql-server)
+
 - #### Intermediate SQL Server
   [Share](https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+completed+the+course+%22Intermediate+SQL+Server%22&title=I+completed+the+course+%22Intermediate+SQL+Server%22&url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2F5efb1afcf5f7694193bd7a1d6ad2a3ebe613ae8a) [Replay Course](https://campus.datacamp.com/courses/intermediate-sql-server)
   [#### Intermediate SQL Server<br>In this course, you will use T-SQL, the flavor of SQL used in Microsoft's SQL Server for data analysis.](/courses/intermediate-sql-server)
@@ -39,7 +39,9 @@ SQL
   [Share](https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&title=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fc3eae40ca74a9901cbeef40829ff985a3b233cab) [Replay Course](https://campus.datacamp.com/courses/functions-for-manipulating-data-in-sql-server)
   [#### Functions for Manipulating Data in SQL Server<br>Learn the most important functions for manipulating, processing, and transforming data in SQL Server.](/courses/functions-for-manipulating-data-in-sql-server)
   [Share](https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&title=I+completed+the+course+%22Functions+for+Manipulating+Data+in+SQL+Server%22&url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Fcourse%2Fc3eae40ca74a9901cbeef40829ff985a3b233cab) [Replay Course](https://campus.datacamp.com/courses/functions-for-manipulating-data-in-sql-server)
-- ![](https://cdn.datacamp.com/main-app/assets/courses/trophy-15bc814786c299d60f8f18bf1aa37806f0339ca346f309727946d50f3d66b2c0.svg)
-  Statement of Accomplishment
-  ***
-  [View](https://www.datacamp.com/statement-of-accomplishment/track/bb88da3f65a957b6a42315024179aa1a0ee0e508) [](https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+completed+the+track+%22SQL+Server+Fundamentals%22&title=I+completed+the+track+%22SQL+Server+Fundamentals%22&url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Ftrack%2Fbb88da3f65a957b6a42315024179aa1a0ee0e508)
+
+---
+
+#### Statement of Accomplishment
+
+[View](https://www.datacamp.com/statement-of-accomplishment/track/bb88da3f65a957b6a42315024179aa1a0ee0e508) [](https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+completed+the+track+%22SQL+Server+Fundamentals%22&title=I+completed+the+track+%22SQL+Server+Fundamentals%22&url=https%3A%2F%2Fwww.datacamp.com%2Fstatement-of-accomplishment%2Ftrack%2Fbb88da3f65a957b6a42315024179aa1a0ee0e508)
