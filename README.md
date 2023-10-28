@@ -11,6 +11,7 @@ Hello, fellow data enthusiasts! This repository showcases the exciting data scie
   - [Completed Projects :chart\_with\_upwards\_trend:](#completed-projects-chart_with_upwards_trend)
   - [DataCamp Portfolio :briefcase:](#datacamp-portfolio-briefcase)
   - [Additional Resources :books:](#additional-resources-books)
+  - [References git links :link:](#references-git-links-link)
 
 ## Completed Courses :mortar_board:
 
@@ -83,11 +84,13 @@ Here are some helpful resources I utilized throughout my learning journey:
 - This [Data Cleaning Guide](https://nanologisk.github.io/2021/04/05/datacleaning-commonprob.html) covers common data cleaning problems and how to overcome them.
 - Capstone projects from [CMU's Statistics Department](https://www.stat.cmu.edu/capstoneresearch/) are a great source of inspiration for data-driven projects.
 
-Thank you for exploring my DataCamp learning journey! :smiley:
+## References git links :link:
 
-some links
-https://pbpython.com/
-https://rpubs.com/datttrian/reshaping-data-with-pandas
-https://github.com/datttrian
-https://github.com/nabinno/
-https://www.stat.cmu.edu/capstoneresearch/
+  [goodboychan](https://github.com/goodboychan)
+  [pbpython](https://pbpython.com/)
+  https://rpubs.com/datttrian/reshaping-data-with-pandas
+  https://github.com/datttrian
+  https://github.com/nabinno/
+  https://www.stat.cmu.edu/capstoneresearch/
+
+Thank you for exploring my DataCamp learning journey! :smiley:
