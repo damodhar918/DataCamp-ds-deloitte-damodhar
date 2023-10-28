@@ -1,0 +1,7 @@
+**/.ipynb_checkpoints
+**/TrainingData.csv
+**/TestData.csv
+**/HoldoutData.csv
+**/predictions.csv
+**/aclImdb
+**/mnist
