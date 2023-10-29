@@ -1,0 +1,6 @@
+
+>> For RealTime Data only subscribers using the python truedata_ws library please make sure you mention historical_port=None, like so:-
+
+   td_app = TD(usname, psword, live_port=8082, historical_api=False)
+
+Please make sure you enter the correct port number as allocated to you.

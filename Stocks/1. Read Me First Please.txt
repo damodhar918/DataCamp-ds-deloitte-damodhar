@@ -1,0 +1,19 @@
+
+1) Please go through the documentation provided before you start coding.
+
+2) All symbol formats are provided in an additional txt file for the same. Please refer to understand the symbol formats which work with the websocket API.
+
+3) There are various types of activations possiblefrom the backend
+
+	a) Real Time Tick Streaming Feed (By Default)
+	b) 1 min Bars Streaming Feed (You need to request us for converting the real time tick streaming feed to bar streaming - email support@truedata.in). 
+	c) 5 min bars streaming (You need to request for this as above)
+	d) Real Time Tick Streaming + 1 min Bar Streaming is also available on request (This is charged additionally. However, currently the same is not configured to work with the Python Library. You can use the non Library code)
+	e) Real Time Tick streaming + 5 min Br Streaming (same as Sl. no. d)
+	f) Real Time Tick streaming + 1 min Br Streaming + 5 min Br Streaming (same as Sl. no. d)
+
+4) Please use our sandbox page to test everything before you raise a ticket or contact us > https://wstest.truedata.in/
+
+5) In case you need clarification, please email us at support@truedata.in along with your code snippet (formatted properly in a text file) along with the issue you are facing.
+
+6) Please go through all the specific Read me.txt files in each folder and the Websocket API Readme.txt.

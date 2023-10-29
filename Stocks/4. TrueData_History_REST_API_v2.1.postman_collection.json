@@ -1,0 +1,614 @@
+{
+	"info": {
+		"name": "TDHistoryMetacode v 2.1.0",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Auth Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "<your_username>",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "<your_password>",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://auth.truedata.in/token",
+					"protocol": "https",
+					"host": [
+						"auth",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getTickData",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "xoWJr-zBE1qoVEA0drifKmC6wfOEjwhLt4pohqn93x3rwHyUmUP5SiIf8Y9kxjJVIIigbRs6iRbijPufD7sh3BFiunSjPLLvjpnGwktfUzhfO_TAkUum_K61t7CPqTMH2ozc0V6aIuWG2OWPVFurKXDtRfCtXXTU8yNw_v4uxCnr08lzaQqS5d04_I_y0mupK7ox44D0Y1lunpSd9MfRuWkB7XEmzgcuUeWY40ej24Wazfyz0wTUuscqHMEe4zzCf2188hGgY5mJaDZTQ8VNzA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getticks?symbol=USDINR21042875CE&bidask=1&from=210405T09:00:00&to=210430T18:30:00&response=csv",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getticks"
+					],
+					"query": [
+						{
+							"key": "symbol",
+							"value": "USDINR21042875CE"
+						},
+						{
+							"key": "bidask",
+							"value": "1"
+						},
+						{
+							"key": "from",
+							"value": "210405T09:00:00"
+						},
+						{
+							"key": "to",
+							"value": "210430T18:30:00"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "interval",
+							"value": "30min",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getBarData",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"accept-encoding": true
+				}
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "xNFtEuFY1NKMhdwFU-xfnlzFKRtAwwlWSR3qaYnxjL4F20y41i1h6pGOtgNjXH8g8IebFCPy4tHbRW15aDuXoal5NCfvZwWHff31OtP4Fbr08LEXCgcD5LRPrdpbAABBlHHZIrAcmtWeEy7WtSdmRc6kaqPUpZSjeDyZowPSn1SNWSaEKpqZQTDjDPwLdXzlZelzKustufUfWGkPFOorbayUmYfqUbA22iYcvoxCNPs2W9C0wbDWqipIkU768A2u_tsyOibt0DQ1vAo7aPdScQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getbars?symbol=IPL&from=210129T09:00:00&to=210829T18:30:00&response=csv&interval=1min",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getbars"
+					],
+					"query": [
+						{
+							"key": "symbol",
+							"value": "IPL"
+						},
+						{
+							"key": "from",
+							"value": "210129T09:00:00"
+						},
+						{
+							"key": "to",
+							"value": "210829T18:30:00"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "interval",
+							"value": "1min"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getLastNBars",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "q3KdnNPYpaTnxnF5dgjqzIWGXMQBdTy56lylTTM71xzhTQ40_BwL3ULMqopvTB_K6SI9heCgDbjLKJ3YMMYhi_7lA9DydiTDYGE3KqTqpw1c-GmxJfoZawUJlsLr1Gdw8UC2aUXoXbrkirIhqGJRGIG1kc_IXivO01nb2tVwjEp9YgPFOGB7reeDoGlqptOucB-nj2K4NP1nkVt9Zw7L5oo-iA5L_lPan0_OKV_Km80rvgVMK1Yc7ID-YTPirGIO",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getlastnbars?symbol=NIFTY-I&response=csv&nbars=200&interval=1min&bidask=0",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getlastnbars"
+					],
+					"query": [
+						{
+							"key": "symbol",
+							"value": "NIFTY-I"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "nbars",
+							"value": "200"
+						},
+						{
+							"key": "interval",
+							"value": "1min"
+						},
+						{
+							"key": "bidask",
+							"value": "0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getLastNTicks",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "q3KdnNPYpaTnxnF5dgjqzIWGXMQBdTy56lylTTM71xzhTQ40_BwL3ULMqopvTB_K6SI9heCgDbjLKJ3YMMYhi_7lA9DydiTDYGE3KqTqpw1c-GmxJfoZawUJlsLr1Gdw8UC2aUXoXbrkirIhqGJRGIG1kc_IXivO01nb2tVwjEp9YgPFOGB7reeDoGlqptOucB-nj2K4NP1nkVt9Zw7L5oo-iA5L_lPan0_OKV_Km80rvgVMK1Yc7ID-YTPirGIO",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getlastnticks?symbol=ACC&bidask=1&response=csv&nticks=2000&interval=tick",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getlastnticks"
+					],
+					"query": [
+						{
+							"key": "symbol",
+							"value": "ACC"
+						},
+						{
+							"key": "bidask",
+							"value": "1"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "nticks",
+							"value": "2000"
+						},
+						{
+							"key": "interval",
+							"value": "tick"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getBhavCopy",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "7pi1fp30BimfhBDDecR1JrzB81NyTeWOLi0GJppxO6ZvebLNsyX2vgPap0dMdmdqehW1lOBuKysBdjyLTpHUBPdmMr4v6gODCcGQMiez1_qEb7BuPwL0oNrLX-VMhdeKFgUtHm6kZaen3s7fC62G-ktTrJqZQCF6r5c8GyjSC4yFyXMt1ck3wkZY_slGauKKpNQky13ThtEI7jsH3DwfMegUaXvAZeFj2yCs9AYDEox3fyAJAzW1JvqUBpnJi18-yyxh5fODSUKWhh_scxaneQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getbhavcopy?segment=EQ&date=2020-02-18&response=csv",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getbhavcopy"
+					],
+					"query": [
+						{
+							"key": "segment",
+							"value": "EQ"
+						},
+						{
+							"key": "date",
+							"value": "2020-02-18"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getBhavCopyStatus",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "7pi1fp30BimfhBDDecR1JrzB81NyTeWOLi0GJppxO6ZvebLNsyX2vgPap0dMdmdqehW1lOBuKysBdjyLTpHUBPdmMr4v6gODCcGQMiez1_qEb7BuPwL0oNrLX-VMhdeKFgUtHm6kZaen3s7fC62G-ktTrJqZQCF6r5c8GyjSC4yFyXMt1ck3wkZY_slGauKKpNQky13ThtEI7jsH3DwfMegUaXvAZeFj2yCs9AYDEox3fyAJAzW1JvqUBpnJi18-yyxh5fODSUKWhh_scxaneQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getbhavcopystatus?segment=EQ&response=csv",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getbhavcopystatus"
+					],
+					"query": [
+						{
+							"key": "segment",
+							"value": "EQ"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getLTP",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "-imglsMqJmUplHyenA33QR09iyN-7eEA0io0bhoN0lztiJjovjAV7iGCYwqgdSUVJ9xUYbfOaNmOngmAqSWbH0xVez5EulBI6y-yXrbdYFzq64QolNG1FmGATN_pmsV-FgTXjdCjOl6IDCf_oFbR0weq4CyMzAG37OqsGTrR-SOpnjXTlaLIUMlG5wg4z1Cw8M9qBJ-jrT3doBLqKjfwE5ClXLSRd-X97pijg9OmIGTSfimUTgWgReb_yGquwBAb",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getlastnticks?symbol=RELIANCE&bidask=1&response=csv&nticks=1&interval=tick",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getlastnticks"
+					],
+					"query": [
+						{
+							"key": "symbol",
+							"value": "RELIANCE"
+						},
+						{
+							"key": "bidask",
+							"value": "1"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "nticks",
+							"value": "1"
+						},
+						{
+							"key": "interval",
+							"value": "tick"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getTopGainers",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "q3KdnNPYpaTnxnF5dgjqzIWGXMQBdTy56lylTTM71xzhTQ40_BwL3ULMqopvTB_K6SI9heCgDbjLKJ3YMMYhi_7lA9DydiTDYGE3KqTqpw1c-GmxJfoZawUJlsLr1Gdw8UC2aUXoXbrkirIhqGJRGIG1kc_IXivO01nb2tVwjEp9YgPFOGB7reeDoGlqptOucB-nj2K4NP1nkVt9Zw7L5oo-iA5L_lPan0_OKV_Km80rvgVMK1Yc7ID-YTPirGIO",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/gettopngainers?segment=CASH&response=csv&topn=50",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"gettopngainers"
+					],
+					"query": [
+						{
+							"key": "segment",
+							"value": "CASH"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "topn",
+							"value": "50"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getTopLosers",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "q3KdnNPYpaTnxnF5dgjqzIWGXMQBdTy56lylTTM71xzhTQ40_BwL3ULMqopvTB_K6SI9heCgDbjLKJ3YMMYhi_7lA9DydiTDYGE3KqTqpw1c-GmxJfoZawUJlsLr1Gdw8UC2aUXoXbrkirIhqGJRGIG1kc_IXivO01nb2tVwjEp9YgPFOGB7reeDoGlqptOucB-nj2K4NP1nkVt9Zw7L5oo-iA5L_lPan0_OKV_Km80rvgVMK1Yc7ID-YTPirGIO",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/gettopnlosers?segment=CASH&response=csv&topn=50",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"gettopnlosers"
+					],
+					"query": [
+						{
+							"key": "segment",
+							"value": "CASH"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "topn",
+							"value": "50"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getTopVolumeGainers",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "q3KdnNPYpaTnxnF5dgjqzIWGXMQBdTy56lylTTM71xzhTQ40_BwL3ULMqopvTB_K6SI9heCgDbjLKJ3YMMYhi_7lA9DydiTDYGE3KqTqpw1c-GmxJfoZawUJlsLr1Gdw8UC2aUXoXbrkirIhqGJRGIG1kc_IXivO01nb2tVwjEp9YgPFOGB7reeDoGlqptOucB-nj2K4NP1nkVt9Zw7L5oo-iA5L_lPan0_OKV_Km80rvgVMK1Yc7ID-YTPirGIO",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/gettopnvolumegainers?segment=NSEFUT&response=csv&topn=50",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"gettopnvolumegainers"
+					],
+					"query": [
+						{
+							"key": "segment",
+							"value": "NSEFUT"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "topn",
+							"value": "50"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getCorpAction",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "q3KdnNPYpaTnxnF5dgjqzIWGXMQBdTy56lylTTM71xzhTQ40_BwL3ULMqopvTB_K6SI9heCgDbjLKJ3YMMYhi_7lA9DydiTDYGE3KqTqpw1c-GmxJfoZawUJlsLr1Gdw8UC2aUXoXbrkirIhqGJRGIG1kc_IXivO01nb2tVwjEp9YgPFOGB7reeDoGlqptOucB-nj2K4NP1nkVt9Zw7L5oo-iA5L_lPan0_OKV_Km80rvgVMK1Yc7ID-YTPirGIO",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getcorpaction?symbol=RELIANCE&response=csv",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getcorpaction"
+					],
+					"query": [
+						{
+							"key": "symbol",
+							"value": "RELIANCE"
+						},
+						{
+							"key": "response",
+							"value": "csv"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getSymbolNameChange",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "-7diewNGZV3UkFNFLXjbAwEXzKa5TrYpSwsiMbLVhDxqfchXNVaOmRWUw3h0n2CWL5wszW38POZvlG_N4f2BcQ95kJdOdi-KI_4h-8eF5clu5w4UuoFzPMxdqi4hH0vkv_Hpw2OO5eMQ0D0-kLiFBoliPJ6jAFbA5-jRpv7bS-WbZ--Gv0sFe85UR28HqlggXSHDX2u-i98H9WxxPjxWqFYmrgpW0dMkE4uNc4ExNMtrpnalyxBZVF3_fe91y5Nk",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://history.truedata.in/getsymbolchangehistory?response=csv&SYMBOL=",
+					"protocol": "https",
+					"host": [
+						"history",
+						"truedata",
+						"in"
+					],
+					"path": [
+						"getsymbolchangehistory"
+					],
+					"query": [
+						{
+							"key": "response",
+							"value": "csv"
+						},
+						{
+							"key": "SYMBOL",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

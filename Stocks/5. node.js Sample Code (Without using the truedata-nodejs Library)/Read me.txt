@@ -1,0 +1,2 @@
+
+This is a sample node.js code which is also able to reconnect to the websocket automatically in case of a short disconnection in the socket connection.

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session >
+	<Field name="Session Name">PKG_STG_EDW_F_GL_GP_NSV_S4</Field>
+	<Field name="Scenario Name"></Field>
+	<Field name="Context Code">TEST</Field>
+	<SessStep >
+		<Field name="Step Name">p_LAST_CLOSED_MTH_ID_CBUS</Field>
+		<Field name="Step No">0</Field>
+		<Field name="Step Type">V</Field>
+		<Field name="Ok Next Step">1</Field>
+		<Field name="Ko Next Step">2</Field>
+		<Field name="Ok Exit">0</Field>
+		<Field name="Ko Exit">0</Field>
+		<StepLog >
+			<Field name="NNO">0</Field>
+			<SessTaskLog>
+				<Field name="Task Type ">V</Field>
+				<Field name="Task Name 1">Variable</Field>
+				<Field name="Task Name 2">p_LAST_CLOSED_MTH_ID_CBUS</Field>
+				<Field name="Task Name 3"></Field>
+				<Field name="Exe Channel"></Field>
+				<Field name="Source Context Code">TEST</Field>
+				<Field name="Source Logical Schema Name"></Field>
+				<Field name="Source Connection Name"></Field>
+				<Field name="Source Commit Indicator"></Field>
+				<Field name="Source Isolation Level"></Field>
+				<Field name="Source Plan Comp"></Field>
+				<Field name="Source Technology Internal Name"></Field>
+				<Field name="Target Context Code">TEST</Field>
+				<Field name="Target Logical Schema Name">EDW</Field>
+				<Field name="Target Connection Name"></Field>
+				<Field name="Target Commit Indicator"></Field>
+				<Field name="Target Isolation Level"></Field>
+				<Field name="Target Plan Comp"></Field>
+				<Field name="Target Technology Internal Name"></Field>
+				<Field name="NNO">0</Field>
+				<Field name="SCEN TASK NO">1</Field>
+				<Default>
+					<Field name="Text">SELECT DCM.DATE_MTH_ID 
+FROM EDW.D_CLOSE_MTH DCM 
+WHERE DCM.OPCO_CD = &apos;101&apos; and DCM.TYPE_CD = &apos;DEPL&apos;</Field>
+				</Default>
+			</SessTaskLog>
+		</StepLog >
+	</SessStep >
+	<SessStep >
+		<Field name="Step Name">INT_STG_EDW_F_GL_GP_NSV_S4</Field>
+		<Field name="Step No">1</Field>
+		<Field name="Step Type">F</Field>
+		<Field name="Ok Next Step"></Field>
+		<Field name="Ko Next Step">2</Field>
+		<Field name="Ok Exit">1</Field>
+		<Field name="Ko Exit">0</Field>
+		<StepLog >
+			<Field name="NNO">1</Field>
+			<SessTaskLog>
+				<Field name="Task Type ">J</Field>
+				<Field name="Task Name 1">Integration</Field>
+				<Field name="Task Name 2">INT_STG_EDW_F_GL_GP_NSV_S4</Field>
+				<Field name="Task Name 3">Truncate target table</Field>
+				<Field name="Exe Channel">J</Field>
+				<Field name="Source Context Code">TEST</Field>
+				<Field name="Source Logical Schema Name">STG_EDW</Field>
+				<Field name="Source Connection Name"></Field>
+				<Field name="Source Commit Indicator"></Field>
+				<Field name="Source Isolation Level"></Field>
+				<Field name="Source Plan Comp">0</Field>
+				<Field name="Source Technology Internal Name">ORACLE</Field>
+				<Field name="Target Context Code">TEST</Field>
+				<Field name="Target Logical Schema Name">STG_EDW</Field>
+				<Field name="Target Connection Name"></Field>
+				<Field name="Target Commit Indicator"></Field>
+				<Field name="Target Isolation Level"></Field>
+				<Field name="Target Plan Comp">0</Field>
+				<Field name="Target Technology Internal Name">ORACLE</Field>
+				<Field name="NNO">1</Field>
+				<Field name="SCEN TASK NO">2</Field>
+				<Default>
+					<Field name="Text">truncate table STG_EDW.F_GL_GP_NSV
+					</Field>
+				</Default>
+			</SessTaskLog>
+			<SessTaskLog>
+				<Field name="Task Type ">J</Field>
+				<Field name="Task Name 1">Integration</Field>
+				<Field name="Task Name 2">INT_STG_EDW_F_GL_GP_NSV_S4</Field>
+				<Field name="Task Name 3">Insert new rows</Field>
+				<Field name="Exe Channel">J</Field>
+				<Field name="Source Context Code">TEST</Field>
+				<Field name="Source Logical Schema Name">STG_EDW</Field>
+				<Field name="Source Connection Name"></Field>
+				<Field name="Source Commit Indicator"></Field>
+				<Field name="Source Isolation Level"></Field>
+				<Field name="Source Plan Comp">0</Field>
+				<Field name="Source Technology Internal Name">ORACLE</Field>
+				<Field name="Target Context Code">TEST</Field>
+				<Field name="Target Logical Schema Name">STG_EDW</Field>
+				<Field name="Target Connection Name"></Field>
+				<Field name="Target Commit Indicator">1</Field>
+				<Field name="Target Isolation Level"></Field>
+				<Field name="Target Plan Comp">0</Field>
+				<Field name="Target Technology Internal Name">ORACLE</Field>
+				<Field name="NNO">1</Field>
+				<Field name="SCEN TASK NO">3</Field>
+				<Default>
+					<Field name="Text">BEGIN
+EXECUTE IMMEDIATE &apos;ALTER SESSION ENABLE PARALLEL DML&apos;;
+ 
+insert /*+ APPEND */ into	STG_EDW.F_GL_GP_NSV 
+( 
+	DATE_ID,
+	FY_YEAR,
+	GL_ACCOUNT_CD,
+	GL_ACCOUNT_DSC,
+	FISCPER,
+	VERSION_CD,
+	AC_LEDGER,
+	CURRENCY,
+	CALMONTH,
+	BALANCE,
+	MATERIAL_CD,
+	CUSTOMER_CD 
+) 
+select  /*+ parallel(6) */   
+	S.DATE_ID,
+	S.FY_YEAR,
+	S.GL_ACCOUNT_CD,
+	S.GL_ACCOUNT_DSC,
+	S.FISCPER,
+	S.VERSION_CD,
+	S.AC_LEDGER,
+	S.CURRENCY,
+	S.CALMONTH,
+	S.BALANCE,
+	S.MATERIAL_CD,
+	S.CUSTOMER_CD 
+from	STG_EDW.S_GL_GP_NSV_VW   S 
+where (1=1) 
+	 
+ 
+And (S.CALMONTH &lt;= #STAGING.p_LAST_CLOSED_MTH_ID_CBUS) 
+ 
+ 
+ 
+
+;
+END;</Field>
+				</Default>
+			</SessTaskLog>
+			<SessTaskLog>
+				<Field name="Task Type ">J</Field>
+				<Field name="Task Name 1">Integration</Field>
+				<Field name="Task Name 2">INT_STG_EDW_F_GL_GP_NSV_S4</Field>
+				<Field name="Task Name 3">Commit transaction</Field>
+				<Field name="Exe Channel">J</Field>
+				<Field name="Source Context Code">TEST</Field>
+				<Field name="Source Logical Schema Name">STG_EDW</Field>
+				<Field name="Source Connection Name"></Field>
+				<Field name="Source Commit Indicator"></Field>
+				<Field name="Source Isolation Level"></Field>
+				<Field name="Source Plan Comp">0</Field>
+				<Field name="Source Technology Internal Name">ORACLE</Field>
+				<Field name="Target Context Code">TEST</Field>
+				<Field name="Target Logical Schema Name">STG_EDW</Field>
+				<Field name="Target Connection Name"></Field>
+				<Field name="Target Commit Indicator">1</Field>
+				<Field name="Target Isolation Level"></Field>
+				<Field name="Target Plan Comp">0</Field>
+				<Field name="Target Technology Internal Name">ORACLE</Field>
+				<Field name="NNO">1</Field>
+				<Field name="SCEN TASK NO">4</Field>
+				<Default>
+					<Field name="Text">/* commit */</Field>
+				</Default>
+			</SessTaskLog>
+			<SessTaskLog>
+				<Field name="Task Type ">J</Field>
+				<Field name="Task Name 1">Integration</Field>
+				<Field name="Task Name 2">INT_STG_EDW_F_GL_GP_NSV_S4</Field>
+				<Field name="Task Name 3">Analyze Target Table</Field>
+				<Field name="Exe Channel">J</Field>
+				<Field name="Source Context Code">TEST</Field>
+				<Field name="Source Logical Schema Name">STG_EDW</Field>
+				<Field name="Source Connection Name"></Field>
+				<Field name="Source Commit Indicator"></Field>
+				<Field name="Source Isolation Level"></Field>
+				<Field name="Source Plan Comp"></Field>
+				<Field name="Source Technology Internal Name">ORACLE</Field>
+				<Field name="Target Context Code">TEST</Field>
+				<Field name="Target Logical Schema Name">STG_EDW</Field>
+				<Field name="Target Connection Name"></Field>
+				<Field name="Target Commit Indicator"></Field>
+				<Field name="Target Isolation Level"></Field>
+				<Field name="Target Plan Comp"></Field>
+				<Field name="Target Technology Internal Name">ORACLE</Field>
+				<Field name="NNO">1</Field>
+				<Field name="SCEN TASK NO">5</Field>
+				<Default>
+					<Field name="Text">
+ 
+begin
+cbi_metadata.cbi_gather_table_stats_prc
+                (p_schema_in =&gt;&apos;STG_EDW&apos;,
+                       p_table_name_in =&gt;   &apos;F_GL_GP_NSV&apos;);
+  end;
+ 
+ 
+					</Field>
+				</Default>
+			</SessTaskLog>
+		</StepLog >
+	</SessStep >
+	<SessStep >
+		<Field name="Step Name">PRC_CAPTURE_ERROR</Field>
+		<Field name="Step No">2</Field>
+		<Field name="Step Type">T</Field>
+		<Field name="Ok Next Step"></Field>
+		<Field name="Ko Next Step"></Field>
+		<Field name="Ok Exit">1</Field>
+		<Field name="Ko Exit">1</Field>
+		<StepLog >
+			<Field name="NNO">2</Field>
+			<SessTaskLog>
+				<Field name="Task Type ">S</Field>
+				<Field name="Task Name 1">Procedure</Field>
+				<Field name="Task Name 2">PRC_CAPTURE_ERROR</Field>
+				<Field name="Task Name 3">PRC_CAPTURE_ERROR</Field>
+				<Field name="Exe Channel">B</Field>
+				<Field name="Source Context Code">TEST</Field>
+				<Field name="Source Logical Schema Name">ODI_EDW_WRK</Field>
+				<Field name="Source Connection Name"></Field>
+				<Field name="Source Commit Indicator"></Field>
+				<Field name="Source Isolation Level"></Field>
+				<Field name="Source Plan Comp"></Field>
+				<Field name="Source Technology Internal Name">ORACLE</Field>
+				<Field name="Target Context Code">DEVELOPMENT</Field>
+				<Field name="Target Logical Schema Name"></Field>
+				<Field name="Target Connection Name"></Field>
+				<Field name="Target Commit Indicator"></Field>
+				<Field name="Target Isolation Level"></Field>
+				<Field name="Target Plan Comp"></Field>
+				<Field name="Target Technology Internal Name">JYTHON</Field>
+				<Field name="NNO">2</Field>
+				<Field name="SCEN TASK NO">6</Field>
+				<Default>
+					<Field name="Text">import string  
+
+import java.sql as sql  
+
+import java.lang as lang  
+
+import re  
+
+sourceConnection = odiRef.getJDBCConnection(&quot;SRC&quot;) output_write=open(&apos;/app/EDW/work/PKG_STG_EDW_F_GL_GP_NSV_S4.txt&apos;,&apos;w&apos;)  
+
+sqlstring = sourceConnection.createStatement()  
+
+#---------------------------------------------------------------------------  
+
+output_write.write(&quot;Detailed Error Message: \n&quot;)  
+
+output_write.write(&quot;----------------------------- \n\n&quot;)  
+
+#--------------------------------------------------------------------------- sqlstmt=&quot; Select &apos;[&apos;||c.sess_no||&apos; - &apos;||b.sess_name||&apos; - &apos;||to_char(c.step_end,&apos;YYYYMMDD HH24:MI:SS&apos;)||&apos;]: &apos;||c.error_message AS OUTPUT from ODI_EDW_WRK.snp_session b , ODI_EDW_WRK.snp_step_log  c  where c.STEP_STATUS = &apos;E&apos; and c.sess_no =b.sess_no and b.sess_name =   &apos;PKG_STG_EDW_F_GL_GP_NSV_S4&apos; and b.sess_no =   &apos;&apos; &quot; result=sqlstring.executeQuery(sqlstmt) rs=[]  
+
+while (result.next()):  
+	rs.append(str(result.getString(&quot;output&quot;))) res=&apos;&apos;.join(map(string.strip,rs))  
+print &gt;&gt; output_write, res  
+sourceConnection.close()  
+output_write.close()</Field>
+				</Default>
+			</SessTaskLog>
+		</StepLog >
+	</SessStep >
+</Session>

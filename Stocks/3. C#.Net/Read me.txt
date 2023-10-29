@@ -1,0 +1,14 @@
+
+1) TrueData-DotNet-Sample - This folder contains a sample project (C# code) to get data from our Websocket connection.
+
+2) This project is updated & integrated with the Historical (REST) APIs also.
+
+3) The Release build contains the sample app where you can enter your login details and test. You will need the login detials to see the data flow.
+
+4) You can test real time data flow, historical data and also downoad the entire symbol list. Please run as Administrator.
+
+5) Please note that this is only a sample project. You need to pick up things from here and put them in your own app.
+
+6) The library is accesible from here > https://www.nuget.org/packages/TrueData-DotNet/
+
+7) Note: The websocket protocol is not supported in Windows 7 & below. You would need to get Windows 8 or above to get the protocol working.

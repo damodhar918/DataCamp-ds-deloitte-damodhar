@@ -1,0 +1,8 @@
+
+1) This can work with any python version
+
+2) Please note that for importing & getting the create_connection to work (from websocket import create_connection), you would first need to:-
+
+	a) pip install websocket
+	b) pip install websocket-client
+

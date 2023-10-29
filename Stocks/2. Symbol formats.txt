@@ -1,0 +1,14 @@
+Symbols mapping for WebSocket API:
+
+Equity: - All names same as NSE, e.g. RELIANCE
+
+Futures (Contract):- eg. NIFTY20APRFUT, NIFTY20MAYFUT (same for MCX)
+
+Futures (Continuous (Monthly)):- eg. FINNIFTY-I, FINNIFTY-II, FINNIFTY-III, NIFTY-I, NIFTY-II, NIFTY-III  (same for MCX)
+Futures (Continuous (Weekly)) :- eg. FINNIFTY-1, FINNIFTY-2, FINNIFTY-3
+
+Futures (Continuous - Premium Adjusted) :- e.g. NIFTY-IP, NIFTY-IIP, NIFTY-IIIP (Coming soon)
+
+Options: - SYMBOL + YY + MM + DD + STRIKE +CE/PE >> e.g. NIFTY20043012000CE (Same format for weekly and monthly futures)
+
+Indices :- NIFTY 50, NIFTY BANK, INDIA VIX, NIFTY IT

@@ -1,0 +1,23 @@
+
+1)  Minimum Python version >= 3.7
+
+2)  pip install truedata_ws
+
+3) The library is updated from time to time with improvements and whenever there are server side updates or changes. Please keep a track and make sure you always remain up to date. Follow our telgram channels / group for regular updates.
+
+Telgram Channel >> t.me/truedata_option_decoder
+Telegram Group  >> t.me/truedata_option_decoder_group
+
+4)  You can refer to this page for all details:-
+
+    https://pypi.org/project/truedata-ws/
+
+5)  If you have subscribed for only Historical data, make sure you mention live_port=None, like so:-
+
+    td_app = TD(usname, psword, live_port=None)
+
+6)  If you have subscribed for only Real Time data, make sure you mention Historical_api=False, like so:-
+
+    td_app = TD(usname, psword, live_port=8082, historical_api=False)
+
+7) Please make sure you enter the correct port number as allocated to you.

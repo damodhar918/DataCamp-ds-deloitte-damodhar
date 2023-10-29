@@ -1,0 +1,4 @@
+
+>> For Historical data only subscribers using the python  truedata_ws library please make sure you mention live_port=None, like so:-
+
+   td_app = TD(usname, psword, live_port=None)
