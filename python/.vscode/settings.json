@@ -1,0 +1,12 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./01-Python-Crash-Course",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
