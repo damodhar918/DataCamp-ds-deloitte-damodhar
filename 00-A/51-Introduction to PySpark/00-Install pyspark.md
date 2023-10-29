@@ -1,32 +1,81 @@
-To install PySpark, follow these steps:
+# PySpark Developer: Installation and Configuration on Windows
 
-1. Download and install Java Development Kit (JDK) 8 or later.
-   Download link: https://www.oracle.com/java/technologies/javase-downloads.html
+In this document, we will cover the installation and configuration of PySpark on Windows operating system.
 
-2. Download and install Apache Spark with Hadoop.
+## Prerequisites:
 
-   - Go to the Spark download page: https://spark.apache.org/downloads.html
-   - Select the latest Spark version and choose the package type that corresponds to your operating system and Hadoop version.
-   - Once you have downloaded the package, extract it to a local directory of your choice.
+- Java 1.8 with JDK 8 is required for the installation. You can download it from [here](https://www.oracle.com/in/java/technologies/downloads/#java8-windows) after logging in to Oracle website.
 
-3. Set up the environment variables required to use PySpark. Open a terminal and enter the following commands:
+  - Download the executable file from the above-mentioned link.
+  - Install it in the directory `C:\Program Files\Java\jdk1.8.0_201` (default directory).
+  - Set the environment variable `JAVA_HOME` to the installation directory i.e., `C:\Program Files\Java\jdk1.8.0_201`.
+  - Append the path `%JAVA_HOME%\bin` to the system path variable.
 
-   - `export SPARK_HOME=<Path_to_Spark_directory>` (replace `<Path_to_Spark_directory>` with the actual path where you extracted the Spark package).
-   - `export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin`
-   - `export PYSPARK_PYTHON=<Path_to_python2.7>` (replace `<Path_to_python2.7>` with the actual path where python2.7 is installed).
+- Apache Spark is the main tool for PySpark programming and it can be downloaded from [here](https://spark.apache.org/downloads.html).
 
-4. Test the installation by running the PySpark shell using the command:
+  - Choose the appropriate version and download the package.
+  - Unzip the package to `C:\spark` directory (default location).
+  - Set the environment variable `SPARK_HOME` to the installation directory i.e., `C:\spark`.
+  - Set the environment variable `HADOOP_HOME` to the installation directory i.e., `C:\hadoop`.
+  - Append the path `%SPARK_HOME%\bin` to the system path variable.
+
+- For Hadoop, download `winutils.exe` file from [here](https://github.com/steveloughran/winutils/tree/master/hadoop-3.0.0/bin) and place it in `C:\spark\bin` directory.
+
+  - Add `%HADOOP_HOME%\bin` to the system path variable.
+
+- Python 3 is required for PySpark installation. You can download it from [here](https://www.python.org/downloads/).
+  - Make sure to select and install the option for adding Python to the system path.
+  - Add `C:\Users\YOUR_USER\AppData\Local\Programs\Python\Python310\Scripts` and `C:\Users\YOUR_USER\AppData\Local\Programs\Python\Python310\` to the system path variable.
+
+## PySpark Installation:
+
+1. Open Command Prompt with administrator privilege.
+
+2. Install PySpark using `pip` command. Execute the following command in the Command Prompt:
 
    ```
-   pyspark
+   pip install pyspark
    ```
 
-   You should see the PySpark interactive shell prompt. To test a simple PySpark command, enter the following:
+   This will install the latest version of PySpark.
+
+3. After the installation, set the environment variable `PYSPARK_PYTHON` to `python`.
 
    ```
-   >>> rdd = sc.parallelize([1, 2, 3, 4, 5])
-   >>> rdd.take(3)
-   [1, 2, 3]
+   setx PYSPARK_PYTHON python
    ```
 
-   If the above command executes successfully and displays the output, then the installation is complete and PySpark is ready to use.
+4. PySpark is now successfully installed and ready to use.
+
+## PySpark Configuration:
+
+1. Open any text editor and create a new Python file.
+
+2. Import PySpark and create a `SparkContext` object.
+
+   ```
+   from pyspark import SparkContext
+   sc = SparkContext("local", "PySpark Example")
+   ```
+
+   This will create a new local Spark Context, which can be used to interact with Spark.
+
+3. Now, create a sample RDD and perform some operations on it to test the configuration.
+
+   ```
+   rdd = sc.parallelize([('foo', 1), ('bar', 2), ('baz', 3)])
+   result = rdd.map(lambda x: (x[0], x[1] + 1)).collect()
+   print(result)
+   ```
+
+   The output will be:
+
+   ```
+   [('foo', 2), ('bar', 3), ('baz', 4)]
+   ```
+
+   This means that PySpark is successfully configured and working.
+
+### Conclusion
+
+This document provides a detailed guide for the installation and configuration of PySpark on Windows operating system. Once installed, PySpark can be used to interact with Apache Spark and perform complex data analytics tasks.
