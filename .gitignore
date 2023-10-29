@@ -4,3 +4,4 @@ Icon?
 ./*/.gitignore
 ./*/git
 *.pyc
+tmp_*
