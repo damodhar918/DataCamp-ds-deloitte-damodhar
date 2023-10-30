@@ -1,0 +1,6 @@
+name,type,values
+firstName,regexPattern,"([a-z]{3,5})"
+lastName,regexPattern,"([a-z]{3,6})"
+age,intRange,10|55
+address,regexPattern,"(\[[A-Z]{3,6} \,[1-9]{5}\])"
+phoneNumber,regexPattern,"(\[[4-9]{3})\ ([4-9]{3})\-([4-9]{4}\, [4-9]{3})\ ([4-9]{3})\-([4-9]{4}\])"

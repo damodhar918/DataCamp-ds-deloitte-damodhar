@@ -5,3 +5,4 @@ Icon?
 ./*/git
 *.pyc
 tmp_*
+spark-warehous*
