@@ -1,0 +1,4 @@
+name,type,values
+City,category, WB - Woodbury|STP - Saint Paul|MAPW - Maplewood|LELM - Lake Elmo|OAKD - Oakdale
+Year,intRange,2015|2016
+MedianHomeValue,intRange,162000|401000

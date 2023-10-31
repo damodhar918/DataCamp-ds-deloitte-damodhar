@@ -1,0 +1,6 @@
+name,type,values
+latitude ,floatRange,44|46|5
+longitude ,floatRange,-94|-92|5
+walkscore ,intRange,0|100
+bikescore ,intRange,0|100
+transitscore,intRange,0|100
