@@ -1,0 +1,4 @@
+name,type,values
+DAYSONMARKET,intRange,0|225
+LISTDATE,dateRange,2017-7-10 | 2017-10-26|%Y-%m-%d
+OFFMKTDATE,dependentDateRange,LISTDATE|1D|1W|%Y-%m-%d 
