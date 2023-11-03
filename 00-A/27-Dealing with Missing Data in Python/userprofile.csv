@@ -1,0 +1,139 @@
+smoker,drink_level,dress_preference,ambience,hijos,activity,budget
+False,abstemious,informal,family,independent,student,medium
+False,abstemious,informal,family,independent,student,low
+False,social drinker,formal,family,independent,student,low
+False,abstemious,informal,family,independent,professional,medium
+False,abstemious,no preference,family,independent,student,medium
+True,social drinker,no preference,friends,independent,student,medium
+False,casual drinker,informal,solitary,independent,student,low
+False,social drinker,formal,solitary,independent,student,low
+False,abstemious,formal,family,kids,student,medium
+False,social drinker,no preference,friends,kids,student,medium
+False,abstemious,no preference,family,independent,student,medium
+False,casual drinker,formal,family,independent,student,medium
+False,abstemious,no preference,friends,independent,professional,medium
+False,abstemious,,friends,independent,student,medium
+True,social drinker,informal,family,independent,student,medium
+False,casual drinker,informal,friends,independent,student,medium
+False,casual drinker,formal,family,,professional,medium
+True,casual drinker,formal,friends,independent,student,low
+False,casual drinker,no preference,family,independent,student,medium
+False,abstemious,no preference,friends,independent,professional,medium
+False,social drinker,no preference,family,dependent,student,medium
+False,casual drinker,formal,family,independent,student,medium
+False,casual drinker,informal,friends,independent,student,low
+,abstemious,,,,,
+False,social drinker,no preference,family,,student,medium
+False,abstemious,formal,family,independent,student,medium
+True,social drinker,no preference,,independent,student,low
+False,abstemious,no preference,family,independent,student,medium
+True,casual drinker,formal,family,independent,student,low
+False,casual drinker,formal,family,independent,student,medium
+False,abstemious,informal,solitary,kids,unemployed,medium
+False,abstemious,formal,family,independent,student,medium
+False,social drinker,no preference,family,,student,low
+False,casual drinker,informal,family,independent,student,medium
+True,casual drinker,no preference,friends,independent,student,medium
+False,social drinker,informal,family,independent,student,medium
+False,social drinker,no preference,family,independent,student,low
+True,social drinker,no preference,family,independent,student,low
+False,social drinker,no preference,friends,independent,student,medium
+False,abstemious,no preference,friends,independent,student,medium
+False,abstemious,no preference,friends,independent,professional,medium
+False,abstemious,no preference,family,independent,student,high
+False,abstemious,no preference,solitary,independent,student,medium
+True,social drinker,informal,family,kids,professional,medium
+False,casual drinker,elegant,friends,independent,student,high
+False,social drinker,no preference,friends,independent,student,medium
+False,abstemious,no preference,family,independent,student,medium
+True,casual drinker,no preference,,independent,student,medium
+False,casual drinker,informal,solitary,,student,
+False,social drinker,no preference,family,independent,student,medium
+False,casual drinker,no preference,family,independent,professional,medium
+True,social drinker,no preference,family,independent,student,low
+False,casual drinker,informal,family,independent,student,low
+False,social drinker,formal,family,independent,student,medium
+False,abstemious,no preference,family,dependent,professional,medium
+False,social drinker,informal,family,independent,student,medium
+True,casual drinker,formal,friends,independent,student,medium
+False,abstemious,formal,family,independent,student,low
+False,abstemious,formal,friends,independent,student,medium
+False,casual drinker,formal,family,independent,student,medium
+False,social drinker,no preference,friends,independent,professional,medium
+False,casual drinker,informal,friends,independent,student,medium
+False,casual drinker,formal,family,independent,student,medium
+False,casual drinker,formal,solitary,independent,student,medium
+False,abstemious,formal,friends,independent,student,medium
+False,abstemious,informal,solitary,,student,low
+False,abstemious,no preference,family,independent,student,medium
+False,casual drinker,informal,friends,independent,student,low
+False,social drinker,no preference,family,independent,professional,medium
+False,casual drinker,informal,friends,independent,student,low
+False,abstemious,formal,friends,independent,student,high
+False,casual drinker,no preference,family,independent,student,medium
+False,abstemious,informal,solitary,kids,unemployed,medium
+True,casual drinker,no preference,family,kids,professional,medium
+False,casual drinker,informal,family,independent,student,medium
+False,social drinker,elegant,family,kids,student,medium
+False,social drinker,elegant,family,kids,student,medium
+True,social drinker,informal,solitary,independent,professional,medium
+False,abstemious,formal,family,independent,,medium
+True,social drinker,formal,friends,independent,student,low
+False,casual drinker,informal,family,independent,student,low
+True,abstemious,informal,friends,,student,medium
+False,abstemious,,,,,
+True,casual drinker,formal,family,independent,student,medium
+False,abstemious,no preference,solitary,independent,student,
+False,social drinker,no preference,family,independent,student,medium
+False,abstemious,no preference,solitary,independent,student,medium
+False,social drinker,informal,family,independent,student,medium
+True,casual drinker,informal,family,independent,student,low
+False,social drinker,no preference,friends,independent,student,medium
+False,casual drinker,no preference,family,independent,student,low
+False,abstemious,formal,solitary,dependent,,medium
+True,casual drinker,no preference,family,independent,student,medium
+False,abstemious,informal,friends,independent,student,medium
+False,abstemious,formal,family,independent,student,medium
+False,abstemious,formal,family,independent,student,medium
+False,abstemious,formal,family,independent,student,medium
+False,social drinker,formal,family,independent,student,medium
+True,social drinker,informal,family,independent,student,high
+False,casual drinker,formal,friends,independent,student,medium
+False,casual drinker,no preference,friends,independent,student,low
+False,social drinker,no preference,friends,independent,student,low
+False,abstemious,formal,friends,independent,professional,medium
+True,social drinker,no preference,family,independent,student,medium
+False,social drinker,formal,family,independent,student,medium
+False,casual drinker,informal,friends,independent,professional,medium
+False,abstemious,no preference,friends,independent,,high
+False,abstemious,informal,solitary,independent,student,medium
+False,abstemious,formal,solitary,independent,student,low
+False,abstemious,no preference,family,independent,student,medium
+True,casual drinker,formal,friends,independent,student,medium
+True,casual drinker,formal,friends,independent,student,medium
+False,casual drinker,formal,family,independent,student,medium
+False,abstemious,no preference,family,independent,student,medium
+True,social drinker,elegant,friends,independent,student,low
+False,social drinker,formal,family,kids,student,medium
+False,abstemious,no preference,friends,independent,professional,medium
+True,casual drinker,informal,friends,independent,student,medium
+False,abstemious,formal,family,independent,student,medium
+False,abstemious,informal,friends,independent,student,low
+False,social drinker,no preference,family,independent,working-class,medium
+,abstemious,,,,,
+False,abstemious,informal,family,independent,student,medium
+False,casual drinker,informal,friends,independent,student,low
+False,casual drinker,formal,friends,independent,student,low
+False,casual drinker,formal,friends,independent,student,low
+False,abstemious,no preference,solitary,independent,student,low
+False,casual drinker,no preference,friends,independent,student,low
+False,casual drinker,no preference,friends,independent,student,low
+,abstemious,,,,,
+True,social drinker,no preference,friends,kids,student,medium
+False,casual drinker,informal,solitary,,student,
+False,abstemious,no preference,family,independent,student,medium
+False,casual drinker,no preference,family,independent,student,medium
+False,casual drinker,informal,family,kids,student,low
+True,social drinker,no preference,friends,independent,student,low
+False,social drinker,formal,family,independent,student,low
+False,social drinker,formal,friends,independent,student,medium
