@@ -1,0 +1,3 @@
+name,type,values
+num_users,intRange,1|100
+product,intRange,14|10247
