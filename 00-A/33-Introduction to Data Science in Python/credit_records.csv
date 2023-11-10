@@ -1,0 +1,105 @@
+,suspect,location,date,item,price
+0,Fred Frequentist,Petroleum Plaza,"January 1, 2018",gas,24.95
+1,Fred Frequentist,Groceries R Us,"January 10, 2018",cheese,5.0
+2,Fred Frequentist,Petroleum Plaza,"January 10, 2018",fizzy drink,1.9
+3,Fred Frequentist,Petroleum Plaza,"January 11, 2018",carwash,13.25
+4,Fred Frequentist,Clothing Club,"January 13, 2018",pants,12.05
+5,Fred Frequentist,Clothing Club,"January 14, 2018",dress,20.15
+6,Fred Frequentist,Groceries R Us,"January 14, 2018",eggs,6.5
+7,Fred Frequentist,Groceries R Us,"January 14, 2018",eggs,6.5
+8,Fred Frequentist,Pet Paradise,"January 14, 2018",dog treats,8.75
+9,Fred Frequentist,Pet Paradise,"January 14, 2018",dog collar,12.25
+10,Fred Frequentist,Petroleum Plaza,"January 14, 2018",fizzy drink,1.9
+11,Fred Frequentist,Groceries R Us,"January 2, 2018",cheese,5.0
+12,Fred Frequentist,Groceries R Us,"January 3, 2018",cucumbers,2.05
+13,Fred Frequentist,Petroleum Plaza,"January 3, 2018",fizzy drink,1.9
+14,Fred Frequentist,Groceries R Us,"January 4, 2018",cheese,5.0
+15,Fred Frequentist,Clothing Club,"January 5, 2018",pants,12.05
+16,Fred Frequentist,Groceries R Us,"January 5, 2018",milk,4.25
+17,Fred Frequentist,Groceries R Us,"January 6, 2018",eggs,6.5
+18,Fred Frequentist,Burger Mart,"January 7, 2018",fried,1.95
+19,Fred Frequentist,Clothing Club,"January 9, 2018",pants,12.05
+20,Fred Frequentist,Groceries R Us,"January 9, 2018",cucumbers,2.05
+21,Gertrude Cox,Burger Mart,"January 10, 2018",fried,1.95
+22,Gertrude Cox,Clothing Club,"January 10, 2018",shirt,14.25
+23,Gertrude Cox,Clothing Club,"January 10, 2018",dress,20.15
+24,Gertrude Cox,Clothing Club,"January 11, 2018",shirt,14.25
+25,Gertrude Cox,Burger Mart,"January 12, 2018",burger,3.95
+26,Gertrude Cox,Clothing Club,"January 13, 2018",pants,12.05
+27,Gertrude Cox,Groceries R Us,"January 13, 2018",milk,4.25
+28,Gertrude Cox,Pet Paradise,"January 13, 2018",dog chew toy,5.95
+29,Gertrude Cox,Pet Paradise,"January 13, 2018",dog treats,8.75
+30,Gertrude Cox,Burger Mart,"January 14, 2018",fried,1.95
+31,Gertrude Cox,Groceries R Us,"January 14, 2018",cheese,5.0
+32,Gertrude Cox,Burger Mart,"January 2, 2018",cheeseburger,4.95
+33,Gertrude Cox,Burger Mart,"January 3, 2018",fried,1.95
+34,Gertrude Cox,Burger Mart,"January 3, 2018",fried,1.95
+35,Gertrude Cox,Groceries R Us,"January 3, 2018",cucumbers,2.05
+36,Gertrude Cox,Petroleum Plaza,"January 3, 2018",fizzy drink,1.9
+37,Gertrude Cox,Clothing Club,"January 5, 2018",dress,20.15
+38,Gertrude Cox,Petroleum Plaza,"January 5, 2018",gas,24.95
+39,Gertrude Cox,Burger Mart,"January 6, 2018",burger,3.95
+40,Gertrude Cox,Clothing Club,"January 6, 2018",dress,20.15
+41,Gertrude Cox,Petroleum Plaza,"January 6, 2018",gas,24.95
+42,Gertrude Cox,Burger Mart,"January 7, 2018",fried,1.95
+43,Gertrude Cox,Clothing Club,"January 7, 2018",shirt,14.25
+44,Gertrude Cox,Clothing Club,"January 7, 2018",dress,20.15
+45,Gertrude Cox,Groceries R Us,"January 9, 2018",broccoli,1.25
+46,Gertrude Cox,Groceries R Us,"January 9, 2018",cheese,5.0
+47,Gertrude Cox,Petroleum Plaza,"January 9, 2018",carwash,13.25
+48,Gertrude Cox,Petroleum Plaza,"January 9, 2018",carwash,13.25
+49,Kirstine Smith,Groceries R Us,"January 1, 2018",cucumbers,2.05
+50,Kirstine Smith,Groceries R Us,"January 1, 2018",milk,4.25
+51,Kirstine Smith,Petroleum Plaza,"January 1, 2018",carwash,13.25
+52,Kirstine Smith,Petroleum Plaza,"January 1, 2018",gas,24.95
+53,Kirstine Smith,Burger Mart,"January 10, 2018",cheeseburger,4.95
+54,Kirstine Smith,Clothing Club,"January 10, 2018",shirt,14.25
+55,Kirstine Smith,Clothing Club,"January 11, 2018",dress,20.15
+56,Kirstine Smith,Groceries R Us,"January 11, 2018",cucumbers,2.05
+57,Kirstine Smith,Petroleum Plaza,"January 11, 2018",fizzy drink,1.9
+58,Kirstine Smith,Clothing Club,"January 12, 2018",dress,20.15
+59,Kirstine Smith,Petroleum Plaza,"January 12, 2018",gas,24.95
+60,Kirstine Smith,Groceries R Us,"January 14, 2018",milk,4.25
+61,Kirstine Smith,Clothing Club,"January 2, 2018",pants,12.05
+62,Kirstine Smith,Burger Mart,"January 3, 2018",fried,1.95
+63,Kirstine Smith,Burger Mart,"January 3, 2018",cheeseburger,4.95
+64,Kirstine Smith,Groceries R Us,"January 3, 2018",broccoli,1.25
+65,Kirstine Smith,Groceries R Us,"January 3, 2018",broccoli,1.25
+66,Kirstine Smith,Groceries R Us,"January 3, 2018",milk,4.25
+67,Kirstine Smith,Groceries R Us,"January 3, 2018",cheese,5.0
+68,Kirstine Smith,Burger Mart,"January 4, 2018",cheeseburger,4.95
+69,Kirstine Smith,Clothing Club,"January 5, 2018",dress,20.15
+70,Kirstine Smith,Burger Mart,"January 6, 2018",cheeseburger,4.95
+71,Kirstine Smith,Groceries R Us,"January 7, 2018",milk,4.25
+72,Kirstine Smith,Petroleum Plaza,"January 8, 2018",gas,24.95
+73,Kirstine Smith,Clothing Club,"January 9, 2018",dress,20.15
+74,Kirstine Smith,Clothing Club,"January 9, 2018",dress,20.15
+75,Ronald Aylmer Fisher,Clothing Club,"January 1, 2018",shirt,14.25
+76,Ronald Aylmer Fisher,Clothing Club,"January 1, 2018",dress,20.15
+77,Ronald Aylmer Fisher,Groceries R Us,"January 1, 2018",broccoli,1.25
+78,Ronald Aylmer Fisher,Petroleum Plaza,"January 1, 2018",fizzy drink,1.9
+79,Ronald Aylmer Fisher,Petroleum Plaza,"January 11, 2018",fizzy drink,1.9
+80,Ronald Aylmer Fisher,Clothing Club,"January 12, 2018",shirt,14.25
+81,Ronald Aylmer Fisher,Petroleum Plaza,"January 12, 2018",carwash,13.25
+82,Ronald Aylmer Fisher,Petroleum Plaza,"January 13, 2018",gas,24.95
+83,Ronald Aylmer Fisher,Burger Mart,"January 14, 2018",fried,1.95
+84,Ronald Aylmer Fisher,Burger Mart,"January 14, 2018",cheeseburger,4.95
+85,Ronald Aylmer Fisher,Petroleum Plaza,"January 14, 2018",carwash,13.25
+86,Ronald Aylmer Fisher,Burger Mart,"January 2, 2018",fried,1.95
+87,Ronald Aylmer Fisher,Petroleum Plaza,"January 2, 2018",carwash,13.25
+88,Ronald Aylmer Fisher,Petroleum Plaza,"January 2, 2018",carwash,13.25
+89,Ronald Aylmer Fisher,Burger Mart,"January 3, 2018",burger,3.95
+90,Ronald Aylmer Fisher,Groceries R Us,"January 3, 2018",eggs,6.5
+91,Ronald Aylmer Fisher,Burger Mart,"January 4, 2018",cheeseburger,4.95
+92,Ronald Aylmer Fisher,Clothing Club,"January 4, 2018",dress,20.15
+93,Ronald Aylmer Fisher,Groceries R Us,"January 4, 2018",cucumbers,2.05
+94,Ronald Aylmer Fisher,Petroleum Plaza,"January 4, 2018",gas,24.95
+95,Ronald Aylmer Fisher,Burger Mart,"January 5, 2018",cheeseburger,4.95
+96,Ronald Aylmer Fisher,Clothing Club,"January 5, 2018",pants,12.05
+97,Ronald Aylmer Fisher,Groceries R Us,"January 5, 2018",cheese,5.0
+98,Ronald Aylmer Fisher,Burger Mart,"January 6, 2018",burger,3.95
+99,Ronald Aylmer Fisher,Burger Mart,"January 7, 2018",burger,3.95
+100,Ronald Aylmer Fisher,Burger Mart,"January 7, 2018",cheeseburger,4.95
+101,Ronald Aylmer Fisher,Burger Mart,"January 7, 2018",cheeseburger,4.95
+102,Ronald Aylmer Fisher,Petroleum Plaza,"January 8, 2018",gas,24.95
+103,Ronald Aylmer Fisher,Petroleum Plaza,"January 9, 2018",gas,24.95
