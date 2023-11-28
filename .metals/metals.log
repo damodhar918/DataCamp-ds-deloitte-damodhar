@@ -10,3 +10,6 @@ INFO: Unsupported notification method: $/setTrace
 2023.11.27 22:51:44 WARN  no build tool detected in workspace 'C:\Users\jdamodhar\Desktop\python_essential\DataCamp-ds-deloitte-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Nov 27, 2023 11:03:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.11.28 11:32:28 INFO  Shutting down server
+2023.11.28 11:32:28 INFO  shutting down Metals
+2023.11.28 11:32:28 INFO  Exiting server
