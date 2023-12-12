@@ -1,0 +1,102 @@
+symbol,name,headQuarter,dateFirstAdded,cik,founded
+AAPL,Apple Inc.,"Cupertino, CA",,0000320193,1976-04-01
+ABNB,Airbnb,"San Francisco, CA",,0001559720,2008-08-01
+ADBE,Adobe Inc.,"San Jose, CA",,0000796343,1982-12-01
+ADI,Analog Devices,"Wilmington, MA",,0000006281,1965-01-01
+ADP,ADP,"Roseland, NJ",,0000008670,1949-01-01
+ADSK,Autodesk,"San Rafael, CA",,0000769397,1982-01-30
+AEP,American Electric Power,"Columbus, OH",,0000004904,1906-01-01
+ALGN,Align Technology,"Tempe, AZ",,0001097149,1997-01-01
+AMAT,Applied Materials,"Santa Clara, CA",,0000006951,1967-11-10
+AMD,Advanced Micro Devices Inc.,"Santa Clara, CA",,0000002488,1969-05-01
+AMGN,Amgen,"Thousand Oaks, CA",,0000318154,1980-04-08
+AMZN,Amazon,"Seattle, WA",,0001018724,1994-07-05
+ANSS,Ansys,"Canonsburg, PA",,0001013462,1970-01-01
+ASML,ASML Holding,"Veldhoven, ",,0000937966,1984-01-01
+ATVI,Activision Blizzard,"Santa Monica, CA",,0000718877,2008-07-10
+AVGO,Broadcom Inc.,"San Jose, CA",,0001730168,1961-01-01
+AZN,AstraZeneca,"Cambridge, ",,0000901832,1999-04-06
+BIIB,Biogen,"Cambridge, MA",,0000875045,1978-01-01
+BKNG,Booking Holdings,"Norwalk, CT",,0001075531,1996-01-01
+BKR,Baker Hughes,"Houston, TX",,0001701605,1907-01-01
+CDNS,Cadence Design Systems,"San Jose, CA",,0000813672,1988-01-01
+CEG,Constellation Energy,"Baltimore, MD",,0001868275,1999-01-01
+CHTR,Charter Communications,"Stamford, CT",,0001091667,1993-01-01
+CMCSA,Comcast,"Philadelphia, PA",,0001166691,1963-11-13
+COST,Costco,"Issaquah, WA",,0000909832,1983-09-15
+CPRT,Copart,"Dallas, TX",,0000900075,1982-01-01
+CRWD,CrowdStrike,"Austin, TX",,0001535527,2011-01-01
+CSCO,Cisco,"San Jose, CA",,0000858877,1984-12-10
+CSGP,CoStar Group,"Washington, DC",,0001057352,1987-01-01
+CSX,CSX Corporation,"Jacksonville, FL",,0000277948,1980-11-01
+CTAS,Cintas,"Cincinnati, OH",,0000723254,1929-01-01
+CTSH,Cognizant,"Teaneck, NJ",,0001058290,1994-01-26
+DDOG,Datadog,"New York, NY",,0001561550,2010-01-01
+DLTR,Dollar Tree,"Chesapeake, VA",,0000935703,2001-01-01
+DXCM,DexCom,"San Diego, CA",,0001093557,1999-01-01
+EA,Electronic Arts,"Redwood City, CA",,0000712515,1982-05-27
+EBAY,eBay,"San Jose, CA",,0001065088,1995-09-03
+ENPH,Enphase Energy,"Fremont, CA",,0001463101,2006-01-01
+EXC,Exelon,"Chicago, IL",,0001109357,2000-10-20
+FANG,Diamondback Energy,"Midland, TX",,0001539838,2012-10-12
+FAST,Fastenal,"Winona, MN",,0000815556,1967-01-01
+FTNT,Fortinet,"Sunnyvale, CA",,0001262039,2000-01-01
+GEHC,GE HealthCare,"Chicago, IL",,0001932393,1994-09-28
+GFS,GlobalFoundries,"Malta, NY",,0001709048,2009-03-02
+GILD,Gilead Sciences,"Foster City, CA",,0000882095,1987-06-22
+GOOG,Alphabet Inc. (Class C),"Mountain View, CA",,0001652044,2015-10-02
+GOOGL,Alphabet Inc. (Class A),"Mountain View, CA",,0001652044,2015-10-02
+HON,Honeywell,"Charlotte, NC",,0000773840,1906-01-01
+IDXX,Idexx Laboratories,"Westbrook, ME",,0000874716,1983-01-01
+ILMN,"Illumina, Inc.","San Diego, CA",,0001110803,1998-01-01
+INTC,Intel,"Santa Clara, CA",,0000050863,1968-07-18
+INTU,Intuit,"Mountain View, CA",,0000896878,1983-01-01
+ISRG,Intuitive Surgical,"Sunnyvale, CA",,0001035267,1995-01-01
+JD,JD.com,"Beijing, ",,0001549802,1998-06-06
+KDP,Keurig Dr Pepper,"Burlington, MA",,0001418135,1981-01-01
+KHC,Kraft Heinz,"Pittsburgh, PA",,0001637459,2015-07-02
+KLAC,KLA Corporation,"Milpitas, CA",,0000319201,1997-01-01
+LCID,Lucid Motors,"Newark, CA",,0001811210,2007-01-01
+LRCX,Lam Research,"Fremont, CA",,0000707549,1980-01-01
+LULU,Lululemon,"Vancouver, BC",,0001397187,1998-01-01
+MAR,Marriott International,"Bethesda, MD",,0001048286,1927-03-05
+MCHP,Microchip Technology,"Chandler, AZ",,0000827054,1989-01-01
+MDLZ,Mondelēz International,"Chicago, IL",,0001103982,1923-12-10
+MELI,MercadoLibre,"Montevideo, ",,0001099590,1999-08-02
+META,Meta Platforms,"Menlo Park, CA",,0001326801,2004-01-04
+MNST,Monster Beverage,"Corona, CA",,0000865752,1935-01-01
+MRNA,Moderna,"Cambridge, MA",,0001682852,2010-09-01
+MRVL,Marvell Technology,"Wilmington, DE",,0001835632,1995-01-01
+MSFT,Microsoft,"Redmond, WA",,0000789019,1975-04-04
+MU,Micron Technology,"Boise, ID",,0000723125,1978-10-05
+NFLX,Netflix,"Los Gatos, CA",,0001065280,1997-09-29
+NVDA,Nvidia,"Santa Clara, CA",,0001045810,1993-04-05
+NXPI,NXP,"Eindhoven, ",,0001413447,2006-01-01
+ODFL,Old Dominion Freight Line,"Thomasville, NC",,0000878927,1934-01-01
+ON,Onsemi,"Phoenix, AZ",,0001097864,1999-01-01
+ORLY,O'Reilly Automotive,"Springfield, MO",,0000898173,1957-12-02
+PANW,Palo Alto Networks,"Santa Clara, CA",,0001327567,2005-01-01
+PAYX,Paychex,"Rochester, NY",,0000723531,1971-01-01
+PCAR,Paccar,"Bellevue, WA",,0000075362,1905-01-01
+PDD,PDD Holdings,"Shanghai, ",,0001737806,2015-01-01
+PEP,PepsiCo,"Purchase, NY",,0000077476,1898-08-28
+PYPL,PayPal,"San Jose, CA",,0001633917,1998-12-01
+QCOM,Qualcomm,"San Diego, CA",,0000804328,1985-07-01
+REGN,Regeneron,"Tarrytown, NY",,0000872589,1988-01-01
+ROST,Ross Stores,"Dublin, CA",,0000745732,2050-01-19
+SBUX,Starbucks,"Seattle, WA",,0000829224,1971-03-30
+SGEN,Seagen,"Bothell, WA",,0001060736,1997-01-01
+SIRI,Sirius XM,"New York, NY",,0000908937,2008-07-29
+SNPS,Synopsys,"Mountain View, CA",,0000883241,1986-01-01
+TEAM,Atlassian,"Sydney, NSW",,0001650372,2002-01-01
+TMUS,T-Mobile US,"Bellevue, WA",,0001283699,2001-09-02
+TSLA,"Tesla, Inc.","Austin, TX",,0001318605,2003-07-01
+TXN,Texas Instruments,"Dallas, TX",,0000097476,1930-01-01
+VRSK,Verisk,"Jersey City, NJ",,0001442145,1971-01-01
+VRTX,Vertex Pharmaceuticals,"Boston, MA",,0000875320,1989-01-01
+WBA,Walgreens Boots Alliance,"Deerfield, IL",,0001618921,2014-12-31
+WBD,Warner Bros. Discovery,"New York, NY",,0001437107,2022-04-08
+WDAY,"Workday, Inc.","Pleasanton, CA",,0001327811,2005-03-01
+XEL,Xcel Energy,"Minneapolis, MN",,0000072903,1909-06-17
+ZM,Zoom Video Communications,"San Jose, CA",,0001585521,2011-04-21
+ZS,Zscaler,"San Jose, CA",,0001713683,2007-01-01
