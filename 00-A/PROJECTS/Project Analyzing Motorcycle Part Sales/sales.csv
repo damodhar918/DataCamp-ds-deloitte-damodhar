@@ -1,0 +1,1001 @@
+,order_number,date,warehouse,client_type,product_line,quantity,unit_price,total,payment,payment_fee
+0,N1,2021-06-01 00:00:00+00:00,North,Retail,Breaking system,9,19.29,173.61,Cash,0.0
+1,N2,2021-06-01 00:00:00+00:00,North,Retail,Suspension & traction,8,32.93,263.45,Credit card,0.03
+2,N3,2021-06-01 00:00:00+00:00,North,Wholesale,Frame & body,16,37.84,605.44,Transfer,0.01
+3,N4,2021-06-01 00:00:00+00:00,North,Wholesale,Suspension & traction,40,37.37,1494.8,Transfer,0.01
+4,N5,2021-06-01 00:00:00+00:00,North,Retail,Frame & body,6,45.44,272.61,Credit card,0.03
+5,N6,2021-06-02 00:00:00+00:00,North,Retail,Frame & body,1,40.41,40.41,Credit card,0.03
+6,N7,2021-06-02 00:00:00+00:00,North,Retail,Miscellaneous,6,20.28,121.66,Credit card,0.03
+7,N8,2021-06-03 00:00:00+00:00,North,Retail,Electrical system,9,20.5,184.54,Credit card,0.03
+8,N9,2021-06-03 00:00:00+00:00,North,Retail,Suspension & traction,5,36.18,180.91,Credit card,0.03
+9,N10,2021-06-03 00:00:00+00:00,North,Retail,Electrical system,5,28.33,141.67,Credit card,0.03
+10,N11,2021-06-04 00:00:00+00:00,North,Retail,Suspension & traction,10,30.92,309.23,Credit card,0.03
+11,N12,2021-06-04 00:00:00+00:00,North,Retail,Electrical system,5,20.16,100.81,Credit card,0.03
+12,N13,2021-06-05 00:00:00+00:00,North,Wholesale,Electrical system,28,29.12,815.22,Transfer,0.01
+13,N14,2021-06-05 00:00:00+00:00,North,Retail,Electrical system,7,32.31,226.19,Credit card,0.03
+14,N15,2021-06-05 00:00:00+00:00,North,Wholesale,Suspension & traction,16,36.79,588.64,Transfer,0.01
+15,N16,2021-06-05 00:00:00+00:00,North,Retail,Suspension & traction,5,32.15,160.76,Credit card,0.03
+16,N17,2021-06-05 00:00:00+00:00,North,Retail,Suspension & traction,4,35.44,141.77,Credit card,0.03
+17,N18,2021-06-06 00:00:00+00:00,North,Wholesale,Suspension & traction,32,34.82,1114.13,Transfer,0.01
+18,N19,2021-06-06 00:00:00+00:00,North,Retail,Frame & body,1,35.89,35.89,Credit card,0.03
+19,N20,2021-06-06 00:00:00+00:00,North,Retail,Breaking system,5,15.16,75.78,Credit card,0.03
+20,N21,2021-06-06 00:00:00+00:00,North,Retail,Breaking system,7,15.43,108.0,Credit card,0.03
+21,N22,2021-06-06 00:00:00+00:00,North,Retail,Frame & body,4,44.1,176.39,Credit card,0.03
+22,N23,2021-06-07 00:00:00+00:00,North,Retail,Frame & body,9,43.49,391.42,Credit card,0.03
+23,N24,2021-06-07 00:00:00+00:00,North,Retail,Suspension & traction,9,28.59,257.31,Credit card,0.03
+24,N25,2021-06-07 00:00:00+00:00,North,Retail,Electrical system,4,29.62,118.48,Credit card,0.03
+25,N26,2021-06-08 00:00:00+00:00,North,Retail,Frame & body,5,39.52,197.62,Cash,0.0
+26,N27,2021-06-08 00:00:00+00:00,North,Retail,Electrical system,4,25.04,100.15,Credit card,0.03
+27,N28,2021-06-08 00:00:00+00:00,North,Retail,Electrical system,3,29.93,89.8,Credit card,0.03
+28,N29,2021-06-08 00:00:00+00:00,North,Retail,Frame & body,2,35.46,70.92,Credit card,0.03
+29,N30,2021-06-09 00:00:00+00:00,North,Retail,Breaking system,5,14.76,73.78,Credit card,0.03
+30,N31,2021-06-10 00:00:00+00:00,North,Retail,Engine,2,56.04,112.09,Credit card,0.03
+31,N32,2021-06-10 00:00:00+00:00,North,Retail,Suspension & traction,6,38.06,228.38,Cash,0.0
+32,N33,2021-06-10 00:00:00+00:00,North,Wholesale,Frame & body,28,37.0,1035.91,Transfer,0.01
+33,N34,2021-06-11 00:00:00+00:00,North,Retail,Miscellaneous,9,17.49,157.41,Cash,0.0
+34,N35,2021-06-11 00:00:00+00:00,North,Retail,Breaking system,1,23.28,23.28,Credit card,0.03
+35,N36,2021-06-11 00:00:00+00:00,North,Retail,Breaking system,5,10.63,53.16,Credit card,0.03
+36,N37,2021-06-11 00:00:00+00:00,North,Retail,Suspension & traction,6,41.09,246.52,Credit card,0.03
+37,N38,2021-06-11 00:00:00+00:00,North,Wholesale,Miscellaneous,24,21.42,514.0,Transfer,0.01
+38,N39,2021-06-11 00:00:00+00:00,North,Retail,Frame & body,4,47.06,188.22,Credit card,0.03
+39,N40,2021-06-12 00:00:00+00:00,North,Retail,Breaking system,10,13.24,132.37,Credit card,0.03
+40,N41,2021-06-12 00:00:00+00:00,North,Retail,Breaking system,9,11.67,105.02,Credit card,0.03
+41,N42,2021-06-12 00:00:00+00:00,North,Retail,Suspension & traction,10,39.78,397.78,Credit card,0.03
+42,N43,2021-06-13 00:00:00+00:00,North,Retail,Electrical system,9,23.27,209.43,Credit card,0.03
+43,N44,2021-06-13 00:00:00+00:00,North,Retail,Frame & body,7,40.93,286.51,Credit card,0.03
+44,N45,2021-06-13 00:00:00+00:00,North,Retail,Suspension & traction,3,38.5,115.5,Credit card,0.03
+45,N46,2021-06-13 00:00:00+00:00,North,Retail,Suspension & traction,6,28.91,173.46,Cash,0.0
+46,N47,2021-06-14 00:00:00+00:00,North,Retail,Breaking system,10,17.67,176.73,Credit card,0.03
+47,N48,2021-06-14 00:00:00+00:00,North,Wholesale,Breaking system,20,24.45,489.0,Transfer,0.01
+48,N49,2021-06-15 00:00:00+00:00,North,Retail,Frame & body,7,36.52,255.62,Credit card,0.03
+49,N50,2021-06-15 00:00:00+00:00,North,Retail,Electrical system,9,26.81,241.32,Credit card,0.03
+50,N51,2021-06-15 00:00:00+00:00,North,Wholesale,Suspension & traction,36,39.87,1435.26,Transfer,0.01
+51,N52,2021-06-15 00:00:00+00:00,North,Retail,Suspension & traction,6,26.9,161.43,Credit card,0.03
+52,N53,2021-06-15 00:00:00+00:00,North,Retail,Breaking system,2,22.3,44.59,Credit card,0.03
+53,N54,2021-06-16 00:00:00+00:00,North,Wholesale,Suspension & traction,40,35.59,1423.73,Transfer,0.01
+54,N55,2021-06-16 00:00:00+00:00,North,Retail,Frame & body,2,48.86,97.73,Credit card,0.03
+55,N56,2021-06-17 00:00:00+00:00,North,Retail,Miscellaneous,10,26.87,268.68,Cash,0.0
+56,N57,2021-06-17 00:00:00+00:00,North,Retail,Frame & body,3,37.62,112.85,Credit card,0.03
+57,N58,2021-06-17 00:00:00+00:00,North,Retail,Frame & body,7,43.15,302.06,Cash,0.0
+58,N59,2021-06-17 00:00:00+00:00,North,Retail,Suspension & traction,6,28.59,171.52,Credit card,0.03
+59,N60,2021-06-18 00:00:00+00:00,North,Wholesale,Frame & body,24,48.18,1156.24,Transfer,0.01
+60,N61,2021-06-18 00:00:00+00:00,North,Wholesale,Breaking system,12,23.02,276.3,Transfer,0.01
+61,N62,2021-06-18 00:00:00+00:00,North,Retail,Suspension & traction,5,29.38,146.93,Credit card,0.03
+62,N63,2021-06-18 00:00:00+00:00,North,Retail,Suspension & traction,9,28.23,254.04,Credit card,0.03
+63,N64,2021-06-19 00:00:00+00:00,North,Wholesale,Frame & body,16,44.54,712.69,Transfer,0.01
+64,N65,2021-06-19 00:00:00+00:00,North,Retail,Breaking system,6,24.85,149.1,Credit card,0.03
+65,N66,2021-06-19 00:00:00+00:00,North,Retail,Suspension & traction,10,32.61,326.13,Credit card,0.03
+66,N67,2021-06-19 00:00:00+00:00,North,Retail,Miscellaneous,8,18.98,151.84,Credit card,0.03
+67,N68,2021-06-19 00:00:00+00:00,North,Retail,Frame & body,10,44.03,440.32,Cash,0.0
+68,N69,2021-06-19 00:00:00+00:00,North,Retail,Suspension & traction,9,34.68,312.1,Credit card,0.03
+69,N70,2021-06-19 00:00:00+00:00,North,Retail,Miscellaneous,6,21.88,131.28,Credit card,0.03
+70,N71,2021-06-19 00:00:00+00:00,North,Wholesale,Suspension & traction,12,26.99,323.88,Transfer,0.01
+71,N72,2021-06-20 00:00:00+00:00,North,Wholesale,Breaking system,32,18.98,607.36,Transfer,0.01
+72,N73,2021-06-20 00:00:00+00:00,North,Retail,Suspension & traction,10,37.06,370.58,Credit card,0.03
+73,N74,2021-06-20 00:00:00+00:00,North,Wholesale,Electrical system,16,25.92,414.67,Transfer,0.01
+74,N75,2021-06-20 00:00:00+00:00,North,Retail,Frame & body,2,48.86,97.71,Cash,0.0
+75,N76,2021-06-21 00:00:00+00:00,North,Retail,Miscellaneous,3,22.45,67.34,Credit card,0.03
+76,N77,2021-06-21 00:00:00+00:00,North,Retail,Electrical system,7,25.53,178.7,Cash,0.0
+77,N78,2021-06-21 00:00:00+00:00,North,Retail,Suspension & traction,6,37.99,227.95,Credit card,0.03
+78,N79,2021-06-21 00:00:00+00:00,North,Wholesale,Breaking system,8,14.39,115.15,Transfer,0.01
+79,N80,2021-06-21 00:00:00+00:00,North,Retail,Suspension & traction,6,37.2,223.22,Credit card,0.03
+80,N81,2021-06-22 00:00:00+00:00,North,Retail,Suspension & traction,3,30.11,90.34,Credit card,0.03
+81,N82,2021-06-22 00:00:00+00:00,North,Retail,Suspension & traction,9,37.44,337.0,Credit card,0.03
+82,N83,2021-06-23 00:00:00+00:00,North,Retail,Miscellaneous,9,21.27,191.44,Credit card,0.03
+83,N84,2021-06-23 00:00:00+00:00,North,Retail,Suspension & traction,6,36.01,216.06,Credit card,0.03
+84,N85,2021-06-23 00:00:00+00:00,North,Retail,Engine,5,65.99,329.96,Cash,0.0
+85,N86,2021-06-23 00:00:00+00:00,North,Retail,Breaking system,1,13.44,13.44,Credit card,0.03
+86,N87,2021-06-23 00:00:00+00:00,North,Retail,Miscellaneous,6,29.76,178.53,Credit card,0.03
+87,N88,2021-06-23 00:00:00+00:00,North,Retail,Engine,4,59.69,238.77,Credit card,0.03
+88,N89,2021-06-23 00:00:00+00:00,North,Retail,Breaking system,5,11.32,56.62,Cash,0.0
+89,N90,2021-06-24 00:00:00+00:00,North,Retail,Breaking system,8,22.78,182.24,Credit card,0.03
+90,N91,2021-06-24 00:00:00+00:00,North,Retail,Frame & body,10,46.46,464.62,Credit card,0.03
+91,N92,2021-06-24 00:00:00+00:00,North,Wholesale,Electrical system,32,24.77,792.64,Transfer,0.01
+92,N93,2021-06-24 00:00:00+00:00,North,Retail,Electrical system,8,18.43,147.41,Credit card,0.03
+93,N94,2021-06-24 00:00:00+00:00,North,Retail,Electrical system,5,29.58,147.92,Credit card,0.03
+94,N95,2021-06-25 00:00:00+00:00,North,Wholesale,Frame & body,16,40.01,640.13,Transfer,0.01
+95,N96,2021-06-25 00:00:00+00:00,North,Retail,Suspension & traction,4,35.0,140.01,Cash,0.0
+96,N97,2021-06-25 00:00:00+00:00,North,Retail,Breaking system,1,20.68,20.68,Cash,0.0
+97,N98,2021-06-25 00:00:00+00:00,North,Retail,Suspension & traction,9,29.37,264.34,Credit card,0.03
+98,N99,2021-06-25 00:00:00+00:00,North,Wholesale,Suspension & traction,12,33.88,406.6,Transfer,0.01
+99,N100,2021-06-26 00:00:00+00:00,North,Retail,Breaking system,1,11.89,11.89,Credit card,0.03
+100,N101,2021-06-26 00:00:00+00:00,North,Retail,Breaking system,1,10.35,10.35,Credit card,0.03
+101,N102,2021-06-26 00:00:00+00:00,North,Retail,Electrical system,7,25.28,176.97,Cash,0.0
+102,N103,2021-06-27 00:00:00+00:00,North,Retail,Engine,8,59.7,477.63,Credit card,0.03
+103,N104,2021-06-27 00:00:00+00:00,North,Retail,Electrical system,1,28.88,28.88,Credit card,0.03
+104,N105,2021-06-27 00:00:00+00:00,North,Retail,Frame & body,5,38.71,193.54,Cash,0.0
+105,N106,2021-06-27 00:00:00+00:00,North,Retail,Breaking system,7,17.38,121.66,Credit card,0.03
+106,N107,2021-06-27 00:00:00+00:00,North,Retail,Miscellaneous,6,26.95,161.71,Credit card,0.03
+107,N108,2021-06-27 00:00:00+00:00,North,Retail,Suspension & traction,2,27.0,54.01,Credit card,0.03
+108,N109,2021-06-28 00:00:00+00:00,North,Retail,Miscellaneous,7,15.26,106.79,Credit card,0.03
+109,N110,2021-06-28 00:00:00+00:00,North,Retail,Suspension & traction,8,29.03,232.24,Credit card,0.03
+110,N111,2021-06-29 00:00:00+00:00,North,Retail,Frame & body,4,37.0,148.01,Credit card,0.03
+111,N112,2021-06-29 00:00:00+00:00,North,Retail,Breaking system,9,22.21,199.86,Credit card,0.03
+112,N113,2021-06-29 00:00:00+00:00,North,Wholesale,Frame & body,20,37.99,759.77,Transfer,0.01
+113,N114,2021-06-29 00:00:00+00:00,North,Wholesale,Suspension & traction,20,39.56,791.23,Transfer,0.01
+114,N115,2021-06-29 00:00:00+00:00,North,Retail,Electrical system,1,23.1,23.1,Credit card,0.03
+115,N116,2021-06-30 00:00:00+00:00,North,Wholesale,Suspension & traction,12,40.63,487.56,Transfer,0.01
+116,N117,2021-07-01 00:00:00+00:00,North,Retail,Suspension & traction,1,36.06,36.06,Credit card,0.03
+117,N118,2021-07-01 00:00:00+00:00,North,Wholesale,Suspension & traction,16,28.46,455.39,Transfer,0.01
+118,N119,2021-07-01 00:00:00+00:00,North,Retail,Breaking system,8,16.89,135.12,Cash,0.0
+119,N120,2021-07-02 00:00:00+00:00,North,Wholesale,Frame & body,28,44.92,1257.76,Transfer,0.01
+120,N121,2021-07-02 00:00:00+00:00,North,Retail,Miscellaneous,5,15.7,78.53,Credit card,0.03
+121,N122,2021-07-02 00:00:00+00:00,North,Wholesale,Engine,16,62.95,1007.15,Transfer,0.01
+122,N123,2021-07-03 00:00:00+00:00,North,Wholesale,Breaking system,40,15.52,620.87,Transfer,0.01
+123,N124,2021-07-03 00:00:00+00:00,North,Wholesale,Frame & body,32,41.92,1341.44,Transfer,0.01
+124,N125,2021-07-03 00:00:00+00:00,North,Retail,Miscellaneous,10,15.16,151.6,Cash,0.0
+125,N126,2021-07-03 00:00:00+00:00,North,Retail,Engine,1,53.06,53.06,Credit card,0.03
+126,N127,2021-07-04 00:00:00+00:00,North,Retail,Breaking system,10,19.58,195.75,Cash,0.0
+127,N128,2021-07-04 00:00:00+00:00,North,Retail,Miscellaneous,5,17.88,89.4,Credit card,0.03
+128,N129,2021-07-04 00:00:00+00:00,North,Retail,Suspension & traction,10,37.13,371.3,Credit card,0.03
+129,N130,2021-07-04 00:00:00+00:00,North,Retail,Suspension & traction,7,40.81,285.69,Credit card,0.03
+130,N131,2021-07-04 00:00:00+00:00,North,Retail,Breaking system,5,21.17,105.85,Credit card,0.03
+131,N132,2021-07-05 00:00:00+00:00,North,Wholesale,Electrical system,28,20.87,584.36,Transfer,0.01
+132,N133,2021-07-05 00:00:00+00:00,North,Retail,Breaking system,4,16.44,65.75,Credit card,0.03
+133,N134,2021-07-05 00:00:00+00:00,North,Retail,Electrical system,7,29.1,203.68,Credit card,0.03
+134,N135,2021-07-05 00:00:00+00:00,North,Retail,Frame & body,5,40.51,202.55,Credit card,0.03
+135,N136,2021-07-05 00:00:00+00:00,North,Wholesale,Suspension & traction,4,36.99,147.97,Transfer,0.01
+136,N137,2021-07-06 00:00:00+00:00,North,Wholesale,Suspension & traction,8,28.48,227.85,Transfer,0.01
+137,N138,2021-07-06 00:00:00+00:00,North,Retail,Breaking system,1,13.44,13.44,Credit card,0.03
+138,N139,2021-07-06 00:00:00+00:00,North,Retail,Miscellaneous,1,27.98,27.98,Credit card,0.03
+139,N140,2021-07-06 00:00:00+00:00,North,Retail,Frame & body,3,45.87,137.6,Cash,0.0
+140,N141,2021-07-06 00:00:00+00:00,North,Retail,Suspension & traction,6,29.32,175.91,Credit card,0.03
+141,N142,2021-07-07 00:00:00+00:00,North,Retail,Engine,5,55.95,279.73,Credit card,0.03
+142,N143,2021-07-07 00:00:00+00:00,North,Wholesale,Suspension & traction,24,31.24,749.76,Transfer,0.01
+143,N144,2021-07-08 00:00:00+00:00,North,Retail,Frame & body,1,40.93,40.93,Credit card,0.03
+144,N145,2021-07-08 00:00:00+00:00,North,Retail,Suspension & traction,8,40.52,324.16,Cash,0.0
+145,N146,2021-07-08 00:00:00+00:00,North,Retail,Engine,8,64.93,519.47,Credit card,0.03
+146,N147,2021-07-08 00:00:00+00:00,North,Retail,Miscellaneous,10,20.53,205.32,Credit card,0.03
+147,N148,2021-07-08 00:00:00+00:00,North,Retail,Suspension & traction,1,29.83,29.83,Credit card,0.03
+148,N149,2021-07-09 00:00:00+00:00,North,Retail,Breaking system,1,11.62,11.62,Cash,0.0
+149,N150,2021-07-09 00:00:00+00:00,North,Retail,Frame & body,7,47.72,334.03,Credit card,0.03
+150,N151,2021-07-09 00:00:00+00:00,North,Retail,Breaking system,10,24.83,248.3,Credit card,0.03
+151,N152,2021-07-10 00:00:00+00:00,North,Retail,Breaking system,1,13.64,13.64,Credit card,0.03
+152,N153,2021-07-10 00:00:00+00:00,North,Wholesale,Miscellaneous,36,19.17,690.24,Transfer,0.01
+153,N154,2021-07-10 00:00:00+00:00,North,Wholesale,Frame & body,40,37.04,1481.6,Transfer,0.01
+154,N155,2021-07-11 00:00:00+00:00,North,Retail,Breaking system,7,17.28,120.93,Cash,0.0
+155,N156,2021-07-11 00:00:00+00:00,North,Retail,Miscellaneous,5,20.76,103.82,Credit card,0.03
+156,N157,2021-07-11 00:00:00+00:00,North,Retail,Suspension & traction,1,37.34,37.34,Credit card,0.03
+157,N158,2021-07-11 00:00:00+00:00,North,Wholesale,Breaking system,40,13.36,534.27,Transfer,0.01
+158,N159,2021-07-12 00:00:00+00:00,North,Retail,Suspension & traction,3,38.35,115.04,Credit card,0.03
+159,N160,2021-07-12 00:00:00+00:00,North,Retail,Frame & body,4,49.13,196.51,Credit card,0.03
+160,N161,2021-07-13 00:00:00+00:00,North,Retail,Electrical system,5,24.49,122.46,Credit card,0.03
+161,N162,2021-07-13 00:00:00+00:00,North,Retail,Electrical system,6,20.9,125.43,Credit card,0.03
+162,N163,2021-07-13 00:00:00+00:00,North,Retail,Frame & body,2,45.27,90.54,Credit card,0.03
+163,N164,2021-07-14 00:00:00+00:00,North,Retail,Suspension & traction,4,30.38,121.5,Credit card,0.03
+164,N165,2021-07-14 00:00:00+00:00,North,Retail,Electrical system,1,29.47,29.47,Cash,0.0
+165,N166,2021-07-15 00:00:00+00:00,North,Retail,Frame & body,3,40.78,122.32,Credit card,0.03
+166,N167,2021-07-15 00:00:00+00:00,North,Retail,Suspension & traction,8,41.59,332.75,Credit card,0.03
+167,N168,2021-07-15 00:00:00+00:00,North,Retail,Electrical system,1,31.88,31.88,Credit card,0.03
+168,N169,2021-07-16 00:00:00+00:00,North,Retail,Miscellaneous,3,24.52,73.55,Credit card,0.03
+169,N170,2021-07-16 00:00:00+00:00,North,Retail,Suspension & traction,8,36.66,293.28,Credit card,0.03
+170,N171,2021-07-16 00:00:00+00:00,North,Retail,Breaking system,3,16.99,50.97,Credit card,0.03
+171,N172,2021-07-16 00:00:00+00:00,North,Retail,Breaking system,3,17.03,51.1,Credit card,0.03
+172,N173,2021-07-16 00:00:00+00:00,North,Retail,Electrical system,6,19.21,115.26,Credit card,0.03
+173,N174,2021-07-17 00:00:00+00:00,North,Retail,Miscellaneous,7,17.47,122.29,Credit card,0.03
+174,N175,2021-07-18 00:00:00+00:00,North,Retail,Suspension & traction,8,39.8,318.39,Credit card,0.03
+175,N176,2021-07-18 00:00:00+00:00,North,Retail,Breaking system,3,15.9,47.69,Credit card,0.03
+176,N177,2021-07-18 00:00:00+00:00,North,Retail,Electrical system,5,22.43,112.13,Credit card,0.03
+177,N178,2021-07-18 00:00:00+00:00,North,Retail,Frame & body,9,49.68,447.14,Credit card,0.03
+178,N179,2021-07-18 00:00:00+00:00,North,Wholesale,Breaking system,32,21.83,698.45,Transfer,0.01
+179,N180,2021-07-18 00:00:00+00:00,North,Retail,Electrical system,3,32.02,96.04,Credit card,0.03
+180,N181,2021-07-18 00:00:00+00:00,North,Retail,Breaking system,3,13.82,41.45,Cash,0.0
+181,N182,2021-07-19 00:00:00+00:00,North,Wholesale,Suspension & traction,24,30.74,737.68,Transfer,0.01
+182,N183,2021-07-19 00:00:00+00:00,North,Wholesale,Breaking system,28,23.06,645.59,Transfer,0.01
+183,N184,2021-07-19 00:00:00+00:00,North,Wholesale,Electrical system,4,27.08,108.32,Transfer,0.01
+184,N185,2021-07-20 00:00:00+00:00,North,Retail,Breaking system,2,24.75,49.49,Credit card,0.03
+185,N186,2021-07-20 00:00:00+00:00,North,Wholesale,Miscellaneous,36,29.78,1071.96,Transfer,0.01
+186,N187,2021-07-20 00:00:00+00:00,North,Wholesale,Electrical system,36,28.26,1017.48,Transfer,0.01
+187,N188,2021-07-20 00:00:00+00:00,North,Retail,Engine,5,58.46,292.33,Credit card,0.03
+188,N189,2021-07-21 00:00:00+00:00,North,Retail,Miscellaneous,5,28.72,143.58,Credit card,0.03
+189,N190,2021-07-21 00:00:00+00:00,North,Retail,Suspension & traction,2,31.28,62.56,Credit card,0.03
+190,N191,2021-07-21 00:00:00+00:00,North,Retail,Engine,10,55.39,553.87,Credit card,0.03
+191,N192,2021-07-22 00:00:00+00:00,North,Retail,Electrical system,3,32.44,97.32,Credit card,0.03
+192,N193,2021-07-23 00:00:00+00:00,North,Retail,Suspension & traction,10,27.9,279.03,Credit card,0.03
+193,N194,2021-07-23 00:00:00+00:00,North,Retail,Suspension & traction,1,35.97,35.97,Credit card,0.03
+194,N195,2021-07-23 00:00:00+00:00,North,Wholesale,Frame & body,40,37.42,1496.6,Transfer,0.01
+195,N196,2021-07-24 00:00:00+00:00,North,Retail,Miscellaneous,4,25.58,102.31,Credit card,0.03
+196,N197,2021-07-25 00:00:00+00:00,North,Retail,Suspension & traction,10,31.71,317.1,Credit card,0.03
+197,N198,2021-07-25 00:00:00+00:00,North,Wholesale,Suspension & traction,8,32.95,263.57,Transfer,0.01
+198,N199,2021-07-26 00:00:00+00:00,North,Retail,Miscellaneous,3,29.93,89.8,Credit card,0.03
+199,N200,2021-07-26 00:00:00+00:00,North,Retail,Electrical system,6,28.14,168.84,Credit card,0.03
+200,N201,2021-07-26 00:00:00+00:00,North,Retail,Frame & body,5,48.57,242.84,Credit card,0.03
+201,N202,2021-07-26 00:00:00+00:00,North,Retail,Frame & body,1,43.95,43.95,Credit card,0.03
+202,N203,2021-07-26 00:00:00+00:00,North,Retail,Breaking system,4,20.51,82.03,Credit card,0.03
+203,N204,2021-07-26 00:00:00+00:00,North,Retail,Electrical system,3,27.53,82.59,Credit card,0.03
+204,N205,2021-07-27 00:00:00+00:00,North,Retail,Electrical system,2,24.44,48.87,Cash,0.0
+205,N206,2021-07-27 00:00:00+00:00,North,Retail,Breaking system,1,17.58,17.58,Credit card,0.03
+206,N207,2021-07-28 00:00:00+00:00,North,Wholesale,Breaking system,8,11.91,95.31,Transfer,0.01
+207,N208,2021-07-28 00:00:00+00:00,North,Retail,Breaking system,9,21.32,191.9,Credit card,0.03
+208,N209,2021-07-28 00:00:00+00:00,North,Retail,Miscellaneous,10,25.74,257.4,Credit card,0.03
+209,N210,2021-07-28 00:00:00+00:00,North,Wholesale,Suspension & traction,28,40.43,1132.13,Transfer,0.01
+210,N211,2021-07-28 00:00:00+00:00,North,Retail,Breaking system,10,11.48,114.75,Credit card,0.03
+211,N212,2021-07-29 00:00:00+00:00,North,Wholesale,Miscellaneous,24,26.77,642.48,Transfer,0.01
+212,N213,2021-07-29 00:00:00+00:00,North,Retail,Electrical system,3,26.0,78.0,Credit card,0.03
+213,N214,2021-07-30 00:00:00+00:00,North,Retail,Suspension & traction,2,30.79,61.58,Credit card,0.03
+214,N215,2021-07-30 00:00:00+00:00,North,Retail,Electrical system,10,24.25,242.47,Credit card,0.03
+215,N216,2021-07-30 00:00:00+00:00,North,Retail,Breaking system,4,12.05,48.21,Credit card,0.03
+216,N217,2021-07-31 00:00:00+00:00,North,Retail,Frame & body,2,39.91,79.82,Credit card,0.03
+217,N218,2021-07-31 00:00:00+00:00,North,Retail,Miscellaneous,4,24.42,97.68,Credit card,0.03
+218,N219,2021-07-31 00:00:00+00:00,North,Wholesale,Frame & body,12,48.1,577.26,Transfer,0.01
+219,N220,2021-08-01 00:00:00+00:00,North,Retail,Electrical system,7,21.49,150.44,Credit card,0.03
+220,N221,2021-08-01 00:00:00+00:00,North,Retail,Breaking system,1,16.07,16.07,Credit card,0.03
+221,N222,2021-08-01 00:00:00+00:00,North,Retail,Engine,1,54.17,54.17,Credit card,0.03
+222,N223,2021-08-01 00:00:00+00:00,North,Retail,Suspension & traction,7,32.72,229.05,Credit card,0.03
+223,N224,2021-08-01 00:00:00+00:00,North,Retail,Breaking system,8,12.03,96.23,Credit card,0.03
+224,N225,2021-08-02 00:00:00+00:00,North,Retail,Suspension & traction,9,30.55,274.95,Cash,0.0
+225,N226,2021-08-02 00:00:00+00:00,North,Retail,Miscellaneous,4,25.78,103.11,Credit card,0.03
+226,N227,2021-08-02 00:00:00+00:00,North,Wholesale,Breaking system,36,16.49,593.76,Transfer,0.01
+227,N228,2021-08-02 00:00:00+00:00,North,Retail,Engine,3,61.45,184.36,Credit card,0.03
+228,N229,2021-08-02 00:00:00+00:00,North,Retail,Frame & body,7,35.39,247.73,Credit card,0.03
+229,N230,2021-08-02 00:00:00+00:00,North,Wholesale,Engine,40,58.1,2324.2,Transfer,0.01
+230,N231,2021-08-02 00:00:00+00:00,North,Retail,Electrical system,5,19.1,95.52,Credit card,0.03
+231,N232,2021-08-02 00:00:00+00:00,North,Retail,Suspension & traction,4,34.42,137.69,Credit card,0.03
+232,N233,2021-08-02 00:00:00+00:00,North,Wholesale,Electrical system,24,33.3,799.32,Transfer,0.01
+233,N234,2021-08-03 00:00:00+00:00,North,Retail,Suspension & traction,3,38.05,114.16,Cash,0.0
+234,N235,2021-08-03 00:00:00+00:00,North,Retail,Breaking system,2,21.98,43.97,Credit card,0.03
+235,N236,2021-08-04 00:00:00+00:00,North,Wholesale,Electrical system,36,20.25,729.0,Transfer,0.01
+236,N237,2021-08-04 00:00:00+00:00,North,Retail,Frame & body,6,48.69,292.13,Credit card,0.03
+237,N238,2021-08-04 00:00:00+00:00,North,Wholesale,Frame & body,40,35.97,1438.73,Transfer,0.01
+238,N239,2021-08-04 00:00:00+00:00,North,Retail,Electrical system,1,29.96,29.96,Cash,0.0
+239,N240,2021-08-05 00:00:00+00:00,North,Wholesale,Suspension & traction,16,29.72,475.49,Transfer,0.01
+240,N241,2021-08-05 00:00:00+00:00,North,Retail,Electrical system,9,19.26,173.32,Credit card,0.03
+241,N242,2021-08-05 00:00:00+00:00,North,Retail,Suspension & traction,1,41.32,41.32,Credit card,0.03
+242,N243,2021-08-06 00:00:00+00:00,North,Retail,Electrical system,1,32.86,32.86,Cash,0.0
+243,N244,2021-08-06 00:00:00+00:00,North,Retail,Suspension & traction,6,30.67,183.99,Credit card,0.03
+244,N245,2021-08-06 00:00:00+00:00,North,Wholesale,Suspension & traction,40,40.11,1604.33,Transfer,0.01
+245,N246,2021-08-06 00:00:00+00:00,North,Retail,Breaking system,5,18.63,93.14,Credit card,0.03
+246,N247,2021-08-07 00:00:00+00:00,North,Retail,Engine,4,58.62,234.47,Credit card,0.03
+247,N248,2021-08-07 00:00:00+00:00,North,Retail,Breaking system,8,24.55,196.39,Credit card,0.03
+248,N249,2021-08-07 00:00:00+00:00,North,Wholesale,Miscellaneous,20,29.96,599.27,Transfer,0.01
+249,N250,2021-08-07 00:00:00+00:00,North,Retail,Frame & body,2,43.48,86.96,Credit card,0.03
+250,N251,2021-08-07 00:00:00+00:00,North,Retail,Frame & body,10,42.04,420.43,Credit card,0.03
+251,N252,2021-08-07 00:00:00+00:00,North,Retail,Electrical system,10,25.32,253.23,Cash,0.0
+252,N253,2021-08-08 00:00:00+00:00,North,Retail,Suspension & traction,7,40.62,284.3,Credit card,0.03
+253,N254,2021-08-08 00:00:00+00:00,North,Retail,Frame & body,3,37.64,112.92,Credit card,0.03
+254,N255,2021-08-08 00:00:00+00:00,North,Wholesale,Miscellaneous,28,15.02,420.61,Transfer,0.01
+255,N256,2021-08-08 00:00:00+00:00,North,Retail,Electrical system,2,26.34,52.68,Credit card,0.03
+256,N257,2021-08-08 00:00:00+00:00,North,Retail,Frame & body,5,43.77,218.85,Credit card,0.03
+257,N258,2021-08-08 00:00:00+00:00,North,Retail,Breaking system,2,22.95,45.89,Credit card,0.03
+258,N259,2021-08-09 00:00:00+00:00,North,Retail,Suspension & traction,8,35.57,284.56,Credit card,0.03
+259,N260,2021-08-09 00:00:00+00:00,North,Retail,Suspension & traction,5,29.72,148.6,Credit card,0.03
+260,N261,2021-08-09 00:00:00+00:00,North,Wholesale,Electrical system,28,28.16,788.34,Transfer,0.01
+261,N262,2021-08-09 00:00:00+00:00,North,Retail,Electrical system,2,26.63,53.26,Credit card,0.03
+262,N263,2021-08-09 00:00:00+00:00,North,Retail,Breaking system,4,24.11,96.45,Credit card,0.03
+263,N264,2021-08-10 00:00:00+00:00,North,Wholesale,Frame & body,28,49.73,1392.53,Transfer,0.01
+264,N265,2021-08-10 00:00:00+00:00,North,Retail,Electrical system,4,24.61,98.45,Credit card,0.03
+265,N266,2021-08-11 00:00:00+00:00,North,Retail,Breaking system,5,17.38,86.89,Credit card,0.03
+266,N267,2021-08-11 00:00:00+00:00,North,Retail,Miscellaneous,7,20.96,146.76,Credit card,0.03
+267,N268,2021-08-11 00:00:00+00:00,North,Retail,Electrical system,10,19.31,193.12,Credit card,0.03
+268,N269,2021-08-12 00:00:00+00:00,North,Wholesale,Breaking system,8,12.25,97.97,Transfer,0.01
+269,N270,2021-08-12 00:00:00+00:00,North,Wholesale,Frame & body,36,49.58,1784.88,Transfer,0.01
+270,N271,2021-08-12 00:00:00+00:00,North,Retail,Electrical system,7,33.26,232.81,Credit card,0.03
+271,N272,2021-08-12 00:00:00+00:00,North,Retail,Electrical system,3,19.28,57.84,Credit card,0.03
+272,N273,2021-08-13 00:00:00+00:00,North,Retail,Electrical system,9,20.82,187.34,Cash,0.0
+273,N274,2021-08-13 00:00:00+00:00,North,Retail,Engine,2,66.1,132.19,Credit card,0.03
+274,N275,2021-08-13 00:00:00+00:00,North,Wholesale,Breaking system,40,11.61,464.4,Transfer,0.01
+275,N276,2021-08-14 00:00:00+00:00,North,Retail,Frame & body,8,45.42,363.33,Credit card,0.03
+276,N277,2021-08-14 00:00:00+00:00,North,Retail,Miscellaneous,5,23.94,119.68,Cash,0.0
+277,N278,2021-08-14 00:00:00+00:00,North,Retail,Suspension & traction,4,28.96,115.83,Credit card,0.03
+278,N279,2021-08-15 00:00:00+00:00,North,Retail,Suspension & traction,4,37.91,151.65,Credit card,0.03
+279,N280,2021-08-15 00:00:00+00:00,North,Wholesale,Frame & body,40,46.15,1846.13,Transfer,0.01
+280,N281,2021-08-16 00:00:00+00:00,North,Retail,Frame & body,5,38.88,194.38,Credit card,0.03
+281,N282,2021-08-16 00:00:00+00:00,North,Retail,Electrical system,4,25.2,100.79,Credit card,0.03
+282,N283,2021-08-17 00:00:00+00:00,North,Wholesale,Miscellaneous,8,27.22,217.79,Transfer,0.01
+283,N284,2021-08-17 00:00:00+00:00,North,Retail,Breaking system,9,21.07,189.6,Credit card,0.03
+284,N285,2021-08-17 00:00:00+00:00,North,Retail,Breaking system,1,10.92,10.92,Credit card,0.03
+285,N286,2021-08-17 00:00:00+00:00,North,Retail,Suspension & traction,4,28.88,115.53,Credit card,0.03
+286,N287,2021-08-17 00:00:00+00:00,North,Retail,Electrical system,9,29.18,262.59,Credit card,0.03
+287,N288,2021-08-17 00:00:00+00:00,North,Retail,Suspension & traction,5,30.45,152.26,Credit card,0.03
+288,N289,2021-08-18 00:00:00+00:00,North,Retail,Frame & body,9,39.79,358.08,Credit card,0.03
+289,N290,2021-08-18 00:00:00+00:00,North,Wholesale,Electrical system,24,29.08,698.04,Transfer,0.01
+290,N291,2021-08-18 00:00:00+00:00,North,Wholesale,Breaking system,4,23.6,94.41,Transfer,0.01
+291,N292,2021-08-18 00:00:00+00:00,North,Retail,Miscellaneous,2,20.54,41.08,Credit card,0.03
+292,N293,2021-08-18 00:00:00+00:00,North,Retail,Suspension & traction,9,40.66,365.94,Cash,0.0
+293,N294,2021-08-18 00:00:00+00:00,North,Retail,Frame & body,10,40.67,406.7,Cash,0.0
+294,N295,2021-08-19 00:00:00+00:00,North,Wholesale,Suspension & traction,36,30.64,1103.04,Transfer,0.01
+295,N296,2021-08-19 00:00:00+00:00,North,Retail,Suspension & traction,8,40.0,320.03,Credit card,0.03
+296,N297,2021-08-19 00:00:00+00:00,North,Retail,Suspension & traction,3,29.41,88.24,Credit card,0.03
+297,N298,2021-08-19 00:00:00+00:00,North,Retail,Electrical system,5,21.41,107.04,Credit card,0.03
+298,N299,2021-08-20 00:00:00+00:00,North,Retail,Frame & body,6,43.69,262.13,Credit card,0.03
+299,N300,2021-08-20 00:00:00+00:00,North,Retail,Breaking system,5,17.76,88.8,Credit card,0.03
+300,N301,2021-08-20 00:00:00+00:00,North,Retail,Suspension & traction,8,33.76,270.12,Cash,0.0
+301,N302,2021-08-20 00:00:00+00:00,North,Retail,Suspension & traction,1,28.05,28.05,Credit card,0.03
+302,N303,2021-08-20 00:00:00+00:00,North,Retail,Electrical system,1,32.52,32.52,Credit card,0.03
+303,N304,2021-08-20 00:00:00+00:00,North,Retail,Suspension & traction,8,33.49,267.91,Credit card,0.03
+304,N305,2021-08-20 00:00:00+00:00,North,Retail,Frame & body,5,47.65,238.26,Credit card,0.03
+305,N306,2021-08-21 00:00:00+00:00,North,Retail,Breaking system,3,17.12,51.38,Credit card,0.03
+306,N307,2021-08-21 00:00:00+00:00,North,Retail,Suspension & traction,1,29.22,29.22,Cash,0.0
+307,N308,2021-08-21 00:00:00+00:00,North,Retail,Electrical system,10,28.91,289.12,Credit card,0.03
+308,N309,2021-08-21 00:00:00+00:00,North,Retail,Breaking system,4,14.52,58.1,Credit card,0.03
+309,N310,2021-08-21 00:00:00+00:00,North,Retail,Miscellaneous,6,25.65,153.88,Credit card,0.03
+310,N311,2021-08-21 00:00:00+00:00,North,Wholesale,Frame & body,40,35.92,1436.67,Transfer,0.01
+311,N312,2021-08-22 00:00:00+00:00,North,Retail,Suspension & traction,4,35.99,143.96,Credit card,0.03
+312,N313,2021-08-22 00:00:00+00:00,North,Retail,Suspension & traction,2,36.72,73.44,Credit card,0.03
+313,N314,2021-08-23 00:00:00+00:00,North,Retail,Electrical system,7,19.89,139.21,Credit card,0.03
+314,N315,2021-08-23 00:00:00+00:00,North,Retail,Electrical system,3,19.3,57.9,Credit card,0.03
+315,N316,2021-08-23 00:00:00+00:00,North,Wholesale,Electrical system,16,22.73,363.63,Transfer,0.01
+316,N317,2021-08-23 00:00:00+00:00,North,Retail,Breaking system,4,17.57,70.26,Cash,0.0
+317,N318,2021-08-24 00:00:00+00:00,North,Wholesale,Electrical system,20,21.29,425.77,Transfer,0.01
+318,N319,2021-08-24 00:00:00+00:00,North,Wholesale,Electrical system,20,18.45,368.97,Transfer,0.01
+319,N320,2021-08-24 00:00:00+00:00,North,Wholesale,Breaking system,12,15.21,182.56,Transfer,0.01
+320,N321,2021-08-24 00:00:00+00:00,North,Wholesale,Suspension & traction,28,37.03,1036.93,Transfer,0.01
+321,N322,2021-08-24 00:00:00+00:00,North,Retail,Electrical system,4,27.38,109.51,Credit card,0.03
+322,N323,2021-08-24 00:00:00+00:00,North,Retail,Breaking system,1,17.06,17.06,Credit card,0.03
+323,N324,2021-08-25 00:00:00+00:00,North,Retail,Breaking system,3,17.06,51.17,Credit card,0.03
+324,N325,2021-08-25 00:00:00+00:00,North,Wholesale,Suspension & traction,8,32.39,259.12,Transfer,0.01
+325,N326,2021-08-25 00:00:00+00:00,North,Wholesale,Miscellaneous,28,21.56,603.77,Transfer,0.01
+326,N327,2021-08-25 00:00:00+00:00,North,Retail,Breaking system,2,21.59,43.18,Credit card,0.03
+327,N328,2021-08-25 00:00:00+00:00,North,Retail,Engine,8,55.41,443.28,Cash,0.0
+328,N329,2021-08-26 00:00:00+00:00,North,Retail,Miscellaneous,6,23.04,138.26,Cash,0.0
+329,N330,2021-08-26 00:00:00+00:00,North,Retail,Breaking system,7,20.24,141.7,Cash,0.0
+330,N331,2021-08-26 00:00:00+00:00,North,Retail,Suspension & traction,7,29.34,205.36,Credit card,0.03
+331,N332,2021-08-26 00:00:00+00:00,North,Retail,Miscellaneous,3,25.28,75.84,Cash,0.0
+332,N333,2021-08-26 00:00:00+00:00,North,Wholesale,Breaking system,20,16.89,337.8,Transfer,0.01
+333,N334,2021-08-26 00:00:00+00:00,North,Retail,Electrical system,7,18.35,128.43,Credit card,0.03
+334,N335,2021-08-27 00:00:00+00:00,North,Wholesale,Suspension & traction,12,37.07,444.84,Transfer,0.01
+335,N336,2021-08-27 00:00:00+00:00,North,Retail,Electrical system,10,28.56,285.63,Credit card,0.03
+336,N337,2021-08-28 00:00:00+00:00,North,Retail,Frame & body,7,40.04,280.27,Credit card,0.03
+337,N338,2021-08-28 00:00:00+00:00,North,Retail,Suspension & traction,6,30.74,184.42,Credit card,0.03
+338,N339,2021-08-28 00:00:00+00:00,North,Retail,Frame & body,5,48.25,241.23,Cash,0.0
+339,N340,2021-08-28 00:00:00+00:00,North,Wholesale,Electrical system,20,27.41,548.13,Transfer,0.01
+340,C1,2021-06-01 00:00:00+00:00,Central,Retail,Miscellaneous,8,16.85,134.83,Credit card,0.03
+341,C2,2021-06-01 00:00:00+00:00,Central,Retail,Engine,2,60.48,120.96,Credit card,0.03
+342,C3,2021-06-01 00:00:00+00:00,Central,Retail,Breaking system,10,22.44,224.38,Credit card,0.03
+343,C4,2021-06-01 00:00:00+00:00,Central,Retail,Frame & body,6,38.2,229.22,Credit card,0.03
+344,C5,2021-06-01 00:00:00+00:00,Central,Retail,Suspension & traction,6,37.45,224.71,Credit card,0.03
+345,C6,2021-06-02 00:00:00+00:00,Central,Retail,Suspension & traction,6,28.67,172.01,Credit card,0.03
+346,C7,2021-06-02 00:00:00+00:00,Central,Retail,Breaking system,9,15.1,135.92,Credit card,0.03
+347,C8,2021-06-02 00:00:00+00:00,Central,Retail,Electrical system,10,22.37,223.68,Credit card,0.03
+348,C9,2021-06-02 00:00:00+00:00,Central,Retail,Frame & body,6,40.77,244.63,Credit card,0.03
+349,C10,2021-06-03 00:00:00+00:00,Central,Retail,Suspension & traction,6,35.52,213.15,Credit card,0.03
+350,C11,2021-06-03 00:00:00+00:00,Central,Retail,Electrical system,1,29.31,29.31,Cash,0.0
+351,C12,2021-06-03 00:00:00+00:00,Central,Retail,Frame & body,1,48.9,48.9,Credit card,0.03
+352,C13,2021-06-03 00:00:00+00:00,Central,Retail,Electrical system,8,27.0,216.0,Credit card,0.03
+353,C14,2021-06-04 00:00:00+00:00,Central,Retail,Breaking system,4,19.78,79.14,Credit card,0.03
+354,C15,2021-06-04 00:00:00+00:00,Central,Retail,Frame & body,3,41.07,123.21,Credit card,0.03
+355,C16,2021-06-04 00:00:00+00:00,Central,Retail,Suspension & traction,1,37.03,37.03,Credit card,0.03
+356,C17,2021-06-05 00:00:00+00:00,Central,Retail,Breaking system,3,21.01,63.03,Credit card,0.03
+357,C18,2021-06-05 00:00:00+00:00,Central,Retail,Miscellaneous,1,25.2,25.2,Credit card,0.03
+358,C19,2021-06-05 00:00:00+00:00,Central,Retail,Breaking system,1,20.66,20.66,Credit card,0.03
+359,C20,2021-06-05 00:00:00+00:00,Central,Wholesale,Breaking system,4,13.65,54.6,Transfer,0.01
+360,C21,2021-06-05 00:00:00+00:00,Central,Retail,Suspension & traction,9,30.9,278.07,Credit card,0.03
+361,C22,2021-06-06 00:00:00+00:00,Central,Retail,Suspension & traction,4,35.36,141.46,Credit card,0.03
+362,C23,2021-06-06 00:00:00+00:00,Central,Wholesale,Engine,36,63.41,2282.82,Transfer,0.01
+363,C24,2021-06-06 00:00:00+00:00,Central,Retail,Breaking system,4,21.95,87.79,Credit card,0.03
+364,C25,2021-06-07 00:00:00+00:00,Central,Wholesale,Frame & body,4,44.69,178.75,Transfer,0.01
+365,C26,2021-06-07 00:00:00+00:00,Central,Retail,Miscellaneous,4,28.19,112.76,Credit card,0.03
+366,C27,2021-06-07 00:00:00+00:00,Central,Retail,Breaking system,7,16.33,114.3,Credit card,0.03
+367,C28,2021-06-07 00:00:00+00:00,Central,Wholesale,Suspension & traction,40,28.64,1145.47,Transfer,0.01
+368,C29,2021-06-07 00:00:00+00:00,Central,Retail,Breaking system,6,24.6,147.61,Credit card,0.03
+369,C30,2021-06-08 00:00:00+00:00,Central,Retail,Breaking system,10,19.21,192.05,Cash,0.0
+370,C31,2021-06-08 00:00:00+00:00,Central,Wholesale,Frame & body,8,44.14,353.11,Transfer,0.01
+371,C32,2021-06-08 00:00:00+00:00,Central,Retail,Miscellaneous,8,24.76,198.05,Credit card,0.03
+372,C33,2021-06-08 00:00:00+00:00,Central,Wholesale,Breaking system,40,20.77,830.67,Transfer,0.01
+373,C34,2021-06-08 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,18.87,754.73,Transfer,0.01
+374,C35,2021-06-08 00:00:00+00:00,Central,Retail,Suspension & traction,2,33.18,66.37,Credit card,0.03
+375,C36,2021-06-08 00:00:00+00:00,Central,Retail,Frame & body,3,41.42,124.25,Credit card,0.03
+376,C37,2021-06-09 00:00:00+00:00,Central,Wholesale,Breaking system,36,16.51,594.24,Transfer,0.01
+377,C38,2021-06-09 00:00:00+00:00,Central,Retail,Frame & body,8,35.31,282.47,Credit card,0.03
+378,C39,2021-06-09 00:00:00+00:00,Central,Retail,Breaking system,6,16.55,99.32,Credit card,0.03
+379,C40,2021-06-09 00:00:00+00:00,Central,Retail,Suspension & traction,10,27.63,276.33,Credit card,0.03
+380,C41,2021-06-09 00:00:00+00:00,Central,Wholesale,Suspension & traction,12,28.65,343.8,Transfer,0.01
+381,C42,2021-06-10 00:00:00+00:00,Central,Retail,Electrical system,4,18.96,75.85,Credit card,0.03
+382,C43,2021-06-10 00:00:00+00:00,Central,Retail,Frame & body,8,47.3,378.37,Credit card,0.03
+383,C44,2021-06-10 00:00:00+00:00,Central,Retail,Electrical system,5,29.13,145.66,Credit card,0.03
+384,C45,2021-06-10 00:00:00+00:00,Central,Retail,Breaking system,7,21.64,151.5,Credit card,0.03
+385,C46,2021-06-11 00:00:00+00:00,Central,Wholesale,Breaking system,28,14.46,404.93,Transfer,0.01
+386,C47,2021-06-12 00:00:00+00:00,Central,Retail,Electrical system,2,26.2,52.41,Credit card,0.03
+387,C48,2021-06-12 00:00:00+00:00,Central,Retail,Suspension & traction,7,33.51,234.58,Credit card,0.03
+388,C49,2021-06-12 00:00:00+00:00,Central,Retail,Electrical system,1,21.18,21.18,Cash,0.0
+389,C50,2021-06-12 00:00:00+00:00,Central,Retail,Frame & body,6,37.17,223.01,Credit card,0.03
+390,C51,2021-06-12 00:00:00+00:00,Central,Retail,Breaking system,10,22.21,222.08,Credit card,0.03
+391,C52,2021-06-12 00:00:00+00:00,Central,Retail,Suspension & traction,10,41.25,412.5,Credit card,0.03
+392,C53,2021-06-12 00:00:00+00:00,Central,Retail,Electrical system,8,31.93,255.41,Credit card,0.03
+393,C54,2021-06-13 00:00:00+00:00,Central,Retail,Frame & body,6,45.43,272.6,Credit card,0.03
+394,C55,2021-06-13 00:00:00+00:00,Central,Retail,Electrical system,10,23.61,236.08,Cash,0.0
+395,C56,2021-06-13 00:00:00+00:00,Central,Wholesale,Breaking system,8,18.31,146.48,Transfer,0.01
+396,C57,2021-06-13 00:00:00+00:00,Central,Retail,Miscellaneous,2,25.4,50.8,Credit card,0.03
+397,C58,2021-06-13 00:00:00+00:00,Central,Retail,Breaking system,1,20.72,20.72,Credit card,0.03
+398,C59,2021-06-14 00:00:00+00:00,Central,Retail,Miscellaneous,1,27.47,27.47,Credit card,0.03
+399,C60,2021-06-14 00:00:00+00:00,Central,Retail,Electrical system,7,26.9,188.31,Credit card,0.03
+400,C61,2021-06-14 00:00:00+00:00,Central,Retail,Frame & body,1,39.14,39.14,Credit card,0.03
+401,C62,2021-06-14 00:00:00+00:00,Central,Retail,Miscellaneous,5,29.95,149.74,Credit card,0.03
+402,C63,2021-06-14 00:00:00+00:00,Central,Retail,Miscellaneous,7,25.51,178.57,Credit card,0.03
+403,C64,2021-06-14 00:00:00+00:00,Central,Retail,Electrical system,1,19.62,19.62,Credit card,0.03
+404,C65,2021-06-14 00:00:00+00:00,Central,Wholesale,Electrical system,12,26.74,320.94,Transfer,0.01
+405,C66,2021-06-14 00:00:00+00:00,Central,Retail,Breaking system,4,11.35,45.39,Credit card,0.03
+406,C67,2021-06-14 00:00:00+00:00,Central,Retail,Engine,7,58.86,412.06,Credit card,0.03
+407,C68,2021-06-15 00:00:00+00:00,Central,Wholesale,Engine,28,63.54,1779.07,Transfer,0.01
+408,C69,2021-06-15 00:00:00+00:00,Central,Retail,Suspension & traction,10,41.23,412.28,Credit card,0.03
+409,C70,2021-06-15 00:00:00+00:00,Central,Retail,Breaking system,2,20.59,41.17,Credit card,0.03
+410,C71,2021-06-15 00:00:00+00:00,Central,Retail,Electrical system,5,29.28,146.38,Credit card,0.03
+411,C72,2021-06-15 00:00:00+00:00,Central,Wholesale,Frame & body,24,48.95,1174.88,Transfer,0.01
+412,C73,2021-06-15 00:00:00+00:00,Central,Retail,Engine,10,61.08,610.78,Credit card,0.03
+413,C74,2021-06-16 00:00:00+00:00,Central,Retail,Suspension & traction,10,40.93,409.3,Credit card,0.03
+414,C75,2021-06-16 00:00:00+00:00,Central,Retail,Miscellaneous,9,28.88,259.89,Credit card,0.03
+415,C76,2021-06-16 00:00:00+00:00,Central,Retail,Frame & body,7,48.46,339.2,Credit card,0.03
+416,C77,2021-06-16 00:00:00+00:00,Central,Retail,Frame & body,2,35.92,71.83,Credit card,0.03
+417,C78,2021-06-16 00:00:00+00:00,Central,Retail,Breaking system,4,14.87,59.47,Credit card,0.03
+418,C79,2021-06-16 00:00:00+00:00,Central,Retail,Frame & body,7,36.19,253.33,Cash,0.0
+419,C80,2021-06-16 00:00:00+00:00,Central,Retail,Miscellaneous,9,22.1,198.9,Credit card,0.03
+420,C81,2021-06-16 00:00:00+00:00,Central,Wholesale,Breaking system,4,16.89,67.57,Transfer,0.01
+421,C82,2021-06-17 00:00:00+00:00,Central,Retail,Suspension & traction,7,40.76,285.36,Credit card,0.03
+422,C83,2021-06-17 00:00:00+00:00,Central,Retail,Frame & body,2,40.1,80.21,Credit card,0.03
+423,C84,2021-06-17 00:00:00+00:00,Central,Wholesale,Frame & body,20,45.32,906.4,Transfer,0.01
+424,C85,2021-06-17 00:00:00+00:00,Central,Wholesale,Electrical system,8,27.14,217.09,Transfer,0.01
+425,C86,2021-06-17 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,22.98,183.85,Transfer,0.01
+426,C87,2021-06-17 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,24.28,194.2,Transfer,0.01
+427,C88,2021-06-17 00:00:00+00:00,Central,Wholesale,Suspension & traction,4,39.45,157.81,Transfer,0.01
+428,C89,2021-06-18 00:00:00+00:00,Central,Wholesale,Frame & body,36,48.44,1743.78,Transfer,0.01
+429,C90,2021-06-18 00:00:00+00:00,Central,Wholesale,Breaking system,24,11.25,269.92,Transfer,0.01
+430,C91,2021-06-18 00:00:00+00:00,Central,Retail,Miscellaneous,8,16.63,133.05,Credit card,0.03
+431,C92,2021-06-18 00:00:00+00:00,Central,Retail,Breaking system,7,18.46,129.2,Credit card,0.03
+432,C93,2021-06-19 00:00:00+00:00,Central,Retail,Suspension & traction,6,33.82,202.89,Credit card,0.03
+433,C94,2021-06-19 00:00:00+00:00,Central,Retail,Frame & body,3,43.84,131.53,Credit card,0.03
+434,C95,2021-06-19 00:00:00+00:00,Central,Retail,Electrical system,8,18.68,149.47,Credit card,0.03
+435,C96,2021-06-20 00:00:00+00:00,Central,Retail,Suspension & traction,3,31.25,93.74,Credit card,0.03
+436,C97,2021-06-20 00:00:00+00:00,Central,Wholesale,Frame & body,16,47.16,754.48,Transfer,0.01
+437,C98,2021-06-20 00:00:00+00:00,Central,Retail,Suspension & traction,2,33.91,67.81,Credit card,0.03
+438,C99,2021-06-21 00:00:00+00:00,Central,Retail,Frame & body,1,49.69,49.69,Credit card,0.03
+439,C100,2021-06-22 00:00:00+00:00,Central,Retail,Suspension & traction,5,31.56,157.82,Credit card,0.03
+440,C101,2021-06-22 00:00:00+00:00,Central,Retail,Engine,6,59.3,355.81,Cash,0.0
+441,C102,2021-06-22 00:00:00+00:00,Central,Wholesale,Engine,4,63.58,254.34,Transfer,0.01
+442,C103,2021-06-22 00:00:00+00:00,Central,Retail,Engine,5,53.4,266.98,Credit card,0.03
+443,C104,2021-06-22 00:00:00+00:00,Central,Retail,Breaking system,5,13.14,65.72,Credit card,0.03
+444,C105,2021-06-23 00:00:00+00:00,Central,Retail,Electrical system,5,18.5,92.49,Credit card,0.03
+445,C106,2021-06-23 00:00:00+00:00,Central,Wholesale,Breaking system,32,14.74,471.84,Transfer,0.01
+446,C107,2021-06-23 00:00:00+00:00,Central,Retail,Suspension & traction,6,38.96,233.77,Cash,0.0
+447,C108,2021-06-23 00:00:00+00:00,Central,Retail,Electrical system,1,30.51,30.51,Credit card,0.03
+448,C109,2021-06-23 00:00:00+00:00,Central,Retail,Breaking system,7,15.91,111.35,Credit card,0.03
+449,C110,2021-06-24 00:00:00+00:00,Central,Retail,Frame & body,6,37.18,223.08,Credit card,0.03
+450,C111,2021-06-24 00:00:00+00:00,Central,Retail,Electrical system,10,23.38,233.83,Credit card,0.03
+451,C112,2021-06-24 00:00:00+00:00,Central,Retail,Electrical system,7,29.31,205.19,Credit card,0.03
+452,C113,2021-06-24 00:00:00+00:00,Central,Retail,Suspension & traction,5,37.21,186.07,Credit card,0.03
+453,C114,2021-06-24 00:00:00+00:00,Central,Retail,Frame & body,10,46.1,461.0,Credit card,0.03
+454,C115,2021-06-24 00:00:00+00:00,Central,Retail,Breaking system,3,23.87,71.61,Credit card,0.03
+455,C116,2021-06-25 00:00:00+00:00,Central,Retail,Breaking system,2,18.49,36.99,Credit card,0.03
+456,C117,2021-06-25 00:00:00+00:00,Central,Retail,Miscellaneous,7,21.42,149.93,Cash,0.0
+457,C118,2021-06-25 00:00:00+00:00,Central,Retail,Electrical system,4,25.19,100.75,Credit card,0.03
+458,C119,2021-06-25 00:00:00+00:00,Central,Retail,Frame & body,2,36.98,73.96,Credit card,0.03
+459,C120,2021-06-25 00:00:00+00:00,Central,Retail,Engine,1,66.02,66.02,Credit card,0.03
+460,C121,2021-06-25 00:00:00+00:00,Central,Retail,Miscellaneous,5,28.06,140.3,Credit card,0.03
+461,C122,2021-06-25 00:00:00+00:00,Central,Retail,Breaking system,7,14.94,104.56,Cash,0.0
+462,C123,2021-06-25 00:00:00+00:00,Central,Retail,Electrical system,10,31.75,317.5,Credit card,0.03
+463,C124,2021-06-26 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,26.48,211.84,Transfer,0.01
+464,C125,2021-06-26 00:00:00+00:00,Central,Retail,Frame & body,5,41.92,209.62,Credit card,0.03
+465,C126,2021-06-26 00:00:00+00:00,Central,Retail,Breaking system,2,13.89,27.78,Credit card,0.03
+466,C127,2021-06-26 00:00:00+00:00,Central,Retail,Breaking system,3,24.45,73.34,Credit card,0.03
+467,C128,2021-06-26 00:00:00+00:00,Central,Wholesale,Electrical system,36,28.23,1016.22,Transfer,0.01
+468,C129,2021-06-26 00:00:00+00:00,Central,Retail,Suspension & traction,4,29.26,117.03,Credit card,0.03
+469,C130,2021-06-26 00:00:00+00:00,Central,Retail,Electrical system,7,31.18,218.26,Credit card,0.03
+470,C131,2021-06-26 00:00:00+00:00,Central,Retail,Breaking system,2,21.9,43.79,Credit card,0.03
+471,C132,2021-06-26 00:00:00+00:00,Central,Wholesale,Miscellaneous,20,26.68,533.5,Transfer,0.01
+472,C133,2021-06-26 00:00:00+00:00,Central,Retail,Breaking system,10,14.66,146.58,Credit card,0.03
+473,C134,2021-06-26 00:00:00+00:00,Central,Retail,Electrical system,3,22.3,66.9,Credit card,0.03
+474,C135,2021-06-27 00:00:00+00:00,Central,Wholesale,Breaking system,36,17.34,624.42,Transfer,0.01
+475,C136,2021-06-27 00:00:00+00:00,Central,Wholesale,Electrical system,40,24.43,977.13,Transfer,0.01
+476,C137,2021-06-27 00:00:00+00:00,Central,Retail,Engine,4,66.03,264.11,Credit card,0.03
+477,C138,2021-06-27 00:00:00+00:00,Central,Retail,Suspension & traction,10,33.17,331.68,Credit card,0.03
+478,C139,2021-06-27 00:00:00+00:00,Central,Retail,Frame & body,10,35.73,357.27,Credit card,0.03
+479,C140,2021-06-28 00:00:00+00:00,Central,Retail,Breaking system,5,12.3,61.52,Cash,0.0
+480,C141,2021-06-28 00:00:00+00:00,Central,Retail,Frame & body,9,46.34,417.1,Credit card,0.03
+481,C142,2021-06-28 00:00:00+00:00,Central,Retail,Engine,8,62.56,500.49,Credit card,0.03
+482,C143,2021-06-28 00:00:00+00:00,Central,Retail,Engine,1,53.19,53.19,Credit card,0.03
+483,C144,2021-06-28 00:00:00+00:00,Central,Retail,Electrical system,8,33.19,265.55,Credit card,0.03
+484,C145,2021-06-28 00:00:00+00:00,Central,Wholesale,Electrical system,12,31.13,373.6,Transfer,0.01
+485,C146,2021-06-28 00:00:00+00:00,Central,Retail,Suspension & traction,4,36.64,146.54,Cash,0.0
+486,C147,2021-06-28 00:00:00+00:00,Central,Wholesale,Suspension & traction,40,28.57,1142.87,Transfer,0.01
+487,C148,2021-06-28 00:00:00+00:00,Central,Retail,Electrical system,5,19.57,97.84,Credit card,0.03
+488,C149,2021-06-28 00:00:00+00:00,Central,Wholesale,Engine,36,62.02,2232.66,Transfer,0.01
+489,C150,2021-06-29 00:00:00+00:00,Central,Wholesale,Breaking system,16,13.77,220.32,Transfer,0.01
+490,C151,2021-06-29 00:00:00+00:00,Central,Retail,Engine,1,56.72,56.72,Credit card,0.03
+491,C152,2021-06-29 00:00:00+00:00,Central,Retail,Frame & body,10,37.78,377.78,Credit card,0.03
+492,C153,2021-06-29 00:00:00+00:00,Central,Retail,Miscellaneous,6,27.34,164.05,Credit card,0.03
+493,C154,2021-06-30 00:00:00+00:00,Central,Retail,Suspension & traction,8,32.07,256.56,Credit card,0.03
+494,C155,2021-06-30 00:00:00+00:00,Central,Retail,Electrical system,4,20.61,82.43,Credit card,0.03
+495,C156,2021-06-30 00:00:00+00:00,Central,Retail,Suspension & traction,1,28.83,28.83,Credit card,0.03
+496,C157,2021-06-30 00:00:00+00:00,Central,Wholesale,Suspension & traction,20,26.76,535.1,Transfer,0.01
+497,C158,2021-07-01 00:00:00+00:00,Central,Retail,Breaking system,10,18.7,186.97,Credit card,0.03
+498,C159,2021-07-01 00:00:00+00:00,Central,Retail,Suspension & traction,6,32.56,195.35,Credit card,0.03
+499,C160,2021-07-01 00:00:00+00:00,Central,Retail,Breaking system,2,19.85,39.69,Cash,0.0
+500,C161,2021-07-01 00:00:00+00:00,Central,Retail,Electrical system,10,28.69,286.88,Credit card,0.03
+501,C162,2021-07-01 00:00:00+00:00,Central,Retail,Electrical system,4,23.83,95.33,Credit card,0.03
+502,C163,2021-07-01 00:00:00+00:00,Central,Retail,Frame & body,1,45.97,45.97,Credit card,0.03
+503,C164,2021-07-01 00:00:00+00:00,Central,Retail,Frame & body,6,46.66,279.93,Credit card,0.03
+504,C165,2021-07-01 00:00:00+00:00,Central,Wholesale,Electrical system,36,31.31,1127.22,Transfer,0.01
+505,C166,2021-07-02 00:00:00+00:00,Central,Retail,Suspension & traction,9,28.84,259.6,Credit card,0.03
+506,C167,2021-07-03 00:00:00+00:00,Central,Retail,Breaking system,7,12.59,88.15,Credit card,0.03
+507,C168,2021-07-03 00:00:00+00:00,Central,Retail,Electrical system,7,21.04,147.3,Cash,0.0
+508,C169,2021-07-03 00:00:00+00:00,Central,Wholesale,Breaking system,8,22.22,177.8,Transfer,0.01
+509,C170,2021-07-03 00:00:00+00:00,Central,Wholesale,Breaking system,36,16.09,579.3,Transfer,0.01
+510,C171,2021-07-03 00:00:00+00:00,Central,Wholesale,Suspension & traction,8,34.35,274.81,Transfer,0.01
+511,C172,2021-07-03 00:00:00+00:00,Central,Retail,Suspension & traction,8,40.65,325.16,Credit card,0.03
+512,C173,2021-07-04 00:00:00+00:00,Central,Retail,Breaking system,1,17.3,17.3,Credit card,0.03
+513,C174,2021-07-04 00:00:00+00:00,Central,Wholesale,Miscellaneous,28,28.57,799.87,Transfer,0.01
+514,C175,2021-07-04 00:00:00+00:00,Central,Wholesale,Frame & body,4,45.66,182.65,Transfer,0.01
+515,C176,2021-07-04 00:00:00+00:00,Central,Retail,Frame & body,3,40.49,121.48,Credit card,0.03
+516,C177,2021-07-04 00:00:00+00:00,Central,Retail,Frame & body,9,42.51,382.6,Credit card,0.03
+517,C178,2021-07-04 00:00:00+00:00,Central,Retail,Miscellaneous,5,21.19,105.97,Credit card,0.03
+518,C179,2021-07-04 00:00:00+00:00,Central,Retail,Miscellaneous,5,20.09,100.43,Credit card,0.03
+519,C180,2021-07-05 00:00:00+00:00,Central,Retail,Miscellaneous,1,24.63,24.63,Cash,0.0
+520,C181,2021-07-05 00:00:00+00:00,Central,Retail,Suspension & traction,9,37.95,341.52,Credit card,0.03
+521,C182,2021-07-05 00:00:00+00:00,Central,Retail,Breaking system,4,12.22,48.89,Credit card,0.03
+522,C183,2021-07-05 00:00:00+00:00,Central,Retail,Breaking system,2,20.34,40.68,Credit card,0.03
+523,C184,2021-07-06 00:00:00+00:00,Central,Retail,Breaking system,2,19.89,39.78,Cash,0.0
+524,C185,2021-07-06 00:00:00+00:00,Central,Retail,Frame & body,2,36.08,72.16,Credit card,0.03
+525,C186,2021-07-06 00:00:00+00:00,Central,Retail,Miscellaneous,6,21.21,127.27,Credit card,0.03
+526,C187,2021-07-06 00:00:00+00:00,Central,Wholesale,Breaking system,36,15.47,556.92,Transfer,0.01
+527,C188,2021-07-06 00:00:00+00:00,Central,Retail,Engine,9,59.71,537.36,Credit card,0.03
+528,C189,2021-07-07 00:00:00+00:00,Central,Wholesale,Suspension & traction,24,33.41,801.8,Transfer,0.01
+529,C190,2021-07-07 00:00:00+00:00,Central,Retail,Electrical system,8,21.42,171.33,Credit card,0.03
+530,C191,2021-07-07 00:00:00+00:00,Central,Wholesale,Breaking system,16,10.75,171.95,Transfer,0.01
+531,C192,2021-07-07 00:00:00+00:00,Central,Retail,Miscellaneous,9,16.67,150.01,Credit card,0.03
+532,C193,2021-07-07 00:00:00+00:00,Central,Retail,Breaking system,4,24.5,97.99,Credit card,0.03
+533,C194,2021-07-07 00:00:00+00:00,Central,Wholesale,Electrical system,40,20.98,839.33,Transfer,0.01
+534,C195,2021-07-07 00:00:00+00:00,Central,Retail,Electrical system,10,20.49,204.92,Cash,0.0
+535,C196,2021-07-07 00:00:00+00:00,Central,Retail,Suspension & traction,5,30.97,154.84,Credit card,0.03
+536,C197,2021-07-07 00:00:00+00:00,Central,Retail,Breaking system,4,24.9,99.61,Credit card,0.03
+537,C198,2021-07-08 00:00:00+00:00,Central,Retail,Electrical system,6,24.34,146.02,Credit card,0.03
+538,C199,2021-07-08 00:00:00+00:00,Central,Retail,Breaking system,6,15.58,93.46,Credit card,0.03
+539,C200,2021-07-08 00:00:00+00:00,Central,Retail,Miscellaneous,6,16.08,96.48,Credit card,0.03
+540,C201,2021-07-08 00:00:00+00:00,Central,Retail,Electrical system,8,26.32,210.55,Credit card,0.03
+541,C202,2021-07-08 00:00:00+00:00,Central,Retail,Breaking system,5,18.95,94.76,Credit card,0.03
+542,C203,2021-07-08 00:00:00+00:00,Central,Retail,Engine,10,59.82,598.25,Cash,0.0
+543,C204,2021-07-08 00:00:00+00:00,Central,Wholesale,Electrical system,16,27.66,442.51,Transfer,0.01
+544,C205,2021-07-08 00:00:00+00:00,Central,Retail,Frame & body,1,35.03,35.03,Credit card,0.03
+545,C206,2021-07-08 00:00:00+00:00,Central,Retail,Breaking system,2,22.69,45.38,Credit card,0.03
+546,C207,2021-07-08 00:00:00+00:00,Central,Retail,Miscellaneous,10,22.39,223.93,Cash,0.0
+547,C208,2021-07-08 00:00:00+00:00,Central,Retail,Suspension & traction,7,27.78,194.45,Credit card,0.03
+548,C209,2021-07-08 00:00:00+00:00,Central,Retail,Suspension & traction,9,28.67,258.03,Credit card,0.03
+549,C210,2021-07-08 00:00:00+00:00,Central,Retail,Breaking system,8,18.4,147.21,Credit card,0.03
+550,C211,2021-07-08 00:00:00+00:00,Central,Retail,Electrical system,10,29.9,298.98,Credit card,0.03
+551,C212,2021-07-09 00:00:00+00:00,Central,Retail,Suspension & traction,6,27.73,166.37,Credit card,0.03
+552,C213,2021-07-09 00:00:00+00:00,Central,Retail,Suspension & traction,4,30.29,121.17,Cash,0.0
+553,C214,2021-07-09 00:00:00+00:00,Central,Retail,Electrical system,7,22.86,160.01,Credit card,0.03
+554,C215,2021-07-09 00:00:00+00:00,Central,Retail,Frame & body,9,48.38,435.42,Credit card,0.03
+555,C216,2021-07-09 00:00:00+00:00,Central,Retail,Breaking system,1,13.92,13.92,Cash,0.0
+556,C217,2021-07-09 00:00:00+00:00,Central,Retail,Suspension & traction,4,32.74,130.98,Cash,0.0
+557,C218,2021-07-09 00:00:00+00:00,Central,Retail,Frame & body,6,44.85,269.12,Credit card,0.03
+558,C219,2021-07-10 00:00:00+00:00,Central,Retail,Breaking system,3,17.88,53.64,Credit card,0.03
+559,C220,2021-07-10 00:00:00+00:00,Central,Retail,Breaking system,1,11.93,11.93,Credit card,0.03
+560,C221,2021-07-10 00:00:00+00:00,Central,Retail,Miscellaneous,3,16.85,50.54,Credit card,0.03
+561,C222,2021-07-10 00:00:00+00:00,Central,Retail,Suspension & traction,6,27.66,165.95,Credit card,0.03
+562,C223,2021-07-10 00:00:00+00:00,Central,Wholesale,Suspension & traction,24,35.98,863.64,Transfer,0.01
+563,C224,2021-07-10 00:00:00+00:00,Central,Wholesale,Electrical system,12,30.23,362.8,Transfer,0.01
+564,C225,2021-07-10 00:00:00+00:00,Central,Retail,Suspension & traction,4,32.66,130.65,Credit card,0.03
+565,C226,2021-07-11 00:00:00+00:00,Central,Retail,Electrical system,6,19.82,118.93,Credit card,0.03
+566,C227,2021-07-11 00:00:00+00:00,Central,Wholesale,Electrical system,12,24.68,296.18,Transfer,0.01
+567,C228,2021-07-11 00:00:00+00:00,Central,Retail,Frame & body,4,39.14,156.56,Cash,0.0
+568,C229,2021-07-11 00:00:00+00:00,Central,Retail,Electrical system,10,29.69,296.88,Credit card,0.03
+569,C230,2021-07-11 00:00:00+00:00,Central,Wholesale,Suspension & traction,28,31.15,872.25,Transfer,0.01
+570,C231,2021-07-12 00:00:00+00:00,Central,Retail,Engine,9,64.02,576.14,Credit card,0.03
+571,C232,2021-07-12 00:00:00+00:00,Central,Retail,Suspension & traction,3,37.84,113.52,Cash,0.0
+572,C233,2021-07-12 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,26.2,1048.0,Transfer,0.01
+573,C234,2021-07-13 00:00:00+00:00,Central,Retail,Breaking system,8,24.14,193.16,Credit card,0.03
+574,C235,2021-07-13 00:00:00+00:00,Central,Retail,Electrical system,1,23.25,23.25,Credit card,0.03
+575,C236,2021-07-13 00:00:00+00:00,Central,Retail,Miscellaneous,10,27.85,278.5,Credit card,0.03
+576,C237,2021-07-13 00:00:00+00:00,Central,Wholesale,Suspension & traction,40,35.06,1402.53,Transfer,0.01
+577,C238,2021-07-14 00:00:00+00:00,Central,Retail,Frame & body,4,36.7,146.79,Credit card,0.03
+578,C239,2021-07-14 00:00:00+00:00,Central,Retail,Breaking system,7,12.08,84.6,Credit card,0.03
+579,C240,2021-07-14 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,15.81,126.49,Transfer,0.01
+580,C241,2021-07-14 00:00:00+00:00,Central,Retail,Frame & body,6,35.62,213.69,Credit card,0.03
+581,C242,2021-07-14 00:00:00+00:00,Central,Retail,Breaking system,5,13.26,66.3,Credit card,0.03
+582,C243,2021-07-15 00:00:00+00:00,Central,Wholesale,Frame & body,28,43.35,1213.71,Transfer,0.01
+583,C244,2021-07-15 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,17.94,717.73,Transfer,0.01
+584,C245,2021-07-15 00:00:00+00:00,Central,Retail,Electrical system,4,29.29,117.16,Credit card,0.03
+585,C246,2021-07-16 00:00:00+00:00,Central,Retail,Miscellaneous,9,26.23,236.1,Credit card,0.03
+586,C247,2021-07-16 00:00:00+00:00,Central,Wholesale,Breaking system,40,24.88,995.33,Transfer,0.01
+587,C248,2021-07-16 00:00:00+00:00,Central,Retail,Suspension & traction,9,39.71,357.38,Credit card,0.03
+588,C249,2021-07-16 00:00:00+00:00,Central,Wholesale,Frame & body,4,48.05,192.21,Transfer,0.01
+589,C250,2021-07-16 00:00:00+00:00,Central,Retail,Engine,6,59.6,357.59,Credit card,0.03
+590,C251,2021-07-16 00:00:00+00:00,Central,Wholesale,Electrical system,28,29.48,825.53,Transfer,0.01
+591,C252,2021-07-16 00:00:00+00:00,Central,Retail,Breaking system,7,20.47,143.31,Credit card,0.03
+592,C253,2021-07-16 00:00:00+00:00,Central,Retail,Suspension & traction,5,27.96,139.81,Credit card,0.03
+593,C254,2021-07-17 00:00:00+00:00,Central,Retail,Suspension & traction,5,27.01,135.04,Credit card,0.03
+594,C255,2021-07-17 00:00:00+00:00,Central,Retail,Breaking system,4,18.36,73.45,Credit card,0.03
+595,C256,2021-07-17 00:00:00+00:00,Central,Retail,Frame & body,10,41.98,419.85,Credit card,0.03
+596,C257,2021-07-17 00:00:00+00:00,Central,Retail,Breaking system,1,23.56,23.56,Credit card,0.03
+597,C258,2021-07-17 00:00:00+00:00,Central,Retail,Breaking system,9,14.42,129.76,Credit card,0.03
+598,C259,2021-07-18 00:00:00+00:00,Central,Retail,Suspension & traction,5,26.97,134.84,Credit card,0.03
+599,C260,2021-07-18 00:00:00+00:00,Central,Retail,Electrical system,6,31.24,187.45,Credit card,0.03
+600,C261,2021-07-18 00:00:00+00:00,Central,Retail,Frame & body,9,41.11,369.99,Credit card,0.03
+601,C262,2021-07-18 00:00:00+00:00,Central,Retail,Electrical system,8,22.62,180.99,Credit card,0.03
+602,C263,2021-07-19 00:00:00+00:00,Central,Retail,Electrical system,2,19.13,38.25,Credit card,0.03
+603,C264,2021-07-19 00:00:00+00:00,Central,Wholesale,Electrical system,4,26.82,107.3,Transfer,0.01
+604,C265,2021-07-19 00:00:00+00:00,Central,Wholesale,Electrical system,16,24.01,384.19,Transfer,0.01
+605,C266,2021-07-20 00:00:00+00:00,Central,Retail,Frame & body,7,44.01,308.09,Credit card,0.03
+606,C267,2021-07-20 00:00:00+00:00,Central,Retail,Suspension & traction,8,36.98,295.85,Cash,0.0
+607,C268,2021-07-20 00:00:00+00:00,Central,Retail,Suspension & traction,9,37.94,341.44,Credit card,0.03
+608,C269,2021-07-20 00:00:00+00:00,Central,Retail,Breaking system,4,15.21,60.83,Credit card,0.03
+609,C270,2021-07-21 00:00:00+00:00,Central,Retail,Engine,5,61.11,305.57,Credit card,0.03
+610,C271,2021-07-21 00:00:00+00:00,Central,Retail,Miscellaneous,4,23.38,93.53,Cash,0.0
+611,C272,2021-07-21 00:00:00+00:00,Central,Wholesale,Frame & body,40,38.66,1546.6,Transfer,0.01
+612,C273,2021-07-21 00:00:00+00:00,Central,Retail,Miscellaneous,3,22.96,68.87,Credit card,0.03
+613,C274,2021-07-21 00:00:00+00:00,Central,Retail,Miscellaneous,10,19.98,199.83,Credit card,0.03
+614,C275,2021-07-21 00:00:00+00:00,Central,Wholesale,Breaking system,12,17.47,209.68,Transfer,0.01
+615,C276,2021-07-22 00:00:00+00:00,Central,Retail,Breaking system,4,20.64,82.55,Credit card,0.03
+616,C277,2021-07-22 00:00:00+00:00,Central,Retail,Engine,3,56.65,169.96,Credit card,0.03
+617,C278,2021-07-23 00:00:00+00:00,Central,Retail,Breaking system,5,14.96,74.79,Credit card,0.03
+618,C279,2021-07-23 00:00:00+00:00,Central,Retail,Suspension & traction,3,36.49,109.48,Credit card,0.03
+619,C280,2021-07-23 00:00:00+00:00,Central,Retail,Breaking system,9,17.39,156.46,Credit card,0.03
+620,C281,2021-07-23 00:00:00+00:00,Central,Retail,Breaking system,1,16.24,16.24,Cash,0.0
+621,C282,2021-07-23 00:00:00+00:00,Central,Retail,Miscellaneous,1,18.4,18.4,Credit card,0.03
+622,C283,2021-07-23 00:00:00+00:00,Central,Retail,Breaking system,10,11.25,112.48,Credit card,0.03
+623,C284,2021-07-23 00:00:00+00:00,Central,Wholesale,Suspension & traction,8,27.12,216.97,Transfer,0.01
+624,C285,2021-07-24 00:00:00+00:00,Central,Retail,Electrical system,8,19.16,153.28,Credit card,0.03
+625,C286,2021-07-24 00:00:00+00:00,Central,Retail,Electrical system,4,19.66,78.65,Credit card,0.03
+626,C287,2021-07-24 00:00:00+00:00,Central,Retail,Miscellaneous,3,29.8,89.4,Cash,0.0
+627,C288,2021-07-24 00:00:00+00:00,Central,Retail,Electrical system,9,29.26,263.38,Credit card,0.03
+628,C289,2021-07-25 00:00:00+00:00,Central,Retail,Frame & body,6,42.99,257.95,Credit card,0.03
+629,C290,2021-07-25 00:00:00+00:00,Central,Retail,Breaking system,2,22.3,44.59,Credit card,0.03
+630,C291,2021-07-25 00:00:00+00:00,Central,Retail,Electrical system,10,20.79,207.9,Credit card,0.03
+631,C292,2021-07-25 00:00:00+00:00,Central,Retail,Miscellaneous,8,17.74,141.91,Cash,0.0
+632,C293,2021-07-25 00:00:00+00:00,Central,Retail,Suspension & traction,10,37.26,372.6,Credit card,0.03
+633,C294,2021-07-25 00:00:00+00:00,Central,Retail,Suspension & traction,6,34.29,205.73,Credit card,0.03
+634,C295,2021-07-26 00:00:00+00:00,Central,Retail,Breaking system,5,24.02,120.11,Credit card,0.03
+635,C296,2021-07-26 00:00:00+00:00,Central,Retail,Miscellaneous,4,23.81,95.23,Credit card,0.03
+636,C297,2021-07-26 00:00:00+00:00,Central,Retail,Suspension & traction,1,31.62,31.62,Credit card,0.03
+637,C298,2021-07-26 00:00:00+00:00,Central,Retail,Suspension & traction,5,38.67,193.37,Credit card,0.03
+638,C299,2021-07-26 00:00:00+00:00,Central,Retail,Suspension & traction,10,33.8,337.98,Credit card,0.03
+639,C300,2021-07-26 00:00:00+00:00,Central,Retail,Frame & body,1,48.08,48.08,Cash,0.0
+640,C301,2021-07-26 00:00:00+00:00,Central,Wholesale,Engine,32,57.1,1827.04,Transfer,0.01
+641,C302,2021-07-26 00:00:00+00:00,Central,Retail,Miscellaneous,1,21.44,21.44,Cash,0.0
+642,C303,2021-07-26 00:00:00+00:00,Central,Retail,Electrical system,4,27.1,108.38,Credit card,0.03
+643,C304,2021-07-27 00:00:00+00:00,Central,Retail,Frame & body,1,42.41,42.41,Credit card,0.03
+644,C305,2021-07-27 00:00:00+00:00,Central,Retail,Engine,6,66.62,399.71,Credit card,0.03
+645,C306,2021-07-27 00:00:00+00:00,Central,Wholesale,Suspension & traction,24,40.12,962.8,Transfer,0.01
+646,C307,2021-07-27 00:00:00+00:00,Central,Retail,Breaking system,2,24.98,49.96,Credit card,0.03
+647,C308,2021-07-27 00:00:00+00:00,Central,Retail,Frame & body,4,49.26,197.03,Credit card,0.03
+648,C309,2021-07-27 00:00:00+00:00,Central,Wholesale,Miscellaneous,24,17.77,426.4,Transfer,0.01
+649,C310,2021-07-28 00:00:00+00:00,Central,Retail,Frame & body,5,44.54,222.72,Credit card,0.03
+650,C311,2021-07-28 00:00:00+00:00,Central,Retail,Engine,10,52.25,522.5,Credit card,0.03
+651,C312,2021-07-28 00:00:00+00:00,Central,Retail,Electrical system,6,29.5,176.99,Credit card,0.03
+652,C313,2021-07-28 00:00:00+00:00,Central,Retail,Breaking system,10,11.63,116.28,Credit card,0.03
+653,C314,2021-07-28 00:00:00+00:00,Central,Retail,Breaking system,3,17.07,51.21,Credit card,0.03
+654,C315,2021-07-28 00:00:00+00:00,Central,Wholesale,Electrical system,36,26.12,940.14,Transfer,0.01
+655,C316,2021-07-29 00:00:00+00:00,Central,Retail,Breaking system,10,15.18,151.82,Credit card,0.03
+656,C317,2021-07-29 00:00:00+00:00,Central,Retail,Suspension & traction,8,39.33,314.64,Credit card,0.03
+657,C318,2021-07-29 00:00:00+00:00,Central,Retail,Electrical system,1,26.72,26.72,Cash,0.0
+658,C319,2021-07-30 00:00:00+00:00,Central,Retail,Electrical system,3,19.14,57.41,Credit card,0.03
+659,C320,2021-07-30 00:00:00+00:00,Central,Retail,Electrical system,2,28.25,56.5,Credit card,0.03
+660,C321,2021-07-30 00:00:00+00:00,Central,Retail,Suspension & traction,3,29.58,88.75,Credit card,0.03
+661,C322,2021-07-30 00:00:00+00:00,Central,Wholesale,Breaking system,28,21.88,612.78,Transfer,0.01
+662,C323,2021-07-30 00:00:00+00:00,Central,Retail,Miscellaneous,1,22.29,22.29,Cash,0.0
+663,C324,2021-07-30 00:00:00+00:00,Central,Retail,Breaking system,9,21.42,192.82,Credit card,0.03
+664,C325,2021-07-31 00:00:00+00:00,Central,Retail,Suspension & traction,5,27.2,136.02,Cash,0.0
+665,C326,2021-07-31 00:00:00+00:00,Central,Retail,Suspension & traction,10,41.23,412.3,Credit card,0.03
+666,C327,2021-07-31 00:00:00+00:00,Central,Wholesale,Suspension & traction,36,29.5,1062.0,Transfer,0.01
+667,C328,2021-07-31 00:00:00+00:00,Central,Retail,Suspension & traction,9,39.73,357.58,Credit card,0.03
+668,C329,2021-07-31 00:00:00+00:00,Central,Retail,Engine,3,62.23,186.7,Credit card,0.03
+669,C330,2021-07-31 00:00:00+00:00,Central,Retail,Frame & body,10,42.42,424.25,Cash,0.0
+670,C331,2021-07-31 00:00:00+00:00,Central,Retail,Frame & body,2,37.55,75.1,Credit card,0.03
+671,C332,2021-07-31 00:00:00+00:00,Central,Retail,Suspension & traction,9,41.62,374.6,Credit card,0.03
+672,C333,2021-07-31 00:00:00+00:00,Central,Retail,Suspension & traction,2,31.38,62.76,Credit card,0.03
+673,C334,2021-07-31 00:00:00+00:00,Central,Wholesale,Electrical system,12,21.04,252.52,Transfer,0.01
+674,C335,2021-07-31 00:00:00+00:00,Central,Wholesale,Breaking system,20,23.75,474.97,Transfer,0.01
+675,C336,2021-07-31 00:00:00+00:00,Central,Retail,Electrical system,7,30.93,216.53,Credit card,0.03
+676,C337,2021-08-01 00:00:00+00:00,Central,Wholesale,Electrical system,40,30.33,1213.13,Transfer,0.01
+677,C338,2021-08-01 00:00:00+00:00,Central,Retail,Suspension & traction,8,30.02,240.16,Cash,0.0
+678,C339,2021-08-01 00:00:00+00:00,Central,Wholesale,Breaking system,40,20.51,820.33,Transfer,0.01
+679,C340,2021-08-01 00:00:00+00:00,Central,Retail,Suspension & traction,8,40.75,325.99,Credit card,0.03
+680,C341,2021-08-02 00:00:00+00:00,Central,Retail,Miscellaneous,8,29.78,238.27,Credit card,0.03
+681,C342,2021-08-02 00:00:00+00:00,Central,Retail,Suspension & traction,9,28.21,253.86,Credit card,0.03
+682,C343,2021-08-02 00:00:00+00:00,Central,Retail,Suspension & traction,1,30.04,30.04,Credit card,0.03
+683,C344,2021-08-03 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,26.38,1055.4,Transfer,0.01
+684,C345,2021-08-03 00:00:00+00:00,Central,Retail,Electrical system,8,20.89,167.09,Credit card,0.03
+685,C346,2021-08-03 00:00:00+00:00,Central,Retail,Suspension & traction,8,40.91,327.28,Credit card,0.03
+686,C347,2021-08-03 00:00:00+00:00,Central,Wholesale,Miscellaneous,12,21.42,257.04,Transfer,0.01
+687,C348,2021-08-03 00:00:00+00:00,Central,Wholesale,Miscellaneous,12,16.35,196.16,Transfer,0.01
+688,C349,2021-08-03 00:00:00+00:00,Central,Retail,Breaking system,5,15.7,78.52,Credit card,0.03
+689,C350,2021-08-03 00:00:00+00:00,Central,Wholesale,Engine,28,59.33,1661.19,Transfer,0.01
+690,C351,2021-08-03 00:00:00+00:00,Central,Retail,Breaking system,5,11.99,59.95,Credit card,0.03
+691,C352,2021-08-03 00:00:00+00:00,Central,Retail,Electrical system,3,31.33,93.99,Credit card,0.03
+692,C353,2021-08-03 00:00:00+00:00,Central,Retail,Suspension & traction,6,38.78,232.7,Credit card,0.03
+693,C354,2021-08-03 00:00:00+00:00,Central,Wholesale,Engine,28,60.88,1704.78,Transfer,0.01
+694,C355,2021-08-03 00:00:00+00:00,Central,Retail,Frame & body,10,44.96,449.57,Credit card,0.03
+695,C356,2021-08-03 00:00:00+00:00,Central,Wholesale,Electrical system,24,23.51,564.24,Transfer,0.01
+696,C357,2021-08-04 00:00:00+00:00,Central,Retail,Frame & body,5,44.57,222.86,Credit card,0.03
+697,C358,2021-08-04 00:00:00+00:00,Central,Retail,Miscellaneous,7,23.68,165.76,Credit card,0.03
+698,C359,2021-08-04 00:00:00+00:00,Central,Retail,Suspension & traction,5,29.73,148.65,Credit card,0.03
+699,C360,2021-08-04 00:00:00+00:00,Central,Wholesale,Frame & body,36,39.55,1423.92,Transfer,0.01
+700,C361,2021-08-04 00:00:00+00:00,Central,Wholesale,Breaking system,8,16.65,133.23,Transfer,0.01
+701,C362,2021-08-04 00:00:00+00:00,Central,Retail,Suspension & traction,8,36.98,295.81,Credit card,0.03
+702,C363,2021-08-05 00:00:00+00:00,Central,Retail,Suspension & traction,2,27.69,55.39,Cash,0.0
+703,C364,2021-08-05 00:00:00+00:00,Central,Retail,Suspension & traction,4,39.01,156.05,Credit card,0.03
+704,C365,2021-08-05 00:00:00+00:00,Central,Retail,Suspension & traction,5,33.38,166.9,Credit card,0.03
+705,C366,2021-08-05 00:00:00+00:00,Central,Retail,Suspension & traction,6,28.7,172.21,Credit card,0.03
+706,C367,2021-08-05 00:00:00+00:00,Central,Retail,Breaking system,2,24.97,49.93,Credit card,0.03
+707,C368,2021-08-05 00:00:00+00:00,Central,Retail,Breaking system,4,11.08,44.3,Credit card,0.03
+708,C369,2021-08-06 00:00:00+00:00,Central,Retail,Electrical system,6,30.22,181.3,Credit card,0.03
+709,C370,2021-08-06 00:00:00+00:00,Central,Retail,Breaking system,2,15.55,31.09,Credit card,0.03
+710,C371,2021-08-06 00:00:00+00:00,Central,Retail,Miscellaneous,5,16.27,81.36,Credit card,0.03
+711,C372,2021-08-06 00:00:00+00:00,Central,Retail,Miscellaneous,4,16.17,64.69,Credit card,0.03
+712,C373,2021-08-06 00:00:00+00:00,Central,Retail,Breaking system,10,14.59,145.92,Credit card,0.03
+713,C374,2021-08-07 00:00:00+00:00,Central,Retail,Frame & body,9,49.99,449.94,Credit card,0.03
+714,C375,2021-08-07 00:00:00+00:00,Central,Retail,Electrical system,4,32.33,129.31,Credit card,0.03
+715,C376,2021-08-07 00:00:00+00:00,Central,Wholesale,Breaking system,32,17.74,567.84,Transfer,0.01
+716,C377,2021-08-07 00:00:00+00:00,Central,Retail,Breaking system,7,24.26,169.8,Credit card,0.03
+717,C378,2021-08-07 00:00:00+00:00,Central,Wholesale,Suspension & traction,28,33.7,943.51,Transfer,0.01
+718,C379,2021-08-07 00:00:00+00:00,Central,Retail,Suspension & traction,4,29.25,117.01,Credit card,0.03
+719,C380,2021-08-07 00:00:00+00:00,Central,Retail,Breaking system,1,11.05,11.05,Credit card,0.03
+720,C381,2021-08-08 00:00:00+00:00,Central,Wholesale,Engine,40,63.66,2546.33,Transfer,0.01
+721,C382,2021-08-08 00:00:00+00:00,Central,Retail,Breaking system,3,17.89,53.67,Credit card,0.03
+722,C383,2021-08-08 00:00:00+00:00,Central,Retail,Miscellaneous,7,16.37,114.59,Credit card,0.03
+723,C384,2021-08-08 00:00:00+00:00,Central,Wholesale,Suspension & traction,36,30.96,1114.74,Transfer,0.01
+724,C385,2021-08-08 00:00:00+00:00,Central,Retail,Suspension & traction,1,29.24,29.24,Credit card,0.03
+725,C386,2021-08-09 00:00:00+00:00,Central,Retail,Miscellaneous,6,21.13,126.77,Cash,0.0
+726,C387,2021-08-09 00:00:00+00:00,Central,Retail,Frame & body,7,39.09,273.65,Credit card,0.03
+727,C388,2021-08-09 00:00:00+00:00,Central,Retail,Electrical system,5,22.42,112.08,Credit card,0.03
+728,C389,2021-08-09 00:00:00+00:00,Central,Retail,Suspension & traction,2,31.72,63.43,Credit card,0.03
+729,C390,2021-08-09 00:00:00+00:00,Central,Wholesale,Frame & body,28,38.27,1071.51,Transfer,0.01
+730,C391,2021-08-10 00:00:00+00:00,Central,Retail,Suspension & traction,7,31.79,222.52,Credit card,0.03
+731,C392,2021-08-10 00:00:00+00:00,Central,Wholesale,Engine,36,60.73,2186.16,Transfer,0.01
+732,C393,2021-08-10 00:00:00+00:00,Central,Wholesale,Electrical system,12,18.43,221.18,Transfer,0.01
+733,C394,2021-08-10 00:00:00+00:00,Central,Wholesale,Engine,4,56.5,226.01,Transfer,0.01
+734,C395,2021-08-10 00:00:00+00:00,Central,Retail,Electrical system,4,23.58,94.33,Credit card,0.03
+735,C396,2021-08-10 00:00:00+00:00,Central,Retail,Suspension & traction,4,32.7,130.81,Credit card,0.03
+736,C397,2021-08-10 00:00:00+00:00,Central,Retail,Frame & body,4,49.62,198.49,Credit card,0.03
+737,C398,2021-08-11 00:00:00+00:00,Central,Wholesale,Breaking system,16,14.72,235.47,Transfer,0.01
+738,C399,2021-08-11 00:00:00+00:00,Central,Retail,Frame & body,2,45.48,90.96,Credit card,0.03
+739,C400,2021-08-11 00:00:00+00:00,Central,Retail,Suspension & traction,8,35.65,285.21,Cash,0.0
+740,C401,2021-08-11 00:00:00+00:00,Central,Retail,Breaking system,2,14.12,28.23,Credit card,0.03
+741,C402,2021-08-11 00:00:00+00:00,Central,Retail,Engine,10,53.02,530.18,Credit card,0.03
+742,C403,2021-08-12 00:00:00+00:00,Central,Retail,Frame & body,1,40.48,40.48,Cash,0.0
+743,C404,2021-08-12 00:00:00+00:00,Central,Retail,Suspension & traction,4,30.91,123.65,Credit card,0.03
+744,C405,2021-08-12 00:00:00+00:00,Central,Wholesale,Breaking system,28,17.45,488.74,Transfer,0.01
+745,C406,2021-08-12 00:00:00+00:00,Central,Retail,Suspension & traction,6,36.68,220.11,Credit card,0.03
+746,C407,2021-08-12 00:00:00+00:00,Central,Wholesale,Frame & body,24,39.2,940.88,Transfer,0.01
+747,C408,2021-08-12 00:00:00+00:00,Central,Retail,Electrical system,9,25.22,226.98,Credit card,0.03
+748,C409,2021-08-12 00:00:00+00:00,Central,Retail,Breaking system,10,18.27,182.68,Credit card,0.03
+749,C410,2021-08-12 00:00:00+00:00,Central,Retail,Miscellaneous,8,22.2,177.61,Credit card,0.03
+750,C411,2021-08-12 00:00:00+00:00,Central,Retail,Breaking system,4,12.05,48.21,Credit card,0.03
+751,C412,2021-08-12 00:00:00+00:00,Central,Retail,Suspension & traction,9,28.6,257.37,Credit card,0.03
+752,C413,2021-08-12 00:00:00+00:00,Central,Retail,Engine,10,63.76,637.63,Credit card,0.03
+753,C414,2021-08-13 00:00:00+00:00,Central,Wholesale,Frame & body,32,48.42,1549.49,Transfer,0.01
+754,C415,2021-08-13 00:00:00+00:00,Central,Retail,Electrical system,4,26.25,104.99,Credit card,0.03
+755,C416,2021-08-13 00:00:00+00:00,Central,Retail,Electrical system,1,32.13,32.13,Cash,0.0
+756,C417,2021-08-13 00:00:00+00:00,Central,Retail,Suspension & traction,8,35.88,287.01,Credit card,0.03
+757,C418,2021-08-13 00:00:00+00:00,Central,Wholesale,Frame & body,12,49.47,593.6,Transfer,0.01
+758,C419,2021-08-13 00:00:00+00:00,Central,Retail,Breaking system,2,12.86,25.73,Credit card,0.03
+759,C420,2021-08-13 00:00:00+00:00,Central,Retail,Suspension & traction,9,27.26,245.38,Credit card,0.03
+760,C421,2021-08-13 00:00:00+00:00,Central,Retail,Engine,8,51.79,414.33,Credit card,0.03
+761,C422,2021-08-13 00:00:00+00:00,Central,Retail,Suspension & traction,2,30.53,61.07,Credit card,0.03
+762,C423,2021-08-14 00:00:00+00:00,Central,Retail,Frame & body,10,39.06,390.62,Credit card,0.03
+763,C424,2021-08-14 00:00:00+00:00,Central,Retail,Miscellaneous,9,27.97,251.7,Credit card,0.03
+764,C425,2021-08-14 00:00:00+00:00,Central,Retail,Frame & body,1,45.83,45.83,Credit card,0.03
+765,C426,2021-08-14 00:00:00+00:00,Central,Retail,Suspension & traction,4,40.94,163.76,Credit card,0.03
+766,C427,2021-08-15 00:00:00+00:00,Central,Retail,Frame & body,6,42.42,254.51,Credit card,0.03
+767,C428,2021-08-15 00:00:00+00:00,Central,Wholesale,Breaking system,40,14.2,567.93,Transfer,0.01
+768,C429,2021-08-15 00:00:00+00:00,Central,Retail,Suspension & traction,9,26.88,241.92,Credit card,0.03
+769,C430,2021-08-16 00:00:00+00:00,Central,Retail,Suspension & traction,3,32.35,97.06,Credit card,0.03
+770,C431,2021-08-16 00:00:00+00:00,Central,Wholesale,Breaking system,4,16.91,67.65,Transfer,0.01
+771,C432,2021-08-16 00:00:00+00:00,Central,Retail,Suspension & traction,3,41.62,124.85,Credit card,0.03
+772,C433,2021-08-17 00:00:00+00:00,Central,Retail,Breaking system,8,12.57,100.56,Credit card,0.03
+773,C434,2021-08-17 00:00:00+00:00,Central,Wholesale,Suspension & traction,32,39.76,1272.27,Transfer,0.01
+774,C435,2021-08-17 00:00:00+00:00,Central,Retail,Electrical system,1,24.37,24.37,Credit card,0.03
+775,C436,2021-08-17 00:00:00+00:00,Central,Wholesale,Suspension & traction,16,31.47,503.49,Transfer,0.01
+776,C437,2021-08-17 00:00:00+00:00,Central,Retail,Electrical system,7,21.72,152.07,Credit card,0.03
+777,C438,2021-08-17 00:00:00+00:00,Central,Retail,Electrical system,2,21.1,42.2,Cash,0.0
+778,C439,2021-08-18 00:00:00+00:00,Central,Retail,Frame & body,8,45.99,367.89,Credit card,0.03
+779,C440,2021-08-18 00:00:00+00:00,Central,Retail,Breaking system,2,24.88,49.75,Credit card,0.03
+780,C441,2021-08-18 00:00:00+00:00,Central,Retail,Breaking system,3,11.81,35.44,Credit card,0.03
+781,C442,2021-08-18 00:00:00+00:00,Central,Retail,Suspension & traction,5,40.39,201.97,Credit card,0.03
+782,C443,2021-08-18 00:00:00+00:00,Central,Retail,Miscellaneous,3,26.65,79.96,Credit card,0.03
+783,C444,2021-08-18 00:00:00+00:00,Central,Retail,Breaking system,1,13.94,13.94,Credit card,0.03
+784,C445,2021-08-19 00:00:00+00:00,Central,Wholesale,Frame & body,16,41.58,665.31,Transfer,0.01
+785,C446,2021-08-20 00:00:00+00:00,Central,Retail,Breaking system,4,11.31,45.25,Cash,0.0
+786,C447,2021-08-20 00:00:00+00:00,Central,Wholesale,Frame & body,32,48.07,1538.29,Transfer,0.01
+787,C448,2021-08-20 00:00:00+00:00,Central,Retail,Frame & body,6,39.5,237.02,Credit card,0.03
+788,C449,2021-08-21 00:00:00+00:00,Central,Retail,Breaking system,4,23.59,94.36,Credit card,0.03
+789,C450,2021-08-21 00:00:00+00:00,Central,Retail,Engine,8,59.15,473.23,Cash,0.0
+790,C451,2021-08-22 00:00:00+00:00,Central,Wholesale,Frame & body,20,35.78,715.67,Transfer,0.01
+791,C452,2021-08-22 00:00:00+00:00,Central,Retail,Breaking system,6,18.12,108.75,Credit card,0.03
+792,C453,2021-08-22 00:00:00+00:00,Central,Retail,Electrical system,10,27.49,274.92,Credit card,0.03
+793,C454,2021-08-22 00:00:00+00:00,Central,Retail,Frame & body,5,37.46,187.31,Credit card,0.03
+794,C455,2021-08-22 00:00:00+00:00,Central,Retail,Breaking system,9,14.0,125.97,Cash,0.0
+795,C456,2021-08-22 00:00:00+00:00,Central,Retail,Suspension & traction,6,41.65,249.92,Cash,0.0
+796,C457,2021-08-22 00:00:00+00:00,Central,Wholesale,Suspension & traction,16,38.06,609.01,Transfer,0.01
+797,C458,2021-08-22 00:00:00+00:00,Central,Retail,Electrical system,5,30.48,152.4,Credit card,0.03
+798,C459,2021-08-23 00:00:00+00:00,Central,Retail,Frame & body,2,48.88,97.77,Credit card,0.03
+799,C460,2021-08-23 00:00:00+00:00,Central,Retail,Breaking system,5,21.09,105.43,Credit card,0.03
+800,C461,2021-08-23 00:00:00+00:00,Central,Retail,Electrical system,4,25.48,101.93,Credit card,0.03
+801,C462,2021-08-24 00:00:00+00:00,Central,Wholesale,Frame & body,4,39.85,159.41,Transfer,0.01
+802,C463,2021-08-24 00:00:00+00:00,Central,Retail,Electrical system,2,23.95,47.9,Cash,0.0
+803,C464,2021-08-24 00:00:00+00:00,Central,Wholesale,Suspension & traction,36,27.05,973.74,Transfer,0.01
+804,C465,2021-08-24 00:00:00+00:00,Central,Retail,Electrical system,3,24.28,72.86,Cash,0.0
+805,C466,2021-08-25 00:00:00+00:00,Central,Retail,Frame & body,6,48.9,293.39,Credit card,0.03
+806,C467,2021-08-25 00:00:00+00:00,Central,Retail,Miscellaneous,3,18.72,56.16,Credit card,0.03
+807,C468,2021-08-25 00:00:00+00:00,Central,Wholesale,Electrical system,8,25.95,207.56,Transfer,0.01
+808,C469,2021-08-25 00:00:00+00:00,Central,Wholesale,Breaking system,12,13.19,158.3,Transfer,0.01
+809,C470,2021-08-26 00:00:00+00:00,Central,Retail,Breaking system,3,13.4,40.18,Credit card,0.03
+810,C471,2021-08-26 00:00:00+00:00,Central,Retail,Electrical system,3,24.61,73.82,Credit card,0.03
+811,C472,2021-08-26 00:00:00+00:00,Central,Retail,Miscellaneous,3,19.77,59.3,Credit card,0.03
+812,C473,2021-08-27 00:00:00+00:00,Central,Wholesale,Engine,20,60.22,1204.3,Transfer,0.01
+813,C474,2021-08-27 00:00:00+00:00,Central,Retail,Electrical system,7,28.63,200.4,Cash,0.0
+814,C475,2021-08-27 00:00:00+00:00,Central,Retail,Electrical system,10,30.39,303.9,Cash,0.0
+815,C476,2021-08-27 00:00:00+00:00,Central,Retail,Engine,5,59.14,295.72,Credit card,0.03
+816,C477,2021-08-27 00:00:00+00:00,Central,Retail,Engine,10,64.64,646.45,Credit card,0.03
+817,C478,2021-08-28 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,28.9,231.2,Transfer,0.01
+818,C479,2021-08-28 00:00:00+00:00,Central,Wholesale,Electrical system,32,28.76,920.37,Transfer,0.01
+819,C480,2021-08-28 00:00:00+00:00,Central,Retail,Electrical system,9,32.87,295.83,Credit card,0.03
+820,W1,2021-06-01 00:00:00+00:00,West,Retail,Electrical system,2,27.2,54.41,Credit card,0.03
+821,W2,2021-06-01 00:00:00+00:00,West,Wholesale,Frame & body,40,39.5,1579.87,Transfer,0.01
+822,W3,2021-06-02 00:00:00+00:00,West,Retail,Breaking system,2,24.97,49.94,Credit card,0.03
+823,W4,2021-06-02 00:00:00+00:00,West,Retail,Frame & body,8,38.61,308.89,Credit card,0.03
+824,W5,2021-06-03 00:00:00+00:00,West,Retail,Electrical system,2,20.19,40.37,Credit card,0.03
+825,W6,2021-06-04 00:00:00+00:00,West,Retail,Electrical system,9,27.78,249.98,Credit card,0.03
+826,W7,2021-06-05 00:00:00+00:00,West,Retail,Breaking system,6,12.9,77.38,Cash,0.0
+827,W8,2021-06-05 00:00:00+00:00,West,Retail,Engine,7,63.15,442.04,Credit card,0.03
+828,W9,2021-06-06 00:00:00+00:00,West,Retail,Miscellaneous,10,28.25,282.47,Credit card,0.03
+829,W10,2021-06-07 00:00:00+00:00,West,Retail,Miscellaneous,3,17.87,53.61,Cash,0.0
+830,W11,2021-06-08 00:00:00+00:00,West,Retail,Breaking system,1,10.46,10.46,Credit card,0.03
+831,W12,2021-06-08 00:00:00+00:00,West,Retail,Breaking system,9,13.62,122.6,Credit card,0.03
+832,W13,2021-06-08 00:00:00+00:00,West,Retail,Suspension & traction,4,32.56,130.25,Credit card,0.03
+833,W14,2021-06-08 00:00:00+00:00,West,Wholesale,Suspension & traction,12,34.26,411.14,Transfer,0.01
+834,W15,2021-06-08 00:00:00+00:00,West,Wholesale,Miscellaneous,12,17.39,208.62,Transfer,0.01
+835,W16,2021-06-08 00:00:00+00:00,West,Wholesale,Breaking system,36,20.48,737.28,Transfer,0.01
+836,W17,2021-06-08 00:00:00+00:00,West,Wholesale,Breaking system,28,16.98,475.49,Transfer,0.01
+837,W18,2021-06-09 00:00:00+00:00,West,Retail,Frame & body,10,49.24,492.4,Credit card,0.03
+838,W19,2021-06-09 00:00:00+00:00,West,Retail,Electrical system,7,32.73,229.1,Cash,0.0
+839,W20,2021-06-10 00:00:00+00:00,West,Wholesale,Miscellaneous,36,21.75,782.94,Transfer,0.01
+840,W21,2021-06-10 00:00:00+00:00,West,Retail,Frame & body,7,47.19,330.33,Credit card,0.03
+841,W22,2021-06-11 00:00:00+00:00,West,Retail,Frame & body,2,47.86,95.72,Credit card,0.03
+842,W23,2021-06-12 00:00:00+00:00,West,Wholesale,Frame & body,28,42.85,1199.89,Transfer,0.01
+843,W24,2021-06-13 00:00:00+00:00,West,Retail,Miscellaneous,4,16.84,67.36,Credit card,0.03
+844,W25,2021-06-14 00:00:00+00:00,West,Retail,Miscellaneous,4,18.63,74.51,Credit card,0.03
+845,W26,2021-06-14 00:00:00+00:00,West,Retail,Suspension & traction,9,32.47,292.26,Credit card,0.03
+846,W27,2021-06-15 00:00:00+00:00,West,Retail,Miscellaneous,5,16.24,81.2,Credit card,0.03
+847,W28,2021-06-15 00:00:00+00:00,West,Retail,Suspension & traction,10,34.31,343.12,Credit card,0.03
+848,W29,2021-06-18 00:00:00+00:00,West,Retail,Electrical system,1,23.24,23.24,Credit card,0.03
+849,W30,2021-06-19 00:00:00+00:00,West,Retail,Frame & body,1,46.82,46.82,Credit card,0.03
+850,W31,2021-06-19 00:00:00+00:00,West,Retail,Suspension & traction,4,34.35,137.42,Credit card,0.03
+851,W32,2021-06-19 00:00:00+00:00,West,Retail,Miscellaneous,8,20.53,164.24,Credit card,0.03
+852,W33,2021-06-19 00:00:00+00:00,West,Retail,Breaking system,4,18.26,73.06,Credit card,0.03
+853,W34,2021-06-19 00:00:00+00:00,West,Wholesale,Suspension & traction,4,39.77,159.07,Transfer,0.01
+854,W35,2021-06-20 00:00:00+00:00,West,Retail,Electrical system,7,27.35,191.43,Credit card,0.03
+855,W36,2021-06-20 00:00:00+00:00,West,Retail,Breaking system,8,10.94,87.49,Credit card,0.03
+856,W37,2021-06-20 00:00:00+00:00,West,Wholesale,Suspension & traction,32,39.88,1276.0,Transfer,0.01
+857,W38,2021-06-21 00:00:00+00:00,West,Retail,Engine,6,66.53,399.19,Cash,0.0
+858,W39,2021-06-21 00:00:00+00:00,West,Wholesale,Miscellaneous,4,24.83,99.32,Transfer,0.01
+859,W40,2021-06-23 00:00:00+00:00,West,Retail,Electrical system,7,33.33,233.29,Credit card,0.03
+860,W41,2021-06-23 00:00:00+00:00,West,Retail,Electrical system,3,30.68,92.02,Credit card,0.03
+861,W42,2021-06-23 00:00:00+00:00,West,Wholesale,Suspension & traction,16,32.9,526.35,Transfer,0.01
+862,W43,2021-06-23 00:00:00+00:00,West,Retail,Frame & body,10,48.3,483.0,Cash,0.0
+863,W44,2021-06-23 00:00:00+00:00,West,Retail,Breaking system,8,11.54,92.33,Credit card,0.03
+864,W45,2021-06-24 00:00:00+00:00,West,Retail,Suspension & traction,3,39.29,117.86,Cash,0.0
+865,W46,2021-06-24 00:00:00+00:00,West,Retail,Suspension & traction,1,35.15,35.15,Cash,0.0
+866,W47,2021-06-25 00:00:00+00:00,West,Retail,Breaking system,1,10.9,10.9,Credit card,0.03
+867,W48,2021-06-25 00:00:00+00:00,West,Retail,Breaking system,3,22.48,67.44,Credit card,0.03
+868,W49,2021-06-25 00:00:00+00:00,West,Retail,Frame & body,9,45.03,405.28,Cash,0.0
+869,W50,2021-06-25 00:00:00+00:00,West,Retail,Engine,8,55.72,445.75,Credit card,0.03
+870,W51,2021-06-26 00:00:00+00:00,West,Retail,Breaking system,1,19.16,19.16,Credit card,0.03
+871,W52,2021-06-26 00:00:00+00:00,West,Retail,Breaking system,5,14.48,72.38,Credit card,0.03
+872,W53,2021-06-26 00:00:00+00:00,West,Retail,Frame & body,10,40.81,408.1,Cash,0.0
+873,W54,2021-06-27 00:00:00+00:00,West,Retail,Miscellaneous,6,28.37,170.24,Credit card,0.03
+874,W55,2021-06-27 00:00:00+00:00,West,Retail,Suspension & traction,7,29.04,203.28,Credit card,0.03
+875,W56,2021-06-27 00:00:00+00:00,West,Retail,Suspension & traction,2,36.57,73.13,Credit card,0.03
+876,W57,2021-06-28 00:00:00+00:00,West,Retail,Electrical system,6,19.79,118.77,Credit card,0.03
+877,W58,2021-06-28 00:00:00+00:00,West,Retail,Frame & body,8,46.83,374.63,Credit card,0.03
+878,W59,2021-06-29 00:00:00+00:00,West,Retail,Breaking system,6,15.35,92.08,Credit card,0.03
+879,W60,2021-06-29 00:00:00+00:00,West,Retail,Electrical system,10,26.46,264.6,Credit card,0.03
+880,W61,2021-06-29 00:00:00+00:00,West,Retail,Frame & body,6,36.52,219.15,Credit card,0.03
+881,W62,2021-06-30 00:00:00+00:00,West,Retail,Frame & body,1,37.06,37.06,Credit card,0.03
+882,W63,2021-06-30 00:00:00+00:00,West,Wholesale,Miscellaneous,40,29.75,1190.13,Transfer,0.01
+883,W64,2021-06-30 00:00:00+00:00,West,Retail,Miscellaneous,5,29.5,147.52,Credit card,0.03
+884,W65,2021-06-30 00:00:00+00:00,West,Retail,Frame & body,2,46.07,92.13,Cash,0.0
+885,W66,2021-07-01 00:00:00+00:00,West,Wholesale,Suspension & traction,16,31.18,498.83,Transfer,0.01
+886,W67,2021-07-01 00:00:00+00:00,West,Wholesale,Breaking system,32,24.78,793.07,Transfer,0.01
+887,W68,2021-07-01 00:00:00+00:00,West,Retail,Frame & body,9,37.29,335.62,Credit card,0.03
+888,W69,2021-07-02 00:00:00+00:00,West,Wholesale,Suspension & traction,36,38.47,1384.74,Transfer,0.01
+889,W70,2021-07-02 00:00:00+00:00,West,Retail,Breaking system,6,22.91,137.48,Credit card,0.03
+890,W71,2021-07-03 00:00:00+00:00,West,Retail,Miscellaneous,8,24.33,194.63,Credit card,0.03
+891,W72,2021-07-03 00:00:00+00:00,West,Retail,Electrical system,6,22.58,135.49,Credit card,0.03
+892,W73,2021-07-03 00:00:00+00:00,West,Retail,Miscellaneous,1,19.74,19.74,Credit card,0.03
+893,W74,2021-07-03 00:00:00+00:00,West,Retail,Breaking system,4,24.24,96.95,Cash,0.0
+894,W75,2021-07-04 00:00:00+00:00,West,Retail,Frame & body,10,41.56,415.55,Credit card,0.03
+895,W76,2021-07-04 00:00:00+00:00,West,Retail,Frame & body,4,45.66,182.63,Cash,0.0
+896,W77,2021-07-05 00:00:00+00:00,West,Retail,Electrical system,9,18.97,170.77,Credit card,0.03
+897,W78,2021-07-05 00:00:00+00:00,West,Wholesale,Suspension & traction,4,27.33,109.32,Transfer,0.01
+898,W79,2021-07-06 00:00:00+00:00,West,Retail,Electrical system,10,28.1,281.0,Credit card,0.03
+899,W80,2021-07-06 00:00:00+00:00,West,Retail,Engine,3,66.37,199.1,Credit card,0.03
+900,W81,2021-07-07 00:00:00+00:00,West,Retail,Miscellaneous,1,22.07,22.07,Credit card,0.03
+901,W82,2021-07-07 00:00:00+00:00,West,Retail,Electrical system,1,31.62,31.62,Credit card,0.03
+902,W83,2021-07-08 00:00:00+00:00,West,Retail,Electrical system,8,23.48,187.81,Credit card,0.03
+903,W84,2021-07-09 00:00:00+00:00,West,Retail,Frame & body,5,44.16,220.81,Credit card,0.03
+904,W85,2021-07-09 00:00:00+00:00,West,Wholesale,Breaking system,40,24.53,981.4,Transfer,0.01
+905,W86,2021-07-10 00:00:00+00:00,West,Retail,Engine,10,64.1,641.02,Credit card,0.03
+906,W87,2021-07-10 00:00:00+00:00,West,Retail,Suspension & traction,6,27.08,162.45,Credit card,0.03
+907,W88,2021-07-10 00:00:00+00:00,West,Retail,Breaking system,7,19.04,133.3,Credit card,0.03
+908,W89,2021-07-11 00:00:00+00:00,West,Wholesale,Breaking system,28,20.56,575.77,Transfer,0.01
+909,W90,2021-07-11 00:00:00+00:00,West,Retail,Electrical system,2,22.24,44.49,Credit card,0.03
+910,W91,2021-07-12 00:00:00+00:00,West,Wholesale,Suspension & traction,20,39.45,788.97,Transfer,0.01
+911,W92,2021-07-12 00:00:00+00:00,West,Retail,Breaking system,10,18.69,186.87,Cash,0.0
+912,W93,2021-07-12 00:00:00+00:00,West,Retail,Breaking system,10,23.2,232.0,Credit card,0.03
+913,W94,2021-07-13 00:00:00+00:00,West,Wholesale,Breaking system,4,17.06,68.23,Transfer,0.01
+914,W95,2021-07-14 00:00:00+00:00,West,Wholesale,Breaking system,8,23.83,190.64,Transfer,0.01
+915,W96,2021-07-15 00:00:00+00:00,West,Wholesale,Miscellaneous,8,29.9,239.16,Transfer,0.01
+916,W97,2021-07-15 00:00:00+00:00,West,Retail,Engine,2,59.72,119.44,Credit card,0.03
+917,W98,2021-07-16 00:00:00+00:00,West,Retail,Electrical system,8,22.27,178.19,Credit card,0.03
+918,W99,2021-07-16 00:00:00+00:00,West,Wholesale,Breaking system,12,21.75,260.96,Transfer,0.01
+919,W100,2021-07-16 00:00:00+00:00,West,Retail,Suspension & traction,1,41.47,41.47,Credit card,0.03
+920,W101,2021-07-16 00:00:00+00:00,West,Retail,Electrical system,10,22.13,221.33,Credit card,0.03
+921,W102,2021-07-16 00:00:00+00:00,West,Wholesale,Electrical system,16,28.09,449.47,Transfer,0.01
+922,W103,2021-07-16 00:00:00+00:00,West,Retail,Frame & body,3,37.46,112.37,Credit card,0.03
+923,W104,2021-07-17 00:00:00+00:00,West,Retail,Breaking system,7,24.63,172.42,Credit card,0.03
+924,W105,2021-07-17 00:00:00+00:00,West,Retail,Electrical system,6,24.62,147.71,Cash,0.0
+925,W106,2021-07-18 00:00:00+00:00,West,Wholesale,Miscellaneous,20,25.23,504.63,Transfer,0.01
+926,W107,2021-07-18 00:00:00+00:00,West,Retail,Frame & body,7,44.66,312.65,Cash,0.0
+927,W108,2021-07-19 00:00:00+00:00,West,Retail,Breaking system,3,23.37,70.11,Cash,0.0
+928,W109,2021-07-20 00:00:00+00:00,West,Retail,Engine,8,53.63,429.07,Credit card,0.03
+929,W110,2021-07-21 00:00:00+00:00,West,Wholesale,Suspension & traction,4,39.38,157.51,Transfer,0.01
+930,W111,2021-07-22 00:00:00+00:00,West,Retail,Breaking system,1,10.42,10.42,Credit card,0.03
+931,W112,2021-07-22 00:00:00+00:00,West,Retail,Engine,5,63.94,319.72,Credit card,0.03
+932,W113,2021-07-22 00:00:00+00:00,West,Retail,Frame & body,2,49.8,99.6,Credit card,0.03
+933,W114,2021-07-23 00:00:00+00:00,West,Retail,Frame & body,7,49.25,344.74,Credit card,0.03
+934,W115,2021-07-24 00:00:00+00:00,West,Retail,Miscellaneous,4,26.73,106.91,Cash,0.0
+935,W116,2021-07-24 00:00:00+00:00,West,Retail,Miscellaneous,1,19.32,19.32,Credit card,0.03
+936,W117,2021-07-24 00:00:00+00:00,West,Retail,Frame & body,7,43.06,301.46,Credit card,0.03
+937,W118,2021-07-25 00:00:00+00:00,West,Retail,Electrical system,5,18.36,91.8,Cash,0.0
+938,W119,2021-07-26 00:00:00+00:00,West,Retail,Electrical system,5,31.01,155.03,Credit card,0.03
+939,W120,2021-07-27 00:00:00+00:00,West,Retail,Breaking system,9,12.16,109.4,Credit card,0.03
+940,W121,2021-07-28 00:00:00+00:00,West,Retail,Suspension & traction,1,41.62,41.62,Credit card,0.03
+941,W122,2021-07-28 00:00:00+00:00,West,Retail,Miscellaneous,8,29.08,232.63,Cash,0.0
+942,W123,2021-07-28 00:00:00+00:00,West,Retail,Engine,7,64.31,450.18,Credit card,0.03
+943,W124,2021-07-29 00:00:00+00:00,West,Wholesale,Breaking system,8,23.87,190.93,Transfer,0.01
+944,W125,2021-07-30 00:00:00+00:00,West,Wholesale,Miscellaneous,16,25.82,413.04,Transfer,0.01
+945,W126,2021-07-31 00:00:00+00:00,West,Retail,Frame & body,7,45.66,319.64,Credit card,0.03
+946,W127,2021-07-31 00:00:00+00:00,West,Retail,Frame & body,2,35.73,71.46,Credit card,0.03
+947,W128,2021-07-31 00:00:00+00:00,West,Retail,Breaking system,3,12.84,38.51,Credit card,0.03
+948,W129,2021-08-01 00:00:00+00:00,West,Wholesale,Electrical system,32,21.7,694.4,Transfer,0.01
+949,W130,2021-08-01 00:00:00+00:00,West,Retail,Electrical system,5,25.32,126.6,Credit card,0.03
+950,W131,2021-08-01 00:00:00+00:00,West,Retail,Suspension & traction,8,28.48,227.8,Credit card,0.03
+951,W132,2021-08-01 00:00:00+00:00,West,Retail,Suspension & traction,8,32.34,258.68,Cash,0.0
+952,W133,2021-08-01 00:00:00+00:00,West,Retail,Electrical system,6,24.42,146.53,Cash,0.0
+953,W134,2021-08-03 00:00:00+00:00,West,Wholesale,Suspension & traction,40,27.02,1080.8,Transfer,0.01
+954,W135,2021-08-03 00:00:00+00:00,West,Retail,Frame & body,7,47.18,330.24,Credit card,0.03
+955,W136,2021-08-04 00:00:00+00:00,West,Retail,Suspension & traction,1,31.17,31.17,Credit card,0.03
+956,W137,2021-08-06 00:00:00+00:00,West,Retail,Electrical system,6,24.38,146.26,Credit card,0.03
+957,W138,2021-08-06 00:00:00+00:00,West,Retail,Electrical system,5,19.21,96.07,Credit card,0.03
+958,W139,2021-08-07 00:00:00+00:00,West,Wholesale,Breaking system,36,24.83,893.82,Transfer,0.01
+959,W140,2021-08-07 00:00:00+00:00,West,Retail,Suspension & traction,6,37.65,225.91,Credit card,0.03
+960,W141,2021-08-07 00:00:00+00:00,West,Wholesale,Frame & body,20,41.48,829.7,Transfer,0.01
+961,W142,2021-08-08 00:00:00+00:00,West,Retail,Breaking system,3,15.96,47.87,Credit card,0.03
+962,W143,2021-08-09 00:00:00+00:00,West,Retail,Electrical system,7,21.61,151.28,Credit card,0.03
+963,W144,2021-08-10 00:00:00+00:00,West,Wholesale,Breaking system,16,24.04,384.69,Transfer,0.01
+964,W145,2021-08-10 00:00:00+00:00,West,Retail,Miscellaneous,7,22.51,157.55,Credit card,0.03
+965,W146,2021-08-10 00:00:00+00:00,West,Retail,Electrical system,6,21.77,130.61,Credit card,0.03
+966,W147,2021-08-11 00:00:00+00:00,West,Retail,Breaking system,8,10.36,82.92,Credit card,0.03
+967,W148,2021-08-11 00:00:00+00:00,West,Retail,Breaking system,1,17.75,17.75,Credit card,0.03
+968,W149,2021-08-12 00:00:00+00:00,West,Retail,Suspension & traction,7,29.64,207.49,Credit card,0.03
+969,W150,2021-08-12 00:00:00+00:00,West,Retail,Electrical system,5,31.32,156.59,Credit card,0.03
+970,W151,2021-08-12 00:00:00+00:00,West,Retail,Breaking system,10,21.26,212.6,Credit card,0.03
+971,W152,2021-08-14 00:00:00+00:00,West,Retail,Breaking system,4,24.54,98.17,Credit card,0.03
+972,W153,2021-08-14 00:00:00+00:00,West,Wholesale,Electrical system,8,19.23,153.83,Transfer,0.01
+973,W154,2021-08-15 00:00:00+00:00,West,Retail,Miscellaneous,1,17.1,17.1,Credit card,0.03
+974,W155,2021-08-16 00:00:00+00:00,West,Retail,Suspension & traction,10,29.76,297.55,Credit card,0.03
+975,W156,2021-08-16 00:00:00+00:00,West,Wholesale,Breaking system,4,23.66,94.65,Transfer,0.01
+976,W157,2021-08-17 00:00:00+00:00,West,Retail,Breaking system,10,22.1,221.05,Credit card,0.03
+977,W158,2021-08-17 00:00:00+00:00,West,Retail,Frame & body,9,49.87,448.86,Credit card,0.03
+978,W159,2021-08-17 00:00:00+00:00,West,Retail,Electrical system,4,27.69,110.76,Credit card,0.03
+979,W160,2021-08-17 00:00:00+00:00,West,Retail,Suspension & traction,4,37.59,150.35,Credit card,0.03
+980,W161,2021-08-18 00:00:00+00:00,West,Retail,Suspension & traction,6,38.86,233.17,Credit card,0.03
+981,W162,2021-08-18 00:00:00+00:00,West,Retail,Frame & body,5,37.54,187.71,Credit card,0.03
+982,W163,2021-08-18 00:00:00+00:00,West,Wholesale,Breaking system,40,20.16,806.6,Transfer,0.01
+983,W164,2021-08-19 00:00:00+00:00,West,Retail,Breaking system,6,17.88,107.29,Credit card,0.03
+984,W165,2021-08-21 00:00:00+00:00,West,Retail,Suspension & traction,7,38.53,269.73,Credit card,0.03
+985,W166,2021-08-21 00:00:00+00:00,West,Retail,Breaking system,7,19.57,136.96,Cash,0.0
+986,W167,2021-08-21 00:00:00+00:00,West,Retail,Suspension & traction,7,34.27,239.88,Credit card,0.03
+987,W168,2021-08-22 00:00:00+00:00,West,Retail,Suspension & traction,1,37.48,37.48,Credit card,0.03
+988,W169,2021-08-23 00:00:00+00:00,West,Retail,Electrical system,7,30.9,216.29,Credit card,0.03
+989,W170,2021-08-23 00:00:00+00:00,West,Retail,Miscellaneous,6,19.9,119.43,Credit card,0.03
+990,W171,2021-08-24 00:00:00+00:00,West,Retail,Suspension & traction,2,39.04,78.08,Cash,0.0
+991,W172,2021-08-24 00:00:00+00:00,West,Retail,Miscellaneous,9,16.05,144.46,Credit card,0.03
+992,W173,2021-08-24 00:00:00+00:00,West,Retail,Breaking system,1,16.45,16.45,Credit card,0.03
+993,W174,2021-08-25 00:00:00+00:00,West,Retail,Breaking system,9,24.97,224.73,Credit card,0.03
+994,W175,2021-08-26 00:00:00+00:00,West,Retail,Breaking system,4,16.63,66.53,Cash,0.0
+995,W176,2021-08-27 00:00:00+00:00,West,Retail,Electrical system,4,21.47,85.89,Credit card,0.03
+996,W177,2021-08-28 00:00:00+00:00,West,Wholesale,Miscellaneous,32,25.42,813.44,Transfer,0.01
+997,W178,2021-08-28 00:00:00+00:00,West,Retail,Electrical system,6,28.37,170.21,Credit card,0.03
+998,W179,2021-08-28 00:00:00+00:00,West,Wholesale,Breaking system,32,10.03,320.96,Transfer,0.01
+999,W180,2021-08-28 00:00:00+00:00,West,Wholesale,Electrical system,12,32.8,393.64,Transfer,0.01
