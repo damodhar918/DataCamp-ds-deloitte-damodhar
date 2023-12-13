@@ -1,0 +1,1075 @@
+,company_id,industry
+0,189,Health
+1,848,Fintech
+2,556,Internet software & services
+3,999,Internet software & services
+4,396,Fintech
+5,931,Consumer & retail
+6,364,E-commerce & direct-to-consumer
+7,732,Fintech
+8,906,Hardware
+9,72,Hardware
+10,983,Fintech
+11,898,Internet software & services
+12,844,Fintech
+13,894,Fintech
+14,813,Fintech
+15,743,Other
+16,226,Mobile & telecommunications
+17,963,Fintech
+18,764,Fintech
+19,839,E-commerce & direct-to-consumer
+20,1033,Internet software & services
+21,725,Health
+22,549,Artificial intelligence
+23,667,Mobile & telecommunications
+24,755,Fintech
+25,782,Fintech
+26,175,Fintech
+27,398,Fintech
+28,814,E-commerce & direct-to-consumer
+29,436,Artificial intelligence
+30,1046,Artificial intelligence
+31,565,Artificial intelligence
+32,781,Internet software & services
+33,997,E-commerce & direct-to-consumer
+34,194,Internet software & services
+35,249,Fintech
+36,434,Auto & transportation
+37,1035,Cybersecurity
+38,969,Data management & analytics
+39,1018,Other
+40,355,Internet software & services
+41,934,E-commerce & direct-to-consumer
+42,1054,Fintech
+43,901,Cybersecurity
+44,173,Internet software & services
+45,738,Fintech
+46,422,Internet software & services
+47,830,Health
+48,1004,Other
+49,951,E-commerce & direct-to-consumer
+50,734,Internet software & services
+51,1063,Fintech
+52,623,Fintech
+53,846,Data management & analytics
+54,823,Fintech
+55,944,Fintech
+56,1030,Artificial intelligence
+57,824,E-commerce & direct-to-consumer
+58,930,Internet software & services
+59,370,Data management & analytics
+60,618,E-commerce & direct-to-consumer
+61,456,Cybersecurity
+62,893,E-commerce & direct-to-consumer
+63,812,Other
+64,1001,Other
+65,703,Cybersecurity
+66,884,Health
+67,404,Cybersecurity
+68,952,Internet software & services
+69,625,Internet software & services
+70,971,Internet software & services
+71,796,Edtech
+72,909,Fintech
+73,587,Artificial intelligence
+74,273,Health
+75,771,Internet software & services
+76,758,Internet software & services
+77,652,Internet software & services
+78,8,Consumer & retail
+79,760,Mobile & telecommunications
+80,394,Health
+81,393,Fintech
+82,870,Other
+83,804,Artificial intelligence
+84,1041,Internet software & services
+85,443,Artificial intelligence
+86,978,Internet software & services
+87,612,Auto & transportation
+88,714,Mobile & telecommunications
+89,925,Fintech
+90,421,Internet software & services
+91,449,Fintech
+92,1022,"Supply chain, logistics, & delivery"
+93,240,Other
+94,644,"Supply chain, logistics, & delivery"
+95,718,Fintech
+96,920,Fintech
+97,1048,Health
+98,1024,Artificial intelligence
+99,929,Artificial intelligence
+100,751,Internet software & services
+101,1012,Other
+102,863,Artificial intelligence
+103,662,Fintech
+104,1027,Fintech
+105,783,Fintech
+106,592,Cybersecurity
+107,1023,Fintech
+108,1051,Internet software & services
+109,633,Internet software & services
+110,635,Internet software & services
+111,750,Fintech
+112,697,Internet software & services
+113,886,Internet software & services
+114,826,Edtech
+115,1000,Artificial intelligence
+116,740,Internet software & services
+117,798,Health
+118,1008,Consumer & retail
+119,761,Internet software & services
+120,701,Internet software & services
+121,825,Internet software & services
+122,344,Internet software & services
+123,695,Internet software & services
+124,876,Hardware
+125,643,Artificial intelligence
+126,509,Internet software & services
+127,979,Internet software & services
+128,1031,Internet software & services
+129,817,Other
+130,943,Artificial intelligence
+131,975,Internet software & services
+132,647,Cybersecurity
+133,426,Artificial intelligence
+134,705,Health
+135,724,E-commerce & direct-to-consumer
+136,464,Internet software & services
+137,942,Fintech
+138,354,Other
+139,688,E-commerce & direct-to-consumer
+140,1045,Internet software & services
+141,391,Internet software & services
+142,891,Cybersecurity
+143,1066,"Supply chain, logistics, & delivery"
+144,579,Fintech
+145,686,Health
+146,822,E-commerce & direct-to-consumer
+147,882,"Supply chain, logistics, & delivery"
+148,816,Cybersecurity
+149,369,Hardware
+150,340,Fintech
+151,1058,Internet software & services
+152,129,Other
+153,862,Artificial intelligence
+154,363,Edtech
+155,603,"Supply chain, logistics, & delivery"
+156,645,Health
+157,769,Fintech
+158,788,Internet software & services
+159,452,Fintech
+160,420,Other
+161,996,Cybersecurity
+162,763,Artificial intelligence
+163,803,Fintech
+164,765,Internet software & services
+165,989,Health
+166,409,Artificial intelligence
+167,580,Internet software & services
+168,513,Other
+169,809,Internet software & services
+170,791,Edtech
+171,998,Mobile & telecommunications
+172,455,Health
+173,477,Artificial intelligence
+174,896,Artificial intelligence
+175,797,Internet software & services
+176,361,Fintech
+177,250,"Supply chain, logistics, & delivery"
+178,229,Artificial intelligence
+179,540,Artificial intelligence
+180,73,Cybersecurity
+181,852,Auto & transportation
+182,78,Internet software & services
+183,79,Health
+184,632,Other
+185,314,E-commerce & direct-to-consumer
+186,82,Fintech
+187,164,Data management & analytics
+188,85,Mobile & telecommunications
+189,212,Other
+190,65,Cybersecurity
+191,258,Auto & transportation
+192,63,Artificial intelligence
+193,58,Internet software & services
+194,31,Artificial intelligence
+195,248,Fintech
+196,32,Internet software & services
+197,252,Mobile & telecommunications
+198,33,Fintech
+199,287,E-commerce & direct-to-consumer
+200,251,Artificial intelligence
+201,243,Artificial intelligence
+202,40,Auto & transportation
+203,44,Fintech
+204,45,Data management & analytics
+205,211,Health
+206,50,Internet software & services
+207,53,Fintech
+208,285,Auto & transportation
+209,217,Artificial intelligence
+210,134,Fintech
+211,317,E-commerce & direct-to-consumer
+212,365,Auto & transportation
+213,91,Fintech
+214,185,Artificial intelligence
+215,121,E-commerce & direct-to-consumer
+216,335,Auto & transportation
+217,1014,Fintech
+218,191,Auto & transportation
+219,334,"Supply chain, logistics, & delivery"
+220,118,Internet software & services
+221,115,Artificial intelligence
+222,113,E-commerce & direct-to-consumer
+223,147,Hardware
+224,136,Edtech
+225,130,Internet software & services
+226,321,"Supply chain, logistics, & delivery"
+227,327,Fintech
+228,641,Fintech
+229,352,Travel
+230,972,Artificial intelligence
+231,201,Internet software & services
+232,168,Health
+233,104,Health
+234,171,Health
+235,350,E-commerce & direct-to-consumer
+236,101,Health
+237,239,Internet software & services
+238,1065,Internet software & services
+239,938,Artificial intelligence
+240,828,Internet software & services
+241,941,Mobile & telecommunications
+242,988,Hardware
+243,484,Fintech
+244,864,Internet software & services
+245,383,Internet software & services
+246,1060,Internet software & services
+247,595,Consumer & retail
+248,840,Fintech
+249,290,Internet software & services
+250,742,Fintech
+251,964,Health
+252,712,Mobile & telecommunications
+253,837,Fintech
+254,583,Internet software & services
+255,411,Hardware
+256,430,Internet software & services
+257,875,Artificial intelligence
+258,810,Cybersecurity
+259,805,"Supply chain, logistics, & delivery"
+260,953,Internet software & services
+261,606,Data management & analytics
+262,679,"Supply chain, logistics, & delivery"
+263,907,Cybersecurity
+264,880,Fintech
+265,834,Fintech
+266,542,Internet software & services
+267,1043,Health
+268,410,Data management & analytics
+269,637,Artificial intelligence
+270,616,Internet software & services
+271,611,Health
+272,1064,Fintech
+273,1032,Artificial intelligence
+274,737,Internet software & services
+275,374,E-commerce & direct-to-consumer
+276,172,Mobile & telecommunications
+277,414,Fintech
+278,845,Hardware
+279,1055,Internet software & services
+280,416,Cybersecurity
+281,682,Hardware
+282,967,Other
+283,551,Consumer & retail
+284,491,Artificial intelligence
+285,446,Fintech
+286,982,Cybersecurity
+287,850,Mobile & telecommunications
+288,928,Artificial intelligence
+289,380,Mobile & telecommunications
+290,451,Internet software & services
+291,987,Internet software & services
+292,842,Other
+293,620,Edtech
+294,356,Fintech
+295,872,E-commerce & direct-to-consumer
+296,417,Internet software & services
+297,427,E-commerce & direct-to-consumer
+298,255,Other
+299,397,Data management & analytics
+300,857,Internet software & services
+301,588,Internet software & services
+302,1005,Data management & analytics
+303,609,Fintech
+304,619,Fintech
+305,681,Cybersecurity
+306,489,Internet software & services
+307,626,"Supply chain, logistics, & delivery"
+308,649,Fintech
+309,234,Internet software & services
+310,770,Fintech
+311,614,E-commerce & direct-to-consumer
+312,482,Fintech
+313,968,E-commerce & direct-to-consumer
+314,899,Health
+315,386,Consumer & retail
+316,665,Internet software & services
+317,1039,Artificial intelligence
+318,800,Data management & analytics
+319,457,Fintech
+320,676,Fintech
+321,1050,Artificial intelligence
+322,694,Fintech
+323,481,Data management & analytics
+324,878,Artificial intelligence
+325,995,Fintech
+326,1034,Artificial intelligence
+327,855,Hardware
+328,345,Edtech
+329,691,Internet software & services
+330,860,Internet software & services
+331,511,Hardware
+332,704,Health
+333,881,Other
+334,747,Internet software & services
+335,861,Fintech
+336,407,Internet software & services
+337,858,Fintech
+338,749,Cybersecurity
+339,841,"Supply chain, logistics, & delivery"
+340,282,Internet software & services
+341,1026,Fintech
+342,630,Fintech
+343,621,Fintech
+344,847,E-commerce & direct-to-consumer
+345,223,Internet software & services
+346,1009,Other
+347,563,Hardware
+348,476,Artificial intelligence
+349,970,Consumer & retail
+350,990,Fintech
+351,728,Cybersecurity
+352,415,Internet software & services
+353,956,Health
+354,418,Fintech
+355,892,Data management & analytics
+356,991,Artificial intelligence
+357,1028,Internet software & services
+358,454,Health
+359,400,Internet software & services
+360,1042,E-commerce & direct-to-consumer
+361,753,Cybersecurity
+362,911,Cybersecurity
+363,819,Internet software & services
+364,507,Health
+365,910,Health
+366,756,Internet software & services
+367,480,Internet software & services
+368,405,Internet software & services
+369,683,E-commerce & direct-to-consumer
+370,959,Fintech
+371,954,Health
+372,203,Data management & analytics
+373,170,Mobile & telecommunications
+374,698,Data management & analytics
+375,790,Internet software & services
+376,962,Health
+377,865,Cybersecurity
+378,461,Consumer & retail
+379,670,Data management & analytics
+380,529,Fintech
+381,634,Edtech
+382,897,Cybersecurity
+383,924,E-commerce & direct-to-consumer
+384,768,Data management & analytics
+385,707,Cybersecurity
+386,673,Health
+387,1049,Fintech
+388,1017,"Supply chain, logistics, & delivery"
+389,856,Artificial intelligence
+390,1007,Internet software & services
+391,462,Internet software & services
+392,832,Data management & analytics
+393,265,E-commerce & direct-to-consumer
+394,485,Fintech
+395,490,Other
+396,723,E-commerce & direct-to-consumer
+397,913,Artificial intelligence
+398,534,Fintech
+399,494,Internet software & services
+400,849,Internet software & services
+401,908,Other
+402,264,Fintech
+403,550,Fintech
+404,778,Internet software & services
+405,624,"Supply chain, logistics, & delivery"
+406,958,Cybersecurity
+407,440,Fintech
+408,921,Mobile & telecommunications
+409,926,Internet software & services
+410,584,Other
+411,980,Fintech
+412,468,Hardware
+413,709,Artificial intelligence
+414,138,Fintech
+415,719,Other
+416,505,E-commerce & direct-to-consumer
+417,811,E-commerce & direct-to-consumer
+418,395,Internet software & services
+419,746,Data management & analytics
+420,1052,Edtech
+421,806,Fintech
+422,873,Artificial intelligence
+423,966,Artificial intelligence
+424,545,Mobile & telecommunications
+425,912,"Supply chain, logistics, & delivery"
+426,187,Internet software & services
+427,47,Fintech
+428,868,Artificial intelligence
+429,671,E-commerce & direct-to-consumer
+430,521,Health
+431,591,Health
+432,593,Health
+433,84,Fintech
+434,459,Health
+435,514,Mobile & telecommunications
+436,425,"Supply chain, logistics, & delivery"
+437,561,Internet software & services
+438,303,Fintech
+439,914,Internet software & services
+440,957,Hardware
+441,368,E-commerce & direct-to-consumer
+442,204,Edtech
+443,14,Fintech
+444,1010,"Supply chain, logistics, & delivery"
+445,10,Fintech
+446,220,Auto & transportation
+447,615,Auto & transportation
+448,6,Fintech
+449,3,Fintech
+450,34,E-commerce & direct-to-consumer
+451,12,Fintech
+452,657,Auto & transportation
+453,169,Fintech
+454,2,E-commerce & direct-to-consumer
+455,26,Health
+456,93,E-commerce & direct-to-consumer
+457,176,Artificial intelligence
+458,86,Consumer & retail
+459,66,E-commerce & direct-to-consumer
+460,64,Auto & transportation
+461,62,Travel
+462,60,Other
+463,71,Internet software & services
+464,640,E-commerce & direct-to-consumer
+465,56,"Supply chain, logistics, & delivery"
+466,76,Cybersecurity
+467,83,"Supply chain, logistics, & delivery"
+468,149,"Supply chain, logistics, & delivery"
+469,67,Fintech
+470,155,Fintech
+471,103,Consumer & retail
+472,523,Artificial intelligence
+473,789,Artificial intelligence
+474,961,Mobile & telecommunications
+475,854,Internet software & services
+476,554,Data management & analytics
+477,522,Fintech
+478,935,Edtech
+479,552,Fintech
+480,687,Mobile & telecommunications
+481,815,Internet software & services
+482,895,Fintech
+483,510,Artificial intelligence
+484,531,Artificial intelligence
+485,949,Edtech
+486,833,Internet software & services
+487,650,Internet software & services
+488,1057,Internet software & services
+489,785,Fintech
+490,408,Data management & analytics
+491,1015,E-commerce & direct-to-consumer
+492,642,Mobile & telecommunications
+493,617,Artificial intelligence
+494,779,E-commerce & direct-to-consumer
+495,475,"Supply chain, logistics, & delivery"
+496,349,Internet software & services
+497,272,Internet software & services
+498,708,Fintech
+499,916,Fintech
+500,289,Health
+501,675,Fintech
+502,266,Internet software & services
+503,784,Health
+504,471,Internet software & services
+505,622,Edtech
+506,574,Internet software & services
+507,766,Artificial intelligence
+508,693,Edtech
+509,390,Fintech
+510,413,E-commerce & direct-to-consumer
+511,684,Fintech
+512,801,Health
+513,748,Other
+514,206,Fintech
+515,752,Internet software & services
+516,820,Hardware
+517,965,Internet software & services
+518,448,Hardware
+519,902,Internet software & services
+520,1036,Fintech
+521,304,Fintech
+522,325,Fintech
+523,1019,Artificial intelligence
+524,690,Health
+525,636,Auto & transportation
+526,342,Internet software & services
+527,343,Internet software & services
+528,933,Mobile & telecommunications
+529,1011,Cybersecurity
+530,1062,E-commerce & direct-to-consumer
+531,428,Internet software & services
+532,1021,"Supply chain, logistics, & delivery"
+533,332,Internet software & services
+534,950,Consumer & retail
+535,54,Internet software & services
+536,308,Internet software & services
+537,493,Internet software & services
+538,237,Internet software & services
+539,730,Fintech
+540,741,"Supply chain, logistics, & delivery"
+541,960,E-commerce & direct-to-consumer
+542,1038,E-commerce & direct-to-consumer
+543,780,E-commerce & direct-to-consumer
+544,774,Other
+545,936,Fintech
+546,351,Fintech
+547,602,Fintech
+548,802,Fintech
+549,794,Consumer & retail
+550,381,Health
+551,1025,"Supply chain, logistics, & delivery"
+552,831,"Supply chain, logistics, & delivery"
+553,429,Fintech
+554,547,Internet software & services
+555,568,Internet software & services
+556,57,Internet software & services
+557,628,Other
+558,517,Fintech
+559,777,E-commerce & direct-to-consumer
+560,827,Data management & analytics
+561,786,Data management & analytics
+562,528,Internet software & services
+563,210,Internet software & services
+564,917,"Supply chain, logistics, & delivery"
+565,328,Internet software & services
+566,508,Other
+567,192,Data management & analytics
+568,994,Internet software & services
+569,877,"Supply chain, logistics, & delivery"
+570,646,Artificial intelligence
+571,589,Data management & analytics
+572,278,Internet software & services
+573,474,Cybersecurity
+574,918,"Supply chain, logistics, & delivery"
+575,323,Internet software & services
+576,729,Artificial intelligence
+577,835,Mobile & telecommunications
+578,680,Auto & transportation
+579,927,Artificial intelligence
+580,467,Fintech
+581,535,Fintech
+582,773,Internet software & services
+583,596,Fintech
+584,267,Hardware
+585,208,Fintech
+586,702,E-commerce & direct-to-consumer
+587,648,Mobile & telecommunications
+588,1003,Fintech
+589,412,Artificial intelligence
+590,558,Fintech
+591,1029,Internet software & services
+592,158,Artificial intelligence
+593,536,E-commerce & direct-to-consumer
+594,598,Health
+595,512,Health
+596,39,Auto & transportation
+597,1037,Mobile & telecommunications
+598,431,Internet software & services
+599,739,Fintech
+600,499,Fintech
+601,207,Internet software & services
+602,1069,E-commerce & direct-to-consumer
+603,307,Health
+604,437,Artificial intelligence
+605,787,"Supply chain, logistics, & delivery"
+606,392,Internet software & services
+607,182,Hardware
+608,401,Data management & analytics
+609,555,Fintech
+610,713,Internet software & services
+611,772,E-commerce & direct-to-consumer
+612,700,Internet software & services
+613,442,Internet software & services
+614,663,Internet software & services
+615,1068,Edtech
+616,722,Fintech
+617,444,Cybersecurity
+618,888,"Supply chain, logistics, & delivery"
+619,366,Edtech
+620,915,Health
+621,339,Fintech
+622,656,Other
+623,659,Auto & transportation
+624,631,Health
+625,275,Cybersecurity
+626,807,Fintech
+627,985,Travel
+628,466,E-commerce & direct-to-consumer
+629,524,Internet software & services
+630,296,Fintech
+631,735,"Supply chain, logistics, & delivery"
+632,309,E-commerce & direct-to-consumer
+633,577,Hardware
+634,23,E-commerce & direct-to-consumer
+635,105,Auto & transportation
+636,9,Data management & analytics
+637,46,Edtech
+638,7,"Supply chain, logistics, & delivery"
+639,48,Travel
+640,502,Internet software & services
+641,28,Internet software & services
+642,516,Artificial intelligence
+643,438,Cybersecurity
+644,501,Fintech
+645,473,Health
+646,465,Fintech
+647,1044,Fintech
+648,818,Fintech
+649,195,E-commerce & direct-to-consumer
+650,125,Fintech
+651,885,Fintech
+652,689,Auto & transportation
+653,288,Fintech
+654,280,Data management & analytics
+655,843,Auto & transportation
+656,256,Cybersecurity
+657,582,Data management & analytics
+658,745,Travel
+659,559,Data management & analytics
+660,590,Mobile & telecommunications
+661,124,Internet software & services
+662,233,Internet software & services
+663,209,Data management & analytics
+664,284,Data management & analytics
+665,119,Internet software & services
+666,1016,Fintech
+667,291,Artificial intelligence
+668,371,Fintech
+669,488,"Supply chain, logistics, & delivery"
+670,245,Other
+671,435,Other
+672,346,Internet software & services
+673,445,"Supply chain, logistics, & delivery"
+674,539,E-commerce & direct-to-consumer
+675,500,Artificial intelligence
+676,497,Consumer & retail
+677,99,Fintech
+678,981,Internet software & services
+679,159,Mobile & telecommunications
+680,150,Artificial intelligence
+681,710,Fintech
+682,348,Internet software & services
+683,27,E-commerce & direct-to-consumer
+684,776,E-commerce & direct-to-consumer
+685,145,Fintech
+686,775,E-commerce & direct-to-consumer
+687,385,E-commerce & direct-to-consumer
+688,597,Artificial intelligence
+689,685,Internet software & services
+690,112,Internet software & services
+691,829,E-commerce & direct-to-consumer
+692,553,Fintech
+693,492,Fintech
+694,183,Internet software & services
+695,188,Internet software & services
+696,402,"Supply chain, logistics, & delivery"
+697,419,Other
+698,715,Internet software & services
+699,543,E-commerce & direct-to-consumer
+700,923,Hardware
+701,638,Health
+702,660,Consumer & retail
+703,199,Internet software & services
+704,525,E-commerce & direct-to-consumer
+705,458,Internet software & services
+706,236,E-commerce & direct-to-consumer
+707,90,Internet software & services
+708,108,Fintech
+709,575,Fintech
+710,767,E-commerce & direct-to-consumer
+711,984,Health
+712,548,Auto & transportation
+713,238,Fintech
+714,532,Fintech
+715,562,Hardware
+716,453,E-commerce & direct-to-consumer
+717,699,Other
+718,557,"Supply chain, logistics, & delivery"
+719,808,Fintech
+720,759,Other
+721,357,Fintech
+722,922,Fintech
+723,905,Fintech
+724,300,Edtech
+725,151,Health
+726,976,Other
+727,268,Health
+728,406,Hardware
+729,298,Mobile & telecommunications
+730,179,Fintech
+731,242,E-commerce & direct-to-consumer
+732,387,Hardware
+733,496,Cybersecurity
+734,336,Fintech
+735,727,E-commerce & direct-to-consumer
+736,560,Data management & analytics
+737,318,Fintech
+738,581,Fintech
+739,18,Internet software & services
+740,193,Edtech
+741,358,Fintech
+742,757,"Supply chain, logistics, & delivery"
+743,302,Edtech
+744,311,"Supply chain, logistics, & delivery"
+745,1013,Consumer & retail
+746,537,Internet software & services
+747,326,Fintech
+748,190,Internet software & services
+749,955,E-commerce & direct-to-consumer
+750,24,Fintech
+751,133,Hardware
+752,1067,Internet software & services
+753,197,E-commerce & direct-to-consumer
+754,213,E-commerce & direct-to-consumer
+755,533,Fintech
+756,721,Health
+757,276,Internet software & services
+758,347,Fintech
+759,59,Internet software & services
+760,486,Other
+761,142,Health
+762,447,Internet software & services
+763,196,Cybersecurity
+764,52,E-commerce & direct-to-consumer
+765,15,Edtech
+766,13,E-commerce & direct-to-consumer
+767,19,Edtech
+768,30,Other
+769,89,Auto & transportation
+770,166,Auto & transportation
+771,29,Artificial intelligence
+772,4,Fintech
+773,324,Edtech
+774,257,Cybersecurity
+775,165,Health
+776,359,Mobile & telecommunications
+777,576,Travel
+778,230,Fintech
+779,948,"Supply chain, logistics, & delivery"
+780,180,Cybersecurity
+781,573,"Supply chain, logistics, & delivery"
+782,530,Internet software & services
+783,283,Data management & analytics
+784,520,Fintech
+785,495,E-commerce & direct-to-consumer
+786,696,Internet software & services
+787,711,Fintech
+788,678,Consumer & retail
+789,132,Artificial intelligence
+790,986,Internet software & services
+791,1056,Travel
+792,469,Other
+793,566,E-commerce & direct-to-consumer
+794,1047,Fintech
+795,992,Internet software & services
+796,762,Other
+797,706,E-commerce & direct-to-consumer
+798,221,Internet software & services
+799,564,Consumer & retail
+800,329,Health
+801,608,Hardware
+802,116,Internet software & services
+803,859,Health
+804,504,Internet software & services
+805,337,Cybersecurity
+806,879,Cybersecurity
+807,578,E-commerce & direct-to-consumer
+808,527,Fintech
+809,629,Mobile & telecommunications
+810,260,Fintech
+811,692,Internet software & services
+812,259,Cybersecurity
+813,867,"Supply chain, logistics, & delivery"
+814,338,Internet software & services
+815,225,Internet software & services
+816,362,Fintech
+817,541,Artificial intelligence
+818,883,Fintech
+819,450,Fintech
+820,838,Internet software & services
+821,181,Internet software & services
+822,479,Consumer & retail
+823,286,Internet software & services
+824,432,Fintech
+825,570,Cybersecurity
+826,1020,Artificial intelligence
+827,216,Fintech
+828,607,Mobile & telecommunications
+829,900,E-commerce & direct-to-consumer
+830,77,Fintech
+831,244,Fintech
+832,569,Internet software & services
+833,506,Other
+834,313,Fintech
+835,235,Data management & analytics
+836,654,"Supply chain, logistics, & delivery"
+837,177,Fintech
+838,373,Consumer & retail
+839,487,Fintech
+840,42,Consumer & retail
+841,299,Cybersecurity
+842,141,Internet software & services
+843,137,E-commerce & direct-to-consumer
+844,51,Fintech
+845,586,Fintech
+846,144,Internet software & services
+847,389,Health
+848,572,Health
+849,585,Fintech
+850,887,Health
+851,5,Internet software & services
+852,677,Travel
+853,49,Internet software & services
+854,793,"Supply chain, logistics, & delivery"
+855,470,E-commerce & direct-to-consumer
+856,261,E-commerce & direct-to-consumer
+857,295,Cybersecurity
+858,95,Artificial intelligence
+859,1053,Internet software & services
+860,594,Travel
+861,120,Fintech
+862,974,Mobile & telecommunications
+863,306,Edtech
+864,939,"Supply chain, logistics, & delivery"
+865,526,"Supply chain, logistics, & delivery"
+866,754,Internet software & services
+867,376,Other
+868,889,E-commerce & direct-to-consumer
+869,148,Data management & analytics
+870,157,Travel
+871,519,Auto & transportation
+872,41,"Supply chain, logistics, & delivery"
+873,43,Hardware
+874,16,"Supply chain, logistics, & delivery"
+875,38,E-commerce & direct-to-consumer
+876,312,Fintech
+877,940,Other
+878,127,Cybersecurity
+879,94,Artificial intelligence
+880,205,E-commerce & direct-to-consumer
+881,270,Artificial intelligence
+882,75,Fintech
+883,993,Consumer & retail
+884,744,Other
+885,341,E-commerce & direct-to-consumer
+886,472,E-commerce & direct-to-consumer
+887,571,Mobile & telecommunications
+888,228,E-commerce & direct-to-consumer
+889,1073,E-commerce & direct-to-consumer
+890,1040,Hardware
+891,460,Other
+892,316,Fintech
+893,320,E-commerce & direct-to-consumer
+894,107,Fintech
+895,605,Health
+896,1006,Edtech
+897,666,Cybersecurity
+898,736,Health
+899,156,Data management & analytics
+900,372,Fintech
+901,544,Other
+902,378,Cybersecurity
+903,184,Internet software & services
+904,135,Cybersecurity
+905,102,Other
+906,143,Internet software & services
+907,869,Internet software & services
+908,674,E-commerce & direct-to-consumer
+909,627,"Supply chain, logistics, & delivery"
+910,977,E-commerce & direct-to-consumer
+911,167,Fintech
+912,821,Travel
+913,198,Health
+914,655,E-commerce & direct-to-consumer
+915,546,Artificial intelligence
+916,661,Fintech
+917,80,Fintech
+918,253,Data management & analytics
+919,100,Fintech
+920,483,E-commerce & direct-to-consumer
+921,214,Internet software & services
+922,669,Health
+923,315,Hardware
+924,297,"Supply chain, logistics, & delivery"
+925,222,Mobile & telecommunications
+926,515,Fintech
+927,68,Internet software & services
+928,726,Other
+929,904,Health
+930,441,Hardware
+931,301,Artificial intelligence
+932,919,Data management & analytics
+933,263,Edtech
+934,140,Artificial intelligence
+935,55,Fintech
+936,377,Fintech
+937,871,Auto & transportation
+938,310,E-commerce & direct-to-consumer
+939,613,Health
+940,163,Fintech
+941,277,E-commerce & direct-to-consumer
+942,1059,Internet software & services
+943,503,"Supply chain, logistics, & delivery"
+944,330,Fintech
+945,254,Cybersecurity
+946,367,Artificial intelligence
+947,399,Fintech
+948,61,Fintech
+949,375,Mobile & telecommunications
+950,716,Fintech
+951,224,Hardware
+952,22,Consumer & retail
+953,720,Travel
+954,322,Internet software & services
+955,279,Internet software & services
+956,111,Data management & analytics
+957,126,Fintech
+958,269,Cybersecurity
+959,25,Fintech
+960,160,E-commerce & direct-to-consumer
+961,731,Other
+962,202,E-commerce & direct-to-consumer
+963,74,Fintech
+964,439,Auto & transportation
+965,379,Other
+966,154,E-commerce & direct-to-consumer
+967,423,Travel
+968,262,Internet software & services
+969,219,Health
+970,161,Auto & transportation
+971,36,Hardware
+972,384,E-commerce & direct-to-consumer
+973,599,Internet software & services
+974,20,Fintech
+975,241,"Supply chain, logistics, & delivery"
+976,69,Mobile & telecommunications
+977,333,Fintech
+978,246,Mobile & telecommunications
+979,70,Cybersecurity
+980,174,E-commerce & direct-to-consumer
+981,294,Auto & transportation
+982,601,Artificial intelligence
+983,795,Artificial intelligence
+984,319,E-commerce & direct-to-consumer
+985,274,Edtech
+986,538,Fintech
+987,478,Consumer & retail
+988,1072,Fintech
+989,200,Other
+990,498,Auto & transportation
+991,35,Health
+992,903,Data management & analytics
+993,610,Artificial intelligence
+994,11,Other
+995,1,Other
+996,932,E-commerce & direct-to-consumer
+997,653,"Supply chain, logistics, & delivery"
+998,874,E-commerce & direct-to-consumer
+999,37,Internet software & services
+1000,106,Fintech
+1001,117,"Supply chain, logistics, & delivery"
+1002,1071,Consumer & retail
+1003,305,Internet software & services
+1004,110,Health
+1005,281,"Supply chain, logistics, & delivery"
+1006,81,Health
+1007,152,Fintech
+1008,122,Health
+1009,403,Auto & transportation
+1010,92,Fintech
+1011,98,Artificial intelligence
+1012,232,Internet software & services
+1013,247,Internet software & services
+1014,388,Fintech
+1015,88,Mobile & telecommunications
+1016,218,"Supply chain, logistics, & delivery"
+1017,178,Fintech
+1018,128,Internet software & services
+1019,851,Artificial intelligence
+1020,853,Hardware
+1021,227,Other
+1022,1061,Fintech
+1023,799,Auto & transportation
+1024,293,Other
+1025,231,Fintech
+1026,114,Health
+1027,0,Artificial intelligence
+1028,463,Internet software & services
+1029,162,Fintech
+1030,433,Other
+1031,836,Fintech
+1032,668,Fintech
+1033,123,Health
+1034,96,Travel
+1035,17,E-commerce & direct-to-consumer
+1036,353,Fintech
+1037,973,Internet software & services
+1038,97,Cybersecurity
+1039,87,Fintech
+1040,153,Internet software & services
+1041,109,Fintech
+1042,946,Edtech
+1043,937,Fintech
+1044,139,Hardware
+1045,131,Hardware
+1046,360,E-commerce & direct-to-consumer
+1047,658,E-commerce & direct-to-consumer
+1048,186,E-commerce & direct-to-consumer
+1049,604,Health
+1050,600,E-commerce & direct-to-consumer
+1051,672,E-commerce & direct-to-consumer
+1052,518,Internet software & services
+1053,331,Health
+1054,382,"Supply chain, logistics, & delivery"
+1055,21,Internet software & services
+1056,271,Fintech
+1057,664,Fintech
+1058,1070,E-commerce & direct-to-consumer
+1059,146,Fintech
+1060,292,Mobile & telecommunications
+1061,792,Internet software & services
+1062,639,Other
+1063,567,"Supply chain, logistics, & delivery"
+1064,945,Data management & analytics
+1065,947,Consumer & retail
+1066,717,E-commerce & direct-to-consumer
+1067,424,Other
+1068,733,Internet software & services
+1069,1002,Mobile & telecommunications
+1070,215,E-commerce & direct-to-consumer
+1071,866,Internet software & services
+1072,651,Fintech
+1073,890,Fintech
