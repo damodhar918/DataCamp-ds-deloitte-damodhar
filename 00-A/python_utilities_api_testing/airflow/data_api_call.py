@@ -21,16 +21,9 @@ with DAG(DAG_NAME,
          catchup=False) as dag:
     def data_api_call(connection_id=CONNECTION_ID):
         return SimpleHttpOperator(
-            task_id=TASK_DATA_API_CALL
-            , http_conn_id=CONNECTION_ID
-            , method="GET"
-            , endpoint="/"
             # data="{\"id\":111333222}"
-            , headers={"Content-Type": "application/json"}
             # response will be pushed to xcom with COLLABORATION_TASK_ID
-            , xcom_push=True
-            , log_response=True
-            , extra_options={"verify": False, "cert": None}
+            task_id=TASK_DATA_API_CALL, http_conn_id=CONNECTION_ID, method="GET", endpoint="/", headers={"Content-Type": "application/json"}, xcom_push=True, log_response=True, extra_options={"verify": False, "cert": None}
         )
 
     data_api_call()
