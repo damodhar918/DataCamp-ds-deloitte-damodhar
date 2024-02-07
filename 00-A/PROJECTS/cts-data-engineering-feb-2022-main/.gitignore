@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.bsp
+.idea
+*.class
+*.jar
+target
+null
+project/target
+*.log
+*.dll
+__pycache__
+*.pyc
