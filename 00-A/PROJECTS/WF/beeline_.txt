@@ -1,0 +1,16 @@
+cat properties_master.json
+{
+  "schema": "curated_mktg_uat",
+  "table": "master ",
+  "partition_columns": ["cnapp_bus_eff_dt"],
+  "hive1": "jdbc:hive2://edl-b02-services.uat.bigdata.wellsfargo.net:10000/default;auth=maprsasl;saslQop=auth-conf;ssl=true",
+  "beeline": "/opt/mapr/hive/hive-2.3/bin/beeline"
+}
+UAT:wuvra92a0897 etlcapau /apps/home/etlcapau/k078158/test
+
+> cat conf_master.csv
+name,type,values
+loan_no_p13,uniqueIndex,69000000000000000
+client_no,category,708|936
+cnapp_bus_eff_dt,date,2022-09-04|%Y-%m-%d
+UAT:wuvra92a0897 etlcapau /apps/home/etlcapau/k078158/test

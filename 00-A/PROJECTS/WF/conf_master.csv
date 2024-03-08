@@ -1,0 +1,5 @@
+name,type,values
+loan_no_p13,uniqueIndex,69000000000000000
+client_no,category,708|936
+cnapp_bus_eff_dt,date,2022-09-04|%Y-%m-%d
+UAT:wuvra92a0897 etlcapau /apps/home/etlcapau/k078158/test

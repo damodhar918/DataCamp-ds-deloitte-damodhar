@@ -1,0 +1,7 @@
+{
+    "schema": "curated_mktg_uat",
+    "table": "master ",
+    "partition_columns": ["cnapp_bus_eff_dt"],
+    "hive1": "jdbc:hive2://edl-b02-services.uat.bigdata.wellsfargo.net:10000/default;auth=maprsasl;saslQop=auth-conf;ssl=true",
+    "beeline": "/opt/mapr/hive/hive-2.3/bin/beeline"
+  }

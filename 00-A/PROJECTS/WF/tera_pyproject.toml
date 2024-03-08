@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "setuptools_scm", "wheel"]
+build-backend = "setuptools.build_meta"
+ 
+[project]
+name = " Synthetic Data Generation with Teradata Ingestion"
+version = "0.0.1"
+authors = [
+    { "name" = "Damodhar Jangam", email = "damodhar.jangam@wellsfargo.com" },
+]
+description = "A Python library for Teradata Data Ingestion with Synthetic Data Generation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["pandas","pyarrow","teradataml"]
+ 
+ 
+[project.optional-dependencies]
+dev = ["pytest", "pytest-cov", "pytest-sugar", "ipykernel","pytest-mock"]
